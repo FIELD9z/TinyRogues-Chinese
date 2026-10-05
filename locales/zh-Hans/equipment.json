@@ -619,11 +619,11 @@
     {
       "id": "equipment.asset.88782b2416fe73df741a",
       "source": "Megingiard Belt",
-      "translation": "Megingiard 腰带",
+      "translation": "梅金吉奥德腰带",
       "context": "*",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "原文来源 equipment-texts.json:asset.88782b2416fe73df741a；专有名词或文化典故待校对"
+      "status": "reviewed",
+      "note": "采用北欧神话力量腰带的已有音译；游戏拼写 Megingiard 保持原样作匹配键。名称和力量效果支持神话来源，但没有直接 Trivia 声明。https://roguepedia.net/w/Megingiard_Belt ; https://zh.wikipedia.org/wiki/梅金吉奧德"
     },
     {
       "id": "equipment.asset.c623f2b85efeb19f93d6",
@@ -808,11 +808,11 @@
     {
       "id": "equipment.asset.402164dd1ac266dcc8cf",
       "source": "Ring Of Royal Grandeur",
-      "translation": "王室威仪之戒",
+      "translation": "皇家华戒",
       "context": "*",
       "kind": "exact",
-      "status": "translated",
-      "note": "原文来源 equipment-texts.json:asset.402164dd1ac266dcc8cf"
+      "status": "reviewed",
+      "note": "采用 Diablo III 已有中文名：暴雪中文公告为皇家華戒。游戏名称与套装效果支持引用判断；Roguepedia Trivia 为空，因此出处记为强推断。https://roguepedia.net/w/Ring_of_Royal_Grandeur ; https://news.blizzard.com/zh-tw/article/22820656/16-1-18"
     },
     {
       "id": "equipment.asset.3550b0385f37cde7ed23",
@@ -1294,11 +1294,11 @@
     {
       "id": "equipment.asset.42f96bb9bff5502cac3f",
       "source": "Cloak Of Mystra",
-      "translation": "斗篷 之 密丝特拉",
+      "translation": "密斯特拉斗篷",
       "context": "*",
       "kind": "exact",
-      "status": "translated",
-      "note": "原文来源 equipment-texts.json:asset.42f96bb9bff5502cac3f"
+      "status": "reviewed",
+      "note": "Mystra 专名统一为密斯特拉，调整为自然中文语序；密丝特拉是另一已有译法。Roguepedia 未声明作品来源，专名身份与 Forgotten Realms 魔法女神相符。https://roguepedia.net/w/Cloak_Of_Mystra ; https://dnd.fandom.com/zh/wiki/午夜Midnight"
     },
     {
       "id": "equipment.asset.0f83660153bd066c0ec1",
@@ -1915,11 +1915,11 @@
     {
       "id": "equipment.asset.872677a1cbbe4da0d394",
       "source": "Pouchy Robe",
-      "translation": "袋装长袍",
+      "translation": "口袋长袍",
       "context": "*",
       "kind": "exact",
-      "status": "translated",
-      "note": "原文来源 equipment-texts.json:asset.872677a1cbbe4da0d394"
+      "status": "reviewed",
+      "note": "pouchy 为袋状、带袋意象，结合额外药瓶容量选用自然中文口袋长袍，不译为袋装。未取得专属 Trivia，没有已确认作品典故。https://roguepedia.net/w/Body_Armor ; https://dictionary.cambridge.org/us/dictionary/english/pouchy"
     },
     {
       "id": "equipment.asset.6a9ce75297909cdb47b1",
@@ -2599,11 +2599,11 @@
     {
       "id": "equipment.asset.597e6ed31f8122bb5a19",
       "source": "Nimbus Cloud",
-      "translation": "雷云 云",
+      "translation": "雨云",
       "context": "*",
       "kind": "exact",
-      "status": "translated",
-      "note": "原文来源 equipment-texts.json:asset.597e6ed31f8122bb5a19"
+      "status": "reviewed",
+      "note": "采用 nimbus cloud 的字面中文名，修正重复的雷云云。Roguepedia Trivia 为空；筋斗云的作品来源尚未证实，不作为已确认典故。https://roguepedia.net/w/Nimbus_Cloud"
     },
     {
       "id": "equipment.asset.06320b85721618aba1ab",

@@ -520,11 +520,11 @@
     {
       "id": "weapon.asset.1daa5a4209a6828aa298",
       "source": "Ex Mortis",
-      "translation": "前世 死亡",
+      "translation": "亡者之书",
       "context": "*",
       "kind": "exact",
       "status": "translated",
-      "note": "原文来源 weapons-texts.json:asset.1daa5a4209a6828aa298"
+      "note": "中文暂定为亡者之书，修正前世死亡。游戏资源确认魔法书类别；疑似 Evil Dead 的 Necronomicon Ex-Mortis 典故，尚无 Tiny Rogues 页面直接出处证明，保留来源待核。https://roguepedia.net/w/Ex_Mortis ; https://evildead.fandom.com/wiki/Necronomicon_Ex-Mortis"
     },
     {
       "id": "weapon.asset.bc93db01491d7cf2c7e8",
@@ -1123,11 +1123,11 @@
     {
       "id": "weapon.asset.bd69e41037298a0e9a36",
       "source": "Gimmershred",
-      "translation": "碎光",
+      "translation": "寒铁飞刃",
       "context": "*",
       "kind": "exact",
-      "status": "translated",
-      "note": "原文来源 weapons-texts.json:asset.bd69e41037298a0e9a36"
+      "status": "reviewed",
+      "note": "已核对：Roguepedia Trivia 明确指向 Diablo 同名武器；采用 D2R 简体译名，社区中英版本对照可查。https://roguepedia.net/w/Gimmershred ; https://wiki.projectdiablo2.cn/wiki/D2Itemname"
     },
     {
       "id": "weapon.asset.28fe9068c388355ebb20",
@@ -1303,11 +1303,11 @@
     {
       "id": "weapon.asset.ab475d623db281f20995",
       "source": "Punk Hazard",
-      "translation": "朋克 危机",
+      "translation": "庞克哈萨德",
       "context": "*",
       "kind": "exact",
-      "status": "translated",
-      "note": "原文来源 weapons-texts.json:asset.ab475d623db281f20995"
+      "status": "reviewed",
+      "note": "已核对：Roguepedia Trivia 明确指向 One Piece 同名岛屿；采用常见中文地名，保留冰火岛典故。https://roguepedia.net/w/Punk_Hazard ; https://onepiece.fandom.com/zh/wiki/龐克哈薩特?variant=zh-hans"
     },
     {
       "id": "weapon.asset.e7d176729b7dc4effc54",
@@ -1450,8 +1450,8 @@
       "translation": "枪节棍",
       "context": "*",
       "kind": "exact",
-      "status": "translated",
-      "note": "原文来源 weapons-texts.json:asset.fcb9336e398f3792228d"
+      "status": "reviewed",
+      "note": "译名定稿：Gun + Nunchaku 的合成词解释与游戏旋转并射击的效果吻合；保持双关。页面支持效果，并未直接声明词源。https://roguepedia.net/w/Gunchaku"
     },
     {
       "id": "weapon.asset.168407409852dd94a82f",
@@ -1609,11 +1609,11 @@
     {
       "id": "weapon.asset.7003fccb5c973caf850a",
       "source": "Quecholli",
-      "translation": "羽刃",
+      "translation": "重击之锤",
       "context": "*",
       "kind": "exact",
       "status": "translated",
-      "note": "原文来源 weapons-texts.json:asset.7003fccb5c973caf850a"
+      "note": "中文暂采用 PoE 同名锤的简体译名；Tiny Rogues 原生资源确认锤类且带爆炸效果，与 PoE 的同名爆炸锤相符，但尚未取得该物品 Trivia，出处仍为推断。https://poedb.tw/cn/Quecholli"
     },
     {
       "id": "weapon.asset.352c008c7599ec099bd8",
@@ -2257,11 +2257,11 @@
     {
       "id": "weapon.asset.3fcd2708f0c1db3c03f5",
       "source": "Buster Blade",
-      "translation": "破坏之刃",
+      "translation": "破坏剑",
       "context": "*",
       "kind": "exact",
-      "status": "translated",
-      "note": "原文来源 weapons-texts.json:asset.3fcd2708f0c1db3c03f5"
+      "status": "reviewed",
+      "note": "已核对：Roguepedia Trivia 指向 Final Fantasy 中 Cloud Strife 的武器；采用 Buster Sword 的常见中文译名“破坏剑”。https://roguepedia.net/w/Buster_Blade ; https://terraria.wiki.gg/zh/wiki/毁灭刃"
     },
     {
       "id": "weapon.asset.3c2fc90ded56792ec99f",
@@ -2413,8 +2413,8 @@
       "translation": "叶绿爆裂弓",
       "context": "*",
       "kind": "exact",
-      "status": "translated",
-      "note": "原文来源 weapons-texts.json:asset.f8aa362a171683aa294b"
+      "status": "reviewed",
+      "note": "已核对：Roguepedia Trivia 说明旧名 Chlorophyte Bow 引用 Terraria 叶绿系列；当前英文已改为 Chloroblast，保留叶绿意象并译出 blast。https://roguepedia.net/w/Chloroblast_Bow"
     },
     {
       "id": "weapon.asset.369f6d36a57947548006",
@@ -3346,11 +3346,11 @@
     {
       "id": "weapon.asset.840b3579556187b3f00b",
       "source": "Fidget Glaive",
-      "translation": "坐立不安战刃",
+      "translation": "指尖战刃",
       "context": "*",
       "kind": "exact",
       "status": "translated",
-      "note": "原文来源 weapons-texts.json:asset.840b3579556187b3f00b"
+      "note": "中文暂定为指尖战刃，避免坐立不安的逐词误译。名称疑似 fidget spinner，原生资源确认投掷类；未取得该物品 Trivia 或图标证据，保留来源待核。"
     },
     {
       "id": "weapon.asset.db71d210a5074a14e96c",
