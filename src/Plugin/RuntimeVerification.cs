@@ -53,11 +53,11 @@ public sealed class RuntimeVerification : MonoBehaviour
             if (!_sawChinese || _largest < 2) throw new InvalidOperationException("Native Chinese typewriter did not advance.");
             var font = controller.text.font;
             if (font == null || !font.HasCharacter('谁', true, true)) throw new InvalidOperationException("Independent Chinese fallback font failed glyph coverage.");
-            if (_phase == 10)
+            if (_phase == 11)
             {
                 controller.text.ForceMeshUpdate(true, true);
                 if (controller.text.textInfo.characterCount < 4 || controller.text.mesh.vertexCount < 4) throw new InvalidOperationException("Native Chinese dialogue mesh was not generated.");
-                Plugin.Current.Info($"INDEPENDENT SELFTEST PASS: native UI exact/template/styling, Chinese font, three dialogue entrances and choice metadata, descriptions, whole food tutorial, seven captured opening tutorial messages and native typewriter ({_samples} frames). No legacy translator loaded.");
+                Plugin.Current.Info($"INDEPENDENT SELFTEST PASS: native UI exact/template/styling, Chinese font, three dialogue entrances and choice metadata, descriptions, whole food tutorial, eight captured opening tutorial messages and native typewriter ({_samples} frames). No legacy translator loaded.");
                 _finished = true;
                 _exitAt = Time.unscaledTime + 1;
                 return;
@@ -83,14 +83,15 @@ public sealed class RuntimeVerification : MonoBehaviour
             "Splendid!\nNow attack the target dummy\nwith <color=#A61FFF>Mouse Left</color>!\nShow it who's boss!",
             "Haha!\nYou're a natural.\nLet's meet in the next room.",
             "To defeat stronger foes, you\nwill have to arm yourself.",
-            "Pick up items with <color=#FCC926>[E]</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>[F]</color>.\n<color=#A61FFF>Drag and drop, or right-click</color> the\nweapon to <color=#FCC926>equip</color> it."
+            "Pick up items with <color=#FCC926>[E]</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>[F]</color>.\n<color=#A61FFF>Drag and drop, or right-click</color> the\nweapon to <color=#FCC926>equip</color> it.",
+            "If you want to know even\nmore about yourself, you can\nopen the Character Panel with <color=#FCC926>[C]</color>."
         };
         var source = _phase >= 4 ? opening[_phase - 4] : _phase == 3 ? "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence." : "Nothing can stop me!";
         var expected = Plugin.Current.Translate(source, "dialogue", false);
         // Binding names intentionally remain unchanged (Space, Mouse Left, etc.).
         // Native typewriting may currently show only a prefix of that binding.
-        _keyWords = Regex.Matches(source, "<color=#A61FFF>([^<]+)</color>").Cast<Match>()
-            .SelectMany(binding => Regex.Matches(binding.Groups[1].Value, "[A-Za-z]+").Cast<Match>().Select(word => word.Value)).ToArray();
+        _keyWords = Regex.Matches(source, "<color=#A61FFF>([^<]+)</color>|<color=#FCC926>(\\[[^<]+\\])</color>").Cast<Match>()
+            .SelectMany(binding => Regex.Matches(binding.Groups[1].Value + binding.Groups[2].Value, "[A-Za-z]+").Cast<Match>().Select(word => word.Value)).ToArray();
         if (!Regex.IsMatch(expected, "[\u4e00-\u9fff]")) throw new InvalidOperationException("Diagnostic dialogue absent from independent catalog.");
         if (_phase == 0 || _phase >= 3) controller.ShowMessage(source, Vector2.zero, 20f, null, null, false);
         else if (_phase == 1) controller.PromptMessage(source, Vector2.zero, (Il2CppSystem.Action?)null, null, false);

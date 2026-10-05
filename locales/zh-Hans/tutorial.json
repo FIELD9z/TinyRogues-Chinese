@@ -5,6 +5,15 @@
   "priority": 0,
   "entries": [
     {
+      "id": "tutorial.character-panel.complete",
+      "source": "If you want to know even\nmore about yourself, you can\nopen the Character Panel with <color=#FCC926>{key:panel}</color>.",
+      "translation": "想进一步了解\n自己的属性，可以按\n<color=#FCC926>{key:panel}</color> 打开角色面板。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏漏翻记录补齐整句；进入对话系统前翻译，保留实际按键、颜色和换行数量。"
+    },
+    {
       "id": "tutorial.literal.12d768554c19eb7343c9",
       "source": " grant [[+1]] Dexterity.\n(*)",
       "translation": " 提供 [[+1]] 敏捷。\n(*)",

@@ -66,6 +66,10 @@ Check(catalog.EntryCount > 0, "Repository catalog empty");
 const string foodTutorial = "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence.";
 Check(Tr(catalog, foodTutorial, "dialogue") == "(*)<color=red>肉</color>提供 [[+1]] 力量。\n(*)<color=green>糖果</color>提供 [[+1]] 敏捷。\n(*)<color=blue>糖果</color>提供 [[+1]] 智力。", "Complete food tutorial template did not translate before display");
 var opening = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "opening-tutorial.json")))!;
+var panelTutorial = "If you want to know even\nmore about yourself, you can\nopen the Character Panel with <color=#FCC926>[C]</color>.";
+Check(Tr(catalog, panelTutorial, "dialogue") == "想进一步了解\n自己的属性，可以按\n<color=#FCC926>[C]</color> 打开角色面板。", "Character-panel tutorial missed the captured complete sentence");
+Check(Tr(catalog, panelTutorial.Replace("[C]", "[RB]"), "dialogue").Contains("<color=#FCC926>[RB]</color> 打开角色面板。"), "Character-panel tutorial lost a rebound gamepad key");
+Check(Tr(catalog, "If you want to know", "dialogue") == "If you want to know", "Character-panel rule matched a typewriter prefix");
 foreach (var source in opening)
 {
     var translated = Tr(catalog, source, "dialogue");
