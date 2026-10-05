@@ -1,0 +1,719 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "装备触发与状态效果",
+  "priority": 1,
+  "entries": [
+    {
+      "id": "deep.mechanics.002",
+      "source": "(*)(rate)inflict Burn to all Enemies.(br)",
+      "translation": "(*)(rate)对所有敌人施加燃烧。(br)",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 rate 与 br 原生占位符。"
+    },
+    {
+      "id": "deep.mechanics.003",
+      "source": "(*)(rate)inflict Chill to all Enemies.(br)",
+      "translation": "(*)(rate)对所有敌人施加寒冷。(br)",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 rate 与 br 原生占位符。"
+    },
+    {
+      "id": "deep.mechanics.004",
+      "source": "(*)(rate)inflict Shock to all Enemies.(br)",
+      "translation": "(*)(rate)对所有敌人施加感电。(br)",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 rate 与 br 原生占位符。"
+    },
+    {
+      "id": "deep.mechanics.009",
+      "source": "(*)<i>(rate)triggers (actionName) that deal (damage) Damage. <Tick></i>",
+      "translation": "(*)<i>(rate)触发(actionName)，造成(damage)点伤害。<Tick></i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "周期性伤害通用模板；保留 actionName、damage、Tick。"
+    },
+    {
+      "id": "deep.mechanics.010",
+      "source": "(*)<i>(rate)triggers 5 (actionName) that deal (damage)Damage each.</i>",
+      "translation": "(*)<i>(rate)触发 5 次(actionName)，每次造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 rate、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.011",
+      "source": "(*)<i>(rate)triggers a (actionName) that deals (damage) Damage. <Tick></i>",
+      "translation": "(*)<i>(rate)触发一次(actionName)，造成(damage)点伤害。<Tick></i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 rate、actionName、damage、Tick。"
+    },
+    {
+      "id": "deep.mechanics.012",
+      "source": "(*)<i>(rate)triggers a (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>(rate)触发一次(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 rate、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.013",
+      "source": "(*)<i>After Standing Still for ((1 second)), inflict Fear to all Enemies.</i>",
+      "translation": "(*)<i>站立不动((1 秒))后，对所有敌人施加恐惧。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留时间占位符。"
+    },
+    {
+      "id": "deep.mechanics.014",
+      "source": "(*)<i>All Rooms grant [[1]] random Dice.</i>(br)",
+      "translation": "(*)<i>所有房间都会给予 [[1]] 枚随机骰子。</i>(br)",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留数值与换行占位符。"
+    },
+    {
+      "id": "deep.mechanics.015",
+      "source": "(*)<i>Beetles travel on after killing the target.</i>",
+      "translation": "(*)<i>击杀目标后，甲虫会继续飞行。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "Beetle Wand 效果；travel on 按继续移动处理。"
+    },
+    {
+      "id": "deep.mechanics.016",
+      "source": "(*)<i>Chill additionally adds (+x0%) Critical Hit Damage<Crit> taken.</i>",
+      "translation": "(*)<i>寒冷还会使受到的暴击伤害<Crit>增加(+x0%)。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 Crit 与数值占位符。"
+    },
+    {
+      "id": "deep.mechanics.017",
+      "source": "(*)<i>Critical Hits<Crit> with this Weapon inflict Shadow Fangs.</i>",
+      "translation": "(*)<i>使用这把武器打出暴击<Crit>时，会施加暗影獠牙。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "专有状态名待与状态效果名称表统一。"
+    },
+    {
+      "id": "deep.mechanics.018",
+      "source": "(*)<i>Event Rooms additionally grant a Steak, Pear or Candy Pickup.</i>",
+      "translation": "(*)<i>事件房间还会额外提供牛排、梨或糖果拾取物。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留三种食物名称的机制含义。"
+    },
+    {
+      "id": "deep.mechanics.020",
+      "source": "(*)<i>Gains [[+1]] Spinner per Upgrade Level above 3.</i>",
+      "translation": "(*)<i>升级等级超过 3 后，每升一级获得 [[+1]] 枚旋刃。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "Spinner 译为旋转物，需结合实际显示对象复核。"
+    },
+    {
+      "id": "deep.mechanics.021",
+      "source": "(*)<i>Gains [[+1]] Upgrade Level per [[10]] Strength you have.</i>",
+      "translation": "(*)<i>你的力量每达到 [[10]] 点，升级等级增加 [[+1]]。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留两个数值占位符。"
+    },
+    {
+      "id": "deep.mechanics.022",
+      "source": "(*)<i>Haunt travels on after killing the target.</i>",
+      "translation": "(*)<i>击杀目标后，幽魂会继续飞行。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "Haunt 按召唤物名称幽魂处理。"
+    },
+    {
+      "id": "deep.mechanics.023",
+      "source": "(*)<i>Lucky Hits<sprite name=\"Luck\"> with Attacks, add [[+1]] to your Tally Effects.</i>",
+      "translation": "(*)<i>攻击打出幸运命中<sprite name=\"Luck\">时，使你的计数效果增加 [[+1]]。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 sprite 与数值占位符。"
+    },
+    {
+      "id": "deep.mechanics.024",
+      "source": "(*)<i>On Attack, (chance) to trigger a (actionName) that deals (damage) Damage and inflicts Confusion.</i>",
+      "translation": "(*)<i>攻击时，有(chance)触发(actionName)，造成(damage)点伤害并施加混乱。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.025",
+      "source": "(*)<i>On Attack, (chance) to trigger an (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>攻击时，有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.026",
+      "source": "(*)<i>On Attack, (chance) to trigger the (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>攻击时，有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.027",
+      "source": "(*)<i>On Attack, triggers (actionName) that deal (damage) Damage.</i>",
+      "translation": "(*)<i>攻击时触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.028",
+      "source": "(*)<i>On Attack, triggers a (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>攻击时触发一次(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.029",
+      "source": "(*)<i>On Critical Hit<Crit>, repeats next Attack.</i>",
+      "translation": "(*)<i>打出暴击<Crit>时，使下一次攻击重复施放。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 Crit。"
+    },
+    {
+      "id": "deep.mechanics.030",
+      "source": "(*)<i>On Dash, [[maximize]] all your Tally Effects.</i>",
+      "translation": "(*)<i>冲刺时，将所有计数效果[[拉满]]。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 maximize 占位符；语义是将效果计数填满。"
+    },
+    {
+      "id": "deep.mechanics.031",
+      "source": "(*)<i>On Dash, gain (embedEffect). (embedTags)</i>",
+      "translation": "(*)<i>冲刺时获得(embedEffect)。(embedTags)</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留嵌入效果与标签占位符。"
+    },
+    {
+      "id": "deep.mechanics.032",
+      "source": "(*)<i>On Dash, grants (embedEffect). (embedTags)</i>",
+      "translation": "(*)<i>冲刺时获得(embedEffect)。(embedTags)</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留嵌入效果与标签占位符。"
+    },
+    {
+      "id": "deep.mechanics.033",
+      "source": "(*)<i>On Dash, inflicts Charm to all Enemies.</i>",
+      "translation": "(*)<i>冲刺时，对所有敌人施加魅惑。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "使用现有状态效果术语。"
+    },
+    {
+      "id": "deep.mechanics.034",
+      "source": "(*)<i>On Dash, inflicts Intimidate to all Enemies.</i>",
+      "translation": "(*)<i>冲刺时，对所有敌人施加威吓。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "Intimidate 译为威慑；需与状态效果名称表最终统一。"
+    },
+    {
+      "id": "deep.mechanics.035",
+      "source": "(*)<i>On Dash, inflicts Taunt to all Enemies.</i>",
+      "translation": "(*)<i>冲刺时，对所有敌人施加嘲讽。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "使用现有状态效果术语。"
+    },
+    {
+      "id": "deep.mechanics.036",
+      "source": "(*)<i>On Dash, trigger a (actionName) on all Enemies that deals (damage) Damage.</i>",
+      "translation": "(*)<i>冲刺时，对所有敌人触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.037",
+      "source": "(*)<i>On Dash, trigger a (actionName) on all Enemies that deals (damage) Damage.</i>(br)",
+      "translation": "(*)<i>冲刺时，对所有敌人触发(actionName)，造成(damage)点伤害。</i>(br)",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage、br。"
+    },
+    {
+      "id": "deep.mechanics.038",
+      "source": "(*)<i>On Dash, triggers (actionName) that deal (damage) Damage and inflict Bleed.</i>",
+      "translation": "(*)<i>冲刺时触发(actionName)，造成(damage)点伤害并施加流血。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.039",
+      "source": "(*)<i>On Dash, triggers (actionName) that deal (damage) Damage and inflict Poison.</i>",
+      "translation": "(*)<i>冲刺时触发(actionName)，造成(damage)点伤害并施加中毒。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.040",
+      "source": "(*)<i>On Dash, triggers a (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>冲刺时触发一次(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.041",
+      "source": "(*)<i>On Dash, your next [[5]] Attacks or Skills deal guaranteed Critical Hits<Crit>.</i>",
+      "translation": "(*)<i>冲刺后，你接下来的 [[5]] 次攻击或技能必定打出暴击<Crit>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留数值与 Crit。"
+    },
+    {
+      "id": "deep.mechanics.042",
+      "source": "(*)<i>On Dash, your next [[5]] Attacks or Skills deal guaranteed Crushing Hits<Crushing>.</i>",
+      "translation": "(*)<i>冲刺后，你接下来的 [[5]] 次攻击或技能必定打出粉碎命中<Crushing>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留数值与 Crushing。"
+    },
+    {
+      "id": "deep.mechanics.043",
+      "source": "(*)<i>On Dash, your next [[5]] Attacks or Skills deal guaranteed Lucky Hits<Luck>.</i>",
+      "translation": "(*)<i>冲刺后，你接下来的 [[5]] 次攻击或技能必定打出幸运命中<Luck>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留数值与 Luck。"
+    },
+    {
+      "id": "deep.mechanics.044",
+      "source": "(*)<i>On Dash, your next [[5]] Attacks or Skills deal guaranteed Ruthless Hits<Ruthless>.</i>",
+      "translation": "(*)<i>冲刺后，你接下来的 [[5]] 次攻击或技能必定打出残酷命中<Ruthless>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留数值与 Ruthless。"
+    },
+    {
+      "id": "deep.mechanics.045",
+      "source": "(*)<i>On Dash, your next [[5]] Attacks or Skills deal guaranteed Sneaky Hits<Cunning>.</i>",
+      "translation": "(*)<i>冲刺后，你接下来的 [[5]] 次攻击或技能必定打出狡诈命中<Cunning>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留数值与 Cunning。"
+    },
+    {
+      "id": "deep.mechanics.046",
+      "source": "(*)<i>On Hit, (chance) to trigger a (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>命中时，有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.047",
+      "source": "(*)<i>On Hit, (chance) to trigger an (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>命中时，有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.048",
+      "source": "(*)<i>On Skill Used triggers a (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>使用技能时触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.049",
+      "source": "(*)<i>On Skill Used, gain (embedEffect)</i>. (embedTags)",
+      "translation": "(*)<i>使用技能时获得(embedEffect)</i>。(embedTags)",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留嵌入效果与标签占位符。"
+    },
+    {
+      "id": "deep.mechanics.050",
+      "source": "(*)<i>On Skill Used, gain Supersonic.</i>",
+      "translation": "(*)<i>使用技能时获得超音速。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "Supersonic 状态名需与最终状态表统一。"
+    },
+    {
+      "id": "deep.mechanics.051",
+      "source": "(*)<i>On Skill Used, grants (embedEffect)</i>. (embedTags)",
+      "translation": "(*)<i>使用技能时获得(embedEffect)</i>。(embedTags)",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留嵌入效果与标签占位符。"
+    },
+    {
+      "id": "deep.mechanics.052",
+      "source": "(*)<i>On Skill Used, inflict Vulnerability to all Enemies.</i>",
+      "translation": "(*)<i>使用技能时，对所有敌人施加脆弱。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "使用现有状态效果术语。"
+    },
+    {
+      "id": "deep.mechanics.053",
+      "source": "(*)<i>On Skill Used, trigger a (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>使用技能时触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.054",
+      "source": "(*)<i>On Skill Used, triggers a (actionName) that deals (damage) Damage. <g>((cooldown) seconds cooldown)</g></i>",
+      "translation": "(*)<i>使用技能时触发(actionName)，造成(damage)点伤害。<g>（冷却时间为(cooldown)秒）</g></i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage、cooldown 与 g 标签。"
+    },
+    {
+      "id": "deep.mechanics.055",
+      "source": "(*)<i>On creating a //Chain //Lightning, grants Swiftness.</i>",
+      "translation": "(*)<i>生成//连锁//闪电时，获得迅捷。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 Chain/Lightning 的原生 // 标记。"
+    },
+    {
+      "id": "deep.mechanics.056",
+      "source": "(*)<i>On hit, (chance) to trigger (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>命中时，有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.057",
+      "source": "(*)<i>On inflicting Taunt, inflict Fear.</i>",
+      "translation": "(*)<i>施加嘲讽时，施加恐惧。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "使用现有状态效果术语。"
+    },
+    {
+      "id": "deep.mechanics.058",
+      "source": "(*)<i>On the Tally of (tallyThreshold) Attacks, deals [[x2.00]] Damage.</i>",
+      "translation": "(*)<i>每累计(tallyThreshold)次攻击，造成 [[x2.00]] 倍伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 tallyThreshold 与数值占位符。"
+    },
+    {
+      "id": "deep.mechanics.059",
+      "source": "(*)<i>On the Tally of (tallyThreshold) Attacks, gain (embedEffect). (embedTags)</i>",
+      "translation": "(*)<i>每累计(tallyThreshold)次攻击，获得(embedEffect)。(embedTags)</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 tallyThreshold、embedEffect、embedTags。"
+    },
+    {
+      "id": "deep.mechanics.060",
+      "source": "(*)<i>On the Tally of (tallyThreshold) Attacks, repeat your next Attack.</i>",
+      "translation": "(*)<i>每累计(tallyThreshold)次攻击，使你的下一次攻击重复施放。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 tallyThreshold。"
+    },
+    {
+      "id": "deep.mechanics.061",
+      "source": "(*)<i>On the Tally of (tallyThreshold) Attacks, trigger a (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>每累计(tallyThreshold)次攻击，触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 tallyThreshold、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.062",
+      "source": "(*)<i>On the Tally of (tallyThreshold) Attacks, triggers a (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>每累计(tallyThreshold)次攻击，触发一次(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 tallyThreshold、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.063",
+      "source": "(*)<i>On the Tally of (tallyThreshold) Attacks, triggers your On Dash Effects.</i>",
+      "translation": "(*)<i>每累计(tallyThreshold)次攻击，触发你的冲刺效果。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 tallyThreshold；On Dash Effects 按现有术语译为冲刺效果。"
+    },
+    {
+      "id": "deep.mechanics.064",
+      "source": "(*)<i>On the Tally of (tallyThreshold) Attacks, your next Attack or Skill deals a guaranted Lethal Hit<Lethal>. </i>",
+      "translation": "(*)<i>每累计(tallyThreshold)次攻击，你的下一次攻击或技能必定打出致命命中<Lethal>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文 guaranted 拼写错误按 guaranteed 处理；保留 tallyThreshold 与 Lethal。"
+    },
+    {
+      "id": "deep.mechanics.065",
+      "source": "(*)<i>Possession of this axe makes you a Disciple of the Leviathan.</i>",
+      "translation": "(*)<i>持有这把斧头后，你将成为利维坦的门徒。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "Leviathan 专有名词待与世界观译名统一。"
+    },
+    {
+      "id": "deep.mechanics.066",
+      "source": "(*)<i>Protects you from getting Cursed<sprite name=\"Curse\"> and instead, grants [[20]] Gold<Gold>.</i>",
+      "translation": "(*)<i>使你免受诅咒<sprite name=\"Curse\">，并改为获得 [[20]] 金币<Gold>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 sprite、Gold 与数值占位符。"
+    },
+    {
+      "id": "deep.mechanics.067",
+      "source": "(*)<i>Radiant Damage from you and your Companions<Companion> inflicts Vulnerability.</i>",
+      "translation": "(*)<i>你和伙伴<Companion>造成的光辉伤害会施加脆弱。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "使用现有状态效果与伙伴术语。"
+    },
+    {
+      "id": "deep.mechanics.068",
+      "source": "(*)<i>Shock additionally adds (+x0%) to Damage Taken Roll per stack.</i>",
+      "translation": "(*)<i>感电还会使受到伤害的随机取值按每层增加(+x0%)。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留数值占位符；Damage Taken Roll 译法与独立重译 001 一致。"
+    },
+    {
+      "id": "deep.mechanics.069",
+      "source": "(*)<i>Triggers a (actionName)  that deals (damage) Damage.</i>",
+      "translation": "(*)<i>触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 actionName、damage；清理原文多余空格。"
+    },
+    {
+      "id": "deep.mechanics.070",
+      "source": "(*)<i>Vulnerability additionally increases Poison and Bleed Damage Taken by (+x0%).</i>",
+      "translation": "(*)<i>脆弱还会使受到的中毒与流血伤害增加(+x0%)。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留数值占位符。"
+    },
+    {
+      "id": "deep.mechanics.071",
+      "source": "(*)<i>Your Attacks alternate between dealing guaranteed Lucky Hits<Luck> and Cursed Hits<Curse>.</i>",
+      "translation": "(*)<i>你的攻击交替打出必定的幸运命中<Luck>与诅咒命中<Curse>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 Luck 与 Curse。"
+    },
+    {
+      "id": "deep.mechanics.072",
+      "source": "(*)<i>Your Attacks cycle between dealing guaranteed Ruthless Hits<Ruthless>, Lethal Hits<Lethal> and Sneaky Hits<Cunning>.</i>",
+      "translation": "(*)<i>你的攻击循环打出必定的残酷命中<Ruthless>、致命命中<Lethal>与狡诈命中<Cunning>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留三种命中标记。"
+    },
+    {
+      "id": "deep.mechanics.073",
+      "source": "(*)<i>Your Attacks gain a (chance) at Close Range<Close> to trigger (actionName) on hit that deals (damage) Damage.</i>",
+      "translation": "(*)<i>你的攻击在近距离<Close>命中时，有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、Close、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.074",
+      "source": "(*)<i>Your Attacks gain a (chance) to trigger a (actionName) on hit that deals (damage) Damage.</i>",
+      "translation": "(*)<i>你的攻击命中时，有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.075",
+      "source": "(*)<i>Your Attacks gain a (chance) to trigger a (actionName) that deals (damage) Damage.</i>",
+      "translation": "(*)<i>你的攻击有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.076",
+      "source": "(*)<i>Your Attacks gain a (chance) to trigger an  (actionName) on Hit that deals (damage) Damage.</i>",
+      "translation": "(*)<i>你的攻击命中时，有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage；清理原文多余空格。"
+    },
+    {
+      "id": "deep.mechanics.077",
+      "source": "(*)<i>Your Attacks gain a (chance) to trigger an (actionName) on Hit that deals (damage) Damage.</i>",
+      "translation": "(*)<i>你的攻击命中时，有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.078",
+      "source": "(*)<i>Your Attacks gain a (chance) to trigger an (actionName) on hit that deals: (damage)Damage.</i>",
+      "translation": "(*)<i>你的攻击命中时，有(chance)触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance、actionName、damage；按原文语义修正标点与空格。"
+    },
+    {
+      "id": "deep.mechanics.079",
+      "source": "(*)<i>Your Attacks gain a (chance) to trigger your On Skill Used Effects.</i>",
+      "translation": "(*)<i>你的攻击有(chance)触发“使用技能时”的效果。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 chance；On Skill Used Effects 按触发时机译为使用技能时效果。"
+    },
+    {
+      "id": "deep.mechanics.080",
+      "source": "(*)Can summon [[+1]] Hydra per Upgrade Level.",
+      "translation": "(*)每级升级等级可召唤 [[+1]] 条九头蛇。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留数值占位符。"
+    },
+    {
+      "id": "deep.mechanics.082",
+      "source": "(*)Gains [[+1]] Upgrade Level per Strength Trait you have.",
+      "translation": "(*)你拥有的每个力量特质使升级等级增加 [[+1]]。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留数值占位符；Trait 统一译为特质。"
+    },
+    {
+      "id": "deep.mechanics.083",
+      "source": "(*)Taverns grant you [[10 to 20]] Gold<sprite name=\"Gold\">.",
+      "translation": "(*)酒馆会给予你 [[10 至 20]] 金币<sprite name=\"Gold\">。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留范围、sprite 与 Gold。"
+    },
+    {
+      "id": "deep.mechanics.084",
+      "source": "(br)(*)<i>On Attack, triggers (actionName) that deals (damage) Damage.</i>",
+      "translation": "(br)(*)<i>攻击时触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 br、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.085",
+      "source": "(br)(*)<i>On Attack, triggers a (actionName) that deals (damage) Damage.</i>",
+      "translation": "(br)(*)<i>攻击时触发一次(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 br、actionName、damage。"
+    },
+    {
+      "id": "deep.mechanics.086",
+      "source": "(br)(*)<i>On the Tally of (tallyThreshold) Attacks, the next Attack triggers (actionName) that deal (damage) Damage.</i>",
+      "translation": "(br)(*)<i>每累计(tallyThreshold)次攻击，下一次攻击会触发(actionName)，造成(damage)点伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留 br、tallyThreshold、actionName、damage。"
+    }
+  ]
+}

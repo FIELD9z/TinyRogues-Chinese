@@ -4,5 +4,6 @@
   "You can use Bombs<sprite name=Bomb>, with <color=#A61FFF>Q</color>.\nHere are some for later!",
   "Splendid!\nNow attack the target dummy\nwith <color=#A61FFF>Mouse Left</color>!\nShow it who's boss!",
   "Haha!\nYou're a natural.\nLet's meet in the next room.",
-  "To defeat stronger foes, you\nwill have to arm yourself."
+  "To defeat stronger foes, you\nwill have to arm yourself.",
+  "Pick up items with <color=#FCC926>[E]</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>[F]</color>.\n<color=#A61FFF>Drag and drop, or right-click</color> the\nweapon to <color=#FCC926>equip</color> it."
 ]

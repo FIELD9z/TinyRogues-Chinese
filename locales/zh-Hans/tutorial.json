@@ -412,7 +412,7 @@
     {
       "id": "tutorial.opening.5f82457a873c0f9f",
       "source": "You can dash, with <color=#A61FFF>{key:dash}</color>.\nWhile dashing, you are\ninvincible.\nDashing costs 1 <color=#6BBD30>Stamina</color><sprite index=3 > !",
-      "translation": "按 <color=#A61FFF>{key:dash}</color> 可以冲刺。\n冲刺期间，\n你处于无敌状态。\n冲刺消耗 1 点<color=#6BBD30>耐力</color><sprite index=3 >！",
+      "translation": "按 <color=#A61FFF>{key:dash}</color> 可以冲刺。\n冲刺期间，\n你处于无敌状态。\n冲刺消耗 1 点<color=#6BBD30>体力</color><sprite index=3 >！",
       "context": "dialogue",
       "kind": "template",
       "status": "translated",
@@ -435,6 +435,24 @@
       "kind": "template",
       "status": "translated",
       "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.5f82457a873c0f9f.keyboard",
+      "source": "You can dash, with <color=#A61FFF>Space</color>.\nWhile dashing, you are\ninvincible.\nDashing costs 1 <color=#6BBD30>Stamina</color><sprite index=3 > !",
+      "translation": "按 <color=#A61FFF>空格</color> 可以冲刺。\n冲刺期间，\n你处于无敌状态。\n冲刺消耗 1 点<color=#6BBD30>体力</color><sprite index=3 >！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "默认键鼠提示使用中文按键名称；其他改键和手柄仍通过完整句模板保留实际按键。"
+    },
+    {
+      "id": "tutorial.opening.6900e8da100fb358.keyboard",
+      "source": "Splendid!\nNow attack the target dummy\nwith <color=#A61FFF>Mouse Left</color>!\nShow it who's boss!",
+      "translation": "很好！\n现在按 <color=#A61FFF>鼠标左键</color>\n攻击训练假人！\n让它见识你的厉害！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "默认键鼠提示使用中文按键名称；其他改键和手柄仍通过完整句模板保留实际按键。"
     }
   ]
 }

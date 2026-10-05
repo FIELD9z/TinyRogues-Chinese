@@ -226,7 +226,7 @@
     {
       "id": "status.asset.3a031abd53f34692f596",
       "source": "(xx0) Dark Damage Taken",
-      "translation": "(xx0) 承受的黑暗伤害",
+      "translation": "(xx0) 承受的暗影伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -238,7 +238,7 @@
     {
       "id": "status.asset.5bf8fb6ab593b54d1883",
       "source": "•(xx0) Dark Damage Taken",
-      "translation": "•(xx0) 承受的黑暗伤害",
+      "translation": "•(xx0) 承受的暗影伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -292,7 +292,7 @@
     {
       "id": "status.asset.97872a99c515a6a11188",
       "source": "(xx0) Cold Damage Taken",
-      "translation": "(xx0) 承受的冰霜伤害",
+      "translation": "(xx0) 承受的冰冷伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -304,7 +304,7 @@
     {
       "id": "status.asset.83105a02e9e49c7e52f7",
       "source": "•(xx0) Cold Damage Taken",
-      "translation": "•(xx0) 承受的冰霜伤害",
+      "translation": "•(xx0) 承受的冰冷伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -1215,7 +1215,7 @@
     {
       "id": "status.asset.07ac0d4d0633f290d5ed",
       "source": "(+x0%) Cold damage",
-      "translation": "(+x0%) 冰霜伤害",
+      "translation": "(+x0%) 冰冷伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -1227,7 +1227,7 @@
     {
       "id": "status.asset.6663ae892f36d4c7b2bb",
       "source": "(*)(+x0%) Cold damage",
-      "translation": "(*)(+x0%) 冰霜伤害",
+      "translation": "(*)(+x0%) 冰冷伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -1304,7 +1304,7 @@
     {
       "id": "status.asset.a2359a51082ef7a42032",
       "source": "•(+x0%) Critical Hit Chance<Crit>\n•(+x1%) Stamina Recovery Speed<Stamina>\n•(+x2%) Mana Regeneration<Mana>",
-      "translation": "•(+x0%) 暴击率<Crit>\n•(+x1%) 耐力恢复速度<Stamina>\n•(+x2%) 法力再生<Mana>",
+      "translation": "•(+x0%) 暴击率<Crit>\n•(+x1%) 体力恢复速度<Stamina>\n•(+x2%) 法力再生<Mana>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -1444,7 +1444,7 @@
     {
       "id": "status.asset.c05810a51338bca3f335",
       "source": "Stamina Surge",
-      "translation": "耐力激涌",
+      "translation": "体力激涌",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1453,7 +1453,7 @@
     {
       "id": "status.asset.28571a12925bc779437f",
       "source": "•(x0) Stamina<Stamina>",
-      "translation": "•(x0) 耐力<Stamina>",
+      "translation": "•(x0) 体力<Stamina>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -1619,7 +1619,7 @@
       "context": "description-template",
       "kind": "exact",
       "status": "needs-review",
-      "note": "随机伤害取值机制需核对数值函数。",
+      "note": "随机伤害取值机制需核对数值函数。；此次重译仍需确认计算语义，未启用。",
       "protectedTokens": [
         "(+x0%)"
       ]
@@ -1719,7 +1719,7 @@
       "context": "description-template",
       "kind": "exact",
       "status": "needs-review",
-      "note": "Top End 伤害取值上限，待实际伤害机制复核。",
+      "note": "Top End 伤害取值上限，待实际伤害机制复核。；此次重译仍需确认计算语义，未启用。",
       "protectedTokens": [
         "(xx0)"
       ]
@@ -2023,7 +2023,7 @@
     {
       "id": "status.asset.167d8da986232ea32b14",
       "source": "•(-xx0) stamina recovery speed<sprite name=\"Stamina\">\n•(-xx1) movement speed",
-      "translation": "•(-xx0) 耐力恢复速度<sprite name=\"Stamina\">\n•(-xx1) 移动速度",
+      "translation": "•(-xx0) 体力恢复速度<sprite name=\"Stamina\">\n•(-xx1) 移动速度",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -2036,7 +2036,7 @@
     {
       "id": "status.asset.61cec668aba81b6fc35d",
       "source": "(-xx0) stamina recovery speed<sprite name=\"Stamina\"> and (-xx1) movement speed",
-      "translation": "(-xx0) 耐力恢复速度<sprite name=\"Stamina\">和 (-xx1) 移动速度",
+      "translation": "(-xx0) 体力恢复速度<sprite name=\"Stamina\">和 (-xx1) 移动速度",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -2247,7 +2247,7 @@
     {
       "id": "status.asset.e20386db7f18a6523b25",
       "source": "(x0) [[to]] (#x1) Cold Damage to Weapons",
-      "translation": "武器附加 (x0) [[至]] (#x1) 冰霜伤害",
+      "translation": "武器附加 (x0) [[至]] (#x1) 冰冷伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -2260,7 +2260,7 @@
     {
       "id": "status.asset.9482ae57d084a9bc7e62",
       "source": "(*)(x0) [[to]] (#x1) Cold Damage to Weapons",
-      "translation": "(*)武器附加 (x0) [[至]] (#x1) 冰霜伤害",
+      "translation": "(*)武器附加 (x0) [[至]] (#x1) 冰冷伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -2605,7 +2605,7 @@
     {
       "id": "status.asset.05c48c409a6d617b7257",
       "source": "(xx0) Cold Damage",
-      "translation": "(xx0) 冰霜伤害",
+      "translation": "(xx0) 冰冷伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -2617,7 +2617,7 @@
     {
       "id": "status.asset.f21186d470ce5f5e9064",
       "source": "(*)(xx0) Cold Damage",
-      "translation": "(*)(xx0) 冰霜伤害",
+      "translation": "(*)(xx0) 冰冷伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -2927,10 +2927,10 @@
     {
       "id": "status.asset.41c1c7d156a6225e2e99",
       "source": "(*)(xx0) Attack Speed with Vorpal Blade",
-      "translation": "(*)(xx0) 沃泊尔之刃攻击速度",
+      "translation": "(*)(xx0) 持有斩首之刃时的攻击速度",
       "context": "description-template",
       "kind": "exact",
-      "status": "needs-review",
+      "status": "translated",
       "note": "Vorpal Blade 专名需统一。",
       "protectedTokens": [
         "(xx0)"

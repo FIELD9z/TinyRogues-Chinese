@@ -1,0 +1,504 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "装备属性与收藏解锁条件",
+  "priority": 10,
+  "entries": [
+    {
+      "id": "deep.ui.daa711c83ecc3abe",
+      "source": "Accessory",
+      "translation": "饰品",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.b86b7eb77e5f3d33",
+      "source": "Accessory",
+      "translation": "饰品",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.e5bcae0280028626",
+      "source": "Accessory",
+      "translation": "饰品",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.5a1d1e264d7a0392",
+      "source": "Helmet",
+      "translation": "头盔",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.d96dab75f535c741",
+      "source": "Helmet",
+      "translation": "头盔",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.cfdfda2d55d5e5c0",
+      "source": "Helmet",
+      "translation": "头盔",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.2101fc0ca7b1af42",
+      "source": "Boots",
+      "translation": "靴子",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.d7125e07572033d3",
+      "source": "Boots",
+      "translation": "靴子",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.3bda3c07a27a066e",
+      "source": "Boots",
+      "translation": "靴子",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.b2f50b91a5ba10c3",
+      "source": "Gloves",
+      "translation": "手套",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.2197c9ddaa1d660c",
+      "source": "Gloves",
+      "translation": "手套",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.11b13ffd5557706b",
+      "source": "Gloves",
+      "translation": "手套",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.bc7e25d3405ac7d7",
+      "source": "Offhand",
+      "translation": "副手",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.9957a562ac1a6e44",
+      "source": "Offhand",
+      "translation": "副手",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.a68baa65fd0c6d2e",
+      "source": "Offhand",
+      "translation": "副手",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.ca9d2cfb7d0876bb",
+      "source": "Body Armor",
+      "translation": "胸甲",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.114af4dda7010eb9",
+      "source": "Body Armor",
+      "translation": "胸甲",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.4c36024d9e349ae9",
+      "source": "Body Armor",
+      "translation": "胸甲",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.68e1c0c279794945",
+      "source": "Charm",
+      "translation": "护符",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.a28a4f309f261b43",
+      "source": "Charm",
+      "translation": "护符",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.a849083b7a2ca08f",
+      "source": "Charm",
+      "translation": "护符",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.bb11a456596b6560",
+      "source": "Set",
+      "translation": "套装",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.4e255b66aedb201d",
+      "source": "Set",
+      "translation": "套装",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.9beecf1835afddb3",
+      "source": "Set",
+      "translation": "套装",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.e1b5dd15e0d601a4",
+      "source": "Equip Load",
+      "translation": "装备负重",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.73d951c73577d6a6",
+      "source": "Equip Load",
+      "translation": "装备负重",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.0df9a32587fe79ea",
+      "source": "Equip Load",
+      "translation": "装备负重",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.ca5dc465d306f8d3",
+      "source": "Attunement:",
+      "translation": "调谐：",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.99a57a2b8f8932b2",
+      "source": "Attunement:",
+      "translation": "调谐：",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.0ccd0bb8de3cd311",
+      "source": "Attunement:",
+      "translation": "调谐：",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.dcad510f7bb31e4f",
+      "source": "Each Grants:",
+      "translation": "每名伙伴提供：",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.7b134de257acac6b",
+      "source": "Each Grants:",
+      "translation": "每名伙伴提供：",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.d2efba431939c00d",
+      "source": "Each Grants:",
+      "translation": "每名伙伴提供：",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.48587a1e198cd76d",
+      "source": "Heart",
+      "translation": "红心",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.5156b7c9a03043f0",
+      "source": "Heart",
+      "translation": "红心",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.7f009f1cb78d6b0f",
+      "source": "Heart",
+      "translation": "红心",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.a9eb03a9bfec131e",
+      "source": "Armor",
+      "translation": "护甲",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.7a98b39f9a455b56",
+      "source": "Armor",
+      "translation": "护甲",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.d1ddd573b1735e4d",
+      "source": "Armor",
+      "translation": "护甲",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.a569c8b367ee9778",
+      "source": "Block",
+      "translation": "格挡",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.8607b4990552780e",
+      "source": "Block",
+      "translation": "格挡",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.57ec7e8a226a2a89",
+      "source": "Block",
+      "translation": "格挡",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.2e06cf19724e71bc",
+      "source": "Mana",
+      "translation": "法力",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.48250da1f06123a8",
+      "source": "Mana",
+      "translation": "法力",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.deb3f0eac8f3bf6e",
+      "source": "Mana",
+      "translation": "法力",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.3f0d630336036631",
+      "source": "Damage",
+      "translation": "伤害",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.383bd5f281531eae",
+      "source": "Damage",
+      "translation": "伤害",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.e733813027effa50",
+      "source": "Damage",
+      "translation": "伤害",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.872ddea12e159d02",
+      "source": "Progress beyond floor {number:floor}.",
+      "translation": "通过第 {number:floor} 层。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.d087a11dbd950ac3",
+      "source": "Have {number:count} charms equipped at the same time.",
+      "translation": "同时装备 {number:count} 个护符。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.8fc33dce9de1b100",
+      "source": "Use {number:count} keys.",
+      "translation": "使用 {number:count} 把钥匙。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.438817f6dfb62d7a",
+      "source": "Have at least {number:amount} intelligence.",
+      "translation": "智力达到至少 {number:amount} 点。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.aa2cdbb680b48beb",
+      "source": "+{number:amount} EXP",
+      "translation": "+{number:amount} 经验",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.751283aa975daa1e",
+      "source": "Vampire Count: {number:count}",
+      "translation": "吸血鬼计数：{number:count}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.daa7dcf791cc1917",
+      "source": "Guaranteed\nBody Armor",
+      "translation": "必定获得\n胸甲",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.9d5c057cd876ffee",
+      "source": "Guaranteed Gloves",
+      "translation": "必定获得手套",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.189e26b48eb3587e",
+      "source": "Guaranteed Boots",
+      "translation": "必定获得靴子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.b4393404c190e9ea",
+      "source": "Cursed Shrine",
+      "translation": "诅咒神殿",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.d8d574c38b3dffee",
+      "source": "Contains an\nEquipment Item\nwith Set Bonus.",
+      "translation": "包含一件\n具有套装效果的\n装备。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.2145371fc89886cc",
+      "source": "To open locked things!",
+      "translation": "用来打开上锁的东西！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.0ea1d9561f3bcd2e",
+      "source": "{number:count}-Set: {term:name}",
+      "translation": "{number:count} 件套：{term:name}",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ui.48aa390371d5c6ee",
+      "source": "•{number:numerator}/{number:denominator} {term:stat}",
+      "translation": "•{number:numerator}/{number:denominator} {term:stat}",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    }
+  ]
+}

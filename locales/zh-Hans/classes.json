@@ -727,7 +727,7 @@
     {
       "id": "progression.asset.31b687ae436c95a96f0c",
       "source": "When you dash, you can immediately dash again without it costing any Stamina<Stamina>.",
-      "translation": "冲刺后可立即再次冲刺，且不消耗耐力<Stamina>。",
+      "translation": "冲刺后可立即再次冲刺，且不消耗体力<Stamina>。",
       "context": "*",
       "kind": "exact",
       "status": "translated",

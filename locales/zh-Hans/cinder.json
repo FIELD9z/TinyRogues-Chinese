@@ -73,7 +73,7 @@
     {
       "id": "progression.asset.e9bba6a4e73950035381",
       "source": "Stamina Recovery Speed<sprite name=\"Stamina\"> is delayed by ((+3)) seconds on Floor 1, ((+2)) seconds on Floor 2 and ((+1)) second on Floor 3.",
-      "translation": "第 1 层的耐力恢复<sprite name=\"Stamina\">延迟 ((+3)) 秒，第 2 层延迟 ((+2)) 秒，第 3 层延迟 ((+1)) 秒。",
+      "translation": "第 1 层的体力恢复<sprite name=\"Stamina\">延迟 ((+3)) 秒，第 2 层延迟 ((+2)) 秒，第 3 层延迟 ((+1)) 秒。",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",

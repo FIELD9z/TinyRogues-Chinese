@@ -1,0 +1,2600 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "动态动作与完整说明句",
+  "priority": 9,
+  "entries": [
+    {
+      "id": "deep.runtime.8e73ebbaf0cc672f",
+      "source": "Tick",
+      "translation": "结算",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d23f2522a9961ca5",
+      "source": "Tick",
+      "translation": "结算",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.67d0c7e354ad7dd3",
+      "source": "Tentacle",
+      "translation": "触手",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3691b42d993647d8",
+      "source": "Tentacle",
+      "translation": "触手",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.812b95ff11fd54bb",
+      "source": "Light Beam",
+      "translation": "光束",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.398c4fc381d5b870",
+      "source": "Light Beam",
+      "translation": "光束",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.1b680ff2a133a758",
+      "source": "Wraith",
+      "translation": "幽魂",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3fb0ba55b1b2f07e",
+      "source": "Wraith",
+      "translation": "幽魂",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.01c8dc5f87713a46",
+      "source": "Defense Laser",
+      "translation": "防御激光",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.16ccaebbd9928bb8",
+      "source": "Defense Laser",
+      "translation": "防御激光",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.424a0abca142065f",
+      "source": "Imp",
+      "translation": "小恶魔",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.9d7a42697adee2b8",
+      "source": "Imp",
+      "translation": "小恶魔",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.9f9602f76bef7ef5",
+      "source": "Meteor",
+      "translation": "流星",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.4b2533df4ddd433c",
+      "source": "Meteor",
+      "translation": "流星",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.8017332f684202ed",
+      "source": "Rock Music",
+      "translation": "摇滚音乐",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.910f8c8d2088641f",
+      "source": "Rock Music",
+      "translation": "摇滚音乐",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e388d7597d959f1d",
+      "source": "Icy Twisters",
+      "translation": "寒冰旋风",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.7d35e1316883edb6",
+      "source": "Icy Twisters",
+      "translation": "寒冰旋风",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d10b7c797ad412a6",
+      "source": "Bubbles",
+      "translation": "气泡",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.73ca1f05ad798707",
+      "source": "Bubbles",
+      "translation": "气泡",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.7627debd3a2cddec",
+      "source": "Gun Shots",
+      "translation": "枪击",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.7a0c883ed1129a1f",
+      "source": "Gun Shots",
+      "translation": "枪击",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.6517175ca7b85636",
+      "source": "Spores",
+      "translation": "孢子",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.2714abf714819373",
+      "source": "Spores",
+      "translation": "孢子",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.2e7cb07b1dcab31c",
+      "source": "Solar Laser",
+      "translation": "太阳激光",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ea73989eb5d960e8",
+      "source": "Solar Laser",
+      "translation": "太阳激光",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.f3277c31f819a132",
+      "source": "Sword Volley",
+      "translation": "剑刃齐射",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.513a2f1d7bc7e99f",
+      "source": "Sword Volley",
+      "translation": "剑刃齐射",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.901ba3d99425ddd1",
+      "source": "Blizzard",
+      "translation": "暴风雪",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.dbed779d8a08ea49",
+      "source": "Blizzard",
+      "translation": "暴风雪",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.2ec1eed311e42702",
+      "source": "Inferno",
+      "translation": "炼狱",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.64004b7b1992df7e",
+      "source": "Inferno",
+      "translation": "炼狱",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.48c6014024b0ea27",
+      "source": "Acid Rain",
+      "translation": "酸雨",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.1062e6171ce1ed8b",
+      "source": "Acid Rain",
+      "translation": "酸雨",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.cf2f0ef69b82a84e",
+      "source": "Shadow Sword",
+      "translation": "暗影之剑",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.471fab1a547e9de3",
+      "source": "Shadow Sword",
+      "translation": "暗影之剑",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.70c587324c22b1de",
+      "source": "Ice Burst",
+      "translation": "冰霜爆裂",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.1961827b7a496f72",
+      "source": "Ice Burst",
+      "translation": "冰霜爆裂",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d9e1a51dc3b02895",
+      "source": "Salamandragon",
+      "translation": "火蜥龙",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ff4d0c46bea48316",
+      "source": "Salamandragon",
+      "translation": "火蜥龙",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3590885985b4092a",
+      "source": "Star Volley",
+      "translation": "星辰齐射",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.88cc83cd5ab9025e",
+      "source": "Star Volley",
+      "translation": "星辰齐射",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.19a9d8adfeb92a56",
+      "source": "King Sword Volley",
+      "translation": "王之剑齐射",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.8120aa37c25f5e2e",
+      "source": "King Sword Volley",
+      "translation": "王之剑齐射",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.19bbdb1523a037bb",
+      "source": "Moonshine",
+      "translation": "月光",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.f6183d74391791b0",
+      "source": "Moonshine",
+      "translation": "月光",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.f444652a10945569",
+      "source": "Exploding Chicken",
+      "translation": "爆炸鸡",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.354b3505ef8ccc43",
+      "source": "Exploding Chicken",
+      "translation": "爆炸鸡",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.88169ca71e661ef3",
+      "source": "Raven",
+      "translation": "乌鸦",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ccc6cbce4f1ad3e4",
+      "source": "Raven",
+      "translation": "乌鸦",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.18fbd4bfe9575d62",
+      "source": "Falling Star",
+      "translation": "流星坠落",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ad731cad30686853",
+      "source": "Falling Star",
+      "translation": "流星坠落",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.0d4955e353ce65e2",
+      "source": "Thorn Volley",
+      "translation": "荆棘齐射",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.b9104be83297a142",
+      "source": "Thorn Volley",
+      "translation": "荆棘齐射",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.b834a5fffad8d97d",
+      "source": "Rainbow Cat",
+      "translation": "彩虹猫",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ee717ee65b8563e7",
+      "source": "Rainbow Cat",
+      "translation": "彩虹猫",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.9a84e2c123d9c716",
+      "source": "Biggest Snowball Ever",
+      "translation": "史上最大的雪球",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e89ad0c5a0cf14e5",
+      "source": "Biggest Snowball Ever",
+      "translation": "史上最大的雪球",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.88bb0df42ec8acd9",
+      "source": "Star Blast",
+      "translation": "星辰爆发",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.59cb81fc20c46951",
+      "source": "Star Blast",
+      "translation": "星辰爆发",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.1bd3a8ba67952abd",
+      "source": "Laser Volley",
+      "translation": "激光齐射",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.8d01d396d7f6fc08",
+      "source": "Laser Volley",
+      "translation": "激光齐射",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.b45f818af08fefe5",
+      "source": "Acid Blob",
+      "translation": "酸液团",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.92f3581cdf469df0",
+      "source": "Acid Blob",
+      "translation": "酸液团",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.765005ab420aa154",
+      "source": "Boom",
+      "translation": "轰响",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.645c7a23ff5c1be9",
+      "source": "Boom",
+      "translation": "轰响",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.1556625898b26e75",
+      "source": "Fractal Beam",
+      "translation": "分形光束",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.4cb3e6d2bab1a246",
+      "source": "Fractal Beam",
+      "translation": "分形光束",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.befd121975e96663",
+      "source": "Chain Lightning",
+      "translation": "连锁闪电",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ecada7564fc1f424",
+      "source": "Chain Lightning",
+      "translation": "连锁闪电",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d3f0e4d8ae4fbe35",
+      "source": "Chain Energy",
+      "translation": "连锁能量",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3825a51a7edab1d0",
+      "source": "Chain Energy",
+      "translation": "连锁能量",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.a4196e4d0656c161",
+      "source": "Nuclear Bomb",
+      "translation": "核弹",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.26f63bf9fe6ac4d3",
+      "source": "Nuclear Bomb",
+      "translation": "核 弹",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.820b4b6350bb70b2",
+      "source": "On Dash Effects",
+      "translation": "冲刺效果",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.2195121fdd1a946e",
+      "source": "On Dash Effects",
+      "translation": "冲刺效果",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ac0090553fcf9e76",
+      "source": "Shadow Fangs",
+      "translation": "暗影獠牙",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.abcf43b0b33d6056",
+      "source": "Shadow Fangs",
+      "translation": "暗影獠牙",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.0307404ea392c4f8",
+      "source": "Fire Burst",
+      "translation": "火焰爆裂",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.bbad2664984bf393",
+      "source": "Fire Burst",
+      "translation": "火焰爆裂",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.cd66711d39a0e6e8",
+      "source": "Energy Beam",
+      "translation": "能量光束",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.6231e571b2ffcbe0",
+      "source": "Energy Beam",
+      "translation": "能量光束",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.5c595b4e02a02403",
+      "source": "Magical Blade",
+      "translation": "魔法之刃",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.b1d79869d349af33",
+      "source": "Magical Blade",
+      "translation": "魔法之刃",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.2111f10a26a42a0f",
+      "source": "Lightning Bolt",
+      "translation": "闪电箭",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3867c08d204fdfdd",
+      "source": "Lightning Bolt",
+      "translation": "闪电箭",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.be1f25f658761f56",
+      "source": "Lightning Bolts",
+      "translation": "闪电箭",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.7c5417127c3678af",
+      "source": "Lightning Bolts",
+      "translation": "闪电箭",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.4d565fa60fc24f08",
+      "source": "Lightning Strike",
+      "translation": "雷击",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.6af32adabd201514",
+      "source": "Lightning Strike",
+      "translation": "雷击",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.309edb571a2a0085",
+      "source": "Crystal Barrage",
+      "translation": "水晶弹幕",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.0943bd3235255bab",
+      "source": "Crystal Barrage",
+      "translation": "水晶弹幕",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.4818070dd546fc5a",
+      "source": "Crystal Volley",
+      "translation": "水晶齐射",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.f473205c4c2ad532",
+      "source": "Crystal Volley",
+      "translation": "水晶齐射",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.385f4329c9f666af",
+      "source": "Nuclear //Bomb",
+      "translation": "核 //弹",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.a2d94a425d1709f9",
+      "source": "Nuclear //Bomb",
+      "translation": "核 //弹",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.38b70bf55b67a778",
+      "source": "Cursed Hit",
+      "translation": "诅咒命中",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.764b9e7e06c9e0f4",
+      "source": "Cursed Hit",
+      "translation": "诅咒命中",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e4cd45b4f0bf2d76",
+      "source": "Crushing Hit",
+      "translation": "粉碎命中",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.25fed62352f9adb0",
+      "source": "Crushing Hit",
+      "translation": "粉碎命中",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.eea50cd1c41f9cd8",
+      "source": "Lethal Hit",
+      "translation": "致命命中",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.61680ae1b4665e3a",
+      "source": "Lethal Hit",
+      "translation": "致命命中",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.62be5fbdb58bdb32",
+      "source": "Lucky Hit",
+      "translation": "幸运命中",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e169c90bccebe867",
+      "source": "Lucky Hit",
+      "translation": "幸运命中",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.5caafd5c9fb9efd9",
+      "source": "Ruthless Hit",
+      "translation": "残酷命中",
+      "context": "weapon-action-name",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d060fc1fde8a771c",
+      "source": "Ruthless Hit",
+      "translation": "残酷命中",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.7f2d2181c1768e15",
+      "source": "•Counts as Instrument.",
+      "translation": "•视为乐器。",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3ffb256b36fc611b",
+      "source": "•Counts as Ranged and as Gun.",
+      "translation": "•视为远程武器和枪械。",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3f88eba09d11c865",
+      "source": "•On the Tally of {number:n0} Attacks, triggers your On Dash Effects.",
+      "translation": "•累计攻击 {number:n0} 次后，触发你的冲刺效果。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.bd419f9a39b7b7c6",
+      "source": "•Deals x{number:n0} Damage against Bosses.",
+      "translation": "•对首领造成 x{number:n0} 伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.2e7ac711c870af94",
+      "source": "•Deals x{number:n0} Damage against Fiends.",
+      "translation": "•对恶魔造成 x{number:n0} 伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.18e09434057b6dcc",
+      "source": "•Deals x{number:n0} Damage with Repeats.",
+      "translation": "•重复攻击造成 x{number:n0} 伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.38344d2b0a0601c4",
+      "source": "•Deals +{number:n0}% Damage against Dragons.",
+      "translation": "•对龙造成 +{number:n0}% 伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d9d92afb80c3ec22",
+      "source": "•Deals +{number:n0}% Damage at Far Range.",
+      "translation": "•远距离时造成 +{number:n0}% 伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.96f137e414c17550",
+      "source": "•Deals x{number:n0} Damage at Close Range.",
+      "translation": "•近距离时造成 x{number:n0} 伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.da9d42e79b2eda15",
+      "source": "•Deals +{number:n0}% Damage with Crushing Hits.",
+      "translation": "•粉碎命中造成 +{number:n0}% 伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.94508a8481cbe263",
+      "source": "•Deals x{number:n0} Damage with Ruthless Hits.",
+      "translation": "•残酷命中造成 x{number:n0} 伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.66bb6c86411cafa4",
+      "source": "•Has {number:n0}% Critical Hit Chance.",
+      "translation": "•拥有 {number:n0}% 暴击率。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.445ac8733ffc2f2d",
+      "source": "•Has {number:n0}% Lethal Hit Chance.",
+      "translation": "•拥有 {number:n0}% 致命命中率。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3f272d9c6bcd4bd4",
+      "source": "•Has {number:n0}% chance for Attacks to Repeat.",
+      "translation": "•攻击有 {number:n0}% 几率重复一次。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.02e035d1ddb32896",
+      "source": "•Has +{number:n0}% Close Range threshold.",
+      "translation": "•近距离判定范围提高 +{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.27a3be994fdc6fdd",
+      "source": "•Has -{number:n0}% Far Range Threshold.",
+      "translation": "•远距离判定阈值-{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.944a333c11790882",
+      "source": "•Gains Attack Speed from Power.",
+      "translation": "•根据威力获得攻击速度。",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.714c74d1279aa04e",
+      "source": "({number:n0}% currently)",
+      "translation": "（当前为 {number:n0}%）",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.5f26b1f96154e369",
+      "source": "•Modifiers to your Movement Speed also apply to Damage of this Weapon.",
+      "translation": "•你的移动速度修正也会应用于这件武器的伤害。",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.140ec1860fbe177e",
+      "source": "(current values will be displayed here)",
+      "translation": "（当前数值将在此显示）",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.dd5519e19124b449",
+      "source": "•Gains +{number:n0}% Lucky Hit Chance with Repeats.",
+      "translation": "•重复攻击时，幸运命中率提高 +{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.77f4ffbb6ecd8916",
+      "source": "•Grants +{number:n0}% Lucky Hit Chance to your Auras.",
+      "translation": "•你的光环幸运命中率提高 +{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.223eb923f17d4373",
+      "source": "•Grants +{number:n0}% Poison Duration.",
+      "translation": "•中毒持续时间提高 +{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.0d2cde50ea727143",
+      "source": "•Grants +{number:n0}% Tick Speed.",
+      "translation": "•结算频率提高 +{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.37ba15597c0b8c2e",
+      "source": "•Grants +{number:n0}% Movement Speed.",
+      "translation": "•移动速度提高 +{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.886a0ca8f7c43c25",
+      "source": "•Grants +{number:n0}% Orbital Damage.",
+      "translation": "•环绕物伤害提高 +{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e97d7f51093bf76f",
+      "source": "•Grants +{number:n0}% Necrosis Damage.",
+      "translation": "•坏死伤害提高 +{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.65b17eccb6826a52",
+      "source": "•Grants x{number:n0} Disintegration Damage.",
+      "translation": "•瓦解伤害变为 x{number:n0}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.dba0af5cb46e5513",
+      "source": "•If you have at least {number:n0} Strength:",
+      "translation": "•如果你的力量至少为 {number:n0}：",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d465d215b75172fc",
+      "source": "Deals x{number:n0} Damage.",
+      "translation": "造成 x{number:n0} 伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d5d531c488ec7e0e",
+      "source": "•If you have at least {number:n0} Intelligence:",
+      "translation": "•如果你的智力至少为 {number:n0}：",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.2af08cac57fd9756",
+      "source": "Gains x{number:n0} Attack Speed.",
+      "translation": "攻击速度变为 x{number:n0}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.de9c734a1f957f34",
+      "source": "•If you have at least {number:n0} Dexterity:",
+      "translation": "•如果你的敏捷至少为 {number:n0}：",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.f926a836993edeec",
+      "source": "Gains +{number:n0}% Attack Speed.",
+      "translation": "攻击速度提高 +{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.5507cc9cfa8bb459",
+      "source": "•If you have Dashed in the past {number:n0} seconds:",
+      "translation": "•如果你在过去 {number:n0} 秒 内冲刺过：",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.025577e53a7b37df",
+      "source": "•On Dash, swaps Card.",
+      "translation": "•冲刺时切换卡牌。",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.0f92a76f940262fd",
+      "source": "Blue Card: Attacks recover {number:n0} Mana.",
+      "translation": "蓝牌：攻击恢复 {number:n0} 点法力。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.90065f821f7f12e8",
+      "source": "Red Card: Attacks deal area damage.",
+      "translation": "红牌：攻击造成范围伤害。",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.4b9db2581435aaa9",
+      "source": "Yellow Card: Attacks are homing.",
+      "translation": "黄牌：攻击会自动追踪。",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.523f9ce6ba2fdb76",
+      "source": "•Reduces Tally Thresholds by {number:n0}%.",
+      "translation": "•将计数阈值降低 {number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3cb9ef4a44c69b02",
+      "source": "(Tally Thresholds are rounded to full numbers.)",
+      "translation": "（计数阈值会取整。）",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.6448a4e26941c2dd",
+      "source": "•Each point of Dexterity additionally grants you +{number:n0} Power.",
+      "translation": "•每点敏捷额外使你获得 +{number:n0} 点威力。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.33135cd0af73b8d4",
+      "source": "(+{number:n0} currently)",
+      "translation": "（当前为 +{number:n0}）",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d8325afd0d274d15",
+      "source": "•Each point of Strength grants this Weapon +{number:n0}% Critical Hit Chance.",
+      "translation": "•每点威力使这件武器的暴击率提高 +{number:n0}%。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.b73209e22ae01bac",
+      "source": "(+{number:n0}% currently)",
+      "translation": "（当前为 +{number:n0}%）",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.65aecce02cc7d38d",
+      "source": "•Every {number:rate} second triggers a {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.194c9a914cf399b5",
+      "source": "•Every {number:rate} second triggers a {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.989b4ddb025292f9",
+      "source": "•Every {number:rate} second triggers a {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.07093c87a53e1d8f",
+      "source": "•Every {number:rate} second triggers a {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.764308187e8ae80a",
+      "source": "•Every {number:rate} second triggers a {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.68791af8faca5efd",
+      "source": "•Every {number:rate} second triggers a {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.82c888a4fa8fc536",
+      "source": "•Every {number:rate} second triggers a {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.5272c0b231cd2102",
+      "source": "•Every {number:rate} second triggers a {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e8b8f9d80512866e",
+      "source": "•Every {number:rate} second triggers an {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d82c3c7439e131b5",
+      "source": "•Every {number:rate} second triggers an {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.653fb33a0edbe568",
+      "source": "•Every {number:rate} second triggers an {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.5dfd579b3443b107",
+      "source": "•Every {number:rate} second triggers an {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.4e088eed9dba4c35",
+      "source": "•Every {number:rate} second triggers an {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e274fb1f458e96d4",
+      "source": "•Every {number:rate} second triggers an {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.15415374de26320c",
+      "source": "•Every {number:rate} second triggers an {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.6526313f0077af06",
+      "source": "•Every {number:rate} second triggers an {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.4a7b3cd4290fc686",
+      "source": "•Every {number:rate} second triggers {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.69fdb2aee04a1756",
+      "source": "•Every {number:rate} second triggers {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3b2ed67dcf48b5e7",
+      "source": "•Every {number:rate} second triggers {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.113db44bf6ef65ed",
+      "source": "•Every {number:rate} second triggers {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.996c77f5f1796d66",
+      "source": "•Every {number:rate} second triggers {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.5aeb1bb7801edacb",
+      "source": "•Every {number:rate} second triggers {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.89888ec43185fac8",
+      "source": "•Every {number:rate} second triggers {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.fc443a22925f126c",
+      "source": "•Every {number:rate} second triggers {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.bfebbf083a6b0344",
+      "source": "•Every {number:rate} second  triggers a {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d46ff28b59547944",
+      "source": "•Every {number:rate} second  triggers a {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.af141ad462646022",
+      "source": "•Every {number:rate} second  triggers a {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d8d1215ff6254943",
+      "source": "•Every {number:rate} second  triggers a {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.676602074d6de54b",
+      "source": "•Every {number:rate} second  triggers a {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ed360a15a1d333d2",
+      "source": "•Every {number:rate} second  triggers a {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.bab4ed3d78740ecb",
+      "source": "•Every {number:rate} second  triggers a {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.faed6c083da94078",
+      "source": "•Every {number:rate} second  triggers a {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.07b5aa9c220eaa2a",
+      "source": "•Every {number:rate} second  triggers an {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.acc1c8f370e117ab",
+      "source": "•Every {number:rate} second  triggers an {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.985e4b56dcae390d",
+      "source": "•Every {number:rate} second  triggers an {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.a0252e44feb0801c",
+      "source": "•Every {number:rate} second  triggers an {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.565b576e09739e85",
+      "source": "•Every {number:rate} second  triggers an {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.9e56d4a6c34f4b80",
+      "source": "•Every {number:rate} second  triggers an {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.c9a9386ed59e3fc0",
+      "source": "•Every {number:rate} second  triggers an {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.453b227b7e0812ea",
+      "source": "•Every {number:rate} second  triggers an {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e089abcf8e08c117",
+      "source": "•Every {number:rate} second  triggers {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.f1701ad1f2d7217b",
+      "source": "•Every {number:rate} second  triggers {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.44b73b689b3d4881",
+      "source": "•Every {number:rate} second  triggers {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.984d80e1fd85529b",
+      "source": "•Every {number:rate} second  triggers {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.66b7dbab1b12c86c",
+      "source": "•Every {number:rate} second  triggers {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.b468db495f44e1dd",
+      "source": "•Every {number:rate} second  triggers {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.2ad449f86b6ab67d",
+      "source": "•Every {number:rate} second  triggers {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.69df1aeb80244250",
+      "source": "•Every {number:rate} second  triggers {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.454aad16c6809c42",
+      "source": "•Every {number:rate} seconds triggers a {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.92df6e633698795a",
+      "source": "•Every {number:rate} seconds triggers a {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.04ae1f3c257f2fec",
+      "source": "•Every {number:rate} seconds triggers a {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.c4b685e8fe762051",
+      "source": "•Every {number:rate} seconds triggers a {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.651e803b4caf2887",
+      "source": "•Every {number:rate} seconds triggers a {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ca4aabff7c5343b9",
+      "source": "•Every {number:rate} seconds triggers a {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d741c7178850196d",
+      "source": "•Every {number:rate} seconds triggers a {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.faf1afa7beeb4965",
+      "source": "•Every {number:rate} seconds triggers a {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e7ae740fe56e76d1",
+      "source": "•Every {number:rate} seconds triggers an {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.22706296b01e0a99",
+      "source": "•Every {number:rate} seconds triggers an {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.9513bd1e22426f4e",
+      "source": "•Every {number:rate} seconds triggers an {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.9c91f63c4c410b84",
+      "source": "•Every {number:rate} seconds triggers an {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.1fec764ca76059fe",
+      "source": "•Every {number:rate} seconds triggers an {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.aab44bf28d60b785",
+      "source": "•Every {number:rate} seconds triggers an {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.04de032cbff7ebb9",
+      "source": "•Every {number:rate} seconds triggers an {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ddd5f2875b4208d2",
+      "source": "•Every {number:rate} seconds triggers an {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.a2f0bab8e0e7863f",
+      "source": "•Every {number:rate} seconds triggers {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.4997152459304f55",
+      "source": "•Every {number:rate} seconds triggers {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.7ec7823a932034bc",
+      "source": "•Every {number:rate} seconds triggers {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d6e257af764a3468",
+      "source": "•Every {number:rate} seconds triggers {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.7c454693caafd4e3",
+      "source": "•Every {number:rate} seconds triggers {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.813abc392761e262",
+      "source": "•Every {number:rate} seconds triggers {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.c92272720b1e7012",
+      "source": "•Every {number:rate} seconds triggers {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.841a7bc329a46305",
+      "source": "•Every {number:rate} seconds triggers {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.3420020dcf8bea71",
+      "source": "•Every {number:rate} seconds  triggers a {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.55f399d83e47bd33",
+      "source": "•Every {number:rate} seconds  triggers a {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.01568af2d03f2bf6",
+      "source": "•Every {number:rate} seconds  triggers a {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.645ecefc5492b5ce",
+      "source": "•Every {number:rate} seconds  triggers a {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.97d7a8b33467e32c",
+      "source": "•Every {number:rate} seconds  triggers a {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d72a935536b98039",
+      "source": "•Every {number:rate} seconds  triggers a {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.0c1be7a9f9650529",
+      "source": "•Every {number:rate} seconds  triggers a {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d91effbfe098d730",
+      "source": "•Every {number:rate} seconds  triggers a {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.705ac3e47bb3d23f",
+      "source": "•Every {number:rate} seconds  triggers an {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.dc3025fdeff7f658",
+      "source": "•Every {number:rate} seconds  triggers an {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.c8467eb65a3528c2",
+      "source": "•Every {number:rate} seconds  triggers an {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.627ca72b74f28d4a",
+      "source": "•Every {number:rate} seconds  triggers an {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.8af7f4f107765ba8",
+      "source": "•Every {number:rate} seconds  triggers an {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.1ab347892884ce08",
+      "source": "•Every {number:rate} seconds  triggers an {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.a94165798824dd67",
+      "source": "•Every {number:rate} seconds  triggers an {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.8f0a99b497f12419",
+      "source": "•Every {number:rate} seconds  triggers an {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.5edb7bb15cb88788",
+      "source": "•Every {number:rate} seconds  triggers {term:action} that deals {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.35e1881fb52004f0",
+      "source": "•Every {number:rate} seconds  triggers {term:action} that deals {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.180226bb1f68775b",
+      "source": "•Every {number:rate} seconds  triggers {term:action} that deals {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.df58e50de13b3725",
+      "source": "•Every {number:rate} seconds  triggers {term:action} that deals {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.c980c93a8fbc3c2d",
+      "source": "•Every {number:rate} seconds  triggers {term:action} that deal {term:damage} Damage.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.b17499674f53bf8c",
+      "source": "•Every {number:rate} seconds  triggers {term:action} that deal {term:damage} Damage. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.83cfefee5952d4d3",
+      "source": "•Every {number:rate} seconds  triggers {term:action} that deal {term:damage} Damage and inflicts {term:status}.",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.4c8cec345716d401",
+      "source": "•Every {number:rate} seconds  triggers {term:action} that deal {term:damage} Damage and inflicts {term:status}. [Tick]",
+      "translation": "•每 {number:rate} 秒触发{term:action}，造成{term:damage}伤害并施加{term:status}。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.2428ef91b2af830b",
+      "source": "•Each point of Strength grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点力量使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ce97ec91fc400299",
+      "source": "•Each point of Strength grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点力量使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.c355ef6791c7ed27",
+      "source": "•Each point of Strength grants you {number:amount} {term:stat}.",
+      "translation": "•每点力量使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.808544fc4bba54ad",
+      "source": "•Each point of Strength additionally grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点力量额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.ce046ba96f730263",
+      "source": "•Each point of Strength additionally grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点力量额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.932e818a8484b765",
+      "source": "•Each point of Strength additionally grants you {number:amount} {term:stat}.",
+      "translation": "•每点力量额外使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e6ae292c553bb2bd",
+      "source": "•Each point of Dexterity grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点敏捷使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e61f7fe83adc1ad6",
+      "source": "•Each point of Dexterity grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点敏捷使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e66962ea50568854",
+      "source": "•Each point of Dexterity grants you {number:amount} {term:stat}.",
+      "translation": "•每点敏捷使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.100473a4af7b4072",
+      "source": "•Each point of Dexterity additionally grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点敏捷额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.5d6974aaf8412a49",
+      "source": "•Each point of Dexterity additionally grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点敏捷额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.7486b2206d31ad94",
+      "source": "•Each point of Dexterity additionally grants you {number:amount} {term:stat}.",
+      "translation": "•每点敏捷额外使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.20b78a314700331f",
+      "source": "•Each point of Intelligence grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点智力使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d88d1313c6c7d25e",
+      "source": "•Each point of Intelligence grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点智力使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.25f5606802af7de6",
+      "source": "•Each point of Intelligence grants you {number:amount} {term:stat}.",
+      "translation": "•每点智力使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d795950151f959dd",
+      "source": "•Each point of Intelligence additionally grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点智力额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.71beea0f84e05f23",
+      "source": "•Each point of Intelligence additionally grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点智力额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e3d3c45d8e9bd012",
+      "source": "•Each point of Intelligence additionally grants you {number:amount} {term:stat}.",
+      "translation": "•每点智力额外使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.a347b15d5c7915e3",
+      "source": "•Each point of 力量 grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点力量使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.791082a76e4082d4",
+      "source": "•Each point of 力量 grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点力量使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.98ece32bd0011f14",
+      "source": "•Each point of 力量 grants you {number:amount} {term:stat}.",
+      "translation": "•每点力量使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.f623ef3cc2daec47",
+      "source": "•Each point of 力量 additionally grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点力量额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.da65a4b991ebd89b",
+      "source": "•Each point of 力量 additionally grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点力量额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.9dd9c73df5545b3e",
+      "source": "•Each point of 力量 additionally grants you {number:amount} {term:stat}.",
+      "translation": "•每点力量额外使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.83fd6ad58b54d37f",
+      "source": "•Each point of 敏捷 grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点敏捷使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.0578424e1635a6a2",
+      "source": "•Each point of 敏捷 grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点敏捷使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.7d090cf5e1ebb406",
+      "source": "•Each point of 敏捷 grants you {number:amount} {term:stat}.",
+      "translation": "•每点敏捷使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.bed9aae2211cfd71",
+      "source": "•Each point of 敏捷 additionally grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点敏捷额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.b3be66734ac6fc21",
+      "source": "•Each point of 敏捷 additionally grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点敏捷额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.d744beb26036c7b0",
+      "source": "•Each point of 敏捷 additionally grants you {number:amount} {term:stat}.",
+      "translation": "•每点敏捷额外使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.4c8368ad241d8eed",
+      "source": "•Each point of 智力 grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点智力使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.70224ded78930b19",
+      "source": "•Each point of 智力 grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点智力使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.0845290880bda4cf",
+      "source": "•Each point of 智力 grants you {number:amount} {term:stat}.",
+      "translation": "•每点智力使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.602da0fdb3d91ff9",
+      "source": "•Each point of 智力 additionally grants this Weapon {number:amount} {term:stat}.",
+      "translation": "•每点智力额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.049983e65c5ac3de",
+      "source": "•Each point of 智力 additionally grants this 武器 {number:amount} {term:stat}.",
+      "translation": "•每点智力额外使这件武器获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.f9853e5298e96134",
+      "source": "•Each point of 智力 additionally grants you {number:amount} {term:stat}.",
+      "translation": "•每点智力额外使你获得{number:amount}{term:stat}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.86430b177b8c9dc9",
+      "source": "•Grants a {term:companion} Companion.",
+      "translation": "•获得一名{term:companion}伙伴。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.e7746c69051e156e",
+      "source": "•Grants a {term:companion} 伙伴.",
+      "translation": "•获得一名{term:companion}伙伴。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.b7e9493ae56690fe",
+      "source": "•Attacking with this Weapon drains {number:n} Stamina per Second.",
+      "translation": "•使用这件武器攻击时，每秒消耗 {number:n} 点体力。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.09e2b36bbf940006",
+      "source": "•Attacking with this 武器 drains {number:n} 体力 per Second.",
+      "translation": "•使用这件武器攻击时，每秒消耗 {number:n} 点体力。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.21bbb7c3ba411705",
+      "source": "•Gains +{number:n} Upgrade Level per Aura you have. ",
+      "translation": "•每拥有一个光环，升级等级增加 +{number:n}。 ",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.27cdec8c860ca8cc",
+      "source": "•On the Tally of {number:n} Attacks,",
+      "translation": "•每累计 {number:n} 次攻击，",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.runtime.b2fd33fabc7c5216",
+      "source": "triggers {term:action}.",
+      "translation": "触发{term:action}。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.49798d0d6a229a07",
+      "source": "Each Grants: {text:stat}",
+      "translation": "每名伙伴提供：{text:stat}",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.adaee27a5da9c505",
+      "source": "Chain 闪电",
+      "translation": "连锁闪电",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.fd9b4e5c6bdfa87a",
+      "source": "Chain 能量",
+      "translation": "连锁能量",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.28cac70d77d72f05",
+      "source": "闪电 Bolts",
+      "translation": "闪电箭",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.d442a35eb55bb804",
+      "source": "闪电 Bolt",
+      "translation": "闪电箭",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.e504e53fd0a9e4fe",
+      "source": "闪电 Strike",
+      "translation": "雷击",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.280c13f9ca2634e4",
+      "source": "燃烧 Damage",
+      "translation": "灼烧伤害",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.8ce586bac15d194e",
+      "source": "DNA Splice",
+      "translation": "基因拼接",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.1a771583ad116a94",
+      "source": "DNA 拼接",
+      "translation": "基因拼接",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.bd95d4bad382442d",
+      "source": "•On Attack, triggers a {term:action} that deals {term:damage} Damage.",
+      "translation": "•攻击时触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.61c786ce75937b6d",
+      "source": "•On Attack, triggers a {term:action} that deal {term:damage} Damage.",
+      "translation": "•攻击时触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.bd5c85f284154b3f",
+      "source": "•On Attack, triggers an {term:action} that deals {term:damage} Damage.",
+      "translation": "•攻击时触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.9602ddd79e309c49",
+      "source": "•On Attack, triggers an {term:action} that deal {term:damage} Damage.",
+      "translation": "•攻击时触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.98daa870e3bfca32",
+      "source": "•On Attack, triggers {term:action} that deals {term:damage} Damage.",
+      "translation": "•攻击时触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.9cc902ebb0d75aba",
+      "source": "•On Attack, triggers {term:action} that deal {term:damage} Damage.",
+      "translation": "•攻击时触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "dynamic.fix.f6f0b7dcaed7b70b",
+      "source": "•Triggers a {term:action} that deals {term:damage} Damage.",
+      "translation": "•触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "name.runtime.f42ad617c0be651c",
+      "source": "Wild Shape - Bear - Claw",
+      "translation": "野性变身：熊爪",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.64ec34856b4abae6",
+      "source": "Wild Shape - Monkey - Bananarang",
+      "translation": "野性变身：香蕉回旋镖",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.9abd3401dfedbf06",
+      "source": "Wild Shape - Owl - Beam",
+      "translation": "野性变身：猫头鹰光束",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.cbaa7d8f466228d9",
+      "source": "Rainbow Staff",
+      "translation": "彩虹法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.d700c67f49df4d19",
+      "source": "Dragons Breath",
+      "translation": "龙息",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.55dbd51aad038fcb",
+      "source": "Axe Of Despair",
+      "translation": "绝望之斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.b522cd5f565feca8",
+      "source": "Misfits Sword",
+      "translation": "异类之剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.8354f1b4d9ecc173",
+      "source": "Reapers Toll",
+      "translation": "收割者的丧钟",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.b0fbfd52dd082f5a",
+      "source": "Tri Chakrams",
+      "translation": "三轮刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.040b5925330b5b92",
+      "source": "VBFG",
+      "translation": "VBFG",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.66609044e9ef668a",
+      "source": "Frostbringer (Hero Sword Evolution)",
+      "translation": "霜寒使者（英雄之剑进化）",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.7353c8cce2c4086c",
+      "source": "Infernobringer (Hero Sword Evolution)",
+      "translation": "地狱使者（英雄之剑进化）",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.7037755e52f7ebfd",
+      "source": "Lightbringer (Hero Sword Evolution)",
+      "translation": "光明使者（英雄之剑进化）",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.f8f5ac8ce96a766b",
+      "source": "Plaguebringer (Hero Sword Evolution)",
+      "translation": "瘟疫使者（英雄之剑进化）",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.4d2389518fbb0f86",
+      "source": "Shadowbringer (Hero Sword Evolution)",
+      "translation": "暗影使者（英雄之剑进化）",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    },
+    {
+      "id": "name.runtime.237aa4782a4d195c",
+      "source": "Stormbringer (Hero Sword Evolution)",
+      "translation": "风暴使者（英雄之剑进化）",
+      "context": "*",
+      "kind": "exact",
+      "status": "reviewed",
+      "note": "0.2.8.6 原生 NameTag 输出；与资源字段英文的大小写、标点及形态说明不同。VBFG 保留原名缩写。"
+    }
+  ]
+}

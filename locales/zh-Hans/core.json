@@ -421,7 +421,7 @@
     {
       "id": "core.f972de7365a4",
       "source": "Damage Scaling",
-      "translation": "伤害成长",
+      "translation": "属性补正",
       "context": "*",
       "kind": "exact",
       "status": "translated",

@@ -7,7 +7,7 @@
     {
       "id": "mechanic.a3a6e90a3d85cc8435cf",
       "source": " (#x0) Cold Damage",
-      "translation": " 冰霜伤害(#x0)",
+      "translation": " (#x0) 冰冷伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -19,7 +19,7 @@
     {
       "id": "mechanic.5e7f4abd19d45ff6a3ec",
       "source": " (#x0) Cold Damage to Weapon</i>",
-      "translation": " 武器附加冰霜伤害(#x0)</i>",
+      "translation": " (#x0) 武器附加冰冷伤害</i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -32,7 +32,7 @@
     {
       "id": "mechanic.1d6f89365a7ac9d8102f",
       "source": " (#x0) Cold Damage to Weapons",
-      "translation": " 武器附加冰霜伤害(#x0)",
+      "translation": " (#x0) 武器附加冰冷伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -44,7 +44,7 @@
     {
       "id": "mechanic.e782e980e6fdc5f9441e",
       "source": " (#x0) Cold Damage.",
-      "translation": " 冰霜伤害(#x0)。",
+      "translation": " 冰冷伤害(#x0)。",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -56,7 +56,7 @@
     {
       "id": "mechanic.ad0abd7c860462963aad",
       "source": " (#x0) Dark Damage",
-      "translation": " 暗影伤害(#x0)",
+      "translation": " (#x0) 暗影伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -68,7 +68,7 @@
     {
       "id": "mechanic.bbf9a0c21fbe1c859226",
       "source": " (#x0) Dark Damage to Attacks",
-      "translation": " 攻击附加暗影伤害(#x0)",
+      "translation": " (#x0) 攻击附加暗影伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -94,7 +94,7 @@
     {
       "id": "mechanic.af3b2cfe935b2469391e",
       "source": " (#x0) Fire Damage",
-      "translation": " 火焰伤害(#x0)",
+      "translation": " (#x0) 火焰伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -106,7 +106,7 @@
     {
       "id": "mechanic.44004218bc737e854272",
       "source": " (#x0) Fire Damage to Melee Weapon",
-      "translation": " 近战武器附加火焰伤害(#x0)",
+      "translation": " (#x0) 近战武器附加火焰伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -118,7 +118,7 @@
     {
       "id": "mechanic.283045fb8a805ed186d1",
       "source": " (#x0) Fire Damage to Weapon</i>",
-      "translation": " 武器附加火焰伤害(#x0)</i>",
+      "translation": " (#x0) 武器附加火焰伤害</i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -131,7 +131,7 @@
     {
       "id": "mechanic.eeb4dc837d28b934567c",
       "source": " (#x0) Fire Damage to Weapons",
-      "translation": " 武器附加火焰伤害(#x0)",
+      "translation": " (#x0) 武器附加火焰伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -155,7 +155,7 @@
     {
       "id": "mechanic.2a892684e7d5d26fb690",
       "source": " (#x0) Lightning Damage",
-      "translation": " 雷电伤害(#x0)",
+      "translation": " (#x0) 雷电伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -167,7 +167,7 @@
     {
       "id": "mechanic.917eee1b570a400ffdee",
       "source": " (#x0) Lightning Damage to Weapon</i>",
-      "translation": " 武器附加雷电伤害(#x0)</i>",
+      "translation": " (#x0) 武器附加雷电伤害</i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -180,7 +180,7 @@
     {
       "id": "mechanic.f6badf0a592446079bf5",
       "source": " (#x0) Lightning Damage to Weapons",
-      "translation": " 武器附加雷电伤害(#x0)",
+      "translation": " (#x0) 武器附加雷电伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -205,7 +205,7 @@
     {
       "id": "mechanic.ec1a88bcd5bf0b5ef69d",
       "source": " (#x0) Necrotic Damage",
-      "translation": " 死灵伤害(#x0)",
+      "translation": " (#x0) 死灵伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -217,7 +217,7 @@
     {
       "id": "mechanic.c5ac00c686f1daf1aff2",
       "source": " (#x0) Necrotic Damage to Melee Weapon",
-      "translation": " 近战武器附加死灵伤害(#x0)",
+      "translation": " (#x0) 近战武器附加死灵伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -229,7 +229,7 @@
     {
       "id": "mechanic.5a2690b2045636288635",
       "source": " (#x0) Poison //Damage to Weapon</i>",
-      "translation": " 武器附加中毒 //伤害(#x0)</i>",
+      "translation": " (#x0) 武器附加中毒 //伤害</i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -242,7 +242,7 @@
     {
       "id": "mechanic.7d1d240b2a65a1b6c877",
       "source": " (#x0) Poison Damage",
-      "translation": " 中毒伤害(#x0)",
+      "translation": " (#x0) 中毒伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -254,7 +254,7 @@
     {
       "id": "mechanic.0417d08c0a7f6e3340b9",
       "source": " (#x0) Poison Damage to Weapons",
-      "translation": " 武器附加中毒伤害(#x0)",
+      "translation": " (#x0) 武器附加中毒伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -266,7 +266,7 @@
     {
       "id": "mechanic.a11517afe6c8dcfe29c7",
       "source": " (#x0) Radiant Damage",
-      "translation": " 光辉伤害(#x0)",
+      "translation": " (#x0) 光辉伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -290,7 +290,7 @@
     {
       "id": "mechanic.9ac82d2e7fca52d40a4c",
       "source": " (#x0) Radiant Damage to Melee Weapon",
-      "translation": " 近战武器附加光辉伤害(#x0)",
+      "translation": " (#x0) 近战武器附加光辉伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -315,7 +315,7 @@
     {
       "id": "mechanic.1f94ffecc1aeb9d7b6d6",
       "source": " (#x0) Thrusting Damage to Melee Attacks",
-      "translation": " 近战攻击附加穿刺伤害(#x0)",
+      "translation": " (#x0) 近战攻击附加穿刺伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -327,7 +327,7 @@
     {
       "id": "mechanic.9f37ddc76b58934249b5",
       "source": " (#x0) to Melee Physical Damage",
-      "translation": " 近战物理伤害(#x0)",
+      "translation": " (#x0) 近战物理伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -339,7 +339,7 @@
     {
       "id": "mechanic.eca485a26d6659551b4c",
       "source": " (#x0) to Physical Damage",
-      "translation": " 物理伤害(#x0)",
+      "translation": " (#x0) 物理伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -351,7 +351,7 @@
     {
       "id": "mechanic.a5e6d072699af986d41c",
       "source": " (#x0) to Ranged Physical Damage",
-      "translation": " 远程物理伤害(#x0)",
+      "translation": " (#x0) 远程物理伤害",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -831,7 +831,7 @@
     {
       "id": "mechanic.24ca9f46dff693ca5094",
       "source": "(*)(+x0%) Cold Damage",
-      "translation": "(*)冰霜伤害(+x0%)",
+      "translation": "(*)冰冷伤害(+x0%)",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -2359,11 +2359,11 @@
     {
       "id": "mechanic.a8a9de19e62f109383d8",
       "source": "(*)(x0) missing Armor<Armor>",
-      "translation": "(*)缺失护甲<Armor>(x0)",
+      "translation": "(*)(x0) 缺失护甲<Armor>",
       "context": "description-template",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "仅有 missing Armor 数值标签；是否获得空护甲格或改变当前缺失量，需要对应字段与原生完整文本确认。",
+      "status": "translated",
+      "note": "已在 0.2.8.6 的 Bucket / Cultist Hood 完整装备卡确认原文和数值。按 missing 直译为“缺失”，不解释为治疗、修复或可用容量。",
       "protectedTokens": [
         "(*)",
         "(x0)",
@@ -2373,11 +2373,11 @@
     {
       "id": "mechanic.47d827b733570020ecef",
       "source": "(*)(x0) missing Heart<Heart>",
-      "translation": "(*)缺失红心<Heart>(x0)",
+      "translation": "(*)(x0) 缺失红心<Heart>",
       "context": "description-template",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "仅有 missing Heart 数值标签；不能据此译为治疗，需确认是否指新增空红心格、失去红心或缺失量。",
+      "status": "translated",
+      "note": "已在 0.2.8.6 的 Bucket / Cultist Hood 完整装备卡确认原文和数值。按 missing 直译为“缺失”，不解释为治疗、修复或可用容量。",
       "protectedTokens": [
         "(*)",
         "(x0)",
@@ -4095,7 +4095,7 @@
     {
       "id": "mechanic.5da70d64247a2ace8348",
       "source": "(*)<i>(xx0) Cold Damage against Burning Enemies</i>",
-      "translation": "(*)<i>对燃烧敌人的冰霜伤害(xx0)</i>",
+      "translation": "(*)<i>对燃烧敌人的冰冷伤害(xx0)</i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -4784,7 +4784,7 @@
       "context": "description-template",
       "kind": "exact",
       "status": "needs-review",
-      "note": "Gain missing Heart 不足以证明是恢复生命；当前改为中性“缺失红心”，等待字段机制确认。建议 needs-review。",
+      "note": "Gain missing Heart 不足以证明是恢复生命；当前改为中性“缺失红心”，等待字段机制确认。建议 needs-review。；此次重译仍需确认计算语义，未启用。",
       "protectedTokens": [
         "(*)",
         "(br)",
@@ -6300,7 +6300,7 @@
       "context": "description-template",
       "kind": "exact",
       "status": "needs-review",
-      "note": "Gain missing Hearts 不足以证明是恢复生命；当前改为中性“缺失红心”，等待字段机制确认。建议 needs-review。",
+      "note": "Gain missing Hearts 不足以证明是恢复生命；当前改为中性“缺失红心”，等待字段机制确认。建议 needs-review。；此次重译仍需确认计算语义，未启用。",
       "protectedTokens": [
         "(*)",
         "(br)",
@@ -6843,7 +6843,7 @@
     {
       "id": "mechanic.d9a4a2b2029e7a2cd0a9",
       "source": "(+x0%) Cold Damage",
-      "translation": "冰霜伤害(+x0%)",
+      "translation": "冰冷伤害(+x0%)",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",

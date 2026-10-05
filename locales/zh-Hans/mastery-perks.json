@@ -736,7 +736,7 @@
     {
       "id": "progression.asset.af850aa35faa02f5b477.display",
       "source": "Stamina Scout",
-      "translation": "耐力侦察员",
+      "translation": "体力侦察员",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1651,7 +1651,7 @@
     {
       "id": "progression.asset.cb879e29e7443a901a72",
       "source": "When Stamina<Stamina> is drained, instead of ((emptying)) Stamina Recovery<Stamina> progress, the Stamina Recovery<Stamina> progress is [[halved]].",
-      "translation": "耐力<Stamina>耗尽时，耐力恢复<Stamina>进度不再((清空))，耐力恢复<Stamina>进度只会[[减半]]。",
+      "translation": "体力<Stamina>耗尽时，体力恢复<Stamina>进度不再((清空))，体力恢复<Stamina>进度只会[[减半]]。",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -1715,7 +1715,7 @@
     {
       "id": "progression.asset.5bf1d491b6b96d42498f",
       "source": "On the first 3 Floors: \nEquipment items that grant Stamina<Stamina> or Stamina Recovery Speed<Stamina> are [[x2.00]] more ##common.",
-      "translation": "在前 3 层： \n提供耐力<Stamina>或耐力恢复速度<Stamina>的装备出现频率乘以 [[x2.00]]，更为##常见。",
+      "translation": "在前 3 层： \n提供体力<Stamina>或体力恢复速度<Stamina>的装备出现频率乘以 [[x2.00]]，更为##常见。",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1949,7 +1949,7 @@
     {
       "id": "progression.asset.3ad56da2922b38016f8a",
       "source": "While on full Stamina<Stamina>, your Hitbox is [[smaller]].",
-      "translation": "耐力<Stamina>全满时，你的判定范围[[更小]]。",
+      "translation": "体力<Stamina>全满时，你的判定范围[[更小]]。",
       "context": "*",
       "kind": "exact",
       "status": "translated",

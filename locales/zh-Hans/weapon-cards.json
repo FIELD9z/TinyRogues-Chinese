@@ -1,0 +1,1688 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "武器属性卡与拾取教程",
+  "priority": 10,
+  "entries": [
+    {
+      "id": "deep.7f345e1453190c32",
+      "source": "Weapon Type:",
+      "translation": "武器类型：",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.15825fb08a71e4db",
+      "source": "Weapon Range:",
+      "translation": "攻击范围：",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.25b254f62380ddaf",
+      "source": "Damage Scaling:",
+      "translation": "属性补正：",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.1bcb04bbfc38c428",
+      "source": "Attack Damage:",
+      "translation": "攻击伤害：",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.f20b08cb9dcc08f1",
+      "source": "Attack Speed:",
+      "translation": "攻击速度：",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.301b22a3565db4fa",
+      "source": "to",
+      "translation": "至",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.58e7d68da9974f31",
+      "source": "Common",
+      "translation": "普通",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.237a3d7f998c8f6e",
+      "source": "Common",
+      "translation": "普通",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.4fe35ab40095ec32",
+      "source": "Uncommon",
+      "translation": "优秀",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.fbe6eb1da9db2d4a",
+      "source": "Uncommon",
+      "translation": "优秀",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.c6d17238d8489153",
+      "source": "Rare",
+      "translation": "稀有",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.d3cc01957cd31a5f",
+      "source": "Rare",
+      "translation": "稀有",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.430b93b8970ea945",
+      "source": "Epic",
+      "translation": "史诗",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e9e084986973be16",
+      "source": "Epic",
+      "translation": "史诗",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.7a8bf75a2355cf6e",
+      "source": "Legendary",
+      "translation": "传说",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.1817972048f81474",
+      "source": "Legendary",
+      "translation": "传说",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a2ec92d56b93574c",
+      "source": "Unique",
+      "translation": "独特",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b5b3eea0f23e638a",
+      "source": "Unique",
+      "translation": "独特",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.d4ece4e87f3936ab",
+      "source": "Melee",
+      "translation": "近战",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.60011e91af07f9c6",
+      "source": "Melee",
+      "translation": "近战",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.4a6ebaa9eb8d396c",
+      "source": "Ranged",
+      "translation": "远程",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.5f17f4f69e0e1d0d",
+      "source": "Ranged",
+      "translation": "远程",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.4ff688bed8c1b62d",
+      "source": "Magic",
+      "translation": "魔法",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.06aba7dd3b59c0ef",
+      "source": "Magic",
+      "translation": "魔法",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.aa3dd492da40e6e7",
+      "source": "Two-Handed",
+      "translation": "双手",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.f4a031f96f8acdce",
+      "source": "Two-Handed",
+      "translation": "双手",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.abd3cec3e89f04b5",
+      "source": "One-Handed",
+      "translation": "单手",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b0592b50ab81acda",
+      "source": "One-Handed",
+      "translation": "单手",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.769a67745c8d386e",
+      "source": "Very Far",
+      "translation": "极远",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.38e06c2d3183d6d1",
+      "source": "Very Far",
+      "translation": "极远",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a4b7c014352dc0a0",
+      "source": "Far",
+      "translation": "远",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.36a4331beb55d1c6",
+      "source": "Far",
+      "translation": "远",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.31509f7e3253148f",
+      "source": "Medium",
+      "translation": "中等",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.30f6e4e045883525",
+      "source": "Medium",
+      "translation": "中等",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.55570221444abd9f",
+      "source": "Short",
+      "translation": "短",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e9b6a352c135b62f",
+      "source": "Short",
+      "translation": "短",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.18999dfa75e647ab",
+      "source": "Very Short",
+      "translation": "极短",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ff92e024debba416",
+      "source": "Very Short",
+      "translation": "极短",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.084f8d0d31719bb1",
+      "source": "VeryFar",
+      "translation": "极远",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.1e5fda33903fcc69",
+      "source": "VeryFar",
+      "translation": "极远",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.1f8db889c165930c",
+      "source": "VeryShort",
+      "translation": "极短",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b825e3ca214710cc",
+      "source": "VeryShort",
+      "translation": "极短",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.9a9327c9f2f8a9b6",
+      "source": "Striking",
+      "translation": "打击",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.3ae46a049d1e1b66",
+      "source": "Striking",
+      "translation": "打击",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.c97c92754e963d5f",
+      "source": "Slashing",
+      "translation": "斩击",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.39612ca678b93c85",
+      "source": "Slashing",
+      "translation": "斩击",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.79c55dc1ce13065e",
+      "source": "Thrusting",
+      "translation": "穿刺",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.17b0d66d9730d7d2",
+      "source": "Thrusting",
+      "translation": "穿刺",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.70048ae0909cf4a8",
+      "source": "Fire",
+      "translation": "火焰",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.763ad778e4837a13",
+      "source": "Fire",
+      "translation": "火焰",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.37a5d5e6e782ba57",
+      "source": "Cold",
+      "translation": "冰冷",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a992fd7367ee3267",
+      "source": "Cold",
+      "translation": "冰冷",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.52336861f91cbd29",
+      "source": "Lightning",
+      "translation": "闪电",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.28e23daab74fb728",
+      "source": "Lightning",
+      "translation": "闪电",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.3c3bb46295e8ef7e",
+      "source": "Poison",
+      "translation": "毒素",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.12d284eef4297097",
+      "source": "Poison",
+      "translation": "毒素",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a146ee0ed0f30243",
+      "source": "Radiant",
+      "translation": "光辉",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.d0cf21d2b58c991f",
+      "source": "Radiant",
+      "translation": "光辉",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b2525c4af5aa7a84",
+      "source": "Dark",
+      "translation": "黑暗",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.4c2faa805f16e47b",
+      "source": "Dark",
+      "translation": "黑暗",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.200db7c4d87aecca",
+      "source": "Nature",
+      "translation": "自然",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.345e8a07254500d2",
+      "source": "Nature",
+      "translation": "自然",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.1a7cc6010206a07a",
+      "source": "Sound",
+      "translation": "音波",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.4491425da9150a34",
+      "source": "Sound",
+      "translation": "音波",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b7da609ec943a1d0",
+      "source": "Necrotic",
+      "translation": "死灵",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.73a9e9d8e136b031",
+      "source": "Necrotic",
+      "translation": "死灵",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.d2ac04aeb100c599",
+      "source": "Explosion",
+      "translation": "爆炸",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.81a4d5dce5366840",
+      "source": "Explosion",
+      "translation": "爆炸",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.fa7b33564f6fe677",
+      "source": "Energy",
+      "translation": "能量",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.c15ac6fae6ddfb43",
+      "source": "Energy",
+      "translation": "能量",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.cf3eb549e46e7c7c",
+      "source": "Physical",
+      "translation": "物理",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.eca052e7c4a406cd",
+      "source": "Physical",
+      "translation": "物理",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.3bb982563057b77d",
+      "source": "Magical",
+      "translation": "魔法",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.2841373c3e299f56",
+      "source": "Magical",
+      "translation": "魔法",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.25bf0d15d97d83f5",
+      "source": "Crystal",
+      "translation": "水晶",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.3dd3afe50a5601f9",
+      "source": "Crystal",
+      "translation": "水晶",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.f359f123655f6199",
+      "source": "Bow",
+      "translation": "弓",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.71d8062e75c7c37a",
+      "source": "Bow",
+      "translation": "弓",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.6bec710e325d1c09",
+      "source": "Sword",
+      "translation": "剑",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.6b8a0118afa434d9",
+      "source": "Sword",
+      "translation": "剑",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.37459487e2d5ebe7",
+      "source": "Wand",
+      "translation": "魔杖",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.466556e6cc75bd62",
+      "source": "Wand",
+      "translation": "魔杖",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.dc8d34bf3c787d0a",
+      "source": "Staff",
+      "translation": "法杖",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.0370287a2329003f",
+      "source": "Staff",
+      "translation": "法杖",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.f0f74eb37bb6edfd",
+      "source": "Scepter",
+      "translation": "权杖",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.71d7c85fb166c910",
+      "source": "Scepter",
+      "translation": "权杖",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.637e96e815125944",
+      "source": "Tome",
+      "translation": "魔典",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a513c0fca4c5ccf0",
+      "source": "Tome",
+      "translation": "魔典",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a20e1eaeb67d1442",
+      "source": "Bible",
+      "translation": "圣经",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.6af0bffca2157b3f",
+      "source": "Bible",
+      "translation": "圣经",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.5ff22026580c835a",
+      "source": "Scroll",
+      "translation": "卷轴",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.bcd390d2c4607ce0",
+      "source": "Scroll",
+      "translation": "卷轴",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.f76631bfa35c65ce",
+      "source": "Codex",
+      "translation": "法典",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.44fc4f41c063990d",
+      "source": "Codex",
+      "translation": "法典",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.6f31958091498474",
+      "source": "Gun",
+      "translation": "枪械",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e006ef1bbf370829",
+      "source": "Gun",
+      "translation": "枪械",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e5470ddc6fa651a3",
+      "source": "Crossbow",
+      "translation": "弩",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e90c4dd519ce3ade",
+      "source": "Crossbow",
+      "translation": "弩",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ad20e43c0a45ff67",
+      "source": "Dagger",
+      "translation": "匕首",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.cdbfd5d559390884",
+      "source": "Dagger",
+      "translation": "匕首",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.39130254208416ba",
+      "source": "Axe",
+      "translation": "斧",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.cc62b3369aef247f",
+      "source": "Axe",
+      "translation": "斧",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.7e75d0aad0ab5073",
+      "source": "Hammer",
+      "translation": "锤",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.0060053a0a0b3415",
+      "source": "Hammer",
+      "translation": "锤",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.dbcf2f5269a621d3",
+      "source": "Spear",
+      "translation": "矛",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.078d3fb32c2fd492",
+      "source": "Spear",
+      "translation": "矛",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.725b5f6d7b0a6c7d",
+      "source": "Lance",
+      "translation": "骑枪",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.22c50cf901b8cdfe",
+      "source": "Lance",
+      "translation": "骑枪",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.af696ab4a80f7e7a",
+      "source": "Scythe",
+      "translation": "镰刀",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ad41681ace8df513",
+      "source": "Scythe",
+      "translation": "镰刀",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.03e05c49d5ecf0a0",
+      "source": "Sickle",
+      "translation": "短镰",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.733f0b107254dccf",
+      "source": "Sickle",
+      "translation": "短镰",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.dadb3879c5be147e",
+      "source": "Whip",
+      "translation": "鞭",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.42e1c7a4da9b4f20",
+      "source": "Whip",
+      "translation": "鞭",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.5cadfec2b2de05db",
+      "source": "Flail",
+      "translation": "连枷",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.dcede0035d1a6239",
+      "source": "Flail",
+      "translation": "连枷",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.995a3e3757fe003d",
+      "source": "Mace",
+      "translation": "钉头锤",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.6801a4ff38593563",
+      "source": "Mace",
+      "translation": "钉头锤",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.78d16f00cfaa14cf",
+      "source": "Boomerang",
+      "translation": "回旋镖",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.aa77d3f1acb46999",
+      "source": "Boomerang",
+      "translation": "回旋镖",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.12de82ad779dbbb9",
+      "source": "Throwing Knife",
+      "translation": "飞刀",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.2a422ef37a1a2fc3",
+      "source": "Throwing Knife",
+      "translation": "飞刀",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.1642af654d37cc39",
+      "source": "Shuriken",
+      "translation": "手里剑",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ddd3b3b669f05a43",
+      "source": "Shuriken",
+      "translation": "手里剑",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.9f167f0270e99391",
+      "source": "Chakram",
+      "translation": "轮刃",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.619e5ee00509779c",
+      "source": "Chakram",
+      "translation": "轮刃",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.c8bc2a691172ddbb",
+      "source": "Instrument",
+      "translation": "乐器",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.3dbfebd2cd11cdd2",
+      "source": "Instrument",
+      "translation": "乐器",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.34c8fc46da4a6685",
+      "source": "One Handed Sword",
+      "translation": "单手剑",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b32a736cdbf7093c",
+      "source": "One Handed Sword",
+      "translation": "单手剑",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ff0a9e5498edce4e",
+      "source": "Two Handed Sword",
+      "translation": "双手剑",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.58a276c00d83dece",
+      "source": "Two Handed Sword",
+      "translation": "双手剑",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b8578945c29229f5",
+      "source": "One Handed Axe",
+      "translation": "单手斧",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a87de5978aeb5e0d",
+      "source": "One Handed Axe",
+      "translation": "单手斧",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.99ff357862dfd578",
+      "source": "Two Handed Axe",
+      "translation": "双手斧",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.91559394357a2641",
+      "source": "Two Handed Axe",
+      "translation": "双手斧",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.20989ebf120c7436",
+      "source": "One Handed Hammer",
+      "translation": "单手锤",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e9a4dd712c2972b5",
+      "source": "One Handed Hammer",
+      "translation": "单手锤",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a7f4cec6f27942f9",
+      "source": "Two Handed Hammer",
+      "translation": "双手锤",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.d11820745f87523b",
+      "source": "Two Handed Hammer",
+      "translation": "双手锤",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.7f5245fc5a6761da",
+      "source": "Pick Up",
+      "translation": "拾取",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.1d479e07f4b4db5a",
+      "source": "Details",
+      "translation": "详情",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.21921cfc2f79e777",
+      "source": "Pick up items with <color=#FCC926>{key:pickup}</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>{key:inventory}</color>.\n<color=#A61FFF>Drag and drop, or right-click</color> the\nweapon to <color=#FCC926>equip</color> it.",
+      "translation": "按 <color=#FCC926>{key:pickup}</color> 拾取物品，\n按 <color=#FCC926>{key:inventory}</color> 打开<color=#FCC926>背包</color>。\n<color=#A61FFF>拖放武器，或右键点击</color>\n武器即可<color=#FCC926>装备</color>。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "deep.237a3d7f998c8f6e-value",
+      "source": "Common",
+      "translation": "普通",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.fbe6eb1da9db2d4a-value",
+      "source": "Uncommon",
+      "translation": "优秀",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.d3cc01957cd31a5f-value",
+      "source": "Rare",
+      "translation": "稀有",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e9e084986973be16-value",
+      "source": "Epic",
+      "translation": "史诗",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.1817972048f81474-value",
+      "source": "Legendary",
+      "translation": "传说",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b5b3eea0f23e638a-value",
+      "source": "Unique",
+      "translation": "独特",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.60011e91af07f9c6-value",
+      "source": "Melee",
+      "translation": "近战",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.5f17f4f69e0e1d0d-value",
+      "source": "Ranged",
+      "translation": "远程",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.06aba7dd3b59c0ef-value",
+      "source": "Magic",
+      "translation": "魔法",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.f4a031f96f8acdce-value",
+      "source": "Two-Handed",
+      "translation": "双手",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b0592b50ab81acda-value",
+      "source": "One-Handed",
+      "translation": "单手",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.38e06c2d3183d6d1-value",
+      "source": "Very Far",
+      "translation": "极远",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.36a4331beb55d1c6-value",
+      "source": "Far",
+      "translation": "远",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.30f6e4e045883525-value",
+      "source": "Medium",
+      "translation": "中等",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e9b6a352c135b62f-value",
+      "source": "Short",
+      "translation": "短",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ff92e024debba416-value",
+      "source": "Very Short",
+      "translation": "极短",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.1e5fda33903fcc69-value",
+      "source": "VeryFar",
+      "translation": "极远",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b825e3ca214710cc-value",
+      "source": "VeryShort",
+      "translation": "极短",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.3ae46a049d1e1b66-value",
+      "source": "Striking",
+      "translation": "打击",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.39612ca678b93c85-value",
+      "source": "Slashing",
+      "translation": "斩击",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.17b0d66d9730d7d2-value",
+      "source": "Thrusting",
+      "translation": "穿刺",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.763ad778e4837a13-value",
+      "source": "Fire",
+      "translation": "火焰",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a992fd7367ee3267-value",
+      "source": "Cold",
+      "translation": "冰冷",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.28e23daab74fb728-value",
+      "source": "Lightning",
+      "translation": "闪电",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.12d284eef4297097-value",
+      "source": "Poison",
+      "translation": "毒素",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.d0cf21d2b58c991f-value",
+      "source": "Radiant",
+      "translation": "光辉",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.4c2faa805f16e47b-value",
+      "source": "Dark",
+      "translation": "黑暗",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.345e8a07254500d2-value",
+      "source": "Nature",
+      "translation": "自然",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.4491425da9150a34-value",
+      "source": "Sound",
+      "translation": "音波",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.73a9e9d8e136b031-value",
+      "source": "Necrotic",
+      "translation": "死灵",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.81a4d5dce5366840-value",
+      "source": "Explosion",
+      "translation": "爆炸",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.c15ac6fae6ddfb43-value",
+      "source": "Energy",
+      "translation": "能量",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.eca052e7c4a406cd-value",
+      "source": "Physical",
+      "translation": "物理",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.2841373c3e299f56-value",
+      "source": "Magical",
+      "translation": "魔法",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.3dd3afe50a5601f9-value",
+      "source": "Crystal",
+      "translation": "水晶",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.71d8062e75c7c37a-value",
+      "source": "Bow",
+      "translation": "弓",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.6b8a0118afa434d9-value",
+      "source": "Sword",
+      "translation": "剑",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.466556e6cc75bd62-value",
+      "source": "Wand",
+      "translation": "魔杖",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.0370287a2329003f-value",
+      "source": "Staff",
+      "translation": "法杖",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.71d7c85fb166c910-value",
+      "source": "Scepter",
+      "translation": "权杖",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a513c0fca4c5ccf0-value",
+      "source": "Tome",
+      "translation": "魔典",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.6af0bffca2157b3f-value",
+      "source": "Bible",
+      "translation": "圣经",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.bcd390d2c4607ce0-value",
+      "source": "Scroll",
+      "translation": "卷轴",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.44fc4f41c063990d-value",
+      "source": "Codex",
+      "translation": "法典",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e006ef1bbf370829-value",
+      "source": "Gun",
+      "translation": "枪械",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e90c4dd519ce3ade-value",
+      "source": "Crossbow",
+      "translation": "弩",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.cdbfd5d559390884-value",
+      "source": "Dagger",
+      "translation": "匕首",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.cc62b3369aef247f-value",
+      "source": "Axe",
+      "translation": "斧",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.0060053a0a0b3415-value",
+      "source": "Hammer",
+      "translation": "锤",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.078d3fb32c2fd492-value",
+      "source": "Spear",
+      "translation": "矛",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.22c50cf901b8cdfe-value",
+      "source": "Lance",
+      "translation": "骑枪",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ad41681ace8df513-value",
+      "source": "Scythe",
+      "translation": "镰刀",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.733f0b107254dccf-value",
+      "source": "Sickle",
+      "translation": "短镰",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.42e1c7a4da9b4f20-value",
+      "source": "Whip",
+      "translation": "鞭",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.dcede0035d1a6239-value",
+      "source": "Flail",
+      "translation": "连枷",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.6801a4ff38593563-value",
+      "source": "Mace",
+      "translation": "钉头锤",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.aa77d3f1acb46999-value",
+      "source": "Boomerang",
+      "translation": "回旋镖",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.2a422ef37a1a2fc3-value",
+      "source": "Throwing Knife",
+      "translation": "飞刀",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.ddd3b3b669f05a43-value",
+      "source": "Shuriken",
+      "translation": "手里剑",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.619e5ee00509779c-value",
+      "source": "Chakram",
+      "translation": "轮刃",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.3dbfebd2cd11cdd2-value",
+      "source": "Instrument",
+      "translation": "乐器",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.b32a736cdbf7093c-value",
+      "source": "One Handed Sword",
+      "translation": "单手剑",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.58a276c00d83dece-value",
+      "source": "Two Handed Sword",
+      "translation": "双手剑",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.a87de5978aeb5e0d-value",
+      "source": "One Handed Axe",
+      "translation": "单手斧",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.91559394357a2641-value",
+      "source": "Two Handed Axe",
+      "translation": "双手斧",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.e9a4dd712c2972b5-value",
+      "source": "One Handed Hammer",
+      "translation": "单手锤",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "deep.d11820745f87523b-value",
+      "source": "Two Handed Hammer",
+      "translation": "双手锤",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    }
+  ]
+}

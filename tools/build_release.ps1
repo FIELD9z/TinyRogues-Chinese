@@ -1,7 +1,7 @@
 param(
     [Parameter(Mandatory = $true)][string]$GameDir,
     [string]$OutputDirectory,
-    [string]$Version = '0.1.0-alpha'
+    [string]$Version = '0.1.1-alpha'
 )
 $ErrorActionPreference = 'Stop'
 $root = Split-Path $PSScriptRoot -Parent
@@ -22,6 +22,9 @@ try {
     New-Item -ItemType Directory -Path (Join-Path $plugin 'locales') -Force | Out-Null
     Copy-Item -LiteralPath 'src/Plugin/bin/Release/netstandard2.1/TinyRogues.Chinese.dll' -Destination $plugin
     Copy-Item -LiteralPath 'locales/zh-Hans' -Destination (Join-Path $plugin 'locales') -Recurse
+    New-Item -ItemType Directory -Path (Join-Path $plugin 'diagnostics') | Out-Null
+    Get-ChildItem -LiteralPath 'tests/fixtures' -File -Filter '*.json' |
+        Copy-Item -Destination (Join-Path $plugin 'diagnostics')
     Copy-Item -LiteralPath 'examples' -Destination $plugin -Recurse
     Copy-Item -LiteralPath 'README.md','LICENSE','CONTRIBUTING.md' -Destination $stage
     Copy-Item -LiteralPath 'docs' -Destination $stage -Recurse

@@ -7,7 +7,7 @@
     <DebugType>none</DebugType>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="../Core/Catalog.cs" Link="Catalog.cs" />
+    <Compile Include="../Core/*.cs" Link="%(Filename)%(Extension)" />
     <Reference Include="BepInEx.Core"><HintPath>$(GameDir)/BepInEx/core/BepInEx.Core.dll</HintPath><Private>false</Private></Reference>
     <Reference Include="BepInEx.Unity.IL2CPP"><HintPath>$(GameDir)/BepInEx/core/BepInEx.Unity.IL2CPP.dll</HintPath><Private>false</Private></Reference>
     <Reference Include="0Harmony"><HintPath>$(GameDir)/BepInEx/core/0Harmony.dll</HintPath><Private>false</Private></Reference>

@@ -75,9 +75,41 @@ Check(Tr(catalog, opening[0].Replace(">W<", ">Up<").Replace(">A<", ">Left<").Rep
 Check(Tr(catalog, opening[1].Replace(">Space<", ">RB<"), "dialogue").StartsWith("按 <color=#A61FFF>RB</color>"), "Gamepad dash tutorial missing");
 Check(Tr(catalog, opening[3].Replace(">Mouse Left<", ">RT<"), "dialogue").Contains("<color=#A61FFF>RT</color>"), "Gamepad attack binding not preserved");
 var runtimeUI = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "runtime-ui.json")))!;
+var weaponCards = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "weapon-cards.json")))!;
+foreach (var source in weaponCards)
+{
+    Check(catalog.TryTranslateLabel(source, "styled-ui", out var translated), "Actual starter weapon card did not translate");
+    var visible = System.Text.RegularExpressions.Regex.Replace(translated, "<[^>]*>", "");
+    Check(!System.Text.RegularExpressions.Regex.IsMatch(visible, "[A-Za-z]{2,}"), "English remains in starter card: " + visible);
+    var markup = new System.Text.RegularExpressions.Regex("<[^>]*>");
+    Check(markup.Matches(source).Select(m => m.Value).SequenceEqual(markup.Matches(translated).Select(m => m.Value)), "Starter card colors/icons changed");
+    var numbers = new System.Text.RegularExpressions.Regex(@"\d+(?:[.,]\d+)?");
+    Check(numbers.Matches(markup.Replace(source, "")).Select(m => m.Value).SequenceEqual(numbers.Matches(visible).Select(m => m.Value)), "Starter card numerical values changed");
+    var altered = source.Replace("224", "9876").Replace("204", "1234").Replace("141", "5678");
+    Check(catalog.TryTranslateLabel(altered, "styled-ui", out var variant) && !System.Text.RegularExpressions.Regex.IsMatch(markup.Replace(variant, ""), "[A-Za-z]{2,}"), "Card matcher depends on captured damage values");
+    Check(!WeaponCards.TryTranslate(catalog, "An NPC discusses " + markup.Replace(source, " ").Replace('\n', ' '), out _), "Weapon schema accepted prose instead of stat rows");
+}
+Check(!WeaponCards.TryTranslate(catalog, "A Common Bow does Thrusting damage.", out _), "Card terms leaked into ordinary prose");
+Check(catalog.TryTranslateRichLine("•Hits <color=#FFFFFF>2</color> times.", "weapon-effect", out var hits) && hits == "•命中 <color=#FFFFFF>2</color> 次。", "Dynamic hit count lost its color or number");
+Check(catalog.TryTranslateRichLine("•Evolves at Upgrade Level <color=#123abc>12</color> with the correct Material.", "weapon-effect", out var evolution) && evolution == "•升级等级达到 <color=#123abc>12</color> 且拥有所需材料时进化。", "Evolution text depends on original level/color");
+Check(catalog.TryTranslateRichLine("(<color=#FFFFFF>+2.5%</color> currently)", "weapon-effect", out var currentValue) && currentValue == "（当前<color=#FFFFFF>+2.5%</color>）", "Current value suffix lost formatting");
+Check(catalog.TryTranslateRichLine("•Inflicts: <color=red>Burn</color>", "weapon-effect", out var status) && !status.Contains("Burn") && status.Contains("<color=red>"), "Status value did not translate independently of its color");
+Check(!catalog.TryTranslateRichLine("•Inflicts: Unknown Status", "weapon-effect", out _), "Unknown status silently counted as translated");
+Check(!catalog.TryTranslateRichLine("A story about someone who Hits 2 times.", "weapon-effect", out _), "Card grammar matched ordinary prose");
+var scopedRich = Compile(Pack(Entry("{term:n}", "{term:n}", "weapon-effect", "template")));
+Check(!scopedRich.TryTranslateRichLine("Unknown", "weapon-effect", out _), "Unknown term-only template recursed");
+var pickup = opening.Single(s => s.StartsWith("Pick up items with"));
+var reboundPickup = Tr(catalog, pickup.Replace("[E]", "[RB]").Replace("[F]", "[Y]"), "dialogue");
+Check(reboundPickup.Contains("[RB]") && reboundPickup.Contains("[Y]") && !reboundPickup.Contains("Pick up"), "Pickup tutorial lost rebound keys");
 foreach (var source in runtimeUI)
     Check(catalog.TryTranslateLabel(source, "styled-ui", out var translated) && translated != source && System.Text.RegularExpressions.Regex.IsMatch(translated, "[\\u4e00-\\u9fff]"), "Captured complete UI missing: " + source);
 Check(catalog.TryTranslateLabel("Floor 10 - 3 <mspace=1em>12:34:56", "styled-ui", out var timed) && timed == "第 10 层 - 3 <mspace=1em>12:34:56", "Progress time or room values changed");
+Check(catalog.TryTranslateRichLine("•Each point of 智力 grants this 武器 +2.5% 暴击伤害.", "weapon-effect", out var attrDebug), "Mixed attribute card failed");
+Check(catalog.TryTranslateRichLine("•Attacks trigger a <color=red>Chain </color><color=blue>Lightning</color> 7.5 times per second. [Tick]", "weapon-effect", out var chain) && !chain.Contains("Chain") && !chain.Contains("Lightning") && chain.Contains("7.5") && chain.Contains("<color=red>") && chain.Contains("<color=blue>"), "A multiword action split across color tags did not translate");
+Check(catalog.TryTranslateRichLine("•On hit, 35% chance to trigger a Chain Lightning that deals 123 to 456 Lightning Damage.", "weapon-effect", out var onHit) && onHit.Contains("35%") && onHit.Contains("123至456") && !onHit.Contains("chance"), "Dynamic trigger chance or range changed");
+Check(!catalog.TryTranslateRichLine("•On hit, 35% chance to trigger a Future Unknown Action that deals 123 to 456 Lightning Damage.", "weapon-effect", out _), "A future unknown action silently counted as translated");
+Check(catalog.TryTranslateRichLine("•Gains +9 Upgrade Level per Aura you have. ", "weapon-effect", out var auraLevel) && auraLevel.Contains("+9"), "Upgrade level gain lost its positive sign");
+Check(catalog.TryTranslateRichLine("7-Set: Angel Disguise", "weapon-effect", out var setLine) && setLine.Contains("7") && setLine.Contains("天使伪装"), "Dynamic set piece count depends on a captured value");
 Console.WriteLine($"PASS: {checks} behavioral checks; {catalog.EntryCount} independently authored active entries across {files.Length} packs.");
 return 0;
 }

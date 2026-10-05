@@ -5,21 +5,24 @@
 | English | 中文 | 使用边界 |
 |---|---|---|
 | Strength / Dexterity / Intelligence | 力量／敏捷／智力 | 三项核心属性。 |
-| Power | 威力 | 与 Strength“力量”区分；伤害相关的综合倍率。 |
+| Power | 威力 | 与 Strength“力量”区分；武器伤害相关数值。 |
 | Tick Speed | 结算频率 | 周期性效果的结算快慢；具体效果仍按原始说明判断。 |
 | Trait | 特质 | 局内特质系统。 |
 | Skill | 技能 | 主动技能系统。 |
 | Perk / Mastery Perk | 天赋／精通天赋 | 与特质和临时增益区分。 |
 | Mastery | 精通 | 局外成长相关。 |
 | Equip Load / Capacity | 装备负重／负重上限 | 区分当前负重与允许上限。 |
-| Damage Scaling | 伤害成长 | 属性对武器伤害的成长。 |
+| Damage Scaling | 属性补正 | 力量、敏捷、智力对武器伤害的补正等级。 |
 | Attunement / Infusion / Enchantment | 调谐／灌注／附魔 | 三种不同系统。 |
 | Alignment | 阵营倾向 | 路线与立场语境。 |
 | Mana | 法力 | 技能资源。 |
+| Stamina | 体力 | 冲刺等动作消耗的资源。 |
+| Burn / Scorch | 燃烧／灼烧 | 分别保留两个原始状态名称。 |
+| Missing Heart / Armor | 缺失红心／护甲 | 保留原文的缺失量含义，不直接解释为治疗或修复。 |
 | Flask / Potion / Booze | 药瓶／药剂／酒水 | 区分使用方式和物品类别。 |
 | Tipsiness | 醉意 | 酒水相关上限或数值。 |
 | Fire / Burn | 火焰／燃烧 | 伤害类型与状态。 |
-| Cold / Chill | 冰霜／寒冷 | 伤害类型与状态。 |
+| Cold / Chill | 冰冷／寒冷 | 伤害类型与状态。 |
 | Lightning / Shock | 雷电／感电 | 伤害类型与状态。 |
 | Charm | 护符／魅惑 | 物品类别与状态分别处理。 |
 | Luck / Lucky Hit | 幸运／幸运命中 | 属性与命中体系分别处理。 |

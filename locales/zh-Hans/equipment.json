@@ -7,7 +7,7 @@
     {
       "id": "equipment.asset.eb70ac112e6f97d9dff6",
       "source": "Amethyst Ring",
-      "translation": "紫水晶 戒指",
+      "translation": "紫水晶戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -16,7 +16,7 @@
     {
       "id": "equipment.asset.053405e31fad9e3183c2",
       "source": "Angelic Ring",
-      "translation": "天使 戒指",
+      "translation": "天使戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -25,7 +25,7 @@
     {
       "id": "equipment.asset.918a87dcd4443cbceaf3",
       "source": "Ankh Emblem",
-      "translation": "安卡 徽章",
+      "translation": "安卡徽章",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -34,7 +34,7 @@
     {
       "id": "equipment.asset.24c97258357099f4f060",
       "source": "Aquamarine Ring",
-      "translation": "海蓝宝石 戒指",
+      "translation": "海蓝宝石戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -43,7 +43,7 @@
     {
       "id": "equipment.asset.5438ee021e9bc4dba904",
       "source": "Bamboo Bracelet",
-      "translation": "竹 手镯",
+      "translation": "竹手镯",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -52,7 +52,7 @@
     {
       "id": "equipment.asset.04df7a0538b15115abab",
       "source": "Barrier Belt",
-      "translation": "屏障 腰带",
+      "translation": "屏障腰带",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -70,7 +70,7 @@
     {
       "id": "equipment.asset.4e24bb7a39a19d2f2e71",
       "source": "Blossom Ring",
-      "translation": "花朵 戒指",
+      "translation": "花朵戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -79,7 +79,7 @@
     {
       "id": "equipment.asset.55e8c3835db68617f8a8",
       "source": "Blue Ribbon",
-      "translation": "蓝色 缎带",
+      "translation": "蓝色缎带",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -88,7 +88,7 @@
     {
       "id": "equipment.asset.433d4c18275b7402fcab",
       "source": "Blue Tearstone Ring",
-      "translation": "蓝色 泪石 戒指",
+      "translation": "蓝色泪石戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -97,7 +97,7 @@
     {
       "id": "equipment.asset.17a4eb225b30216844ad",
       "source": "Carnage Loop",
-      "translation": "屠戮 环",
+      "translation": "屠戮环",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -106,7 +106,7 @@
     {
       "id": "equipment.asset.2a2a41f703427fad4a47",
       "source": "Chance Ring",
-      "translation": "幸运 戒指",
+      "translation": "幸运戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -115,7 +115,7 @@
     {
       "id": "equipment.asset.3b4bfaad936ec33f5c57",
       "source": "Clover Pendant",
-      "translation": "三叶草 吊坠",
+      "translation": "三叶草吊坠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -124,7 +124,7 @@
     {
       "id": "equipment.asset.594b339550df933a8ca0",
       "source": "Coward's Ring",
-      "translation": "胆小鬼的 戒指",
+      "translation": "胆小鬼的戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -133,7 +133,7 @@
     {
       "id": "equipment.asset.0bafa7d24cd8e5e64a10",
       "source": "Crocodile Ring",
-      "translation": "鳄鱼 戒指",
+      "translation": "鳄鱼戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -142,7 +142,7 @@
     {
       "id": "equipment.asset.90108be171acddffd264",
       "source": "Crystal Bracelet",
-      "translation": "水晶 手镯",
+      "translation": "水晶手镯",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -151,7 +151,7 @@
     {
       "id": "equipment.asset.63c64f8a8ba9a26a9454",
       "source": "Crystal Ring",
-      "translation": "水晶 戒指",
+      "translation": "水晶戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -169,7 +169,7 @@
     {
       "id": "equipment.asset.dea859a97dcdcb4eb0c8",
       "source": "Cursebite Ring",
-      "translation": "诅咒噬 戒指",
+      "translation": "诅咒噬戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -178,7 +178,7 @@
     {
       "id": "equipment.asset.7a8893db8f45699e7928",
       "source": "Dark Moon Pendant",
-      "translation": "暗月 月 吊坠",
+      "translation": "暗月吊坠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -187,7 +187,7 @@
     {
       "id": "equipment.asset.f76fc0c663fb979974cd",
       "source": "Diamond Ring",
-      "translation": "钻石 戒指",
+      "translation": "钻石戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -196,7 +196,7 @@
     {
       "id": "equipment.asset.ecdc35b22dd5016c3aca",
       "source": "Dice Pendant",
-      "translation": "骰子 吊坠",
+      "translation": "骰子吊坠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -214,7 +214,7 @@
     {
       "id": "equipment.asset.6a933d6c66ee648bf6e4",
       "source": "Dojo Sash",
-      "translation": "道场 腰封",
+      "translation": "道场腰封",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -223,7 +223,7 @@
     {
       "id": "equipment.asset.c28c2688db4814f7b558",
       "source": "Dragonscale Ring",
-      "translation": "龙鳞 戒指",
+      "translation": "龙鳞戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -232,7 +232,7 @@
     {
       "id": "equipment.asset.b85b1926d81d2d849ca9",
       "source": "Dreamcatcher Pendant",
-      "translation": "捕梦网 吊坠",
+      "translation": "捕梦网吊坠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -241,7 +241,7 @@
     {
       "id": "equipment.asset.8983cb52bcee19a16d8a",
       "source": "Ember Ring",
-      "translation": "余烬 戒指",
+      "translation": "余烬戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -250,7 +250,7 @@
     {
       "id": "equipment.asset.05fb868033f53f8948bb",
       "source": "Emblem of Bahamut",
-      "translation": "徽章 之 巴哈姆特",
+      "translation": "巴哈姆特徽章",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -259,7 +259,7 @@
     {
       "id": "equipment.asset.f5e0f39046ed899c92fe",
       "source": "Emblem of Balance",
-      "translation": "徽章 之 平衡",
+      "translation": "平衡徽章",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -277,7 +277,7 @@
     {
       "id": "equipment.asset.ede4cbc2d19b03f1e72f",
       "source": "Emblem of Chaos",
-      "translation": "徽章 之 混沌",
+      "translation": "混沌徽章",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -286,7 +286,7 @@
     {
       "id": "equipment.asset.53316281b80f2d9bdfc3",
       "source": "Emblem of Order",
-      "translation": "徽章 之 秩序",
+      "translation": "秩序徽章",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -295,7 +295,7 @@
     {
       "id": "equipment.asset.c3dff2ef0e9916581402",
       "source": "Emblem of Tiamat",
-      "translation": "徽章 之 提亚马特",
+      "translation": "提亚马特徽章",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -304,7 +304,7 @@
     {
       "id": "equipment.asset.f375bc9e07555a7cb91e",
       "source": "Emerald Ring",
-      "translation": "翡翠 戒指",
+      "translation": "翡翠戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -313,7 +313,7 @@
     {
       "id": "equipment.asset.f15694f6a71f51cecfbb",
       "source": "Everflame Amulet",
-      "translation": "永燃之火 护符",
+      "translation": "永燃之火护符",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -322,7 +322,7 @@
     {
       "id": "equipment.asset.cc3c0efc373ca912608f",
       "source": "Everice Amulet",
-      "translation": "永冻之冰 护符",
+      "translation": "永冻之冰护符",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -331,7 +331,7 @@
     {
       "id": "equipment.asset.246be65b3fb87ce30aaf",
       "source": "Focus Sash",
-      "translation": "专注 腰封",
+      "translation": "专注腰封",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -340,7 +340,7 @@
     {
       "id": "equipment.asset.9a8d88fceaff3972f130",
       "source": "Fox Ring",
-      "translation": "狐狸 戒指",
+      "translation": "狐狸戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -349,7 +349,7 @@
     {
       "id": "equipment.asset.a7eb3d21dd6bb1b6de0e",
       "source": "Frostfire Ring",
-      "translation": "冻焰 戒指",
+      "translation": "冻焰戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -358,7 +358,7 @@
     {
       "id": "equipment.asset.34f1b9b731099299635c",
       "source": "Galaxy Ring",
-      "translation": "银河 戒指",
+      "translation": "银河戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -367,7 +367,7 @@
     {
       "id": "equipment.asset.545457bcb756b295ffdf",
       "source": "Galewind Ring",
-      "translation": "疾风 戒指",
+      "translation": "疾风戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -376,7 +376,7 @@
     {
       "id": "equipment.asset.1162fff53100369036d7",
       "source": "Garnet Bracelet",
-      "translation": "石榴石 手镯",
+      "translation": "石榴石手镯",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -385,7 +385,7 @@
     {
       "id": "equipment.asset.ba4cfde317052a299aad",
       "source": "Gold Amulet",
-      "translation": "黄金 护符",
+      "translation": "黄金护符",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -394,7 +394,7 @@
     {
       "id": "equipment.asset.5f39e9907e7b3986990f",
       "source": "Gold Serpent Ring",
-      "translation": "黄金 蛇 戒指",
+      "translation": "黄金蛇戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -439,7 +439,7 @@
     {
       "id": "equipment.asset.58a63d2d97a8b5f1830f",
       "source": "Green Ribbon",
-      "translation": "绿色 缎带",
+      "translation": "绿色缎带",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -448,7 +448,7 @@
     {
       "id": "equipment.asset.c60763ca4d8858baa9c0",
       "source": "Green Tearstone Ring",
-      "translation": "绿色 泪石 戒指",
+      "translation": "绿色泪石戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -457,7 +457,7 @@
     {
       "id": "equipment.asset.ece731d12eb77de0205a",
       "source": "Gunpowder Ring",
-      "translation": "火药 戒指",
+      "translation": "火药戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -466,7 +466,7 @@
     {
       "id": "equipment.asset.78af02f337a321dfdaed",
       "source": "Hand of Blood",
-      "translation": "手持 之 鲜血",
+      "translation": "鲜血之手",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -475,7 +475,7 @@
     {
       "id": "equipment.asset.743926e6f1de823c4af6",
       "source": "Hand of Char",
-      "translation": "手持 之 炭火",
+      "translation": "炭火之手",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -484,7 +484,7 @@
     {
       "id": "equipment.asset.7d1021b80fb95ef5978a",
       "source": "Hand of Poison",
-      "translation": "手持 之 毒",
+      "translation": "毒之手",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -502,7 +502,7 @@
     {
       "id": "equipment.asset.4bcb19050feb485de5df",
       "source": "Homunculus Ring",
-      "translation": "人造人 戒指",
+      "translation": "人造人戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -511,7 +511,7 @@
     {
       "id": "equipment.asset.852f8a3413eaa5c761d0",
       "source": "Hornet Ring",
-      "translation": "黄蜂 戒指",
+      "translation": "黄蜂戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -520,7 +520,7 @@
     {
       "id": "equipment.asset.0a21d1d531ab787e81d8",
       "source": "Horseshoe Pendant",
-      "translation": "马蹄铁 吊坠",
+      "translation": "马蹄铁吊坠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -529,7 +529,7 @@
     {
       "id": "equipment.asset.8daca5abc4b0bda3010f",
       "source": "Iron Ring",
-      "translation": "铁 戒指",
+      "translation": "铁戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -538,7 +538,7 @@
     {
       "id": "equipment.asset.b0ae671a17946460cbf3",
       "source": "Jade Bracelet",
-      "translation": "玉石 手镯",
+      "translation": "玉石手镯",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -547,7 +547,7 @@
     {
       "id": "equipment.asset.542e1194da82609ad6dc",
       "source": "Knight Ring",
-      "translation": "骑士 戒指",
+      "translation": "骑士戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -556,7 +556,7 @@
     {
       "id": "equipment.asset.e844ec23c948890a05c3",
       "source": "Lapis Bracelet",
-      "translation": "青金石 手镯",
+      "translation": "青金石手镯",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -574,7 +574,7 @@
     {
       "id": "equipment.asset.5505b4f8382847813672",
       "source": "Lotus Amulet",
-      "translation": "莲花 护符",
+      "translation": "莲花护符",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -583,7 +583,7 @@
     {
       "id": "equipment.asset.2f38a8f6a13d92d61a62",
       "source": "Magi-Tech Belt",
-      "translation": "魔导科技 腰带",
+      "translation": "魔导科技腰带",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -592,7 +592,7 @@
     {
       "id": "equipment.asset.a0387d5b63fb5cd53964",
       "source": "Magnet Ring",
-      "translation": "磁力 戒指",
+      "translation": "磁力戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -601,7 +601,7 @@
     {
       "id": "equipment.asset.cedbc69ede754fe5ab12",
       "source": "Magus Amulet",
-      "translation": "魔导师 护符",
+      "translation": "魔导师护符",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -610,7 +610,7 @@
     {
       "id": "equipment.asset.0e9e412e195277771a93",
       "source": "Mana Catalyst",
-      "translation": "法力 催化剂",
+      "translation": "法力催化剂",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -628,7 +628,7 @@
     {
       "id": "equipment.asset.c623f2b85efeb19f93d6",
       "source": "Mystical Belt",
-      "translation": "神秘 腰带",
+      "translation": "神秘腰带",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -637,7 +637,7 @@
     {
       "id": "equipment.asset.4054385443acc1625464",
       "source": "Obsidian Bracelet",
-      "translation": "黑曜石 手镯",
+      "translation": "黑曜石手镯",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -646,7 +646,7 @@
     {
       "id": "equipment.asset.11f1932d1585d0c495c2",
       "source": "Odin Ring",
-      "translation": "奥丁 戒指",
+      "translation": "奥丁戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -655,7 +655,7 @@
     {
       "id": "equipment.asset.0fa415573bdddb81752d",
       "source": "Onyx Ring",
-      "translation": "缟玛瑙 戒指",
+      "translation": "缟玛瑙戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -664,7 +664,7 @@
     {
       "id": "equipment.asset.cd3940226ee94ec29504",
       "source": "Pain Loop",
-      "translation": "痛苦 环",
+      "translation": "痛苦环",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -682,7 +682,7 @@
     {
       "id": "equipment.asset.8097f5b15846455142c4",
       "source": "Pearl Ring",
-      "translation": "珍珠 戒指",
+      "translation": "珍珠戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -700,7 +700,7 @@
     {
       "id": "equipment.asset.55ac966edf249c77eefc",
       "source": "Power Belt",
-      "translation": "力量 腰带",
+      "translation": "力量腰带",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -727,7 +727,7 @@
     {
       "id": "equipment.asset.35e2f249988f0699ee95",
       "source": "Puzzle Ring",
-      "translation": "魔方 戒指",
+      "translation": "魔方戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -736,7 +736,7 @@
     {
       "id": "equipment.asset.62815065f42060b369a4",
       "source": "Quartz Bracelet",
-      "translation": "石英 手镯",
+      "translation": "石英手镯",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -745,7 +745,7 @@
     {
       "id": "equipment.asset.31173b2f1f2e9f6d4ba9",
       "source": "Quasar Pendant",
-      "translation": "类星体 吊坠",
+      "translation": "类星体吊坠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -754,7 +754,7 @@
     {
       "id": "equipment.asset.7fb4cdd2296ad0c43de1",
       "source": "Rabbit Ring",
-      "translation": "兔 戒指",
+      "translation": "兔戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -763,7 +763,7 @@
     {
       "id": "equipment.asset.9ecea6038f03b95a5ab5",
       "source": "Ranger Ring",
-      "translation": "游侠 戒指",
+      "translation": "游侠戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -772,7 +772,7 @@
     {
       "id": "equipment.asset.6cee95f66120e7f569c7",
       "source": "Red Ribbon",
-      "translation": "红色 缎带",
+      "translation": "红色缎带",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -781,7 +781,7 @@
     {
       "id": "equipment.asset.e4146938b988b7a45281",
       "source": "Red Tearstone Ring",
-      "translation": "红色 泪石 戒指",
+      "translation": "红色泪石戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -790,7 +790,7 @@
     {
       "id": "equipment.asset.ab8c75e0fc56e566fdf1",
       "source": "Rhythm Bracelets",
-      "translation": "节奏 手镯",
+      "translation": "节奏手镯",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -826,7 +826,7 @@
     {
       "id": "equipment.asset.8809f63dfa16d410ec47",
       "source": "Rose Ring",
-      "translation": "玫瑰 戒指",
+      "translation": "玫瑰戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -844,7 +844,7 @@
     {
       "id": "equipment.asset.8592d106d625458fae0a",
       "source": "Ruby Ring",
-      "translation": "红宝石 戒指",
+      "translation": "红宝石戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -853,7 +853,7 @@
     {
       "id": "equipment.asset.41b9b625ad35385eb9db",
       "source": "Sands of Time",
-      "translation": "流沙 之 时间",
+      "translation": "时间之沙",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -862,7 +862,7 @@
     {
       "id": "equipment.asset.249b58253225eb7d27da",
       "source": "Sapphire Ring",
-      "translation": "蓝宝石 戒指",
+      "translation": "蓝宝石戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -871,7 +871,7 @@
     {
       "id": "equipment.asset.89a3b40f8d7788ac01f0",
       "source": "Shark Ring",
-      "translation": "鲨鱼 戒指",
+      "translation": "鲨鱼戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -889,7 +889,7 @@
     {
       "id": "equipment.asset.085578175ab07657ceda",
       "source": "Sheriff Belt",
-      "translation": "治安官 腰带",
+      "translation": "治安官腰带",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -898,7 +898,7 @@
     {
       "id": "equipment.asset.6453c82b3610d6762a67",
       "source": "Silver Ring",
-      "translation": "白银 戒指",
+      "translation": "白银戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -907,7 +907,7 @@
     {
       "id": "equipment.asset.43d96fc5593c6a9c65e1",
       "source": "Silver Serpent Ring",
-      "translation": "白银 蛇 戒指",
+      "translation": "白银蛇戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -925,7 +925,7 @@
     {
       "id": "equipment.asset.5e0aeaa85d9b40c4bf4c",
       "source": "Skull Ring",
-      "translation": "头骨 戒指",
+      "translation": "头骨戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -934,7 +934,7 @@
     {
       "id": "equipment.asset.3479c163989dab128590",
       "source": "Snowflake Ring",
-      "translation": "雪花 戒指",
+      "translation": "雪花戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -943,7 +943,7 @@
     {
       "id": "equipment.asset.a72abadbce2df1880683",
       "source": "Sorcerer Ring",
-      "translation": "巫师 戒指",
+      "translation": "巫师戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -952,7 +952,7 @@
     {
       "id": "equipment.asset.603a2b380c1828268230",
       "source": "Soul Scarf",
-      "translation": "灵魂 围巾",
+      "translation": "灵魂围巾",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -961,7 +961,7 @@
     {
       "id": "equipment.asset.f1e8edf450ab5601eb2c",
       "source": "Spoon Pendant",
-      "translation": "勺 吊坠",
+      "translation": "勺吊坠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -970,7 +970,7 @@
     {
       "id": "equipment.asset.9c35fca75f7d6e38b533",
       "source": "Star Pendant",
-      "translation": "星辰 吊坠",
+      "translation": "星辰吊坠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -979,7 +979,7 @@
     {
       "id": "equipment.asset.dee3ae74d5cd6199ccc0",
       "source": "Stoneplate Ring",
-      "translation": "石板 戒指",
+      "translation": "石板戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -988,7 +988,7 @@
     {
       "id": "equipment.asset.5b684b1db2cf23fc1ecb",
       "source": "Stormfire Ring",
-      "translation": "风暴烈焰 戒指",
+      "translation": "风暴烈焰戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -997,7 +997,7 @@
     {
       "id": "equipment.asset.37baf132bdab226239f1",
       "source": "Thunderbolt Ring",
-      "translation": "雷霆 戒指",
+      "translation": "雷霆戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1006,7 +1006,7 @@
     {
       "id": "equipment.asset.494a634924859d289f0c",
       "source": "Titan Ring",
-      "translation": "泰坦 戒指",
+      "translation": "泰坦戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1015,7 +1015,7 @@
     {
       "id": "equipment.asset.2990425a16bdced1174c",
       "source": "Topaz Ring",
-      "translation": "黄玉 戒指",
+      "translation": "黄玉戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1024,7 +1024,7 @@
     {
       "id": "equipment.asset.95453a1e84725bd8790c",
       "source": "Viper Loop",
-      "translation": "蝰蛇 环",
+      "translation": "蝰蛇环",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1033,7 +1033,7 @@
     {
       "id": "equipment.asset.3f8d9ce981ba91561e34",
       "source": "War Belt",
-      "translation": "战争 腰带",
+      "translation": "战争腰带",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1042,7 +1042,7 @@
     {
       "id": "equipment.asset.de688c888cd64aa12214",
       "source": "Wedding Ring",
-      "translation": "婚礼 戒指",
+      "translation": "婚礼戒指",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1051,7 +1051,7 @@
     {
       "id": "equipment.asset.6dfe5b7171e7c16918a5",
       "source": "Wooden Cross Pendant",
-      "translation": "木十字吊坠",
+      "translation": "木制十字架吊坠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1069,7 +1069,7 @@
     {
       "id": "equipment.asset.96f45004a71183be4d4d",
       "source": "Zodiac Loop",
-      "translation": "黄道 环",
+      "translation": "黄道环",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1078,7 +1078,7 @@
     {
       "id": "equipment.asset.df1405b0c2cb67d7cbdd",
       "source": "Abyss Cloak",
-      "translation": "深渊 斗篷",
+      "translation": "深渊斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1087,7 +1087,7 @@
     {
       "id": "equipment.asset.eb28620ae4595d370c83",
       "source": "Archangel Armor",
-      "translation": "大天使 护甲",
+      "translation": "大天使护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1096,7 +1096,7 @@
     {
       "id": "equipment.asset.7e6edaf95d12f157e286",
       "source": "Archdevil Armor",
-      "translation": "大魔王 护甲",
+      "translation": "大魔王护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1132,7 +1132,7 @@
     {
       "id": "equipment.asset.6098fe0ffefb9f939425",
       "source": "Armor of Thorns",
-      "translation": "护甲 之 荆棘",
+      "translation": "荆棘护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1141,7 +1141,7 @@
     {
       "id": "equipment.asset.3558d839a75b344794c6",
       "source": "Balrog Heart",
-      "translation": "炎魔 红心",
+      "translation": "炎魔之心",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1150,7 +1150,7 @@
     {
       "id": "equipment.asset.d5072098eb8be2575c0e",
       "source": "Bandit Armor",
-      "translation": "盗贼 护甲",
+      "translation": "盗贼护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1159,7 +1159,7 @@
     {
       "id": "equipment.asset.529b3bded85d039ff695",
       "source": "Battle Robe",
-      "translation": "战斗 长袍",
+      "translation": "战斗长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1168,7 +1168,7 @@
     {
       "id": "equipment.asset.ed1479ae84cef3071982",
       "source": "Battle Vest",
-      "translation": "战斗 背心",
+      "translation": "战斗背心",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1177,7 +1177,7 @@
     {
       "id": "equipment.asset.2bc2bdb9bbdcffa92773",
       "source": "Bear Pelt Cape",
-      "translation": "熊 兽皮 披风",
+      "translation": "熊兽皮披风",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1186,7 +1186,7 @@
     {
       "id": "equipment.asset.4dc7344ca15f340a7203",
       "source": "Beetle Armor",
-      "translation": "甲虫 护甲",
+      "translation": "甲虫护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1195,7 +1195,7 @@
     {
       "id": "equipment.asset.ff0ec940fd646de41116",
       "source": "Blue Hoodie",
-      "translation": "蓝色 连帽衫",
+      "translation": "蓝色连帽衫",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1213,7 +1213,7 @@
     {
       "id": "equipment.asset.3bc9bd151f9f6d1698f9",
       "source": "Bomber Garb",
-      "translation": "轰炸 装束",
+      "translation": "轰炸装束",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1222,7 +1222,7 @@
     {
       "id": "equipment.asset.fe79ef773f0448737240",
       "source": "Bone Armor",
-      "translation": "骨 护甲",
+      "translation": "骨护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1231,7 +1231,7 @@
     {
       "id": "equipment.asset.35ab8d093ba5e033c87a",
       "source": "Boxing Shorts",
-      "translation": "拳击 短裤",
+      "translation": "拳击短裤",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1240,7 +1240,7 @@
     {
       "id": "equipment.asset.6e1029b76139bd3e9a37",
       "source": "Bubble Armor",
-      "translation": "泡泡 护甲",
+      "translation": "泡泡护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1249,7 +1249,7 @@
     {
       "id": "equipment.asset.ddb33892f4ea357b78c9",
       "source": "Butcher Apron",
-      "translation": "屠夫 围裙",
+      "translation": "屠夫围裙",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1258,7 +1258,7 @@
     {
       "id": "equipment.asset.78a7809d3295a7ec8506",
       "source": "Chain Armor",
-      "translation": "锁链 护甲",
+      "translation": "锁链护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1267,7 +1267,7 @@
     {
       "id": "equipment.asset.dbce055f1427a4b91d89",
       "source": "Champion Armor",
-      "translation": "冠军 护甲",
+      "translation": "冠军护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1285,7 +1285,7 @@
     {
       "id": "equipment.asset.ce446ad121a8debd311a",
       "source": "Cleric Robe",
-      "translation": "牧师 长袍",
+      "translation": "牧师长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1303,7 +1303,7 @@
     {
       "id": "equipment.asset.0f83660153bd066c0ec1",
       "source": "Cloth Robe",
-      "translation": "布制 长袍",
+      "translation": "布制长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1312,7 +1312,7 @@
     {
       "id": "equipment.asset.1b4a132891409b2183de",
       "source": "Clown Suit",
-      "translation": "小丑 服",
+      "translation": "小丑服",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1321,7 +1321,7 @@
     {
       "id": "equipment.asset.b9b0075046aaa31a9287",
       "source": "Crimson Cloak",
-      "translation": "深红 斗篷",
+      "translation": "深红斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1339,7 +1339,7 @@
     {
       "id": "equipment.asset.fc5928953e0a45916dfa",
       "source": "Crystal Armor",
-      "translation": "水晶 护甲",
+      "translation": "水晶护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1348,7 +1348,7 @@
     {
       "id": "equipment.asset.2da1a9f442baf283e828",
       "source": "Demon Shell",
-      "translation": "恶魔 蛋壳",
+      "translation": "恶魔蛋壳",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1357,7 +1357,7 @@
     {
       "id": "equipment.asset.51096b7cd25265afb5e8",
       "source": "Detective Coat",
-      "translation": "侦探 外套",
+      "translation": "侦探外套",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1366,7 +1366,7 @@
     {
       "id": "equipment.asset.26889c8a92922ac0ee5c",
       "source": "Devil Cloak",
-      "translation": "恶魔 斗篷",
+      "translation": "恶魔斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1375,7 +1375,7 @@
     {
       "id": "equipment.asset.1baf470cee2521597df3",
       "source": "Diamond Armor",
-      "translation": "钻石 护甲",
+      "translation": "钻石护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1402,7 +1402,7 @@
     {
       "id": "equipment.asset.5c049bb98c05f96822f1",
       "source": "Dragonscale Armor",
-      "translation": "龙鳞 护甲",
+      "translation": "龙鳞护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1411,7 +1411,7 @@
     {
       "id": "equipment.asset.872cf01fa094197a9081",
       "source": "Druid Coat",
-      "translation": "德鲁伊 外套",
+      "translation": "德鲁伊外套",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1420,7 +1420,7 @@
     {
       "id": "equipment.asset.dccac892577ffbbdeb28",
       "source": "Elementalist Robe",
-      "translation": "元素使 长袍",
+      "translation": "元素使长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1429,7 +1429,7 @@
     {
       "id": "equipment.asset.5ba4ca494253255624ce",
       "source": "Elven Cloak",
-      "translation": "精灵 斗篷",
+      "translation": "精灵斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1438,7 +1438,7 @@
     {
       "id": "equipment.asset.340908f6b9327568782d",
       "source": "Enigma Armor",
-      "translation": "谜 护甲",
+      "translation": "谜护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1447,7 +1447,7 @@
     {
       "id": "equipment.asset.744cf7a603a48d2a445a",
       "source": "Evocation Robe",
-      "translation": "唤法 长袍",
+      "translation": "唤法长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1456,7 +1456,7 @@
     {
       "id": "equipment.asset.acce076e2efbb81d2d1d",
       "source": "Fairy Dress",
-      "translation": "仙女 礼裙",
+      "translation": "仙女礼裙",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1465,7 +1465,7 @@
     {
       "id": "equipment.asset.215b640317f53748933b",
       "source": "Fencing Suit",
-      "translation": "击剑 服",
+      "translation": "击剑服",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1474,7 +1474,7 @@
     {
       "id": "equipment.asset.0b535b480649904ab542",
       "source": "Festive Dress",
-      "translation": "节庆 礼裙",
+      "translation": "节庆礼裙",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1483,7 +1483,7 @@
     {
       "id": "equipment.asset.9d600ec7d0402990434f",
       "source": "Flare Mantle",
-      "translation": "闪光 披肩",
+      "translation": "闪光披肩",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1492,7 +1492,7 @@
     {
       "id": "equipment.asset.db3ab0bff33397bca0d0",
       "source": "Flux Robe",
-      "translation": "通量 长袍",
+      "translation": "通量长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1501,7 +1501,7 @@
     {
       "id": "equipment.asset.2fe94aa77448037c4aa8",
       "source": "Gaia Armor",
-      "translation": "盖亚 护甲",
+      "translation": "盖亚护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1510,7 +1510,7 @@
     {
       "id": "equipment.asset.1f7989e6d19faafaef02",
       "source": "Galaxy Armor",
-      "translation": "银河 护甲",
+      "translation": "银河护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1528,7 +1528,7 @@
     {
       "id": "equipment.asset.b2fea4cce537d761280c",
       "source": "Gold Armor",
-      "translation": "黄金 护甲",
+      "translation": "黄金护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1537,7 +1537,7 @@
     {
       "id": "equipment.asset.adcd9ef4dd3e70e89b15",
       "source": "Golem Armor",
-      "translation": "魔像 护甲",
+      "translation": "魔像护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1546,7 +1546,7 @@
     {
       "id": "equipment.asset.000f5f60b0dd7e3fcc2d",
       "source": "Green Hoodie",
-      "translation": "绿色 连帽衫",
+      "translation": "绿色连帽衫",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1564,7 +1564,7 @@
     {
       "id": "equipment.asset.6dac5591b3bf4d33bc62",
       "source": "Guardian Angel",
-      "translation": "守护 天使",
+      "translation": "守护天使",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1573,7 +1573,7 @@
     {
       "id": "equipment.asset.f49173c59ee0201d1f52",
       "source": "Halloween Cape",
-      "translation": "万圣节 披风",
+      "translation": "万圣节披风",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1591,7 +1591,7 @@
     {
       "id": "equipment.asset.7f0a2cb9f9827405a0ef",
       "source": "Harlequin Costume",
-      "translation": "小丑 服装",
+      "translation": "小丑服装",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1600,7 +1600,7 @@
     {
       "id": "equipment.asset.497745e215bb2736a52b",
       "source": "Hazmat Suit",
-      "translation": "防护 服",
+      "translation": "防护服",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1609,7 +1609,7 @@
     {
       "id": "equipment.asset.6f29ac982ac7fd064a1f",
       "source": "Hero Cape",
-      "translation": "英雄 披风",
+      "translation": "英雄披风",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1618,7 +1618,7 @@
     {
       "id": "equipment.asset.7164a10ebd5e0d7fbf78",
       "source": "Holy Armor",
-      "translation": "神圣 护甲",
+      "translation": "神圣护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1627,7 +1627,7 @@
     {
       "id": "equipment.asset.0b51d05265157b696f86",
       "source": "Hunter Cloak",
-      "translation": "猎人 斗篷",
+      "translation": "猎人斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1636,7 +1636,7 @@
     {
       "id": "equipment.asset.d2d2d6c7a4dedb580b0b",
       "source": "Illusionary Cloak",
-      "translation": "幻影 斗篷",
+      "translation": "幻影斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1654,7 +1654,7 @@
     {
       "id": "equipment.asset.eb89b63db19013fe4f9d",
       "source": "Inquisitor Robe",
-      "translation": "审判官 长袍",
+      "translation": "审判官长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1663,7 +1663,7 @@
     {
       "id": "equipment.asset.e1e36b6efa0f62293ef1",
       "source": "Jousting Armor",
-      "translation": "骑枪 护甲",
+      "translation": "骑枪护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1681,7 +1681,7 @@
     {
       "id": "equipment.asset.bdbee0f77b37abe973df",
       "source": "Knight Armor",
-      "translation": "骑士 护甲",
+      "translation": "骑士护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1690,7 +1690,7 @@
     {
       "id": "equipment.asset.e2adddc65c70795c88ea",
       "source": "Lab Coat",
-      "translation": "实验 外套",
+      "translation": "实验外套",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1717,7 +1717,7 @@
     {
       "id": "equipment.asset.91d836b7ebedca711939",
       "source": "Leprechaun Frock",
-      "translation": "小矮妖 长裙",
+      "translation": "小矮妖长裙",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1726,7 +1726,7 @@
     {
       "id": "equipment.asset.9a7d7ccda0c6f510e6c0",
       "source": "Lich Robe",
-      "translation": "巫妖 长袍",
+      "translation": "巫妖长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1744,7 +1744,7 @@
     {
       "id": "equipment.asset.87878817de9bce2ad601",
       "source": "Life Vest",
-      "translation": "生命 背心",
+      "translation": "救生衣",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1753,7 +1753,7 @@
     {
       "id": "equipment.asset.7d52aa1f8f91e213e6d7",
       "source": "Magi-Tech Robe",
-      "translation": "魔导科技 长袍",
+      "translation": "魔导科技长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1762,7 +1762,7 @@
     {
       "id": "equipment.asset.fa1400d681baa64283b6",
       "source": "Maid Costume",
-      "translation": "女仆 服装",
+      "translation": "女仆服装",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1771,7 +1771,7 @@
     {
       "id": "equipment.asset.3620275880950562b35b",
       "source": "Maiden Dress",
-      "translation": "少女 礼裙",
+      "translation": "少女礼裙",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1780,7 +1780,7 @@
     {
       "id": "equipment.asset.8934934c4b29e6f720c1",
       "source": "Mana Cloak",
-      "translation": "法力 斗篷",
+      "translation": "法力斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1789,7 +1789,7 @@
     {
       "id": "equipment.asset.39c62f52a61676b2b48a",
       "source": "Marksman Cape",
-      "translation": "神射手 披风",
+      "translation": "神射手披风",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1798,7 +1798,7 @@
     {
       "id": "equipment.asset.fabda3e9ff77f4d8f125",
       "source": "Mercenary Armor",
-      "translation": "雇佣兵 护甲",
+      "translation": "雇佣兵护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1807,7 +1807,7 @@
     {
       "id": "equipment.asset.867e74b3b812dd4efb57",
       "source": "Meteor Armor",
-      "translation": "流星 护甲",
+      "translation": "流星护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1816,7 +1816,7 @@
     {
       "id": "equipment.asset.e961bd3fd4c9fe2ece7e",
       "source": "Missile Vest",
-      "translation": "导弹 背心",
+      "translation": "导弹背心",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1825,7 +1825,7 @@
     {
       "id": "equipment.asset.faca4ab42fc87fdb358e",
       "source": "Mithril Coat",
-      "translation": "秘银 外套",
+      "translation": "秘银外套",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1834,7 +1834,7 @@
     {
       "id": "equipment.asset.74252723f3203f60c9b8",
       "source": "Monk Gi",
-      "translation": "武僧 道服",
+      "translation": "武僧道服",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1843,7 +1843,7 @@
     {
       "id": "equipment.asset.6ba10d047a58ed11cf35",
       "source": "Mystical Wrappings",
-      "translation": "神秘 裹布",
+      "translation": "神秘裹布",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1852,7 +1852,7 @@
     {
       "id": "equipment.asset.ae33b4544fae037ed109",
       "source": "Nano Suit",
-      "translation": "纳米 服",
+      "translation": "纳米服",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1870,7 +1870,7 @@
     {
       "id": "equipment.asset.be778de23e35dff74fe8",
       "source": "Necromancer Coat",
-      "translation": "死灵法师 外套",
+      "translation": "死灵法师外套",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1879,7 +1879,7 @@
     {
       "id": "equipment.asset.1a9a2df1c1aa18f7343d",
       "source": "Nun Robe",
-      "translation": "修女 长袍",
+      "translation": "修女长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1888,7 +1888,7 @@
     {
       "id": "equipment.asset.929a7590ab0de18b5acf",
       "source": "Patient Gown",
-      "translation": "病患 长袍",
+      "translation": "病号服",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1897,7 +1897,7 @@
     {
       "id": "equipment.asset.ebf84751e885bb5ce0c3",
       "source": "Pirate Frock",
-      "translation": "海盗 长裙",
+      "translation": "海盗长裙",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1915,7 +1915,7 @@
     {
       "id": "equipment.asset.872677a1cbbe4da0d394",
       "source": "Pouchy Robe",
-      "translation": "袋装 长袍",
+      "translation": "袋装长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1924,7 +1924,7 @@
     {
       "id": "equipment.asset.6a9ce75297909cdb47b1",
       "source": "Praetor Armor",
-      "translation": "执政官 护甲",
+      "translation": "执政官护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1933,7 +1933,7 @@
     {
       "id": "equipment.asset.0f5ad2a78361a5ff86de",
       "source": "Princess Dress",
-      "translation": "公主 礼裙",
+      "translation": "公主礼裙",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1942,7 +1942,7 @@
     {
       "id": "equipment.asset.3706666cdca3249d01d7",
       "source": "Pyromancer Coat",
-      "translation": "炎术士 外套",
+      "translation": "炎术士外套",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1951,7 +1951,7 @@
     {
       "id": "equipment.asset.2114544dc2d47187f98e",
       "source": "Ranger Cloak",
-      "translation": "游侠 斗篷",
+      "translation": "游侠斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1960,7 +1960,7 @@
     {
       "id": "equipment.asset.28f826282b7b20f4663d",
       "source": "Red Hoodie",
-      "translation": "红色 连帽衫",
+      "translation": "红色连帽衫",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1978,7 +1978,7 @@
     {
       "id": "equipment.asset.f9229ccd78fa440498c1",
       "source": "Sage Robe",
-      "translation": "贤者 长袍",
+      "translation": "贤者长袍",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1987,7 +1987,7 @@
     {
       "id": "equipment.asset.aa9eb04e4821f431446d",
       "source": "Santa Coat",
-      "translation": "圣诞老人 外套",
+      "translation": "圣诞老人外套",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1996,7 +1996,7 @@
     {
       "id": "equipment.asset.95b00828d2ad93927ed9",
       "source": "School Uniform",
-      "translation": "学校 制服",
+      "translation": "学校制服",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2005,7 +2005,7 @@
     {
       "id": "equipment.asset.8bb69c0cc9332deced26",
       "source": "Sheep Costume",
-      "translation": "绵羊 服装",
+      "translation": "绵羊服装",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2014,7 +2014,7 @@
     {
       "id": "equipment.asset.1daae9a165a49b10f83d",
       "source": "Shinobi Suit",
-      "translation": "忍者 服",
+      "translation": "忍者服",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2023,7 +2023,7 @@
     {
       "id": "equipment.asset.6cf32b104986743050ae",
       "source": "Soccer Kit",
-      "translation": "足球 套装",
+      "translation": "足球套装",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2032,7 +2032,7 @@
     {
       "id": "equipment.asset.31bfff1c1afe4e0fea2f",
       "source": "Sorcerer Cloak",
-      "translation": "巫师 斗篷",
+      "translation": "巫师斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2041,7 +2041,7 @@
     {
       "id": "equipment.asset.4fd9216d95f9dfa7ed5d",
       "source": "Spelunker Vest",
-      "translation": "洞穴探险者 背心",
+      "translation": "洞穴探险者背心",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2050,7 +2050,7 @@
     {
       "id": "equipment.asset.7888c92f56bc28d5f2e9",
       "source": "Star Cloak",
-      "translation": "星辰 斗篷",
+      "translation": "星辰斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2059,7 +2059,7 @@
     {
       "id": "equipment.asset.b0184fab5d894c4e4542",
       "source": "Steel Plate Armor",
-      "translation": "钢铁 板甲 护甲",
+      "translation": "钢板甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2068,7 +2068,7 @@
     {
       "id": "equipment.asset.90c1914855c891778ba9",
       "source": "Super Hero Suit",
-      "translation": "超级 英雄 服",
+      "translation": "超级英雄服",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2077,7 +2077,7 @@
     {
       "id": "equipment.asset.b0daa7a2249dfc816caf",
       "source": "Templar's Might",
-      "translation": "圣殿骑士的 力量",
+      "translation": "圣殿骑士的力量",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2086,7 +2086,7 @@
     {
       "id": "equipment.asset.ae7b8489eae66f4f6019",
       "source": "Town Guard Armor",
-      "translation": "城镇 守卫 护甲",
+      "translation": "城镇守卫护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2095,7 +2095,7 @@
     {
       "id": "equipment.asset.8da365b81d3579f8c0f8",
       "source": "Troubadour Garb",
-      "translation": "游吟诗人 装束",
+      "translation": "游吟诗人装束",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2113,7 +2113,7 @@
     {
       "id": "equipment.asset.7fdcdf2f4b71468d1c1a",
       "source": "Turtle Armor",
-      "translation": "乌龟 护甲",
+      "translation": "乌龟护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2149,7 +2149,7 @@
     {
       "id": "equipment.asset.88d8ac8af6e023050865",
       "source": "Ugly Christmas Sweater",
-      "translation": "丑陋 圣诞 毛衣",
+      "translation": "丑陋圣诞毛衣",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2158,7 +2158,7 @@
     {
       "id": "equipment.asset.0730e2836e04c623056c",
       "source": "Vampire Cloak",
-      "translation": "吸血鬼 斗篷",
+      "translation": "吸血鬼斗篷",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2167,7 +2167,7 @@
     {
       "id": "equipment.asset.82117eb578b326222707",
       "source": "Wanderer Coat",
-      "translation": "流浪者 外套",
+      "translation": "流浪者外套",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2176,7 +2176,7 @@
     {
       "id": "equipment.asset.f515990ebdcfe29ae29e",
       "source": "Warrior Armor",
-      "translation": "战士 护甲",
+      "translation": "战士护甲",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -2185,7 +2185,7 @@
     {
       "id": "equipment.asset.8e9b7a2873ea9ca97d9f",
       "source": "Wedding Dress",
-      "translation": "婚礼 礼裙",
+      "translation": "婚纱",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -3445,7 +3445,7 @@
     {
       "id": "equipment.asset.be3b37a95b9c6619c2d9",
       "source": "Magic Find Upgrade",
-      "translation": "魔法 发现 升级",
+      "translation": "魔法寻获升级",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -3895,7 +3895,7 @@
     {
       "id": "equipment.asset.68942809ac38c2d5ce3c",
       "source": "Old Hunter Gloves",
-      "translation": "老猎人 猎人 手套",
+      "translation": "老猎人手套",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -4210,7 +4210,7 @@
     {
       "id": "equipment.asset.89a9ee4d63903b96c325",
       "source": "Angelic Hood",
-      "translation": "天使 兜帽",
+      "translation": "天使兜帽",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -4309,7 +4309,7 @@
     {
       "id": "equipment.asset.a03c888cac4a86ebaf26",
       "source": "Big Brain Helmet",
-      "translation": "大 大脑 头盔",
+      "translation": "巨脑头盔",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -4471,7 +4471,7 @@
     {
       "id": "equipment.asset.d0a56188b739ec4aaefd",
       "source": "Crown of Thorns",
-      "translation": "王冠 之 荆棘",
+      "translation": "荆棘王冠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -4498,7 +4498,7 @@
     {
       "id": "equipment.asset.f6135e2f7147e13fb913",
       "source": "Dark Lord Helmet",
-      "translation": "暗月 领主 头盔",
+      "translation": "暗黑领主头盔",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -4516,7 +4516,7 @@
     {
       "id": "equipment.asset.00d30010e3bc85ebd2a2",
       "source": "Dark Moon Hood",
-      "translation": "暗月 月 兜帽",
+      "translation": "暗月兜帽",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -4561,7 +4561,7 @@
     {
       "id": "equipment.asset.6b4f70cc4d3a5cb4040f",
       "source": "Egg Shell",
-      "translation": "蛋 蛋壳",
+      "translation": "蛋壳",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -4921,7 +4921,7 @@
     {
       "id": "equipment.asset.d769a4d2145baeca6598",
       "source": "Old Hunter Cap",
-      "translation": "老猎人 猎人 帽",
+      "translation": "老猎人帽",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -5245,7 +5245,7 @@
     {
       "id": "equipment.asset.77f2cb37e3af68177637",
       "source": "Traffic Cone",
-      "translation": "交通 圆锥",
+      "translation": "交通锥",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -5578,7 +5578,7 @@
     {
       "id": "equipment.asset.62c7c2c6bee4859a5b82",
       "source": "Dark Orb",
-      "translation": "暗月 宝珠",
+      "translation": "暗影宝珠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -5605,7 +5605,7 @@
     {
       "id": "equipment.asset.69519c732e3b72a50f0e",
       "source": "Door Shield",
-      "translation": "门 盾牌",
+      "translation": "门盾",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -6028,7 +6028,7 @@
     {
       "id": "equipment.asset.57d0f293939d98a8c320",
       "source": "Round Shield",
-      "translation": "圆形 盾牌",
+      "translation": "圆盾",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -6037,7 +6037,7 @@
     {
       "id": "equipment.asset.2bd0007e22f551518096",
       "source": "Sea Urchin Orb",
-      "translation": "海 海胆 宝珠",
+      "translation": "海胆宝珠",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -6217,7 +6217,7 @@
     {
       "id": "equipment.asset.60a44ed40c8ea367b112",
       "source": "Tower Shield",
-      "translation": "塔式 盾牌",
+      "translation": "塔盾",
       "context": "*",
       "kind": "exact",
       "status": "translated",

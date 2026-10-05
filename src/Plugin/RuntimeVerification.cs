@@ -49,15 +49,15 @@ public sealed class RuntimeVerification : MonoBehaviour
             _sawChinese |= Regex.IsMatch(visible, "[\u4e00-\u9fff]");
             _largest = Math.Max(_largest, controller.currentLetterCount);
             _samples++;
-            if (Time.unscaledTime - _messageBegin < 2) return;
+            if (Time.realtimeSinceStartup - _messageBegin < 2) return;
             if (!_sawChinese || _largest < 2) throw new InvalidOperationException("Native Chinese typewriter did not advance.");
             var font = controller.text.font;
             if (font == null || !font.HasCharacter('谁', true, true)) throw new InvalidOperationException("Independent Chinese fallback font failed glyph coverage.");
-            if (_phase == 9)
+            if (_phase == 10)
             {
                 controller.text.ForceMeshUpdate(true, true);
                 if (controller.text.textInfo.characterCount < 4 || controller.text.mesh.vertexCount < 4) throw new InvalidOperationException("Native Chinese dialogue mesh was not generated.");
-                Plugin.Current.Info($"INDEPENDENT SELFTEST PASS: native UI exact/template/styling, Chinese font, three dialogue entrances and choice metadata, descriptions, whole food tutorial, six captured opening tutorial messages and native typewriter ({_samples} frames). No legacy translator loaded.");
+                Plugin.Current.Info($"INDEPENDENT SELFTEST PASS: native UI exact/template/styling, Chinese font, three dialogue entrances and choice metadata, descriptions, whole food tutorial, seven captured opening tutorial messages and native typewriter ({_samples} frames). No legacy translator loaded.");
                 _finished = true;
                 _exitAt = Time.unscaledTime + 1;
                 return;
@@ -82,7 +82,8 @@ public sealed class RuntimeVerification : MonoBehaviour
             "You can use Bombs<sprite name=Bomb>, with <color=#A61FFF>Q</color>.\nHere are some for later!",
             "Splendid!\nNow attack the target dummy\nwith <color=#A61FFF>Mouse Left</color>!\nShow it who's boss!",
             "Haha!\nYou're a natural.\nLet's meet in the next room.",
-            "To defeat stronger foes, you\nwill have to arm yourself."
+            "To defeat stronger foes, you\nwill have to arm yourself.",
+            "Pick up items with <color=#FCC926>[E]</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>[F]</color>.\n<color=#A61FFF>Drag and drop, or right-click</color> the\nweapon to <color=#FCC926>equip</color> it."
         };
         var source = _phase >= 4 ? opening[_phase - 4] : _phase == 3 ? "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence." : "Nothing can stop me!";
         var expected = Plugin.Current.Translate(source, "dialogue", false);
@@ -107,7 +108,7 @@ public sealed class RuntimeVerification : MonoBehaviour
                 throw new InvalidOperationException("Native choice callbacks/tooltips/cancel flag changed.");
         }
         if (controller.currentMessagePlain != expected) throw new InvalidOperationException("Dialogue did not receive independent complete translation.");
-        _messageBegin = Time.unscaledTime;
+        _messageBegin = Time.realtimeSinceStartup;
         _largest = 0;
         _sawChinese = false;
     }
@@ -210,13 +211,42 @@ public sealed class RuntimeVerification : MonoBehaviour
         Plugin.Current.Info($"TESTED BUILD: game={Application.version}, Unity={Application.unityVersion}.");
         var display = new GameObject("Item names diagnostic");
         var itemNames = 0;
+        var completeCards = new System.Collections.Generic.List<string>();
+        var cardIssues = new System.Collections.Generic.List<string>();
+        var nameIssues = new System.Collections.Generic.List<string>();
+        var nativeFixtures = new System.Collections.Generic.List<string>();
         try
         {
             var label = display.AddComponent<TextMeshProUGUI>();
             foreach (var weapon in Resources.FindObjectsOfTypeAll<Weapons.Weapon>())
             {
                 var name = weapon.NameTag;
-                if (!catalog.TryTranslateLabel(name, "styled-ui", out var expected) || !Regex.IsMatch(expected, "[\u4e00-\u9fff]")) continue;
+                try
+                {
+                    string before;
+                    try { Plugin.Current.Catalog = null; before = weapon.GetDescription(false, true); }
+                    finally { Plugin.Current.Catalog = catalog; }
+                    if (!string.IsNullOrEmpty(before))
+                    {
+                        completeCards.Add(before);
+                        nativeFixtures.Add(NativeFixture("weapon", weapon.name, before));
+                        label.text = UI.Text.TextMeshProxy.ApplyColorToText(weapon.GetDescription(false, true), true, label);
+                        VerifyRenderedValues(before, label.text, "full weapon " + weapon.name);
+                        string restored;
+                        try { Plugin.Current.Catalog = null; restored = weapon.GetDescription(false, true); }
+                        finally { Plugin.Current.Catalog = catalog; }
+                        if (restored != before) throw new InvalidOperationException("Weapon descriptive fields or caches were not restored.");
+                        var plain = Regex.Replace(label.text, "<[^>]*>", "");
+                        if (Regex.IsMatch(plain, "[A-Za-z]{2,}")) cardIssues.Add(weapon.name + "\n" + plain);
+                    }
+                }
+                catch (Exception error) { cardIssues.Add(weapon.name + ": GENERATION FAILED: " + error.Message); }
+                if (!catalog.TryTranslateLabel(name, "styled-ui", out var expected) || !Regex.IsMatch(expected, "[\u4e00-\u9fff]"))
+                {
+                    if (catalog.TryTranslateLabel(name, "styled-ui", out var knownCode) && knownCode == name && Regex.IsMatch(name, "^[A-Z0-9_-]{2,12}$")) continue;
+                    if (!string.IsNullOrEmpty(name) && !Regex.IsMatch(name, "[\u4e00-\u9fff]")) nameIssues.Add(weapon.name + " => " + name);
+                    continue;
+                }
                 label.text = UI.Text.TextMeshProxy.ApplyColorToText(name, true, label);
                 if (!Regex.IsMatch(label.text, "[\u4e00-\u9fff]")) throw new InvalidOperationException("Weapon label failed: " + name);
                 itemNames++;
@@ -225,7 +255,57 @@ public sealed class RuntimeVerification : MonoBehaviour
         finally { UnityEngine.Object.Destroy(display); }
         if (itemNames < 100) throw new InvalidOperationException("Insufficient native weapon name samples: " + itemNames);
         Plugin.Current.Info($"NATIVE ITEM LABEL PASS: {itemNames} weapon labels through the actual text styling and TMP path.");
+        var directory = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics");
+        using (var stream = File.Create(Path.Combine(directory, "weapon-name-issues.json")))
+            new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).WriteObject(stream, nameIssues.ToArray());
+        Plugin.Current.Info($"NATIVE ITEM LABEL AUDIT: {nameIssues.Count} nonempty weapon labels not covered; already Chinese or empty labels excluded.");
+        using (var stream = File.Create(Path.Combine(directory, "generated-weapon-cards.json")))
+            new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).WriteObject(stream, completeCards.ToArray());
+        using (var stream = File.Create(Path.Combine(directory, "weapon-card-issues.json")))
+            new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).WriteObject(stream, cardIssues.ToArray());
+        Plugin.Current.Info($"NATIVE WEAPON CARD AUDIT: {completeCards.Count} full descriptions generated, {cardIssues.Count} with remaining English or generation errors. Audit is not a blanket coverage pass.");
+        var equipmentSources = new System.Collections.Generic.List<string>();
+        var equipmentIssues = new System.Collections.Generic.List<string>();
+        var equipmentLabel = new GameObject("Equipment card diagnostic").AddComponent<TextMeshProUGUI>();
+        try
+        {
+            foreach (var equipment in Resources.FindObjectsOfTypeAll<Combat.Equipment.Equipment>())
+            {
+                try
+                {
+                    string source;
+                    try { Plugin.Current.Catalog = null; source = equipment.Description(false, false, true); }
+                    finally { Plugin.Current.Catalog = catalog; }
+                    if (string.IsNullOrEmpty(source)) continue;
+                    equipmentSources.Add(source);
+                    nativeFixtures.Add(NativeFixture("equipment", equipment.name, source));
+                    equipmentLabel.text = UI.Text.TextMeshProxy.ApplyColorToText(equipment.Description(false, false, true), true, equipmentLabel);
+                    VerifyRenderedValues(source, equipmentLabel.text, "equipment " + equipment.name);
+                    string restored;
+                    try { Plugin.Current.Catalog = null; restored = equipment.Description(false, false, true); }
+                    finally { Plugin.Current.Catalog = catalog; }
+                    if (restored != source) throw new InvalidOperationException("Equipment descriptive fields or caches were not restored.");
+                    var plain = Regex.Replace(equipmentLabel.text, "<[^>]*>", "");
+                    if (Regex.IsMatch(plain, "[A-Za-z]{2,}")) equipmentIssues.Add(equipment.name + "\n" + plain);
+                }
+                catch (Exception error) { equipmentIssues.Add(equipment.name + ": GENERATION FAILED: " + error.Message); }
+            }
+        }
+        finally { UnityEngine.Object.Destroy(equipmentLabel.gameObject); }
+        using (var stream = File.Create(Path.Combine(directory, "generated-equipment-cards.json")))
+            new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).WriteObject(stream, equipmentSources.ToArray());
+        using (var stream = File.Create(Path.Combine(directory, "equipment-card-issues.json")))
+            new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).WriteObject(stream, equipmentIssues.ToArray());
+        File.WriteAllText(Path.Combine(directory, "native-card-fixtures.json"), "[" + string.Join(",", nativeFixtures) + "]");
+        Plugin.Current.Info($"NATIVE EQUIPMENT CARD AUDIT: {equipmentSources.Count} full descriptions generated, {equipmentIssues.Count} with remaining English or generation errors; descriptive fields checked after rendering.");
+        if (cardIssues.Concat(equipmentIssues).Any(issue => issue.Contains("GENERATION FAILED:")))
+            throw new InvalidOperationException("Full card audit found a generation, value-preservation or restoration failure; see diagnostics.");
+        if (nameIssues.Count > 0)
+            throw new InvalidOperationException("Native weapon names are missing translations; see weapon-name-issues.json.");
     }
+    private static string NativeFixture(string kind, string name, string source) =>
+        "{\"id\":" + Core.PackJson.Quote(kind + ":" + name) + ",\"context\":\"native-card\",\"objectName\":\"Text\",\"nativeKind\":" + Core.PackJson.Quote(kind) + ",\"nativeName\":" + Core.PackJson.Quote(name) + ",\"source\":" + Core.PackJson.Quote(source) + "}";
+
     private static void VerifyGetter(Func<string> getter, string name)
     {
         var catalog = Plugin.Current.Catalog;
@@ -281,6 +361,19 @@ public sealed class RuntimeVerification : MonoBehaviour
                     VerifyRenderedValues(source, label.text, "captured complete UI");
                 }
                 Plugin.Current.Info($"NATIVE CAPTURED UI PASS: {sources.Length} complete runtime samples; numeric values preserved.");
+            }
+            var cards = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "weapon-cards.json");
+            if (!File.Exists(cards)) throw new FileNotFoundException("Starter weapon card fixtures are required for the native self-test.", cards);
+            using (var stream = File.OpenRead(cards))
+            {
+                var sources = (string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!;
+                foreach (var source in sources)
+                {
+                    label.text = UI.Text.TextMeshProxy.ApplyColorToText(source, true, label);
+                    VerifyRenderedValues(source, label.text, "starter weapon card");
+                    if (Regex.IsMatch(Regex.Replace(label.text, "<[^>]*>", ""), "[A-Za-z]{2,}")) throw new InvalidOperationException("English remains in starter weapon card: " + label.text);
+                }
+                Plugin.Current.Info($"NATIVE STARTER CARD PASS: {sources.Length} captured complete cards; no English prose remains.");
             }
             label.text = "Unmapped diagnostic text QZXV";
             if (label.text != "Unmapped diagnostic text QZXV") throw new InvalidOperationException("Unknown text was changed.");

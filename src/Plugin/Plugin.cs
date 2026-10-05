@@ -16,7 +16,7 @@ using UI.Dialogue_System;
 
 namespace TinyRogues.Chinese;
 
-[BepInPlugin(Id, "Tiny Rogues Chinese", "0.1.0")]
+[BepInPlugin(Id, "Tiny Rogues Chinese", "0.1.1")]
 [BepInIncompatibility("gravydevsupreme.xunity.autotranslator")]
 [BepInIncompatibility("mugen.tinyrogues.tmpfallback")]
 public sealed class Plugin : BasePlugin
@@ -40,7 +40,7 @@ public sealed class Plugin : BasePlugin
     {
         Current = this;
         _root = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)!;
-        _record = Config.Bind("Translation", "RecordMissing", true, "Record complete unknown English strings, never dialogue prefixes.").Value;
+        _record = Config.Bind("Translation", "RecordMissing", true, "Record complete strings with residual English, including partial translations; never dialogue prefixes.").Value;
         FontPath = Config.Bind("Font", "Path", Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Fonts), "simhei.ttf"), "Local CJK font file. Font binaries are not distributed.").Value;
         Diagnostic = Environment.GetCommandLineArgs().Contains("-tinyrogues-chinese-selftest");
         // Refuse the old translator stack instead of silently mixing its dictionaries.
@@ -99,12 +99,13 @@ public sealed class Plugin : BasePlugin
 
     internal string Translate(string source, string context, bool capture = true)
     {
+        var result = source;
         if (Catalog != null)
         {
             var label = context.StartsWith("ui:", StringComparison.Ordinal) || context == "styled-ui";
-            if (label ? Catalog.TryTranslateLabel(source, context, out var target) : Catalog.TryTranslate(source, context, out target)) return target;
+            if (label ? Catalog.TryTranslateLabel(source, context, out var target) : Catalog.TryTranslate(source, context, out target)) result = target;
         }
-        if (_record && capture && source != null && source.Length <= 12000 && Regex.IsMatch(Regex.Replace(source, "<[^>]*>", ""), "[A-Za-z]{3,}"))
+        if (_record && capture && source != null && source.Length <= 12000 && Regex.IsMatch(Regex.Replace(result, "<[^>]*>", ""), "[A-Za-z]{3,}"))
         {
             var key = context + "\0" + source;
             if (_misses.Count < 20000 && _misses.Add(key))
@@ -112,11 +113,11 @@ public sealed class Plugin : BasePlugin
                 {
                     Directory.CreateDirectory(Path.Combine(_root, "captures"));
                     File.AppendAllText(Path.Combine(_root, "captures", "missing.jsonl"),
-                        "{\"context\":" + PackJson.Quote(context) + ",\"source\":" + PackJson.Quote(source) + "}" + Environment.NewLine, new UTF8Encoding(false));
+                        "{\"timestampUtc\":" + PackJson.Quote(DateTime.UtcNow.ToString("O")) + ",\"context\":" + PackJson.Quote(context) + ",\"source\":" + PackJson.Quote(source) + ",\"rendered\":" + PackJson.Quote(result) + "}" + Environment.NewLine, new UTF8Encoding(false));
                 }
                 catch (Exception error) { Log.LogWarning($"Cannot record untranslated text: {error.Message}"); }
         }
-        return source!;
+        return result!;
     }
 
     internal void FontFor(TMP_Text body)

@@ -2005,7 +2005,7 @@
     {
       "id": "consumables.asset.6131c616ed9c908195b8",
       "source": "Stamina Potion",
-      "translation": "耐力药剂",
+      "translation": "体力药剂",
       "context": "*",
       "kind": "exact",
       "status": "translated",

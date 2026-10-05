@@ -31,6 +31,9 @@ internal static class Adapters
             .Where(method => method.ReturnType == typeof(string) && method.GetParameters().FirstOrDefault()?.ParameterType == typeof(string)).ToArray();
         if (descriptions.Length != 2) throw new MissingMethodException("Description formatter signatures changed.");
         foreach (var description in descriptions) Patch(description, nameof(PrepareDescription));
+        PatchScoped(AccessTools.Method(typeof(Weapons.Weapon), "GetDescription"), nameof(PrepareWeapon));
+        PatchScoped(AccessTools.Method(typeof(Weapons.Weapon), "ShapeShiftWeaponDescription"), nameof(PrepareWeapon));
+        PatchScoped(AccessTools.Method(typeof(Combat.Equipment.Equipment), "Description"), nameof(PrepareEquipment));
         // Skill descriptions use named game tokens as well as the common stat formatter.
         // Swap only descriptive fields for the duration of the native render call.
         foreach (var type in typeof(Skill_System.SkillBehaviour).Assembly.GetTypes().Where(type => typeof(Skill_System.SkillBehaviour).IsAssignableFrom(type)))
@@ -155,6 +158,20 @@ internal static class Adapters
         catch (Exception error) { Plugin.Current.Error($"Description template adapter failed: {error.Message}"); }
     }
 
+    private static void PrepareWeapon(Weapons.Weapon __instance, out DescriptionState __state)
+    {
+        var scope = new DescriptionScope();
+        __state = new DescriptionState { Restore = scope.Restore };
+        scope.Effects(__instance.effects);
+    }
+    private static void PrepareEquipment(Combat.Equipment.Equipment __instance, out DescriptionState __state)
+    {
+        var scope = new DescriptionScope();
+        __state = new DescriptionState { Restore = scope.Restore };
+        scope.Text(() => __instance.description, value => __instance.description = value);
+        scope.Effects(__instance.effects);
+    }
+
     private static void PrepareMessage(DialogueSystemController __instance, ref string __0)
     {
         try
@@ -230,6 +247,8 @@ internal static class Adapters
         try
         {
             var template = Plugin.Current.Translate(__0, "description-template", false);
+            // Composed weapon cards translate after native semantic coloring.
+            // Translating enum labels here would prevent the game coloring them.
             __0 = template != __0 ? template : Plugin.Current.Translate(__0, "styled-input");
         }
         catch (Exception error) { Plugin.Current.Error($"Styled source adapter failed: {error.Message}"); }

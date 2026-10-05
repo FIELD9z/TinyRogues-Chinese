@@ -60,6 +60,7 @@ public sealed class CompiledEntry
     private static readonly Regex Numbers = new(@"\d+(?:[.,]\d+)?", RegexOptions.CultureInvariant);
     private static readonly Regex RedMarkers = new(@"\(\([^()]*\)\)", RegexOptions.CultureInvariant);
     private readonly Regex? _pattern;
+    private readonly string _literalPrefix = "";
     private readonly HashSet<string> _terms = new(StringComparer.Ordinal);
     public TranslationEntry Entry { get; }
     public CompiledEntry(TranslationEntry entry)
@@ -94,6 +95,8 @@ public sealed class CompiledEntry
         if (entry.Source.Count(c => c == '\n') != entry.Translation.Count(c => c == '\n'))
             throw new InvalidDataException($"Line breaks changed: {entry.Id}");
         if (entry.Kind == "exact") return;
+        var firstToken = Tokens.Match(entry.Source);
+        if (firstToken.Success) _literalPrefix = entry.Source.Substring(0, firstToken.Index);
         var expression = new StringBuilder(@"\A");
         var names = new Dictionary<string, string>(StringComparer.Ordinal);
         var last = 0;
@@ -136,6 +139,7 @@ public sealed class CompiledEntry
             return true;
         }
         Match match;
+        if (!source.StartsWith(_literalPrefix, StringComparison.Ordinal)) return false;
         try { match = _pattern.Match(source); } catch (RegexMatchTimeoutException) { return false; }
         if (!match.Success) return false;
         var terms = new Dictionary<string, string>(StringComparer.Ordinal);
@@ -149,6 +153,56 @@ public sealed class CompiledEntry
         target = Tokens.Replace(Entry.Translation, token => terms.TryGetValue(token.Groups[2].Value, out var term) ? term : match.Groups[token.Groups[2].Value].Value);
         return true;
     }
+
+    internal bool TryTranslateRich(string source, out string target, Func<string, string?> translateTerm, Catalog catalog)
+    {
+        target = source;
+        var chars = new List<int>();
+        var plain = new StringBuilder();
+        foreach (Match run in Regex.Matches(source, @"<[^>]*>|[^<>]+"))
+        {
+            if (run.Value.StartsWith("<", StringComparison.Ordinal)) continue;
+            for (var index = 0; index < run.Length; index++) { chars.Add(run.Index + index); plain.Append(run.Value[index]); }
+        }
+        var input = plain.ToString().Replace('\u00a0', ' ');
+        if (!TryTranslate(input, out _, translateTerm)) return false;
+        var sourceTokens = Tokens.Matches(Entry.Source).Cast<Match>().ToArray();
+        var targetTokens = Tokens.Matches(Entry.Translation).Cast<Match>().ToArray();
+        if (!sourceTokens.Select(t => t.Value).SequenceEqual(targetTokens.Select(t => t.Value))) return false;
+        if (sourceTokens.Select(t => t.Groups[2].Value).Distinct().Count() != sourceTokens.Length) return false;
+        Match? matched = null;
+        if (_pattern != null) try { matched = _pattern.Match(input); } catch (RegexMatchTimeoutException) { return false; }
+        var output = new StringBuilder();
+        var oldOffset = 0;
+        var newOffset = 0;
+        for (var index = 0; index <= sourceTokens.Length; index++)
+        {
+            var visibleEnd = index == sourceTokens.Length ? input.Length : matched!.Groups[sourceTokens[index].Groups[2].Value].Index;
+            var richEnd = visibleEnd == input.Length ? source.Length : chars[visibleEnd];
+            var newEnd = index == targetTokens.Length ? Entry.Translation.Length : targetTokens[index].Index;
+            var literal = Entry.Translation.Substring(newOffset, newEnd - newOffset);
+            var emitted = false;
+            var original = source.Substring(oldOffset, richEnd - oldOffset);
+            output.Append(Regex.Replace(original, @"<[^>]*>|[^<>]+", run =>
+            {
+                if (run.Value.StartsWith("<", StringComparison.Ordinal)) return run.Value;
+                if (emitted) return "";
+                emitted = true; return literal;
+            }));
+            if (!emitted) output.Append(literal);
+            if (index == sourceTokens.Length) break;
+            var token = sourceTokens[index];
+            var group = matched!.Groups[token.Groups[2].Value];
+            var groupEnd = group.Index + group.Length;
+            var richGroupEnd = groupEnd == input.Length ? source.Length : chars[groupEnd];
+            var richValue = source.Substring(richEnd, richGroupEnd - richEnd);
+            output.Append(token.Groups[1].Value == "term" ? DisplayValues.RichTerm(catalog, richValue) : richValue);
+            oldOffset = richGroupEnd;
+            newOffset = targetTokens[index].Index + targetTokens[index].Length;
+        }
+        target = output.ToString();
+        return true;
+    }
 }
 
 public sealed class Catalog
@@ -156,6 +210,8 @@ public sealed class Catalog
     private static readonly Regex Label = new(@"\A(?<prefix>(?:<(?:color=[^<>]+|size=[^<>]+|b|i|u)>)+)(?<label>[^<>\r\n]{1,120})(?<suffix>(?:</(?:color|size|b|i|u)>)+)\z", RegexOptions.CultureInvariant);
     private static readonly Regex LabelTags = new(@"</?(color|size|b|i|u)(?:=[^<>]+)?>", RegexOptions.CultureInvariant);
     private readonly Layer[] _layers;
+    private readonly HashSet<string> _knownValues = new(StringComparer.Ordinal);
+    internal bool IsTranslatedValue(string source) => _knownValues.Contains(source);
     public int EntryCount { get; }
     public Catalog(IEnumerable<(TranslationPack Pack, bool User, string Path)> packs)
     {
@@ -180,6 +236,8 @@ public sealed class Catalog
                 }
                 unique.Add(key, entry.Translation);
                 entries.Add(compiled);
+                if (entry.Kind == "exact" && (entry.Context == "*" || entry.Context == "display-value" || entry.Context == "weapon-action-name"))
+                    _knownValues.Add(entry.Translation.Replace('\u00a0', ' '));
             }
             list.Add(new Layer(entries.ToArray()));
             EntryCount += entries.Count;
@@ -203,13 +261,31 @@ public sealed class Catalog
     {
         foreach (var layer in _layers) if (layer.TryExact(source, "*", out var exact)) return exact;
         var wrapped = Label.Match(source);
-        if (!wrapped.Success) return null;
+        if (!wrapped.Success) return DisplayValues.Value(this, source);
         var prefix = wrapped.Groups["prefix"].Value;
         var suffix = wrapped.Groups["suffix"].Value;
         if (!LabelTags.Matches(prefix).Cast<Match>().Select(m => m.Groups[1].Value).Reverse().SequenceEqual(LabelTags.Matches(suffix).Cast<Match>().Select(m => m.Groups[1].Value))) return null;
         foreach (var layer in _layers)
             if (layer.TryExact(wrapped.Groups["label"].Value, "*", out var label)) return prefix + label + suffix;
+        var value = DisplayValues.Value(this, wrapped.Groups["label"].Value);
+        if (value != null) return prefix + value + suffix;
         return null;
+    }
+
+    internal bool TryTranslateAtom(string source, string context, out string target)
+    {
+        foreach (var layer in _layers)
+            if (layer.TryExact(source, context, out target) || layer.TryExact(source, "*", out target)) return true;
+        target = source; return false;
+    }
+
+    public bool TryTranslateRichLine(string source, string context, out string target)
+    {
+        target = source;
+        if (string.IsNullOrEmpty(source) || source.Length > 12000) return false;
+        foreach (var layer in _layers)
+            if (layer.TryRich(source, context, out target, TranslateTerm, this)) return true;
+        return false;
     }
 
     // A complete styled label is still one lookup. Never translate words inside prose.
@@ -217,6 +293,7 @@ public sealed class Catalog
     {
         if (TryTranslate(source, context, out target)) return true;
         if (string.IsNullOrEmpty(source) || source.Length > 12000) return false;
+        if (WeaponCards.TryTranslate(this, source, out target)) return true;
         var wrapped = Label.Match(source);
         if (!wrapped.Success) return false;
         var prefix = wrapped.Groups["prefix"].Value;
@@ -254,6 +331,15 @@ public sealed class Catalog
         {
             target = source;
             if (_exact.TryGetValue(context, out var map) && map.TryGetValue(source, out var exact)) return exact.TryTranslate(source, out target);
+            return false;
+        }
+        public bool TryRich(string source, string context, out string target, Func<string, string?> term, Catalog catalog)
+        {
+            target = source;
+            var plain = Regex.Replace(source, "<[^>]*>", "").Replace('\u00a0', ' ');
+            if (_exact.TryGetValue(context, out var exact) && exact.TryGetValue(plain, out var entry) && entry.TryTranslateRich(source, out target, term, catalog)) return true;
+            if (_templates.TryGetValue(context, out var templates))
+                foreach (var template in templates) if (template.TryTranslateRich(source, out target, term, catalog)) return true;
             return false;
         }
         public bool TryTranslate(string source, string context, out string target, Func<string, string?> translateTerm)

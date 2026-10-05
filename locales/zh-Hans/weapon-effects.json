@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "武器附加属性与动态说明",
+  "priority": 10,
+  "entries": [
+    {
+      "id": "card.effect.81c7ae665a2e0e99",
+      "source": "Throwing",
+      "translation": "投掷武器",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.8a43c248421de4b3",
+      "source": "Throwing",
+      "translation": "投掷武器",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.ea14e3a4ea0c3550",
+      "source": "Throwing",
+      "translation": "投掷武器",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.81325e1935fbb252",
+      "source": "Polearm",
+      "translation": "长柄武器",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.ab0412ccf3be9479",
+      "source": "Polearm",
+      "translation": "长柄武器",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.8d21c0919b506127",
+      "source": "Polearm",
+      "translation": "长柄武器",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.38d0169a695f664e",
+      "source": "Spellbook",
+      "translation": "魔法书",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.9077abf4519d719c",
+      "source": "Spellbook",
+      "translation": "魔法书",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.6e4904527b3cc9e4",
+      "source": "Spellbook",
+      "translation": "魔法书",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.5ef68ba11bf9e645",
+      "source": "Cannon",
+      "translation": "火炮",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.afceaf10352eb9a9",
+      "source": "Cannon",
+      "translation": "火炮",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.ffe42d1eaca2102f",
+      "source": "Cannon",
+      "translation": "火炮",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.e3280b0486bfff53",
+      "source": "Fist",
+      "translation": "拳",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.d63253fa28e112d2",
+      "source": "Fist",
+      "translation": "拳",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.48ad104de038d380",
+      "source": "Fist",
+      "translation": "拳",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.de68c3307f4a6b1a",
+      "source": "Daibo",
+      "translation": "长棍",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.df36eef39a7b66a5",
+      "source": "Daibo",
+      "translation": "长棍",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.525ff84036c5342f",
+      "source": "Daibo",
+      "translation": "长棍",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.9683fbc6b22d3673",
+      "source": "Fans",
+      "translation": "双扇",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.f0613fa91920ba11",
+      "source": "Fans",
+      "translation": "双扇",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.02836f515c219113",
+      "source": "Fans",
+      "translation": "双扇",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.cef9339b97f511ac",
+      "source": "Sickles",
+      "translation": "双镰",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.8e42765e92aa8a92",
+      "source": "Sickles",
+      "translation": "双镰",
+      "context": "weapon-card-term",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.8db9d9453d809c3d",
+      "source": "Sickles",
+      "translation": "双镰",
+      "context": "display-value",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.75a9399612dc6f00",
+      "source": "Inflicts:",
+      "translation": "施加：",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.b3a5ac466af6b630",
+      "source": "Grants:",
+      "translation": "获得：",
+      "context": "weapon-card",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.778c6c3549d9dc22",
+      "source": "•Hits {number:count} times.",
+      "translation": "•命中 {number:count} 次。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.c78bafa493dfec53",
+      "source": "•Attack hits {number:rate} times per second.",
+      "translation": "•每秒命中 {number:rate} 次。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.65d01058d68b1feb",
+      "source": "•Attack hits {number:rate} times per second. [Tick]",
+      "translation": "•每秒命中 {number:rate} 次。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.2e894d77b64768f4",
+      "source": "•Attacks trigger a {term:action} {number:rate} times per second.",
+      "translation": "•攻击触发{term:action}，每秒 {number:rate} 次。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.0751bc5738d551a8",
+      "source": "•Attacks trigger a {term:action} {number:rate} times per second. [Tick]",
+      "translation": "•攻击触发{term:action}，每秒 {number:rate} 次。[结算]",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.9ff8605b6f11b1dd",
+      "source": "•Chains: {number:count}",
+      "translation": "•连锁次数：{number:count}",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.c3173718cb7df774",
+      "source": "•Evolves at Upgrade Level {number:level}.",
+      "translation": "•升级等级达到 {number:level} 时进化。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.6c3bec245ec2a5f5",
+      "source": "•Evolves at Upgrade Level {number:level} with the correct Material.",
+      "translation": "•升级等级达到 {number:level} 且拥有所需材料时进化。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.1db8e2edf1988d50",
+      "source": "•Grants {number:count} {term:companion} Companions.",
+      "translation": "•获得 {number:count} 名{term:companion}伙伴。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.3fc833f28dc76e29",
+      "source": "•Deals {term:damage} Damage.",
+      "translation": "•造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.b56576a64c325bab",
+      "source": "•Deals {term:damage} Damage per Upgrade Level.",
+      "translation": "•每级升级等级增加{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.043bdcdd609551ea",
+      "source": "or {term:damage} ",
+      "translation": "或{term:damage} ",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.8fd34ab01e8ebb1b",
+      "source": "or {term:damage}",
+      "translation": "或{term:damage}",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.6c5e103076b4a64b",
+      "source": "({number:amount} currently)",
+      "translation": "（当前{number:amount}）",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.316002c7b1516406",
+      "source": "({term:amount} currently)",
+      "translation": "（当前{term:amount}）",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.89a28e0b10f88a60",
+      "source": "•Inflicts: {term:statuses}",
+      "translation": "•施加：{term:statuses}",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.8a8eca5024a596df",
+      "source": "•Grants: {term:statuses}",
+      "translation": "•获得：{term:statuses}",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.2cb2c1c1f889e8a1",
+      "source": "•Counts as Two-Handed while",
+      "translation": "•未装备副手时，",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.fc3254005e2d9063",
+      "source": "not wearing an Offhand.",
+      "translation": "视为双手武器。",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "card.effect.3fef53bad69211b8",
+      "source": "Each Grants: ",
+      "translation": "每名伙伴提供：",
+      "context": "weapon-effect",
+      "kind": "exact",
+      "status": "translated"
+    }
+  ]
+}
