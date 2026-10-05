@@ -1,0 +1,881 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "界面交叉检查补充",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "audit.ui.be662c07b695d57f",
+      "source": "Mouse Left",
+      "translation": "鼠标左键",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.c64a7bece0cef87b",
+      "source": "Mouse Right",
+      "translation": "鼠标右键",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.b58e57487c573087",
+      "source": "Mouse Middle",
+      "translation": "鼠标中键",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.40bdcb5f13c9cae3",
+      "source": "Up Arrow",
+      "translation": "上方向键",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.d85511f4b4c158b0",
+      "source": "Down Arrow",
+      "translation": "下方向键",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.ee6300312d4cef2b",
+      "source": "Left Arrow",
+      "translation": "左方向键",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.8b9e33cb63aa7e54",
+      "source": "Right Arrow",
+      "translation": "右方向键",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.f94c703460ec76e6",
+      "source": "Page Down",
+      "translation": "下一页",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.f55229d8bed10a4b",
+      "source": "Right Stick Press",
+      "translation": "按下右摇杆",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.c43c455179bd6609",
+      "source": "Reset Achievements",
+      "translation": "重置成就",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.55e172157ad97617",
+      "source": "Reset Options",
+      "translation": "重置选项",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.9a0467c2eac2018d",
+      "source": "Windowed",
+      "translation": "窗口化",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.92dd09cc4e4eec43",
+      "source": "FIXED UPDATE",
+      "translation": "固定更新",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.516f589b0044350a",
+      "source": "PC Senior (Retro)",
+      "translation": "PC Senior（复古）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.b0a823e7bbcc7906",
+      "source": "Exit to title menu?",
+      "translation": "要返回标题菜单吗？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.e62aff7936928d5b",
+      "source": "Try punching!",
+      "translation": "试试用拳头！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.51e8875879cf73bd",
+      "source": "The next Isaac?",
+      "translation": "下一个《以撒》？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.35ab8c50e62bc350",
+      "source": "What the mook?!",
+      "translation": "什么鬼？！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.6897e76f4a0d8123",
+      "source": "Thanks for playing!",
+      "translation": "感谢游玩！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.18b59b0e45fab8a1",
+      "source": "It knows this because it knows where it isn't.",
+      "translation": "它之所以知道，是因为它知道自己不在哪里。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.0b814a961ffe7858",
+      "source": "Defeat Eden in the High Heavens.",
+      "translation": "在至高天击败伊甸。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.7a47e194fdf9a3cb",
+      "source": "Weapon Enchantments.",
+      "translation": "武器附魔。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.4500803bc5ec0f5b",
+      "source": "Tutorial",
+      "translation": "教程",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.5063ca666feee709",
+      "source": "+1 <color=#3B3B7A>BOMBS</color>",
+      "translation": "+1 <color=#3B3B7A>炸弹</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.84c854e903a7f02d",
+      "source": "Auto",
+      "translation": "自动",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.037e9c7e0e5085ac",
+      "source": "The Pit",
+      "translation": "深坑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.24e25691d3be27a2",
+      "source": "Not Completed",
+      "translation": "未完成",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.58df48dafa490712",
+      "source": "Now with 100% more text!",
+      "translation": "现在文字多了 100%！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.e7b87878fe047b51",
+      "source": "Attack<color=#00E61A>*</color>",
+      "translation": "攻击<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.74b9123f561f9d59",
+      "source": "Use Skill<color=#00E61A>*</color>",
+      "translation": "使用技能<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.28d6a4b722b9564b",
+      "source": "Drop Bomb<color=#00E61A>*</color>",
+      "translation": "投掷炸弹<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.488f19347a32053e",
+      "source": "Dash<color=#00E61A>*</color>",
+      "translation": "冲刺<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.2e0a5584d0488a24",
+      "source": "Toggle Character Panel<color=#00E61A>*</color>",
+      "translation": "开关角色面板<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.58c4a03371878379",
+      "source": "Toggle Inventory<color=#00E61A>*</color>",
+      "translation": "开关背包<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.d1577f8c73b00133",
+      "source": "Toggle Pause Menu<color=#00E61A>*</color>",
+      "translation": "开关暂停菜单<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.d32186d910dec18b",
+      "source": "Weapon Swap<color=#00E61A>*</color>",
+      "translation": "切换武器<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.c60108c4681a9423",
+      "source": "Move Up<color=#00E61A>*</color>",
+      "translation": "向上移动<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.78e7ed505ac9d0a6",
+      "source": "Move Down<color=#00E61A>*</color>",
+      "translation": "向下移动<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.6cd8bddbd8bf42f6",
+      "source": "Move Left<color=#00E61A>*</color>",
+      "translation": "向左移动<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.507124660e0ab8e3",
+      "source": "Move Right<color=#00E61A>*</color>",
+      "translation": "向右移动<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.a6ae601b8186f0ce",
+      "source": "Heal<color=#00E61A>*</color>",
+      "translation": "治疗<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.50a930dc1fa299a4",
+      "source": "Radial Menu<color=#00E61A>*</color>",
+      "translation": "轮盘菜单<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.25ad280a28e80ca0",
+      "source": "Use Item In Slot1<color=#00E61A>*</color>",
+      "translation": "使用槽位 1 的物品<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.d7232471394c6d3c",
+      "source": "Use Item In Slot2<color=#00E61A>*</color>",
+      "translation": "使用槽位 2 的物品<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.77429da97310b22a",
+      "source": "Use Item In Slot3<color=#00E61A>*</color>",
+      "translation": "使用槽位 3 的物品<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.ce1a7de50ce01b5d",
+      "source": "Use Item In Slot4<color=#00E61A>*</color>",
+      "translation": "使用槽位 4 的物品<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.dc394eb4da7458be",
+      "source": "Use Item In Slot5<color=#00E61A>*</color>",
+      "translation": "使用槽位 5 的物品<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.0c9ca6efe79f5845",
+      "source": "Use Item In Slot6<color=#00E61A>*</color>",
+      "translation": "使用槽位 6 的物品<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.423bae5a1f96a32b",
+      "source": "Use Item In Slot7<color=#00E61A>*</color>",
+      "translation": "使用槽位 7 的物品<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.b408c975ab96a4b3",
+      "source": "Use Item In Slot8<color=#00E61A>*</color>",
+      "translation": "使用槽位 8 的物品<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.9b347af52ef334a6",
+      "source": "Aim Up<color=#00E61A>*</color>",
+      "translation": "向上瞄准<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.00a5b69ccee8c897",
+      "source": "Aim Down<color=#00E61A>*</color>",
+      "translation": "向下瞄准<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.393a0792dc877bae",
+      "source": "Aim Left<color=#00E61A>*</color>",
+      "translation": "向左瞄准<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.a08b4bac124e4c63",
+      "source": "Aim Right<color=#00E61A>*</color>",
+      "translation": "向右瞄准<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.5fe4aca903f701bb",
+      "source": "Toggle Dice Bag<color=#00E61A>*</color>",
+      "translation": "开关骰子袋<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.165efba140a127bb",
+      "source": "Toggle Aim Assist<color=#00E61A>*</color>",
+      "translation": "开关辅助瞄准<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.a4bb5fb545275d33",
+      "source": "Navigate Menu Up<color=#FF008C>*</color>",
+      "translation": "菜单向上<color=#FF008C>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.af42f49fe5a4a31a",
+      "source": "Navigate Menu Down<color=#FF008C>*</color>",
+      "translation": "菜单向下<color=#FF008C>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.2cf10e925609d19e",
+      "source": "Navigate Menu Left<color=#FF008C>*</color>",
+      "translation": "菜单向左<color=#FF008C>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.219ca4f22899a4f5",
+      "source": "Navigate Menu Right<color=#FF008C>*</color>",
+      "translation": "菜单向右<color=#FF008C>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.4a75d3a158dfbb26",
+      "source": "Reroll Traits<color=#FF008C>*</color>",
+      "translation": "重选特质<color=#FF008C>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.ccebbd98a0ba0321",
+      "source": "Interact<color=#A61FFF>*</color>",
+      "translation": "交互<color=#A61FFF>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.fe83361ee82f01a5",
+      "source": "Use Menu Action<color=#FF73B5>*</color>",
+      "translation": "执行菜单操作<color=#FF73B5>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.69da747c4cf167fc",
+      "source": "Cancel Menu Action<color=#FF73B5>*</color>",
+      "translation": "取消菜单操作<color=#FF73B5>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.9af58370d68150dc",
+      "source": "Show Details<color=#FF2666>*</color>",
+      "translation": "显示详细信息<color=#FF2666>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.84855e424f305dc0",
+      "source": "Compare<color=#FF2666>*</color>",
+      "translation": "比较<color=#FF2666>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.93ebbe392cbeb9e9",
+      "source": "Show Base Values<color=#FF2666>*</color>",
+      "translation": "显示基础数值<color=#FF2666>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.c709ba994065c1b2",
+      "source": "Confirm<color=#26FF66>*</color>",
+      "translation": "确认<color=#26FF66>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.fdb4bc8df76a07db",
+      "source": "Decline<color=#26FF66>*</color>",
+      "translation": "拒绝<color=#26FF66>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.f7fe7f19e89890d1",
+      "source": "Scroll Up<color=#FFFFFF>*</color>",
+      "translation": "向上滚动<color=#FFFFFF>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.76cf9c9aeefd0a76",
+      "source": "Scroll Down<color=#FFFFFF>*</color>",
+      "translation": "向下滚动<color=#FFFFFF>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.233eb6fa8e102eb3",
+      "source": "Cancel Skill<color=#26B0FF>*</color>",
+      "translation": "取消技能<color=#26B0FF>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.91ffd2eb45354feb",
+      "source": "Use Skill<color=#00E61A>*</color>",
+      "translation": "使用技能<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.1014e07dba93493f",
+      "source": "Drop Bomb<color=#00E61A>*</color>",
+      "translation": "投掷炸弹<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.dc256f02bea9cd4f",
+      "source": "Toggle Character Panel<color=#00E61A>*</color>",
+      "translation": "开关角色面板<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.311f58ced629e53c",
+      "source": "Toggle Inventory<color=#00E61A>*</color>",
+      "translation": "开关背包<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.647777108e261f85",
+      "source": "Toggle Pause Menu<color=#00E61A>*</color>",
+      "translation": "开关暂停菜单<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.caea921a43fc7ed5",
+      "source": "Weapon Swap<color=#00E61A>*</color>",
+      "translation": "切换武器<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.b7463e46fd819a90",
+      "source": "Radial Menu<color=#00E61A>*</color>",
+      "translation": "轮盘菜单<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.9cb5ee4772f4e199",
+      "source": "Toggle Aim Assist<color=#00E61A>*</color>",
+      "translation": "开关辅助瞄准<color=#00E61A>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.5eb9b76c5f79e3a2",
+      "source": "Reroll Traits<color=#FF008C>*</color>",
+      "translation": "重选特质<color=#FF008C>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.5db9f24983f28e87",
+      "source": "Use Menu Action<color=#FF73B5>*</color>",
+      "translation": "执行菜单操作<color=#FF73B5>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.6ba9fea80734e76b",
+      "source": "Cancel Menu Action<color=#FF73B5>*</color>",
+      "translation": "取消菜单操作<color=#FF73B5>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.8da20dd887893778",
+      "source": "Show Details<color=#FF2666>*</color>",
+      "translation": "显示详细信息<color=#FF2666>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.37e4f217f1a1664f",
+      "source": "Cancel Skill<color=#26B0FF>*</color>",
+      "translation": "取消技能<color=#26B0FF>*</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.444e9666be7b2316",
+      "source": "Slot {number:index}",
+      "translation": "槽位 {number:index}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏完整输出建立的有限模板；数值和计时原样回填，不做全局子串替换。"
+    },
+    {
+      "id": "audit.ui.f2312c8cb01f394a",
+      "source": "Mastery\n{number:current}/{number:max}",
+      "translation": "精通\n{number:current}/{number:max}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏完整输出建立的有限模板；数值和计时原样回填，不做全局子串替换。"
+    },
+    {
+      "id": "audit.ui.9efbf88c5c5a9c94",
+      "source": "Mastery Level {number:level}",
+      "translation": "精通等级 {number:level}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏完整输出建立的有限模板；数值和计时原样回填，不做全局子串替换。"
+    },
+    {
+      "id": "audit.ui.03513a02b3d2d161",
+      "source": "{number:current}/{number:max} <color=#FFEB04>EXP</color>",
+      "translation": "{number:current}/{number:max} <color=#FFEB04>经验</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏完整输出建立的有限模板；数值和计时原样回填，不做全局子串替换。"
+    },
+    {
+      "id": "audit.ui.c3bb3fb17570e5b1",
+      "source": "WINS: <color=#D92929>{number:wins}</color>",
+      "translation": "胜场：<color=#D92929>{number:wins}</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏完整输出建立的有限模板；数值和计时原样回填，不做全局子串替换。"
+    },
+    {
+      "id": "audit.ui.6cf3e47d8657a048",
+      "source": "Cinder {number:level}",
+      "translation": "余烬 {number:level}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏完整输出建立的有限模板；数值和计时原样回填，不做全局子串替换。"
+    },
+    {
+      "id": "audit.ui.8b48a19cc48e48fe",
+      "source": "<color=#FFEB04>{number:spent}</color>/<color=#FFEB04>{number:total}</color> Points",
+      "translation": "<color=#FFEB04>{number:spent}</color>/<color=#FFEB04>{number:total}</color> 点数",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏完整输出建立的有限模板；数值和计时原样回填，不做全局子串替换。"
+    },
+    {
+      "id": "audit.ui.c3c7f5027923c954",
+      "source": "Floor {number:floor} - {number:room} <mspace=1em>{key:time}",
+      "translation": "第 {number:floor} 层 - {number:room} <mspace=1em>{key:time}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏完整输出建立的有限模板；数值和计时原样回填，不做全局子串替换。"
+    },
+    {
+      "id": "audit.ui.e2e24a42ca92a331",
+      "source": "等级达到<color=#00E317>{number:first}</color>时，你获得<color=#00E61A>{number:luck}</color>幸运<sprite name=\"Luck\">， <color=#00E317>{number:second}</color> and <color=#00E317>{number:third}</color>.",
+      "translation": "等级达到<color=#00E317>{number:first}</color>、<color=#00E317>{number:second}</color>和<color=#00E317>{number:third}</color>时，获得<color=#00E61A>{number:luck}</color>幸运<sprite name=\"Luck\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏完整输出建立的有限模板；数值和计时原样回填，不做全局子串替换。"
+    },
+    {
+      "id": "audit.ui.e78e9f1a65f14999",
+      "source": "<color=yellow>Unlocks:</color> {term:class} Class\n<color=#FCC926>Status: </color><color=#808080>{term:status}</color>",
+      "translation": "<color=yellow>解锁：</color>{term:class}职业\n<color=#FCC926>状态：</color><color=#808080>{term:status}</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际游戏完整输出建立的有限模板；数值和计时原样回填，不做全局子串替换。"
+    },
+    {
+      "id": "audit.ui.106805906dd3e23f",
+      "source": "<color=#FF2666><color=#FF2666>Strength</color></color>: <color=#FF2666>{number:strength}</color>\n<color=#26FF66><color=#26FF66>Dexterity</color></color>: <color=#26FF66>{number:dexterity}</color>\n<color=#26B0FF><color=#26B0FF>Intelligence</color></color>: <color=#26B0FF>{number:intelligence}</color>",
+      "translation": "<color=#FF2666><color=#FF2666>力量</color></color>: <color=#FF2666>{number:strength}</color>\n<color=#26FF66><color=#26FF66>敏捷</color></color>: <color=#26FF66>{number:dexterity}</color>\n<color=#26B0FF><color=#26B0FF>智力</color></color>: <color=#26B0FF>{number:intelligence}</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际游戏完整文本交叉检查补充，中文独立编写。"
+    },
+    {
+      "id": "audit.ui.983e36615b9424f2",
+      "source": "<color=#FF3326><color=#FF3326>Burn</color></color>\n<color=#808080>•Damage: </color><color=#00E61A>{number:value0} to {number:value1} </color><color=#FF591C><color=#FF591C>Fire</color></color> <color=#808080>\n•Damage Scaling: </color><color=#FF2666>{number:value2}</color><color=#808080> | </color><color=#26FF66>{number:value3}</color><color=#808080> | </color><color=#26B0FF>{number:value4}</color><color=#808080>\n•Tick Rate: </color><color=#00E61A>{number:value5}</color>\n<color=#808080>•Duration: </color><color=#00E61A>{number:value6}</color> <color=#00E61A>seconds</color><color=#808080>\n•Maximum Stacks: </color><color=#00E61A>{number:value7}</color>\n<color=#808080>[<color=#A61FFF>Damage Over Time</color>] </color><color=#808080>[<color=#A61FFF><color=#A61FFF>Ailment</color></color>] </color>",
+      "translation": "<color=#FF3326><color=#FF3326>燃烧</color></color>\n<color=#808080>•伤害： </color><color=#00E61A>{number:value0} 至 {number:value1} </color><color=#FF591C><color=#FF591C>火焰</color></color> <color=#808080>\n•伤害成长： </color><color=#FF2666>{number:value2}</color><color=#808080> | </color><color=#26FF66>{number:value3}</color><color=#808080> | </color><color=#26B0FF>{number:value4}</color><color=#808080>\n•结算频率： </color><color=#00E61A>{number:value5}</color>\n<color=#808080>•持续时间： </color><color=#00E61A>{number:value6}</color> <color=#00E61A>秒</color><color=#808080>\n•最大层数： </color><color=#00E61A>{number:value7}</color>\n<color=#808080>[<color=#A61FFF>持续伤害</color>] </color><color=#808080>[<color=#A61FFF><color=#A61FFF>异常状态</color></color>] </color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据实际燃烧悬浮提示的完整渲染文本建立；八个数值独立捕获，保留全部原生标签，不拆词匹配。其他状态的布局与标签需另行确认。"
+    }
+  ]
+}

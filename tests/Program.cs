@@ -24,6 +24,8 @@ Check(!catalog.TryTranslateLabel("<b>Fire</i>", "styled-ui", out _), "Mismatched
 var marker = Compile(Pack(Entry("[[25% damage]] ##skill", "[[25% 伤害]] ##技能", "skill-template")));
 Check(Tr(marker, "[[25% damage]] ##skill", "skill-template") == "[[25% 伤害]] ##技能", "Visible marker prose blocked");
 Invalid(() => Compile(Pack(Entry("[[25% damage]]", "[[26% 伤害]]"))), "Literal gameplay number changed");
+Check(Tr(Compile(Pack(Entry("Slot1", "槽位1"))), "Slot1") == "槽位1", "Number next to an English label was miscounted");
+Invalid(() => Compile(Pack(Entry("Slot1", "槽位2"))), "Number next to an English label changed");
 Invalid(() => Compile(Pack(Entry("[[damage]]", "伤害"))), "Color operator removed");
 var red = Compile(Pack(Entry("((emptying))", "((清空))", "description-template")));
 Check(Tr(red, "((emptying))", "description-template") == "((清空))", "Visible red marker prose blocked");
@@ -72,6 +74,10 @@ foreach (var source in opening)
 Check(Tr(catalog, opening[0].Replace(">W<", ">Up<").Replace(">A<", ">Left<").Replace(">S<", ">Down<").Replace(">D<", ">Right<"), "dialogue").Contains("<color=#A61FFF>Up</color>"), "Rebound movement binding not preserved");
 Check(Tr(catalog, opening[1].Replace(">Space<", ">RB<"), "dialogue").StartsWith("按 <color=#A61FFF>RB</color>"), "Gamepad dash tutorial missing");
 Check(Tr(catalog, opening[3].Replace(">Mouse Left<", ">RT<"), "dialogue").Contains("<color=#A61FFF>RT</color>"), "Gamepad attack binding not preserved");
+var runtimeUI = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "runtime-ui.json")))!;
+foreach (var source in runtimeUI)
+    Check(catalog.TryTranslateLabel(source, "styled-ui", out var translated) && translated != source && System.Text.RegularExpressions.Regex.IsMatch(translated, "[\\u4e00-\\u9fff]"), "Captured complete UI missing: " + source);
+Check(catalog.TryTranslateLabel("Floor 10 - 3 <mspace=1em>12:34:56", "styled-ui", out var timed) && timed == "第 10 层 - 3 <mspace=1em>12:34:56", "Progress time or room values changed");
 Console.WriteLine($"PASS: {checks} behavioral checks; {catalog.EntryCount} independently authored active entries across {files.Length} packs.");
 return 0;
 }

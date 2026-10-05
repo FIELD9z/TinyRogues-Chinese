@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "交叉检查补充译文",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "audit.static.37b21eaa15f5f22a",
+      "source": "It doesn't seem like your weapon\nis in need of this service.\nIf you want more, you have to\nseek an enchanter to enchant it!",
+      "translation": "你的武器似乎\n不需要这项服务。\n如果想进一步强化，\n就找附魔师为它附魔吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版完整英文交叉检查补充；来源 global-metadata.dat。中文独立重译。"
+    },
+    {
+      "id": "audit.static.c009569a899639cd",
+      "source": "Oh, you poor soul.\nThis weapon is in a bad shape!\nI'll fix it up for you.",
+      "translation": "哦，可怜的家伙。\n这把武器的状况可不太好！\n我来帮你修好它。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版完整英文交叉检查补充；来源 global-metadata.dat。中文独立重译。"
+    },
+    {
+      "id": "audit.static.c10adca5c9a7b50e",
+      "source": "That's not a weapon.\nAnd you know that.",
+      "translation": "这不是武器。\n你明明知道的。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版完整英文交叉检查补充；来源 global-metadata.dat。中文独立重译。"
+    },
+    {
+      "id": "audit.static.5a7938707c5b2a29",
+      "source": "The blacksmith will remove\nany negative Weapon Enchantment\nfrom your Weapon free of charge.",
+      "translation": "铁匠会免费移除\n武器上的\n所有负面附魔。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版完整英文交叉检查补充；来源 global-metadata.dat。中文独立重译。"
+    },
+    {
+      "id": "audit.static.4cd575094484bb31",
+      "source": "Yummy, yummy souls<sprite name=\"Soul\">.\nOh! You are still here, aren't you?",
+      "translation": "美味，美味的灵魂<sprite name=\"Soul\">。\n哦！你还没走，对吧？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版完整英文交叉检查补充；来源 global-metadata.dat。中文独立重译。"
+    },
+    {
+      "id": "audit.static.8260b1462893beed",
+      "source": "Choice has been sealed.\nLower your curse to reduce the chance.",
+      "translation": "这个选项被封印了。\n降低诅咒可以减少封印的概率。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版完整英文交叉检查补充；来源 global-metadata.dat。中文独立重译。"
+    },
+    {
+      "id": "audit.static.9c078e8a51c7cb71",
+      "source": "Lets you roll an equipment item\nof one of three equipment types.",
+      "translation": "从三种装备类型中\n随机获得一件装备。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版完整英文交叉检查补充；来源 global-metadata.dat。中文独立重译。"
+    },
+    {
+      "id": "audit.static.53a449f6ad2ccf4d",
+      "source": "Allows you to exchange a trait with a random new trait.",
+      "translation": "将一个特质换成随机的新特质。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版完整英文交叉检查补充；来源 level2。中文独立重译。"
+    },
+    {
+      "id": "audit.static.03cd33d99bc8730b",
+      "source": "It seems that since you last played,\nsomething drastic has changed with the controls.\nYou'll need to reconfigure them.\nPlease visit the <color=green>Options Menu</color> to do so.\nSorry for the inconvenience!",
+      "translation": "你上次游玩后，\n操作设置发生了较大的变化。\n需要重新配置按键。\n请前往<color=green>设置菜单</color>进行调整。\n给你带来不便，还请见谅！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版完整英文交叉检查补充；来源 global-metadata.dat。中文独立重译。"
+    },
+    {
+      "id": "audit.static.0f22500755da2773",
+      "source": "By default, you always deal:\n(*)<i>[[x1.20]] Damage at Close Range<Close></i>\n(*)<i>((x0.90)) Damage at Far Range<Far></i>\n(*)<i>Does not affect Damage Over Time\nand Companions<Companion>.</i>",
+      "translation": "默认情况下，你造成的伤害为：\n(*)<i>近距离<Close>伤害为 [[x1.20]] 倍</i>\n(*)<i>远距离<Far>伤害为 ((x0.90)) 倍</i>\n(*)<i>不影响持续伤害\n和随从<Companion>。</i>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版完整英文交叉检查补充；来源 global-metadata.dat。中文独立重译。"
+    },
+    {
+      "id": "audit.static.22271d3656dc8834",
+      "source": "(*)<i>Attacks bounce up to [[2]] times from walls.</i>",
+      "translation": "(*)<i>攻击最多可在墙壁上弹射 [[2]] 次。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.dbaff9f17679f125",
+      "source": "(*)<i>Can have up to [[3]] Weapon Enchantments.</i>",
+      "translation": "(*)<i>最多可以拥有 [[3]] 个武器附魔。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.be1ef648fa1729b3",
+      "source": "(*)<i>Counts as Melee and as Dagger.</i>",
+      "translation": "(*)<i>同时视为近战武器和匕首。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.0aba0beb6db5f09e",
+      "source": "(*)<i>Counts as Ranged and as Bow.</i>",
+      "translation": "(*)<i>同时视为远程武器和弓。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.c1d465d8de4933db",
+      "source": "(*)<i>Counts as Ranged and as Cannon.</i>",
+      "translation": "(*)<i>同时视为远程武器和炮。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.7fd40f7d2cbf3c50",
+      "source": "(*)<i>Counts as Ranged and as Crossbow.</i>",
+      "translation": "(*)<i>同时视为远程武器和弩。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.7d892a71a6c2eb54",
+      "source": "(*)<i>Counts as an Instrument.</i>",
+      "translation": "(*)<i>视为乐器。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.f501bc9f07a1fcbe",
+      "source": "(*)<i>Has [[+3]] to Upgrade Level.</i>",
+      "translation": "(*)<i>升级等级 [[+3]]。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.97573194a0b3e971",
+      "source": "(*)<i>Your Strength and Dexterity equal to the greater of the two values.</i>",
+      "translation": "(*)<i>你的力量和敏捷均变为两者中较高的数值。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.71395f7d5906ed0c",
+      "source": "(br)(*)<i>You are protected from getting Cursed<sprite name=\"Curse\">.</i>",
+      "translation": "(br)(*)<i>你不会受到诅咒<sprite name=\"Curse\">。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.0b3736e74aa5e74e",
+      "source": "(*)<i>Gold<Gold> Room Rewards additionally grant a Steak, Pear or Candy Pickup.</i>",
+      "translation": "(*)<i>金币<Gold>房间奖励额外提供牛排、梨或糖果拾取物。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.914c3745f63926d6",
+      "source": "(*)<i>Gold<Gold> Room Rewards additionally grant a Golden Steak, Golden Pear or Golden Candy Pickup.</i>",
+      "translation": "(*)<i>金币<Gold>房间奖励额外提供黄金牛排、黄金梨或黄金糖果拾取物。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.f1004394c2cc7390",
+      "source": "(*)<i>On Dash, gain Haste.</i>",
+      "translation": "(*)<i>冲刺时获得急速。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.441fc2f4ed551e49",
+      "source": "(*)<i>On Dash, gain Speed Boost.</i>",
+      "translation": "(*)<i>冲刺时获得速度提升。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.c4d0541fd6a944c6",
+      "source": "(*)<i>On Dash, grants Swiftness.</i>",
+      "translation": "(*)<i>冲刺时获得迅捷。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.1e558b4bcf56e5cf",
+      "source": "(*)<i>On Dash, repeat your next [[2]] Attacks.</i>",
+      "translation": "(*)<i>冲刺时，使接下来的 [[2]] 次攻击重复施放。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.5756136c1d6545cb",
+      "source": "(*)<i>On Dash, the next [[3]] Attacks deal [[x2.00]] Damage.</i>",
+      "translation": "(*)<i>冲刺时，接下来的 [[3]] 次攻击造成 [[x2.00]] 倍伤害。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.d9019e9449df0c5b",
+      "source": "(*)<i>When your Orbitals complete a full rotation, triggers your On Dash effects.</i>",
+      "translation": "(*)<i>环绕物每完成一圈旋转，触发你的冲刺触发效果。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.6431d2882e925c44",
+      "source": "(*)<i>Gift Boxes contain [[+1]] Heart Pickup<sprite name=Heart>.</i>",
+      "translation": "(*)<i>礼盒额外包含 [[+1]] 个红心拾取物<sprite name=Heart>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.97a00a6122beda0e",
+      "source": "(*)Gift Boxes contain additional Booze.",
+      "translation": "(*)礼盒额外包含酒水。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.3b715b161006f82a",
+      "source": "(*)Recover all Hearts<sprite name=\"Heart\"> on completing a Combat Encounter.",
+      "translation": "(*)完成战斗后恢复所有红心<sprite name=\"Heart\">。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    },
+    {
+      "id": "audit.static.10b730c7563d55fd",
+      "source": "(*)Your Melee Attacks inflict Armor Break.",
+      "translation": "(*)你的近战攻击施加破甲。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文资源交叉检查补充；来源 resources.assets。中文独立重译。组件说明仍需对应调用入口的显示验证。"
+    }
+  ]
+}

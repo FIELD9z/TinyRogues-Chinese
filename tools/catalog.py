@@ -10,7 +10,7 @@ import re
 from pathlib import Path
 
 PROTECTED = re.compile(r"<[^>]*>|\[\[|\]\]|##|\{[^{}]*\}|\((?:[+\-#x%]*x\d+[x%\d]*|rate|br|lb|\*)\)")
-NUMBER = re.compile(r"(?<![A-Za-z])\d+(?:[.,]\d+)?")
+NUMBER = re.compile(r"\d+(?:[.,]\d+)?")
 RED_MARKERS = re.compile(r"\(\([^()]*\)\)")
 NATIVE = re.compile(r"\((?!multiplicative\))(?:[+\-#x0-9%.,]+|[A-Za-z_][A-Za-z_0-9]*)\)")
 ACTIVE = {"translated", "reviewed"}

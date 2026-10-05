@@ -1834,7 +1834,7 @@
     {
       "id": "ui.asset.5a7f7dca5902bede018e",
       "source": "Floor1 00:00:00",
-      "translation": "第一层 00:00:00",
+      "translation": "第1层 00:00:00",
       "context": "*",
       "kind": "exact",
       "status": "translated",

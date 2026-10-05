@@ -269,6 +269,19 @@ public sealed class RuntimeVerification : MonoBehaviour
             var markers = UI.Text.TextMeshProxy.ApplyColorToText("[[至]] ##技能 [[非暴击伤害提高 +25%]]", true, label);
             if (markers != "<color=#00E317>至</color> 技能 <color=#00E317>非暴击伤害提高 +25%</color>") throw new InvalidOperationException("Native prose marker processing changed.");
             if (UI.Text.TextMeshProxy.ReplaceBracketedWithRedColor("((清空))") != "<color=red>清空</color>") throw new InvalidOperationException("Native red prose marker failed.");
+            var fixtures = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "runtime-ui.json");
+            if (File.Exists(fixtures))
+            {
+                string[] sources;
+                using (var stream = File.OpenRead(fixtures))
+                    sources = (string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!;
+                foreach (var source in sources)
+                {
+                    label.text = UI.Text.TextMeshProxy.ApplyColorToText(source, true, label);
+                    VerifyRenderedValues(source, label.text, "captured complete UI");
+                }
+                Plugin.Current.Info($"NATIVE CAPTURED UI PASS: {sources.Length} complete runtime samples; numeric values preserved.");
+            }
             label.text = "Unmapped diagnostic text QZXV";
             if (label.text != "Unmapped diagnostic text QZXV") throw new InvalidOperationException("Unknown text was changed.");
         }

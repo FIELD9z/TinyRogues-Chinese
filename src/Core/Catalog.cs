@@ -57,7 +57,7 @@ public sealed class CompiledEntry
 {
     private static readonly Regex Tokens = new(@"\{(number|key|text|term):([A-Za-z][A-Za-z0-9_]*)\}", RegexOptions.CultureInvariant);
     private static readonly Regex Protected = new(@"<[^>]*>|\[\[|\]\]|##|\{[^{}]*\}|\((?:[+\-#x%]*x\d+[x%\d]*|rate|br|lb|\*)\)", RegexOptions.CultureInvariant);
-    private static readonly Regex Numbers = new(@"(?<![A-Za-z])\d+(?:[.,]\d+)?", RegexOptions.CultureInvariant);
+    private static readonly Regex Numbers = new(@"\d+(?:[.,]\d+)?", RegexOptions.CultureInvariant);
     private static readonly Regex RedMarkers = new(@"\(\([^()]*\)\)", RegexOptions.CultureInvariant);
     private readonly Regex? _pattern;
     private readonly HashSet<string> _terms = new(StringComparer.Ordinal);
