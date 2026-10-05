@@ -1692,6 +1692,15 @@
       "kind": "template",
       "status": "translated",
       "note": "2026-10-06 实际游戏捕获的手柄教程分支；完整消息进入对话系统前翻译，保留三个实际按键。"
+    },
+    {
+      "id": "tutorial.attributes.other-stats",
+      "source": "Attributes also grant other stats\nsuch as <color=#FF2666>Equip Load Capacity</color>,\n<color=#26FF66>Movement Speed</color>, <color=#26B0FF>Mana Recovery</color> and more.",
+      "translation": "属性还会提升其他数值，\n例如<color=#FF2666>装备负重上限</color>、\n<color=#26FF66>移动速度</color>、<color=#26B0FF>魔力恢复</color>等。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-06 实际游戏捕获完整消息；英文同时见旧 RuntimeDialogue_zh.txt:1607，译文独立编写。"
     }
   ]
 }

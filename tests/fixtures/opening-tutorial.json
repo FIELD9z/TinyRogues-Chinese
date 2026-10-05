@@ -10,5 +10,6 @@
   "<color=#26FF66>Pears</color> increase your <color=#26FF66>Dexterity</color>,\n<color=#FF2666>Meat</color> increases your <color=#FF2666>Strength</color>\nand <color=#26B0FF>Candy</color> increases your <color=#26B0FF>Intelligence</color>.",
   "<color=#FF2666>Strength</color>, <color=#26FF66>Dexterity</color> and <color=#26B0FF>Intelligence</color>\nscale your damage.",
   "The grading letters in the colors of\n<color=#FF2666>Strength</color>, <color=#26FF66>Dexterity</color> and <color=#26B0FF>Intelligence</color>\ndecide how high you can scale the damage.",
-  "Pick up items with <color=#FCC926>[A]</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>[B]</color>.\nUse <color=#FCC926>[RT]</color> to\n<color=#FCC926>equip</color> the weapon."
+  "Pick up items with <color=#FCC926>[A]</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>[B]</color>.\nUse <color=#FCC926>[RT]</color> to\n<color=#FCC926>equip</color> the weapon.",
+  "Attributes also grant other stats\nsuch as <color=#FF2666>Equip Load Capacity</color>,\n<color=#26FF66>Movement Speed</color>, <color=#26B0FF>Mana Recovery</color> and more."
 ]

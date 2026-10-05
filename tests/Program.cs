@@ -106,6 +106,10 @@ Check(!catalog.TryTranslateRichLine("•Inflicts: Unknown Status", "weapon-effec
 Check(!catalog.TryTranslateRichLine("A story about someone who Hits 2 times.", "weapon-effect", out _), "Card grammar matched ordinary prose");
 var scopedRich = Compile(Pack(Entry("{term:n}", "{term:n}", "weapon-effect", "template")));
 Check(!scopedRich.TryTranslateRichLine("Unknown", "weapon-effect", out _), "Unknown term-only template recursed");
+var attributesHint = opening.Single(s => s.StartsWith("Attributes also grant"));
+var attributesTarget = Tr(catalog, attributesHint, "dialogue");
+Check(attributesTarget.Contains("装备负重上限") && attributesTarget.Contains("移动速度") && attributesTarget.Contains("魔力恢复") && !System.Text.RegularExpressions.Regex.IsMatch(System.Text.RegularExpressions.Regex.Replace(attributesTarget, "<[^>]*>", ""), "[A-Za-z]{2,}"), "Complete attributes tutorial retained English or lost a stat");
+Check(System.Text.RegularExpressions.Regex.Matches(attributesHint, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(attributesTarget, "<[^>]*>").Select(m => m.Value)), "Attributes tutorial changed stat colors or tag order");
 var pickup = opening.Single(s => s.StartsWith("Pick up items with") && s.Contains("Drag and drop"));
 var controllerPickup = opening.Single(s => s.StartsWith("Pick up items with") && s.Contains("Use "));
 var controllerTarget = Tr(catalog, controllerPickup, "dialogue");
