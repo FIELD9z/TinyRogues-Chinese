@@ -1683,6 +1683,15 @@
       "context": "display-value",
       "kind": "exact",
       "status": "translated"
+    },
+    {
+      "id": "tutorial.controller.pickup-equip",
+      "source": "Pick up items with <color=#FCC926>{key:pickup}</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>{key:inventory}</color>.\nUse <color=#FCC926>{key:equip}</color> to\n<color=#FCC926>equip</color> the weapon.",
+      "translation": "按 <color=#FCC926>{key:pickup}</color> 拾取物品，\n打开<color=#FCC926>背包</color>请按 <color=#FCC926>{key:inventory}</color>。\n按 <color=#FCC926>{key:equip}</color>\n<color=#FCC926>装备</color>武器。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "2026-10-06 实际游戏捕获的手柄教程分支；完整消息进入对话系统前翻译，保留三个实际按键。"
     }
   ]
 }

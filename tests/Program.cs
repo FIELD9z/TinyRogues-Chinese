@@ -106,7 +106,12 @@ Check(!catalog.TryTranslateRichLine("•Inflicts: Unknown Status", "weapon-effec
 Check(!catalog.TryTranslateRichLine("A story about someone who Hits 2 times.", "weapon-effect", out _), "Card grammar matched ordinary prose");
 var scopedRich = Compile(Pack(Entry("{term:n}", "{term:n}", "weapon-effect", "template")));
 Check(!scopedRich.TryTranslateRichLine("Unknown", "weapon-effect", out _), "Unknown term-only template recursed");
-var pickup = opening.Single(s => s.StartsWith("Pick up items with"));
+var pickup = opening.Single(s => s.StartsWith("Pick up items with") && s.Contains("Drag and drop"));
+var controllerPickup = opening.Single(s => s.StartsWith("Pick up items with") && s.Contains("Use "));
+var controllerTarget = Tr(catalog, controllerPickup, "dialogue");
+Check(controllerTarget == "按 <color=#FCC926>[A]</color> 拾取物品，\n打开<color=#FCC926>背包</color>请按 <color=#FCC926>[B]</color>。\n按 <color=#FCC926>[RT]</color>\n<color=#FCC926>装备</color>武器。", "Actual controller pickup branch did not translate before dialogue");
+Check(Tr(catalog, controllerPickup.Replace("[A]", "[X]").Replace("[B]", "[Y]").Replace("[RT]", "[RB]"), "dialogue").Contains("<color=#FCC926>[RB]</color>"), "Controller equip branch lost rebound binding");
+Check(!catalog.TryTranslate(controllerPickup[..^1], "dialogue", out _), "Incomplete controller dialogue prefix was expanded");
 var reboundPickup = Tr(catalog, pickup.Replace("[E]", "[RB]").Replace("[F]", "[Y]"), "dialogue");
 Check(reboundPickup.Contains("[RB]") && reboundPickup.Contains("[Y]") && !reboundPickup.Contains("Pick up"), "Pickup tutorial lost rebound keys");
 foreach (var source in runtimeUI)
