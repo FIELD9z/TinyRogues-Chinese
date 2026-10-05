@@ -1,0 +1,2150 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "界面",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "ui.asset.2c09db1e1d7a0d2ae769",
+      "source": "LONG AND DARK LOADING SCREEN AHEAD DON'T PANIC\n<color=grey>(Working on improving it....)</color>",
+      "translation": "前方是漫长而黑暗的加载画面，别慌\n<color=grey>（正在努力改进……）</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.2c09db1e1d7a0d2ae769"
+    },
+    {
+      "id": "ui.asset.4a1fd6b2e6ad6a5cf8da",
+      "source": "(3 Errors) total, latest: \"NullReferenceException in xddx great game made by a great developer\"",
+      "translation": "共发生 3 个错误，最新错误：\"xddx 中的 NullReferenceException——真是由一位伟大的开发者制作的伟大游戏\"",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.4a1fd6b2e6ad6a5cf8da"
+    },
+    {
+      "id": "ui.asset.868f1d66bc385ef21331",
+      "source": "You can disable error notifications in the options menu. | Version: | Branch:",
+      "translation": "你可以在选项菜单中关闭错误通知。|版本：|分支：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.868f1d66bc385ef21331"
+    },
+    {
+      "id": "ui.asset.c356271cf9eac064c3c2",
+      "source": "OFF",
+      "translation": "关闭",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.c356271cf9eac064c3c2"
+    },
+    {
+      "id": "ui.asset.ef54d4d3e4aa2cd86df6",
+      "source": "Yes",
+      "translation": "是",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.ef54d4d3e4aa2cd86df6"
+    },
+    {
+      "id": "ui.asset.7e3e06c6271c1d6f80a0",
+      "source": "No",
+      "translation": "否",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.7e3e06c6271c1d6f80a0"
+    },
+    {
+      "id": "ui.asset.42a8b078676bc6a8d2aa",
+      "source": "FEEL ASHAMED FOR THIS!",
+      "translation": "为此感到羞愧吧！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.42a8b078676bc6a8d2aa"
+    },
+    {
+      "id": "ui.asset.77dd339013fc6430af41",
+      "source": "Orbital Opacity During Combat:",
+      "translation": "战斗中的环绕物不透明度：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.77dd339013fc6430af41"
+    },
+    {
+      "id": "ui.asset.8c7c6738a9d31e050d66",
+      "source": "0.2.8.4 Beefy Enemies",
+      "translation": "0.2.8.4 强化敌人",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8c7c6738a9d31e050d66"
+    },
+    {
+      "id": "ui.asset.7e8319b532eea6f6e904",
+      "source": "Virtual Cursor Speed:",
+      "translation": "虚拟光标速度：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.7e8319b532eea6f6e904"
+    },
+    {
+      "id": "ui.asset.70be27f53a4c2809cfa2",
+      "source": "Interpolate Player Rigidbody:",
+      "translation": "插值处理玩家刚体：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.70be27f53a4c2809cfa2"
+    },
+    {
+      "id": "ui.asset.5f28e9a73f7e89af4ad3",
+      "source": "Speedrun Mode",
+      "translation": "竞速模式",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5f28e9a73f7e89af4ad3"
+    },
+    {
+      "id": "ui.asset.a7795814df266e62b9da",
+      "source": "Option A",
+      "translation": "选项 A",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.a7795814df266e62b9da"
+    },
+    {
+      "id": "ui.asset.58bda59b7bea425ec596",
+      "source": "Reset Options:",
+      "translation": "重置选项：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.58bda59b7bea425ec596"
+    },
+    {
+      "id": "ui.asset.6fef2eb5387e7d3a5373",
+      "source": "Camera Dampening:",
+      "translation": "摄像机平滑：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.6fef2eb5387e7d3a5373"
+    },
+    {
+      "id": "ui.asset.b8fcd8f8ca0584020b45",
+      "source": "Camera Aim Strength:",
+      "translation": "摄像机瞄准强度：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b8fcd8f8ca0584020b45"
+    },
+    {
+      "id": "ui.asset.d043ac3b86dae5642095",
+      "source": "Limit Bonfire Chatter:",
+      "translation": "限制篝火闲聊：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d043ac3b86dae5642095"
+    },
+    {
+      "id": "ui.asset.337814942c30fb502d0d",
+      "source": "ON",
+      "translation": "开启",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.337814942c30fb502d0d"
+    },
+    {
+      "id": "ui.asset.f8003db7f7456971f1c2",
+      "source": "Show timer:",
+      "translation": "显示计时器：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.f8003db7f7456971f1c2"
+    },
+    {
+      "id": "ui.asset.0f7a2a06ddba15bfc54b",
+      "source": "Confine cursor:",
+      "translation": "限制光标范围：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0f7a2a06ddba15bfc54b"
+    },
+    {
+      "id": "ui.asset.49aceafa93d92836021e",
+      "source": "Classic World 1 Floor 6 Music:",
+      "translation": "经典世界 1 第 6 层音乐：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.49aceafa93d92836021e"
+    },
+    {
+      "id": "ui.asset.60737c206be17c06c4d7",
+      "source": "CONTROLS",
+      "translation": "控制",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.60737c206be17c06c4d7"
+    },
+    {
+      "id": "ui.asset.cf3bc405a7c8c59e1da2",
+      "source": "Aura Opacity During Combat:",
+      "translation": "战斗中的光环不透明度：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.cf3bc405a7c8c59e1da2"
+    },
+    {
+      "id": "ui.asset.94bd8239dde944e1eb41",
+      "source": "Companion Opacity During Combat:",
+      "translation": "战斗中的伙伴不透明度：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.94bd8239dde944e1eb41"
+    },
+    {
+      "id": "ui.asset.60c9dda3188f87e8e2a5",
+      "source": "Equip Load Penalties:",
+      "translation": "装备负重惩罚：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.60c9dda3188f87e8e2a5"
+    },
+    {
+      "id": "ui.asset.6c931ed94604fbeff29d",
+      "source": "Show aim assist target:",
+      "translation": "显示瞄准辅助目标：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.6c931ed94604fbeff29d"
+    },
+    {
+      "id": "ui.asset.4ed231b733e4e8deede4",
+      "source": "Pre-0.2.8 Stamina Recovery",
+      "translation": "0.2.8 之前的体力恢复",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.4ed231b733e4e8deede4"
+    },
+    {
+      "id": "ui.asset.1d99a3a4e4e5455a9dd9",
+      "source": "Mouse Aim Assist",
+      "translation": "鼠标瞄准辅助",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.1d99a3a4e4e5455a9dd9"
+    },
+    {
+      "id": "ui.asset.d475be7d76e753792729",
+      "source": "Always Show Tooltips:",
+      "translation": "始终显示提示：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d475be7d76e753792729"
+    },
+    {
+      "id": "ui.asset.8dae06bcae1bbba70571",
+      "source": "Sound volume:",
+      "translation": "音效音量：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8dae06bcae1bbba70571"
+    },
+    {
+      "id": "ui.asset.c3ef1b7b0efbe23295f8",
+      "source": "Show error notifications:",
+      "translation": "显示错误通知：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.c3ef1b7b0efbe23295f8"
+    },
+    {
+      "id": "ui.asset.9de7b3e2b58f4d59465c",
+      "source": "Use System cursor:",
+      "translation": "使用系统光标：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.9de7b3e2b58f4d59465c"
+    },
+    {
+      "id": "ui.asset.27ec02fade83f05d171b",
+      "source": "Camera Update Method:",
+      "translation": "摄像机更新方式：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.27ec02fade83f05d171b"
+    },
+    {
+      "id": "ui.asset.92cbb643a8a0bec27baf",
+      "source": "gamepad",
+      "translation": "手柄",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.92cbb643a8a0bec27baf"
+    },
+    {
+      "id": "ui.asset.670394054b42c3bf12dc",
+      "source": "Mute In Background:",
+      "translation": "后台静音：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.670394054b42c3bf12dc"
+    },
+    {
+      "id": "ui.asset.38268a70a4f6a999647f",
+      "source": "Small mouse:",
+      "translation": "小型鼠标：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.38268a70a4f6a999647f"
+    },
+    {
+      "id": "ui.asset.d646c826a71c3d910a7e",
+      "source": "Auto equip items:",
+      "translation": "自动装备物品：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d646c826a71c3d910a7e"
+    },
+    {
+      "id": "ui.asset.9a968d142e554763fd70",
+      "source": "Instruments Volume:",
+      "translation": "乐器音量：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.9a968d142e554763fd70"
+    },
+    {
+      "id": "ui.asset.0bdd0e54f123c3a103a6",
+      "source": "Tutorial Completed",
+      "translation": "教程已完成",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0bdd0e54f123c3a103a6"
+    },
+    {
+      "id": "ui.asset.3a1664c061bf298351f0",
+      "source": "HOLD",
+      "translation": "按住",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.3a1664c061bf298351f0"
+    },
+    {
+      "id": "ui.asset.04ead07997dc893b3549",
+      "source": "Play Near Death Alarm:",
+      "translation": "播放濒死警报：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.04ead07997dc893b3549"
+    },
+    {
+      "id": "ui.asset.4e10f9f4ed1eb31190fc",
+      "source": "Reset Keyboard Bindings:",
+      "translation": "重置键盘绑定：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.4e10f9f4ed1eb31190fc"
+    },
+    {
+      "id": "ui.asset.cf3fb4a0639ddcab686d",
+      "source": "Anti flashbang mode:",
+      "translation": "防闪光模式：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.cf3fb4a0639ddcab686d"
+    },
+    {
+      "id": "ui.asset.e221545bf8e23760d594",
+      "source": "Damage Numbers:",
+      "translation": "伤害数字：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.e221545bf8e23760d594"
+    },
+    {
+      "id": "ui.asset.7eec73ac70df65bea2cb",
+      "source": "XBone Controller 360 connected",
+      "translation": "已连接 Xbox 360 手柄",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.7eec73ac70df65bea2cb"
+    },
+    {
+      "id": "ui.asset.0166c34305bbef341b70",
+      "source": "Movement Stick Deadzone:",
+      "translation": "移动摇杆死区：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0166c34305bbef341b70"
+    },
+    {
+      "id": "ui.asset.49defa24b2875ef1316d",
+      "source": "\"Blink\" Into Movement Direction:",
+      "translation": "沿移动方向\"闪现\"：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.49defa24b2875ef1316d"
+    },
+    {
+      "id": "ui.asset.5d24739f8b4f3aeb2b20",
+      "source": "FULLSCREEN",
+      "translation": "全屏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5d24739f8b4f3aeb2b20"
+    },
+    {
+      "id": "ui.asset.b6d2d47f22134338d6b1",
+      "source": "Auto attack when aiming:",
+      "translation": "瞄准时自动攻击：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b6d2d47f22134338d6b1"
+    },
+    {
+      "id": "ui.asset.f07f20d6d63a83f8e797",
+      "source": "game rules",
+      "translation": "游戏规则",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.f07f20d6d63a83f8e797"
+    },
+    {
+      "id": "ui.asset.72fed5a1c602396c9b81",
+      "source": "Unlock All Classes (Beta Only)",
+      "translation": "解锁所有职业（仅限测试版）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.72fed5a1c602396c9b81"
+    },
+    {
+      "id": "ui.asset.816b9ebe7cfacc60583b",
+      "source": "Reset Gamepad Bindings:",
+      "translation": "重置手柄绑定：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.816b9ebe7cfacc60583b"
+    },
+    {
+      "id": "ui.asset.0c0cbbdd4ccf4b5f845d",
+      "source": "Game saved!",
+      "translation": "游戏已保存！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0c0cbbdd4ccf4b5f845d"
+    },
+    {
+      "id": "ui.asset.59ebbb5cd2566aff5a9f",
+      "source": "Aim Assist Angle:",
+      "translation": "瞄准辅助角度：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.59ebbb5cd2566aff5a9f"
+    },
+    {
+      "id": "ui.asset.c359dbcd4ad3c6c54219",
+      "source": "Aim Stick Deadzone:",
+      "translation": "瞄准摇杆死区：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.c359dbcd4ad3c6c54219"
+    },
+    {
+      "id": "ui.asset.566922c9db4484c55417",
+      "source": "Cheat Console <color=grey>[Shift + Enter]</color>:",
+      "translation": "作弊控制台 <color=grey>[Shift + Enter]</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.566922c9db4484c55417"
+    },
+    {
+      "id": "ui.asset.765ff0e92aed20b0d8c1",
+      "source": "Speed Up Boss Defeated And Reward Animations:",
+      "translation": "加快首领击败和奖励动画：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.765ff0e92aed20b0d8c1"
+    },
+    {
+      "id": "ui.asset.571b3e533bdf79eb0029",
+      "source": "Show Damage Effectiveness:",
+      "translation": "显示伤害效果：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.571b3e533bdf79eb0029"
+    },
+    {
+      "id": "ui.asset.53574e28f24beb283968",
+      "source": "Auto Attack (Always Attack):",
+      "translation": "自动攻击（始终攻击）：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.53574e28f24beb283968"
+    },
+    {
+      "id": "ui.asset.f7fbb025a392e6e4ab0c",
+      "source": "TV Noise volume:",
+      "translation": "电视噪声音量：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.f7fbb025a392e6e4ab0c"
+    },
+    {
+      "id": "ui.asset.d043c62469b2cf7e77da",
+      "source": "to cancel",
+      "translation": "取消",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d043c62469b2cf7e77da"
+    },
+    {
+      "id": "ui.asset.8dcad5c1fc34ceab0c46",
+      "source": "Always Show Cursor",
+      "translation": "始终显示光标",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8dcad5c1fc34ceab0c46"
+    },
+    {
+      "id": "ui.asset.5cbf29fd1cfef09bd19b",
+      "source": "Classic World 1 Floor 1 Music:",
+      "translation": "经典世界 1 第 1 层音乐：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5cbf29fd1cfef09bd19b"
+    },
+    {
+      "id": "ui.asset.9ee4881f130779cbcdff",
+      "source": "Mini Health Display:",
+      "translation": "迷你生命值显示：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.9ee4881f130779cbcdff"
+    },
+    {
+      "id": "ui.asset.d0087653f00710e5a715",
+      "source": "Master volume:",
+      "translation": "主音量：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d0087653f00710e5a715"
+    },
+    {
+      "id": "ui.asset.d4db25f2da9b38565bf7",
+      "source": "Input Icons",
+      "translation": "输入图标",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d4db25f2da9b38565bf7"
+    },
+    {
+      "id": "ui.asset.0fe0782636494939daa7",
+      "source": "Play Flask Reminder Alarm:",
+      "translation": "播放药瓶提醒警报：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0fe0782636494939daa7"
+    },
+    {
+      "id": "ui.asset.1a850a6f4ed310ce6b83",
+      "source": "Reset Achievements:",
+      "translation": "重置成就：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.1a850a6f4ed310ce6b83"
+    },
+    {
+      "id": "ui.asset.53b99d15ec10a425f89d",
+      "source": "Enemy health bars:",
+      "translation": "敌人生命条：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.53b99d15ec10a425f89d"
+    },
+    {
+      "id": "ui.asset.aeeeedcf26cc849cb524",
+      "source": "Show Enchantments As Prefix:",
+      "translation": "将附魔显示为前缀：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.aeeeedcf26cc849cb524"
+    },
+    {
+      "id": "ui.asset.44033a7c116cf5997012",
+      "source": "Scan Lines Effect:",
+      "translation": "扫描线效果：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.44033a7c116cf5997012"
+    },
+    {
+      "id": "ui.asset.bd979a76dab0d0d24cc3",
+      "source": "360° Movement",
+      "translation": "360°移动",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.bd979a76dab0d0d24cc3"
+    },
+    {
+      "id": "ui.asset.0b3dd8f13416653e5341",
+      "source": "font:",
+      "translation": "字体：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0b3dd8f13416653e5341"
+    },
+    {
+      "id": "ui.asset.e94552fcf950882b6295",
+      "source": "Camera Shake:",
+      "translation": "摄像机震动：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.e94552fcf950882b6295"
+    },
+    {
+      "id": "ui.asset.8617efd58964e228bc68",
+      "source": "Keyboard",
+      "translation": "键盘",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8617efd58964e228bc68"
+    },
+    {
+      "id": "ui.asset.628031b8dc214530a874",
+      "source": "Audio",
+      "translation": "音频",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.628031b8dc214530a874"
+    },
+    {
+      "id": "ui.asset.6cf06063becf68fcb2c9",
+      "source": "CRT:",
+      "translation": "CRT：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.6cf06063becf68fcb2c9"
+    },
+    {
+      "id": "ui.asset.93e6c6dbdc9ebea75480",
+      "source": "Gameplay",
+      "translation": "游戏体验",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.93e6c6dbdc9ebea75480"
+    },
+    {
+      "id": "ui.asset.b53c53d3dfe2d16f9c24",
+      "source": "Target frame rate:",
+      "translation": "目标帧率：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b53c53d3dfe2d16f9c24"
+    },
+    {
+      "id": "ui.asset.2b2625b3dc384c6904b9",
+      "source": "resolution:",
+      "translation": "分辨率：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.2b2625b3dc384c6904b9"
+    },
+    {
+      "id": "ui.asset.dad9450597f854f521e7",
+      "source": "Video",
+      "translation": "视频",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.dad9450597f854f521e7"
+    },
+    {
+      "id": "ui.asset.8749fbe11b2718f0d068",
+      "source": "RETURN",
+      "translation": "返回",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8749fbe11b2718f0d068"
+    },
+    {
+      "id": "ui.asset.f0658beb0ea5fa0a7170",
+      "source": "VSYNC:",
+      "translation": "垂直同步：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.f0658beb0ea5fa0a7170"
+    },
+    {
+      "id": "ui.asset.49afd0d36e750f4d7a6b",
+      "source": "display:",
+      "translation": "显示：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.49afd0d36e750f4d7a6b"
+    },
+    {
+      "id": "ui.asset.b0271b86deb7cae2acb6",
+      "source": "Invincibility Display",
+      "translation": "无敌显示",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b0271b86deb7cae2acb6"
+    },
+    {
+      "id": "ui.asset.713ac636af762a8a1022",
+      "source": "Visualize Player Hitbox:",
+      "translation": "可视化玩家碰撞箱：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.713ac636af762a8a1022"
+    },
+    {
+      "id": "ui.asset.b22a4c06ae12c440061b",
+      "source": "UI",
+      "translation": "界面",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b22a4c06ae12c440061b"
+    },
+    {
+      "id": "ui.asset.362c9753e27bd219eab1",
+      "source": "HUD Inventory Display Opacity:",
+      "translation": "HUD 背包显示不透明度：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.362c9753e27bd219eab1"
+    },
+    {
+      "id": "ui.asset.6de3d80a191fc851fea1",
+      "source": "to confirm",
+      "translation": "确认",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.6de3d80a191fc851fea1"
+    },
+    {
+      "id": "ui.asset.e8442c9cfb9b47277bb1",
+      "source": "Please don't do this again!\n:(",
+      "translation": "请别再这样做了！\n:(",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.e8442c9cfb9b47277bb1"
+    },
+    {
+      "id": "ui.asset.295207e1d0986a7efbed",
+      "source": "Mini Stamina Display:",
+      "translation": "迷你体力显示：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.295207e1d0986a7efbed"
+    },
+    {
+      "id": "ui.asset.5b31fcd0e9da0dbc84bf",
+      "source": "Mini Mana Display:",
+      "translation": "迷你法力显示：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5b31fcd0e9da0dbc84bf"
+    },
+    {
+      "id": "ui.asset.c28d75b9e3435cc4e2f2",
+      "source": "Music volume:",
+      "translation": "音乐音量：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.c28d75b9e3435cc4e2f2"
+    },
+    {
+      "id": "ui.asset.44aadeed8977f0200697",
+      "source": "press",
+      "translation": "按下",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.44aadeed8977f0200697"
+    },
+    {
+      "id": "ui.asset.4922cfbd614e52b76224",
+      "source": "Show Controls in HUD:",
+      "translation": "在 HUD 中显示控制提示：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.4922cfbd614e52b76224"
+    },
+    {
+      "id": "ui.asset.207be0f5fac88cf5670e",
+      "source": "Force Turn Off Mouse:",
+      "translation": "强制关闭鼠标：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.207be0f5fac88cf5670e"
+    },
+    {
+      "id": "ui.asset.0588ed9feffcec812c31",
+      "source": "Always show room reward descriptions:",
+      "translation": "始终显示房间奖励说明：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0588ed9feffcec812c31"
+    },
+    {
+      "id": "ui.asset.5aa93a45a2cd88715786",
+      "source": "Credits",
+      "translation": "制作人员",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5aa93a45a2cd88715786"
+    },
+    {
+      "id": "ui.asset.67beb7c8f5cda84f65d6",
+      "source": "Highest Cinder Win Ever: 0\nCinder Sum High Score: 0\nAverage: NaN\nAverage Of Last 5: NaN",
+      "translation": "历史最高灰烬胜利：0\n灰烬总分最高：0\n平均值：NaN\n最近 5 次平均值：NaN",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.67beb7c8f5cda84f65d6"
+    },
+    {
+      "id": "ui.asset.bae0526c0f0ffa2758bd",
+      "source": "Your world Tier is now 4.",
+      "translation": "你的世界阶层现在为 4。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.bae0526c0f0ffa2758bd"
+    },
+    {
+      "id": "ui.asset.5483efed184e3f2f2810",
+      "source": "Random",
+      "translation": "随机",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5483efed184e3f2f2810"
+    },
+    {
+      "id": "ui.asset.96c0f857669f9ad5eb7c",
+      "source": "Class Unlocks",
+      "translation": "职业解锁",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.96c0f857669f9ad5eb7c"
+    },
+    {
+      "id": "ui.asset.2c97bf1f24219fc6af75",
+      "source": "OBJECTIVE COMPLETED",
+      "translation": "目标完成",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.2c97bf1f24219fc6af75"
+    },
+    {
+      "id": "ui.asset.20cc73e81a7b23d50df5",
+      "source": "Exit",
+      "translation": "退出",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.20cc73e81a7b23d50df5"
+    },
+    {
+      "id": "ui.asset.b5585177adb4faf9f132",
+      "source": "STARTING GIFT",
+      "translation": "初始赠礼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b5585177adb4faf9f132"
+    },
+    {
+      "id": "ui.asset.51bd8ee52ad5eb4b439e",
+      "source": "choose save slot",
+      "translation": "选择存档槽位",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.51bd8ee52ad5eb4b439e"
+    },
+    {
+      "id": "ui.asset.6b004cb51271f65a437b",
+      "source": "Cinder High Score",
+      "translation": "灰烬最高分",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.6b004cb51271f65a437b"
+    },
+    {
+      "id": "ui.asset.8e5ef2536255f124b0a5",
+      "source": "3h 30min",
+      "translation": "3 小时 30 分钟",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8e5ef2536255f124b0a5"
+    },
+    {
+      "id": "ui.asset.a3ae3120e0d7d72252af",
+      "source": "Slot 1",
+      "translation": "槽位 1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.a3ae3120e0d7d72252af"
+    },
+    {
+      "id": "ui.asset.dcc0ae6eb2714cc19101",
+      "source": "created and developed by <color=yellow>Rubydev</color>\n",
+      "translation": "由 <color=yellow>Rubydev</color> 创作和开发\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.dcc0ae6eb2714cc19101"
+    },
+    {
+      "id": "ui.asset.63bbddc3acca658fa3ca",
+      "source": "Last played",
+      "translation": "上次游玩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.63bbddc3acca658fa3ca"
+    },
+    {
+      "id": "ui.asset.7190dc3569f67efbbac5",
+      "source": "MASTERY",
+      "translation": "精通",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.7190dc3569f67efbbac5"
+    },
+    {
+      "id": "ui.asset.0d37c27e8ab43a392489",
+      "source": "Runs",
+      "translation": "游玩次数",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0d37c27e8ab43a392489"
+    },
+    {
+      "id": "ui.asset.5585e9e5fca26b280fd2",
+      "source": "+0% MASTERY EXP",
+      "translation": "+0% 精通经验",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5585e9e5fca26b280fd2"
+    },
+    {
+      "id": "ui.asset.a72480d117e415784b60",
+      "source": "Gold Bag",
+      "translation": "金币袋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.a72480d117e415784b60"
+    },
+    {
+      "id": "ui.asset.92e7ba7cdebd3fc14db8",
+      "source": "CINDER",
+      "translation": "灰烬",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.92e7ba7cdebd3fc14db8"
+    },
+    {
+      "id": "ui.asset.b021d00ed5c5d26d4f79",
+      "source": "Achieving this world tier unlocked the gate to the Shadow Planes.",
+      "translation": "达到这一世界阶层后，阴影位面的门扉已解锁。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b021d00ed5c5d26d4f79"
+    },
+    {
+      "id": "ui.asset.369d183371b6222afcd8",
+      "source": "Play time",
+      "translation": "游玩时间",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.369d183371b6222afcd8"
+    },
+    {
+      "id": "ui.asset.92367c1261bc472060b5",
+      "source": "Options",
+      "translation": "选项",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.92367c1261bc472060b5"
+    },
+    {
+      "id": "ui.asset.5ba31a8310bcb63f436c",
+      "source": "Just don't get hit!",
+      "translation": "千万别被击中！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5ba31a8310bcb63f436c"
+    },
+    {
+      "id": "ui.asset.5bf2c7efa33c3c0ca0cf",
+      "source": "Switch Roster",
+      "translation": "切换阵容",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5bf2c7efa33c3c0ca0cf"
+    },
+    {
+      "id": "ui.asset.4774bafc0600da0e77ec",
+      "source": "Pathfinder",
+      "translation": "寻路者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.4774bafc0600da0e77ec"
+    },
+    {
+      "id": "ui.asset.7ebbdc72210574d5fe4d",
+      "source": "Play",
+      "translation": "游玩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.7ebbdc72210574d5fe4d"
+    },
+    {
+      "id": "ui.asset.9885250ba0f7a24db7cc",
+      "source": "Wins:",
+      "translation": "胜利：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.9885250ba0f7a24db7cc"
+    },
+    {
+      "id": "ui.asset.32403ac9cbf824ba7dbd",
+      "source": "PLAY GAME",
+      "translation": "开始游戏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.32403ac9cbf824ba7dbd"
+    },
+    {
+      "id": "ui.asset.3ed707a774f55e821ac8",
+      "source": "World Tier",
+      "translation": "世界阶层",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.3ed707a774f55e821ac8"
+    },
+    {
+      "id": "ui.asset.4d6420480a526c98bad2",
+      "source": "Pyromancer",
+      "translation": "炎术士",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.4d6420480a526c98bad2"
+    },
+    {
+      "id": "ui.asset.524a3a0fff1126af38b2",
+      "source": "Skill",
+      "translation": "技能",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.524a3a0fff1126af38b2"
+    },
+    {
+      "id": "ui.asset.f1d3ba3c10d67e53417c",
+      "source": "100/300 EXP",
+      "translation": "100/300 经验",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.f1d3ba3c10d67e53417c"
+    },
+    {
+      "id": "ui.asset.d736ea32f8d0ceee4a0b",
+      "source": "Death Kills:",
+      "translation": "死亡击杀数：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d736ea32f8d0ceee4a0b"
+    },
+    {
+      "id": "ui.asset.f2958cd55618b20f7ef5",
+      "source": "Your understanding of the universe has been upended by a stunning revelation: Death is not the end, but a waypoint on a Soul's journey. The Bonfire charges you with traveling to the Burning Hells and High Heavens to discover the secrets of the afterlife.\n\nProgress:\nDefeat somebody a lot of times.\n(3/3)\n\nEffect:\nUnlocks something totally awesome.\n",
+      "translation": "你对宇宙的理解被惊人的启示彻底颠覆：死亡并非终点，而是灵魂旅程中的一处中继站。篝火催促你前往燃烧地狱与至高天堂，探寻死后世界的秘密。\n\n进度：\n多次击败某个目标。\n（3/3）\n\n效果：\n解锁某个超酷的东西。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.f2958cd55618b20f7ef5"
+    },
+    {
+      "id": "ui.asset.f15e1a6ceedbfbf6ed77",
+      "source": "Start with 20 gold.",
+      "translation": "初始拥有 20 金币。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.f15e1a6ceedbfbf6ed77"
+    },
+    {
+      "id": "ui.asset.8c28054f599764dc079e",
+      "source": "STREAK",
+      "translation": "连胜",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8c28054f599764dc079e"
+    },
+    {
+      "id": "ui.asset.11645dde068b1fab4042",
+      "source": "Strength:\nDexterity:\nIntelligence:",
+      "translation": "力量：\n敏捷：\n智力：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.11645dde068b1fab4042"
+    },
+    {
+      "id": "ui.asset.4f0bff366b4f1f0a31ca",
+      "source": "HIGHSCORE",
+      "translation": "最高分",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.4f0bff366b4f1f0a31ca"
+    },
+    {
+      "id": "ui.asset.a1a95ba5cbd14618c6ee",
+      "source": "MASTERY LEVEL 29",
+      "translation": "精通等级 29",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.a1a95ba5cbd14618c6ee"
+    },
+    {
+      "id": "ui.asset.18aa2653634b6157eb79",
+      "source": "Credits And Acknowledgements",
+      "translation": "制作人员与致谢",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.18aa2653634b6157eb79"
+    },
+    {
+      "id": "ui.asset.845957c39808fc25fae5",
+      "source": "Select a class to play!",
+      "translation": "选择一个职业开始游戏！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.845957c39808fc25fae5"
+    },
+    {
+      "id": "ui.asset.b89fabe6633332121e96",
+      "source": "0.2.0 QA\n* Esty8nine aka the game doctor <color=grey>(get game consultation!)</color>\n* Tiny rogues discord <sprite name=\"Soul_Heart\">\n",
+      "translation": "0.2.0 测试\n* Esty8nine，即游戏医生 <color=grey>（获得游戏咨询！）</color>\n* Tiny Rogues Discord <sprite name=\"Soul_Heart\">\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b89fabe6633332121e96"
+    },
+    {
+      "id": "ui.asset.6146016d6941bdbd95cc",
+      "source": "  Choice 9",
+      "translation": "  选择 9",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.6146016d6941bdbd95cc"
+    },
+    {
+      "id": "ui.asset.6ec38cca8212ac8f2a85",
+      "source": "DEATH AND TAXES",
+      "translation": "死神与税",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.6ec38cca8212ac8f2a85"
+    },
+    {
+      "id": "ui.asset.817496e0bc5e4f6e22b4",
+      "source": "The Tax Collector is always in the tavern instead of the Nurse.\n",
+      "translation": "税务官总是在酒馆里，而不是护士所在的位置。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.817496e0bc5e4f6e22b4"
+    },
+    {
+      "id": "ui.asset.8c81e436386946b4fcf2",
+      "source": "0/30 Points",
+      "translation": "0/30 点数",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8c81e436386946b4fcf2"
+    },
+    {
+      "id": "ui.asset.272d9e5a1290eec36a46",
+      "source": "Mastery\nLevel 30",
+      "translation": "精通\n等级 30",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.272d9e5a1290eec36a46"
+    },
+    {
+      "id": "ui.asset.729594a7df1e4885de6b",
+      "source": "Allocate/Deallocate",
+      "translation": "分配/取消分配",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.729594a7df1e4885de6b"
+    },
+    {
+      "id": "ui.asset.12a3e8c5271ff2bc197a",
+      "source": "> Choice 1",
+      "translation": "> 选择 1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.12a3e8c5271ff2bc197a"
+    },
+    {
+      "id": "ui.asset.1c880c51dc81bdbfe19d",
+      "source": "  Choice 7",
+      "translation": "  选择 7",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.1c880c51dc81bdbfe19d"
+    },
+    {
+      "id": "ui.asset.79fcaa5761e3997735b6",
+      "source": "splash arts by:\n* lumierejohn (@fiverr)",
+      "translation": "美术设计：\n* lumierejohn（@fiverr）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.79fcaa5761e3997735b6"
+    },
+    {
+      "id": "ui.asset.a3a0efda4154de45578a",
+      "source": "  Choice 2",
+      "translation": "  选择 2",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.a3a0efda4154de45578a"
+    },
+    {
+      "id": "ui.asset.bd19cb9e3b0ff04861da",
+      "source": "  Choice 3",
+      "translation": "  选择 3",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.bd19cb9e3b0ff04861da"
+    },
+    {
+      "id": "ui.asset.5b0cd56b59198a9ae43a",
+      "source": "THANK YOU TINY ROGUES DISCORD COMMUNITY FOR CREATING TRAIT ICONS:\n* Copi, Junk Knight, ndsi, craftingcat_IX, Endrai, ferlo, spyz, maybeonyx_, colt, evan and novellum",
+      "translation": "感谢 Tiny Rogues Discord 社区为我们制作特质图标：\n* Copi、Junk Knight、ndsi、craftingcat_IX、Endrai、ferlo、spyz、maybeonyx_、colt、evan 和 novellum",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5b0cd56b59198a9ae43a"
+    },
+    {
+      "id": "ui.asset.0f1d53813ccdf74efdd8",
+      "source": "sprites by:\n* RubyDev\n* MrGranade (@fiverr)",
+      "translation": "精灵图：\n* RubyDev\n* MrGranade（@fiverr）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0f1d53813ccdf74efdd8"
+    },
+    {
+      "id": "ui.asset.17aad6ab937b5c34898e",
+      "source": "Hello, Traveller?\nDo you want to\nbuy something?",
+      "translation": "你好，旅行者？\n想买点\n什么吗？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.17aad6ab937b5c34898e"
+    },
+    {
+      "id": "ui.asset.52ff7bc48a5945ee5784",
+      "source": "<Yes>",
+      "translation": "<Yes>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.52ff7bc48a5945ee5784"
+    },
+    {
+      "id": "ui.asset.cc30b0f40cb1f4b15157",
+      "source": "  Choice 6",
+      "translation": "  选择 6",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.cc30b0f40cb1f4b15157"
+    },
+    {
+      "id": "ui.asset.9c228b9763282b3cc2c0",
+      "source": "Longsword\n",
+      "translation": "长剑\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.9c228b9763282b3cc2c0"
+    },
+    {
+      "id": "ui.asset.0e5384753a3a42ce8603",
+      "source": "Empty",
+      "translation": "空",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0e5384753a3a42ce8603"
+    },
+    {
+      "id": "ui.asset.48480c90927f654f879c",
+      "source": "music by:\n* miguelangell960 (@fiverr)\n* MoppySound <color=grey>(World 1 Floor 1, World 1 Floor 6)</color> (@unityassetstore)",
+      "translation": "音乐：\n* miguelangell960（@fiverr）\n* MoppySound <color=grey>（世界 1 第 1 层、世界 1 第 6 层）</color>（@unityassetstore）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.48480c90927f654f879c"
+    },
+    {
+      "id": "ui.asset.cb8852bef4c89a55e7fd",
+      "source": "Resetting tree...",
+      "translation": "正在重置技能树……",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.cb8852bef4c89a55e7fd"
+    },
+    {
+      "id": "ui.asset.61a2803d3c1630aa1aef",
+      "source": "Reset\n",
+      "translation": "重置\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.61a2803d3c1630aa1aef"
+    },
+    {
+      "id": "ui.asset.a4e2fc3763c5ddf600e7",
+      "source": "Game resumes in",
+      "translation": "游戏将在以下时间后继续",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.a4e2fc3763c5ddf600e7"
+    },
+    {
+      "id": "ui.asset.28bb1ca789acbd85df32",
+      "source": "icon acknowledgement:\n* this game uses hand-pixelated versions of icons from game-icons.net\n",
+      "translation": "图标致谢：\n* 本游戏使用了 game-icons.net 的图标手绘像素版本\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.28bb1ca789acbd85df32"
+    },
+    {
+      "id": "ui.asset.055c7da81e7471e06ffa",
+      "source": "  Choice 4",
+      "translation": "  选择 4",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.055c7da81e7471e06ffa"
+    },
+    {
+      "id": "ui.asset.ec0fe0d4a337d0b46c17",
+      "source": "logos by:\n* pzuh88 (@fiverr)",
+      "translation": "标志设计：\n* pzuh88（@fiverr）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.ec0fe0d4a337d0b46c17"
+    },
+    {
+      "id": "ui.asset.2fea2901d3ce7fff0104",
+      "source": "  Choice 11",
+      "translation": "  选择 11",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.2fea2901d3ce7fff0104"
+    },
+    {
+      "id": "ui.asset.d2e3418dda73832d11d2",
+      "source": "Initial EA Release QA:\n* Thorce, Jeyk, and the rat nest discord <sprite name=\"Heart\">",
+      "translation": "初始抢先体验版本测试：\n* Thorce、Jeyk，以及老鼠窝 Discord <sprite name=\"Heart\">",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d2e3418dda73832d11d2"
+    },
+    {
+      "id": "ui.asset.cec435c8b0f51b7c4b99",
+      "source": "Zoom",
+      "translation": "缩放",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.cec435c8b0f51b7c4b99"
+    },
+    {
+      "id": "ui.asset.ef59a2e8ae502a4d6228",
+      "source": "  Choice 10",
+      "translation": "  选择 10",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.ef59a2e8ae502a4d6228"
+    },
+    {
+      "id": "ui.asset.a3ed115db2af51210bc2",
+      "source": "sound effects:\n* terramarstudio <color=grey>(Attack sound effects)</color> (@fiverr)",
+      "translation": "音效：\n* terramarstudio <color=grey>（攻击音效）</color>（@fiverr）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.a3ed115db2af51210bc2"
+    },
+    {
+      "id": "ui.asset.88be067b387be9313c4c",
+      "source": "continue",
+      "translation": "继续",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.88be067b387be9313c4c"
+    },
+    {
+      "id": "ui.asset.aa853aaafaa92a4272db",
+      "source": "TITLE",
+      "translation": "标题",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.aa853aaafaa92a4272db"
+    },
+    {
+      "id": "ui.asset.397e7fdf6340af26a817",
+      "source": "  Choice 8",
+      "translation": "  选择 8",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.397e7fdf6340af26a817"
+    },
+    {
+      "id": "ui.asset.58bc75fec5c1f7a35fab",
+      "source": "  Choice 5",
+      "translation": "  选择 5",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.58bc75fec5c1f7a35fab"
+    },
+    {
+      "id": "ui.asset.dc0d8cd183324241d145",
+      "source": "Resume",
+      "translation": "继续游戏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.dc0d8cd183324241d145"
+    },
+    {
+      "id": "ui.asset.5d978c5b16a377b9d766",
+      "source": "KEEP TRACK OF THE BALL",
+      "translation": "追踪球体",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5d978c5b16a377b9d766"
+    },
+    {
+      "id": "ui.asset.868f13f8f1a6cda169f4",
+      "source": "Inventory",
+      "translation": "背包",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.868f13f8f1a6cda169f4"
+    },
+    {
+      "id": "ui.asset.d8059507146f39fbe949",
+      "source": "Unlocks: Beast Tamer\nStatus: Completed",
+      "translation": "解锁：驯兽师\n状态：已完成",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d8059507146f39fbe949"
+    },
+    {
+      "id": "ui.asset.8c6c29169e329bfd1d4b",
+      "source": "Swap",
+      "translation": "交换",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8c6c29169e329bfd1d4b"
+    },
+    {
+      "id": "ui.asset.48b6292da384d668d65d",
+      "source": "Round 1/3",
+      "translation": "第 1 轮/3",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.48b6292da384d668d65d"
+    },
+    {
+      "id": "ui.asset.71912280c8b35316f91d",
+      "source": "ROUND 1/3",
+      "translation": "第 1 轮/3",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.71912280c8b35316f91d"
+    },
+    {
+      "id": "ui.asset.e60a417f0a78f419f5e9",
+      "source": "Cinder 4",
+      "translation": "灰烬 4",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.e60a417f0a78f419f5e9"
+    },
+    {
+      "id": "ui.asset.c30c872ad0f7bbd3e168",
+      "source": "Ranger",
+      "translation": "游侠",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.c30c872ad0f7bbd3e168"
+    },
+    {
+      "id": "ui.asset.be47fb90bbb9f9191937",
+      "source": "MAX",
+      "translation": "最大",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.be47fb90bbb9f9191937"
+    },
+    {
+      "id": "ui.asset.506e6a421019f0c0e97a",
+      "source": "choose your form",
+      "translation": "选择你的形态",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.506e6a421019f0c0e97a"
+    },
+    {
+      "id": "ui.asset.b57c82a8a4ecde9c3802",
+      "source": "The Halls of agony",
+      "translation": "苦痛回廊",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b57c82a8a4ecde9c3802"
+    },
+    {
+      "id": "ui.asset.efa72ac76f35fc6e401f",
+      "source": "YOUR TURN",
+      "translation": "你的回合",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.efa72ac76f35fc6e401f"
+    },
+    {
+      "id": "ui.asset.83710a676d7c2a8ea796",
+      "source": "When you defy death, gain 30% more attack speed and 30% more damage dealt for the rest of the room.",
+      "translation": "当你战胜死亡后，在本房间剩余时间内，攻击速度提高 30%，造成的伤害提高 30%。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.83710a676d7c2a8ea796"
+    },
+    {
+      "id": "ui.asset.8960ac0ecb11f316f642",
+      "source": "Pick lock",
+      "translation": "撬锁",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8960ac0ecb11f316f642"
+    },
+    {
+      "id": "ui.asset.32d17e5247364270002e",
+      "source": "Give Up",
+      "translation": "放弃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.32d17e5247364270002e"
+    },
+    {
+      "id": "ui.asset.ec5c910f4bde17270cfc",
+      "source": "Pause",
+      "translation": "暂停",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.ec5c910f4bde17270cfc"
+    },
+    {
+      "id": "ui.asset.79f6919c3a32a7f426fa",
+      "source": "Restart",
+      "translation": "重新开始",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.79f6919c3a32a7f426fa"
+    },
+    {
+      "id": "ui.asset.f6774a8f6441732d0479",
+      "source": "Cancel",
+      "translation": "取消",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.f6774a8f6441732d0479"
+    },
+    {
+      "id": "ui.asset.b7541d4ec05d84eeffe5",
+      "source": "Character",
+      "translation": "角色",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b7541d4ec05d84eeffe5"
+    },
+    {
+      "id": "ui.asset.77bf1abd664fdb3c3471",
+      "source": "Lvl 10 - Pyromancer",
+      "translation": "等级 10 - 炎术士",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.77bf1abd664fdb3c3471"
+    },
+    {
+      "id": "ui.asset.3897de4e7e6c1fb83562",
+      "source": "Drop",
+      "translation": "丢弃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.3897de4e7e6c1fb83562"
+    },
+    {
+      "id": "ui.asset.45675d51d029ca1bb744",
+      "source": "GOOD!",
+      "translation": "很好！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.45675d51d029ca1bb744"
+    },
+    {
+      "id": "ui.asset.a568fbe9591dac420be3",
+      "source": "<color=#DE6B1C>Cinder 12</color>",
+      "translation": "<color=#DE6B1C>灰烬 12</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.a568fbe9591dac420be3"
+    },
+    {
+      "id": "ui.asset.729bc0fdd55cbd1c842f",
+      "source": "Death claims another",
+      "translation": "死亡又夺走了一条性命",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.729bc0fdd55cbd1c842f"
+    },
+    {
+      "id": "ui.asset.365817e953090ee107af",
+      "source": "Floor X - X",
+      "translation": "第 X 层 - X",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.365817e953090ee107af"
+    },
+    {
+      "id": "ui.asset.f603667557e7dde70f6b",
+      "source": "X's TURN",
+      "translation": "X 的回合",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.f603667557e7dde70f6b"
+    },
+    {
+      "id": "ui.asset.14a913ced07532ea0537",
+      "source": "EXP",
+      "translation": "经验",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.14a913ced07532ea0537"
+    },
+    {
+      "id": "ui.asset.3f810ec1db18d4e58be8",
+      "source": "CHOOSE YOUR OWN DESTINY!",
+      "translation": "选择你自己的命运！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.3f810ec1db18d4e58be8"
+    },
+    {
+      "id": "ui.asset.ae275e25a3ead0c2a401",
+      "source": "Boss Name",
+      "translation": "首领名称",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.ae275e25a3ead0c2a401"
+    },
+    {
+      "id": "ui.asset.5a7f7dca5902bede018e",
+      "source": "Floor1 00:00:00",
+      "translation": "第一层 00:00:00",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5a7f7dca5902bede018e"
+    },
+    {
+      "id": "ui.asset.d76bbbc9d787687b9da2",
+      "source": "FOLLOW THE MOVES",
+      "translation": "跟随动作",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d76bbbc9d787687b9da2"
+    },
+    {
+      "id": "ui.asset.12be63b3803d05e280ca",
+      "source": "Use",
+      "translation": "使用",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.12be63b3803d05e280ca"
+    },
+    {
+      "id": "ui.asset.46d9bbf3afe02f2db7ba",
+      "source": "Defeat Orcus in the Abyss as the Nitwit.",
+      "translation": "以愚者身份在深渊中击败奥库斯。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.46d9bbf3afe02f2db7ba"
+    },
+    {
+      "id": "ui.asset.0d1794128e822c94883b",
+      "source": "confirm",
+      "translation": "确认",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0d1794128e822c94883b"
+    },
+    {
+      "id": "ui.asset.b3603dcff8acb91c3f52",
+      "source": "Really give up?",
+      "translation": "真的要放弃吗？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b3603dcff8acb91c3f52"
+    },
+    {
+      "id": "ui.asset.102689d0cdb74e26e519",
+      "source": "QUEST",
+      "translation": "任务",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.102689d0cdb74e26e519"
+    },
+    {
+      "id": "ui.asset.3a4110bbbeb0478dfbcd",
+      "source": "Enchantment",
+      "translation": "附魔",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.3a4110bbbeb0478dfbcd"
+    },
+    {
+      "id": "ui.asset.a9feb00cca755e70cdae",
+      "source": "MASH!",
+      "translation": "连按！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.a9feb00cca755e70cdae"
+    },
+    {
+      "id": "ui.asset.8ca40137f8de798561e0",
+      "source": "Character panel",
+      "translation": "角色面板",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.8ca40137f8de798561e0"
+    },
+    {
+      "id": "ui.asset.27511a1ca6d487e025e1",
+      "source": "My Ability",
+      "translation": "我的技能",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.27511a1ca6d487e025e1"
+    },
+    {
+      "id": "ui.asset.69c71664484ebef21998",
+      "source": "15% increased mana regeneration",
+      "translation": "法力恢复速度提高 15%",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.69c71664484ebef21998"
+    },
+    {
+      "id": "ui.asset.5c27a86a7b1209e85ece",
+      "source": "choose a trait",
+      "translation": "选择一项特质",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5c27a86a7b1209e85ece"
+    },
+    {
+      "id": "ui.asset.0c91f2fb1d2068cb64a0",
+      "source": "General",
+      "translation": "通用",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.0c91f2fb1d2068cb64a0"
+    },
+    {
+      "id": "ui.asset.708f5764a2beb40f4c44",
+      "source": " 10 <color=#FF2666FF>Strength</color><pos=80><sprite name=\"Arrow_Right\"> 25%\n200 <color=#26FE66FF>Dexterity</color><pos=80><sprite name=\"Arrow_Right\"> 50%\n 10 <color=#26AFFFFF>Intelligence</color><pos=80><sprite name=\"Arrow_Right\"> 25%\n  5 <color=#00D508FF>Luck</color><sprite name=\"Luck\"><pos=80><sprite name=\"Arrow_Right\"> 30%\n  3 <color=#2F2FBAFF>Curse</color><sprite name=\"Curse\"><pos=80><sprite name=\"Arrow_Right\"> 10%",
+      "translation": " 10 <color=#FF2666FF>力量</color><pos=80><sprite name=\"Arrow_Right\"> 25%\n200 <color=#26FE66FF>敏捷</color><pos=80><sprite name=\"Arrow_Right\"> 50%\n 10 <color=#26AFFFFF>智力</color><pos=80><sprite name=\"Arrow_Right\"> 25%\n  5 <color=#00D508FF>幸运</color><sprite name=\"Luck\"><pos=80><sprite name=\"Arrow_Right\"> 30%\n  3 <color=#2F2FBAFF>诅咒</color><sprite name=\"Curse\"><pos=80><sprite name=\"Arrow_Right\"> 10%",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.708f5764a2beb40f4c44"
+    },
+    {
+      "id": "ui.asset.e137547cebada99e51aa",
+      "source": "REROLL ODDS:",
+      "translation": "重掷概率：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.e137547cebada99e51aa"
+    },
+    {
+      "id": "ui.asset.9b816e7102c31f6b309b",
+      "source": "Increase your luck for a chance\nto get 4 choices.",
+      "translation": "提高你的幸运，有机会\n获得 4 个选项。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.9b816e7102c31f6b309b"
+    },
+    {
+      "id": "ui.asset.91a520a8c7887b9b8bd0",
+      "source": "<color=yellow>Golden Dice</color>\nRerolls offered items from\nshops, armories and boss rewards.",
+      "translation": "<color=yellow>黄金骰子</color>\n为商店、军械库和首领奖励\n提供的物品重新掷骰。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.91a520a8c7887b9b8bd0"
+    },
+    {
+      "id": "ui.asset.b03c4ba66feb3e5ad4f3",
+      "source": "CHOOSE ONE",
+      "translation": "选择一个",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b03c4ba66feb3e5ad4f3"
+    },
+    {
+      "id": "ui.asset.e49c050f36daf61b14b6",
+      "source": "Defense",
+      "translation": "防御",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.e49c050f36daf61b14b6"
+    },
+    {
+      "id": "ui.asset.66c46d59f9c4882365f3",
+      "source": "Misc",
+      "translation": "杂项",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.66c46d59f9c4882365f3"
+    },
+    {
+      "id": "ui.asset.24ce5ae96c8d83995bf6",
+      "source": "Floor 1",
+      "translation": "第 1 层",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.24ce5ae96c8d83995bf6"
+    },
+    {
+      "id": "ui.asset.fbbfb6c4bbc19f149eca",
+      "source": "Offense",
+      "translation": "进攻",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.fbbfb6c4bbc19f149eca"
+    },
+    {
+      "id": "ui.asset.cfb27236c8e07d610957",
+      "source": "Confirm",
+      "translation": "确认",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.cfb27236c8e07d610957"
+    },
+    {
+      "id": "ui.asset.9efc98a403e2f0833ca7",
+      "source": "Dice Bag",
+      "translation": "骰子袋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.9efc98a403e2f0833ca7"
+    },
+    {
+      "id": "ui.asset.d909223e04d904954d3a",
+      "source": "BOSS DEFEATED",
+      "translation": "首领已击败",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.d909223e04d904954d3a"
+    },
+    {
+      "id": "ui.asset.65ab312418aa505d6e45",
+      "source": "Really Remove TRAIT?",
+      "translation": "真的要移除特质吗？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.65ab312418aa505d6e45"
+    },
+    {
+      "id": "ui.asset.84d932cce642db7917d7",
+      "source": "Select a trait to remove",
+      "translation": "选择一项要移除的特质",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.84d932cce642db7917d7"
+    },
+    {
+      "id": "ui.asset.b570f95770496fdd3a01",
+      "source": "Interact",
+      "translation": "互动",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b570f95770496fdd3a01"
+    },
+    {
+      "id": "ui.asset.5f43379379b4e9722fad",
+      "source": "Treasure chest",
+      "translation": "宝箱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.5f43379379b4e9722fad"
+    },
+    {
+      "id": "ui.asset.cd27c47d53855ed15b32",
+      "source": "E to open\nCosts 1x <color=#FCC926>Key</color>",
+      "translation": "按 E 开启\n消耗 1x <color=#FCC926>钥匙</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.cd27c47d53855ed15b32"
+    },
+    {
+      "id": "ui.asset.ba440277205550417d2c",
+      "source": "Input Alias Name",
+      "translation": "输入别名名称",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.ba440277205550417d2c"
+    },
+    {
+      "id": "ui.asset.28eafba83ad3c43896b1",
+      "source": "Input Action Name",
+      "translation": "输入动作名称",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.28eafba83ad3c43896b1"
+    },
+    {
+      "id": "ui.asset.b77f447dd5bbe1340d2f",
+      "source": "DEX",
+      "translation": "敏捷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.b77f447dd5bbe1340d2f"
+    },
+    {
+      "id": "ui.asset.14084e95012b46933626",
+      "source": "The goddess of sin has blessed you.\nYou are immune to curses.",
+      "translation": "罪孽女神赐福于你。\n你免疫诅咒。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 ui-texts.json:asset.14084e95012b46933626"
+    }
+  ]
+}

@@ -1,0 +1,3581 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "武器",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "weapon.asset.be0732a3a6bae7608460",
+      "source": "Unarmed",
+      "translation": "徒手",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.be0732a3a6bae7608460"
+    },
+    {
+      "id": "weapon.asset.4a342b44cbedb78f10de",
+      "source": "Claw Attack",
+      "translation": "爪 攻击",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4a342b44cbedb78f10de"
+    },
+    {
+      "id": "weapon.asset.ba310459bf1d60765c02",
+      "source": "Bananarang",
+      "translation": "香蕉回旋镖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ba310459bf1d60765c02"
+    },
+    {
+      "id": "weapon.asset.e85fd100eed5fadd2346",
+      "source": "Moon Beam",
+      "translation": "月 光束",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e85fd100eed5fadd2346"
+    },
+    {
+      "id": "weapon.asset.a3513ee3da8b1a8bb31e",
+      "source": "Abyssal Bible",
+      "translation": "深渊 圣经",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a3513ee3da8b1a8bb31e"
+    },
+    {
+      "id": "weapon.asset.756076c0a30983284823",
+      "source": "Druid Bible",
+      "translation": "德鲁伊 圣经",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.756076c0a30983284823"
+    },
+    {
+      "id": "weapon.asset.8caf4356bb66476b49d2",
+      "source": "Eldritch Bible",
+      "translation": "亵渎 圣经",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8caf4356bb66476b49d2"
+    },
+    {
+      "id": "weapon.asset.e1128af1e96197fcaa7b",
+      "source": "Galactic Bible",
+      "translation": "银河 圣经",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e1128af1e96197fcaa7b"
+    },
+    {
+      "id": "weapon.asset.0c7baf8cef0f445b53ba",
+      "source": "Holy Bible",
+      "translation": "神圣 圣经",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0c7baf8cef0f445b53ba"
+    },
+    {
+      "id": "weapon.asset.1ce8914a82419a513f5d",
+      "source": "King Bible",
+      "translation": "王 圣经",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1ce8914a82419a513f5d"
+    },
+    {
+      "id": "weapon.asset.0b96cebc49bb9d6feacd",
+      "source": "Matrix Bible",
+      "translation": "矩阵 圣经",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0b96cebc49bb9d6feacd"
+    },
+    {
+      "id": "weapon.asset.373ad61c5f504f4b1609",
+      "source": "Sin Bible",
+      "translation": "罪孽 圣经",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.373ad61c5f504f4b1609"
+    },
+    {
+      "id": "weapon.asset.82223bf2d0b4c041b620",
+      "source": "Unholy Bible",
+      "translation": "邪恶 圣经",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.82223bf2d0b4c041b620"
+    },
+    {
+      "id": "weapon.asset.0be1ea8eaa4f77569552",
+      "source": "Accordion",
+      "translation": "手风琴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0be1ea8eaa4f77569552"
+    },
+    {
+      "id": "weapon.asset.9a09f36ce232319cf1a8",
+      "source": "Acoustic Guitar",
+      "translation": "木质 吉他",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9a09f36ce232319cf1a8"
+    },
+    {
+      "id": "weapon.asset.dfbe7de8b6c887608110",
+      "source": "Banjo",
+      "translation": "班卓琴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.dfbe7de8b6c887608110"
+    },
+    {
+      "id": "weapon.asset.acbefec4ac5845d08a6f",
+      "source": "Bell",
+      "translation": "铃铛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.acbefec4ac5845d08a6f"
+    },
+    {
+      "id": "weapon.asset.3c478f18e761477f9e42",
+      "source": "E-Piano",
+      "translation": "电子钢琴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3c478f18e761477f9e42"
+    },
+    {
+      "id": "weapon.asset.89847c21464dd1ca8bcf",
+      "source": "Fey Lute",
+      "translation": "妖精 鲁特琴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.89847c21464dd1ca8bcf"
+    },
+    {
+      "id": "weapon.asset.f2b1755b4eff160ca8a9",
+      "source": "Harp",
+      "translation": "竖琴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f2b1755b4eff160ca8a9"
+    },
+    {
+      "id": "weapon.asset.a1e13d628a3055d6c2b1",
+      "source": "Kazoo",
+      "translation": "卡祖笛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a1e13d628a3055d6c2b1"
+    },
+    {
+      "id": "weapon.asset.fab7ad6f657abb52d312",
+      "source": "Maracas",
+      "translation": "响板",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.fab7ad6f657abb52d312"
+    },
+    {
+      "id": "weapon.asset.08b53e81544496914d87",
+      "source": "Metal Guitar",
+      "translation": "金属 吉他",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.08b53e81544496914d87"
+    },
+    {
+      "id": "weapon.asset.4f52a09874930d88e85e",
+      "source": "Ocarina of Time",
+      "translation": "时之笛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4f52a09874930d88e85e"
+    },
+    {
+      "id": "weapon.asset.744b8843a55def7a28bc",
+      "source": "Pan Flute",
+      "translation": "排箫 笛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.744b8843a55def7a28bc"
+    },
+    {
+      "id": "weapon.asset.6fef7296e58690920860",
+      "source": "Saxophone",
+      "translation": "萨克斯",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.6fef7296e58690920860"
+    },
+    {
+      "id": "weapon.asset.33feeeba3728c3e2ee20",
+      "source": "The Siren",
+      "translation": "海妖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.33feeeba3728c3e2ee20"
+    },
+    {
+      "id": "weapon.asset.742b17c8a2b049b90cb8",
+      "source": "Triangle",
+      "translation": "三角铁",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.742b17c8a2b049b90cb8"
+    },
+    {
+      "id": "weapon.asset.5901b0071f8cf66b3b7d",
+      "source": "Trumpet",
+      "translation": "小号",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5901b0071f8cf66b3b7d"
+    },
+    {
+      "id": "weapon.asset.d6c5bbbbfbd4bd000094",
+      "source": "Archon Scepter",
+      "translation": "执政官 权杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.d6c5bbbbfbd4bd000094"
+    },
+    {
+      "id": "weapon.asset.4083873d5898c6dc3239",
+      "source": "Asteroid Defense Scepter",
+      "translation": "小行星防御权杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4083873d5898c6dc3239"
+    },
+    {
+      "id": "weapon.asset.41d975c46708ea9bf7ca",
+      "source": "Crystal Scepter",
+      "translation": "水晶 权杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.41d975c46708ea9bf7ca"
+    },
+    {
+      "id": "weapon.asset.60dc13c021450794b874",
+      "source": "Disintegration Scepter",
+      "translation": "湮灭 权杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.60dc13c021450794b874"
+    },
+    {
+      "id": "weapon.asset.a57f67f8b53a45d33166",
+      "source": "Drain Scepter",
+      "translation": "汲取 权杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a57f67f8b53a45d33166"
+    },
+    {
+      "id": "weapon.asset.5b1ca6a281f6a2a54927",
+      "source": "Freezing Scepter",
+      "translation": "冰冻 权杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5b1ca6a281f6a2a54927"
+    },
+    {
+      "id": "weapon.asset.cb4aeee03d849cc6cabe",
+      "source": "Hyperbeam Scepter",
+      "translation": "超光束 权杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.cb4aeee03d849cc6cabe"
+    },
+    {
+      "id": "weapon.asset.803b8a3b7b9a16cbd938",
+      "source": "Mana Scepter",
+      "translation": "法力 权杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.803b8a3b7b9a16cbd938"
+    },
+    {
+      "id": "weapon.asset.b47a6f370c6f8c6df505",
+      "source": "Nirvana",
+      "translation": "涅槃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b47a6f370c6f8c6df505"
+    },
+    {
+      "id": "weapon.asset.03ac1c08221867810578",
+      "source": "Priest Scepter",
+      "translation": "牧师 权杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.03ac1c08221867810578"
+    },
+    {
+      "id": "weapon.asset.1f5204443e495f785f86",
+      "source": "Toxic Scepter",
+      "translation": "剧毒 权杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1f5204443e495f785f86"
+    },
+    {
+      "id": "weapon.asset.00c198c27e45df6bf1ed",
+      "source": "Acid Cloud Scroll",
+      "translation": "酸云卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.00c198c27e45df6bf1ed"
+    },
+    {
+      "id": "weapon.asset.374b605b82e0be4d6ff4",
+      "source": "Aurora Scroll",
+      "translation": "极光 卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.374b605b82e0be4d6ff4"
+    },
+    {
+      "id": "weapon.asset.ae41dd74b65b55baadb7",
+      "source": "Blizzard Scroll",
+      "translation": "暴雪 卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ae41dd74b65b55baadb7"
+    },
+    {
+      "id": "weapon.asset.928804a431024fee85cc",
+      "source": "Candy Scroll",
+      "translation": "糖果 卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.928804a431024fee85cc"
+    },
+    {
+      "id": "weapon.asset.12f4cdb5f2c93ce30276",
+      "source": "Firestorm Scroll",
+      "translation": "火焰风暴卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.12f4cdb5f2c93ce30276"
+    },
+    {
+      "id": "weapon.asset.57dddf5c7daf2be83e9a",
+      "source": "Ivy Scroll",
+      "translation": "常春藤 卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.57dddf5c7daf2be83e9a"
+    },
+    {
+      "id": "weapon.asset.09b344794d395ec9ec86",
+      "source": "Luster Scroll",
+      "translation": "光泽 卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.09b344794d395ec9ec86"
+    },
+    {
+      "id": "weapon.asset.0ecb79016725bc085080",
+      "source": "Nimbus Scroll",
+      "translation": "雷云 卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0ecb79016725bc085080"
+    },
+    {
+      "id": "weapon.asset.1fae817388fffdf32ef8",
+      "source": "Rubber Duck Scroll",
+      "translation": "橡皮鸭卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1fae817388fffdf32ef8"
+    },
+    {
+      "id": "weapon.asset.a52eeb837774eeb54f4c",
+      "source": "Thunderstorm Scroll",
+      "translation": "雷暴 卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a52eeb837774eeb54f4c"
+    },
+    {
+      "id": "weapon.asset.ff6c120760dfa7f9a3a0",
+      "source": "Toad Plague Scroll",
+      "translation": "蟾蜍 瘟疫 卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ff6c120760dfa7f9a3a0"
+    },
+    {
+      "id": "weapon.asset.736525f68afd4f81c557",
+      "source": "Treasure Scroll",
+      "translation": "宝藏卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.736525f68afd4f81c557"
+    },
+    {
+      "id": "weapon.asset.3e2d65232954fbb165d6",
+      "source": "Arcane Torrent Tome",
+      "translation": "奥术洪流魔典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3e2d65232954fbb165d6"
+    },
+    {
+      "id": "weapon.asset.9f5b47d798b75353bafc",
+      "source": "Ballista Construction Manual",
+      "translation": "弩炮建造手册",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9f5b47d798b75353bafc"
+    },
+    {
+      "id": "weapon.asset.261f3ea3f1fb4ff9cb17",
+      "source": "Banshee Tome",
+      "translation": "女妖 魔典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.261f3ea3f1fb4ff9cb17"
+    },
+    {
+      "id": "weapon.asset.5b9e230a12bf6a2c5f8b",
+      "source": "Bombardment Tome",
+      "translation": "轰炸 魔典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5b9e230a12bf6a2c5f8b"
+    },
+    {
+      "id": "weapon.asset.1f8f8313f8435ea6d929",
+      "source": "Consecration Tome",
+      "translation": "祝圣 魔典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1f8f8313f8435ea6d929"
+    },
+    {
+      "id": "weapon.asset.1daa5a4209a6828aa298",
+      "source": "Ex Mortis",
+      "translation": "前世 死亡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1daa5a4209a6828aa298"
+    },
+    {
+      "id": "weapon.asset.bc93db01491d7cf2c7e8",
+      "source": "Fiend Commander Codex",
+      "translation": "恶魔指挥官法典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.bc93db01491d7cf2c7e8"
+    },
+    {
+      "id": "weapon.asset.67a56c010204e77274ba",
+      "source": "Firebomb Codex",
+      "translation": "火焰炸弹法典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.67a56c010204e77274ba"
+    },
+    {
+      "id": "weapon.asset.3f53ec59ced5290e442b",
+      "source": "Hydra Codex",
+      "translation": "九头蛇 法典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3f53ec59ced5290e442b"
+    },
+    {
+      "id": "weapon.asset.19e60b93b84cc81b9929",
+      "source": "Icicle Tome",
+      "translation": "冰柱 魔典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.19e60b93b84cc81b9929"
+    },
+    {
+      "id": "weapon.asset.2ff961e5330bbd7237e1",
+      "source": "Knife Summon Tome",
+      "translation": "召唤飞刀魔典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2ff961e5330bbd7237e1"
+    },
+    {
+      "id": "weapon.asset.3ec7aed53c08cf45bdd3",
+      "source": "Shadow Grasp Tome",
+      "translation": "暗影 掌握 魔典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3ec7aed53c08cf45bdd3"
+    },
+    {
+      "id": "weapon.asset.a9fce98c2dcf5e0e2bad",
+      "source": "Spider Summon Tome",
+      "translation": "召唤蜘蛛魔典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a9fce98c2dcf5e0e2bad"
+    },
+    {
+      "id": "weapon.asset.59bf25c461b7deea80f8",
+      "source": "Volcanic Codex",
+      "translation": "火山 法典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.59bf25c461b7deea80f8"
+    },
+    {
+      "id": "weapon.asset.3021426912b4c2a82cd4",
+      "source": "Agony Staff",
+      "translation": "苦痛 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3021426912b4c2a82cd4"
+    },
+    {
+      "id": "weapon.asset.a6c3fad9f029c02bb3ec",
+      "source": "Arc Staff",
+      "translation": "弧光 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a6c3fad9f029c02bb3ec"
+    },
+    {
+      "id": "weapon.asset.2eff56aa3358c80ff7f3",
+      "source": "Barbwire Staff",
+      "translation": "铁丝网 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2eff56aa3358c80ff7f3"
+    },
+    {
+      "id": "weapon.asset.bf943f6e20b0bfc3638b",
+      "source": "Chrono Staff",
+      "translation": "时空 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.bf943f6e20b0bfc3638b"
+    },
+    {
+      "id": "weapon.asset.9d069e938f03e0d147dc",
+      "source": "Crimson Staff",
+      "translation": "深红 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9d069e938f03e0d147dc"
+    },
+    {
+      "id": "weapon.asset.096cc086d3f4b38e93fe",
+      "source": "Evil Wizard Staff",
+      "translation": "邪恶 法师 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.096cc086d3f4b38e93fe"
+    },
+    {
+      "id": "weapon.asset.faff6b964adcf35b0f81",
+      "source": "Frostbite Staff",
+      "translation": "冻伤 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.faff6b964adcf35b0f81"
+    },
+    {
+      "id": "weapon.asset.5f499ab07beaebaf5d01",
+      "source": "Holy Staff",
+      "translation": "神圣 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5f499ab07beaebaf5d01"
+    },
+    {
+      "id": "weapon.asset.0ffb5cea44fd9bef918b",
+      "source": "Lightning Staff",
+      "translation": "闪电 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0ffb5cea44fd9bef918b"
+    },
+    {
+      "id": "weapon.asset.847c7d8e85e5e6cc1ae0",
+      "source": "Magi-Tech Staff",
+      "translation": "魔导科技 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.847c7d8e85e5e6cc1ae0"
+    },
+    {
+      "id": "weapon.asset.11bc52d81828a1ceac77",
+      "source": "Oak Staff",
+      "translation": "橡木 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.11bc52d81828a1ceac77"
+    },
+    {
+      "id": "weapon.asset.0e9c36d46f25eac9cca7",
+      "source": "Prism Staff",
+      "translation": "棱镜 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0e9c36d46f25eac9cca7"
+    },
+    {
+      "id": "weapon.asset.43fcd77a905b1ee05974",
+      "source": "<rainbow>Rainbow Staff</rainbow>",
+      "translation": "<rainbow>彩虹法杖</rainbow>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.43fcd77a905b1ee05974"
+    },
+    {
+      "id": "weapon.asset.0494b6ac43a4045541ba",
+      "source": "Scorching Staff",
+      "translation": "灼热 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0494b6ac43a4045541ba"
+    },
+    {
+      "id": "weapon.asset.61b58f2bd10a95844939",
+      "source": "Staff of Unlimited Power",
+      "translation": "法杖 之 无限 力量",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.61b58f2bd10a95844939"
+    },
+    {
+      "id": "weapon.asset.c2cb04856a4788e7fb16",
+      "source": "Vilethorn",
+      "translation": "邪棘",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c2cb04856a4788e7fb16"
+    },
+    {
+      "id": "weapon.asset.fa7623e038fd5cbce841",
+      "source": "Warlock Staff",
+      "translation": "术士 法杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.fa7623e038fd5cbce841"
+    },
+    {
+      "id": "weapon.asset.7bc948834606b632c4b0",
+      "source": "Apprentice Wand",
+      "translation": "学徒 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7bc948834606b632c4b0"
+    },
+    {
+      "id": "weapon.asset.38597ddb7a8fc2a87410",
+      "source": "Balrog Wand",
+      "translation": "炎魔 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.38597ddb7a8fc2a87410"
+    },
+    {
+      "id": "weapon.asset.13b9b98497902372f5bc",
+      "source": "Beetle Wand",
+      "translation": "甲虫 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.13b9b98497902372f5bc"
+    },
+    {
+      "id": "weapon.asset.f128d9cabbfd34b9681c",
+      "source": "Blasting Wand",
+      "translation": "爆破 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f128d9cabbfd34b9681c"
+    },
+    {
+      "id": "weapon.asset.8a544a3868007b608c11",
+      "source": "Blight Wand",
+      "translation": "枯萎 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8a544a3868007b608c11"
+    },
+    {
+      "id": "weapon.asset.df9bc7e431e3bb936b37",
+      "source": "Bone Wand",
+      "translation": "骨 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.df9bc7e431e3bb936b37"
+    },
+    {
+      "id": "weapon.asset.6e33cc0a908db2128a19",
+      "source": "Bubble Wand",
+      "translation": "泡泡 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.6e33cc0a908db2128a19"
+    },
+    {
+      "id": "weapon.asset.738dc7201ff36b08b977",
+      "source": "Crystal Wand",
+      "translation": "水晶 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.738dc7201ff36b08b977"
+    },
+    {
+      "id": "weapon.asset.80f473b00e9a6230fca7",
+      "source": "Dark Wand",
+      "translation": "暗月 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.80f473b00e9a6230fca7"
+    },
+    {
+      "id": "weapon.asset.0b10533d266bf2e32dd5",
+      "source": "Demon Scythe Wand",
+      "translation": "恶魔 镰刀 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0b10533d266bf2e32dd5"
+    },
+    {
+      "id": "weapon.asset.d4467e74c83a7a091421",
+      "source": "Dragon's Breath",
+      "translation": "龙之 吐息",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.d4467e74c83a7a091421"
+    },
+    {
+      "id": "weapon.asset.b7b083d3707f71e926f7",
+      "source": "Fireball Wand",
+      "translation": "火球 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b7b083d3707f71e926f7"
+    },
+    {
+      "id": "weapon.asset.0b88db4c75fc79964e90",
+      "source": "Holy Bolt Wand",
+      "translation": "神圣 闪电 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0b88db4c75fc79964e90"
+    },
+    {
+      "id": "weapon.asset.1f2bcc66bc2eb1c869f0",
+      "source": "Icicle Wand",
+      "translation": "冰柱 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1f2bcc66bc2eb1c869f0"
+    },
+    {
+      "id": "weapon.asset.60655474e57c540c5150",
+      "source": "Kugelblitz Wand",
+      "translation": "球状闪电 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.60655474e57c540c5150"
+    },
+    {
+      "id": "weapon.asset.42091b45d38c04fe0dea",
+      "source": "Leaf Wand",
+      "translation": "叶片 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.42091b45d38c04fe0dea"
+    },
+    {
+      "id": "weapon.asset.8fe77892ec63752c5ff9",
+      "source": "Magic Missile Wand",
+      "translation": "魔法 导弹 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8fe77892ec63752c5ff9"
+    },
+    {
+      "id": "weapon.asset.2e8d23ce19a8040c1b6b",
+      "source": "Obliteration Wand",
+      "translation": "毁灭 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2e8d23ce19a8040c1b6b"
+    },
+    {
+      "id": "weapon.asset.c2aa426597186a5d4caf",
+      "source": "Razor Wand",
+      "translation": "剃刃 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c2aa426597186a5d4caf"
+    },
+    {
+      "id": "weapon.asset.1ef749a32de80ad73511",
+      "source": "Rift Wand",
+      "translation": "裂隙 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1ef749a32de80ad73511"
+    },
+    {
+      "id": "weapon.asset.6ab2e46ab963cad36df5",
+      "source": "Ruby Wand",
+      "translation": "红宝石 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.6ab2e46ab963cad36df5"
+    },
+    {
+      "id": "weapon.asset.15e9958d1cfd83114a5b",
+      "source": "Sapphire Wand",
+      "translation": "蓝宝石 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.15e9958d1cfd83114a5b"
+    },
+    {
+      "id": "weapon.asset.b38a95c8359de2e2c5aa",
+      "source": "Shock Wand",
+      "translation": "震击 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b38a95c8359de2e2c5aa"
+    },
+    {
+      "id": "weapon.asset.b7f1d939e115e0fbf9a3",
+      "source": "Skull Wand",
+      "translation": "头骨 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b7f1d939e115e0fbf9a3"
+    },
+    {
+      "id": "weapon.asset.f4e5bd1816d3d8d97c6c",
+      "source": "Slime Wand",
+      "translation": "史莱姆 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f4e5bd1816d3d8d97c6c"
+    },
+    {
+      "id": "weapon.asset.e84e223c44fac5b181ab",
+      "source": "Slither Wand",
+      "translation": "滑行 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e84e223c44fac5b181ab"
+    },
+    {
+      "id": "weapon.asset.cd2b93048ae68513f0d9",
+      "source": "Snow Wand",
+      "translation": "雪 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.cd2b93048ae68513f0d9"
+    },
+    {
+      "id": "weapon.asset.e199f912fe8aff2147d3",
+      "source": "Spark Wand",
+      "translation": "火花 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e199f912fe8aff2147d3"
+    },
+    {
+      "id": "weapon.asset.d602a78089cba8af5a5b",
+      "source": "Spectral Blade Wand",
+      "translation": "幽魂 刀刃 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.d602a78089cba8af5a5b"
+    },
+    {
+      "id": "weapon.asset.b8d7191b28082e166ec5",
+      "source": "Spirit Wand",
+      "translation": "灵魂 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b8d7191b28082e166ec5"
+    },
+    {
+      "id": "weapon.asset.bd18e472fb8a04f5bf6f",
+      "source": "Topaz Wand",
+      "translation": "黄玉 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.bd18e472fb8a04f5bf6f"
+    },
+    {
+      "id": "weapon.asset.690bb09b839e1a8be62a",
+      "source": "Twister Wand",
+      "translation": "旋风 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.690bb09b839e1a8be62a"
+    },
+    {
+      "id": "weapon.asset.53b3cecf2b18b94fff02",
+      "source": "Wisp Wand",
+      "translation": "鬼火 魔杖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.53b3cecf2b18b94fff02"
+    },
+    {
+      "id": "weapon.asset.22a2e01224e4e1a07ecb",
+      "source": "Axe of Despair",
+      "translation": "斧 之 绝望",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.22a2e01224e4e1a07ecb"
+    },
+    {
+      "id": "weapon.asset.a8c821e27beb5b17d13c",
+      "source": "Battle Axe",
+      "translation": "战斗 斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a8c821e27beb5b17d13c"
+    },
+    {
+      "id": "weapon.asset.a008841a982d5e28e6d2",
+      "source": "Berserker Axes",
+      "translation": "狂战士 斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a008841a982d5e28e6d2"
+    },
+    {
+      "id": "weapon.asset.32b0a1e7a646f610250b",
+      "source": "Butcher Cleaver",
+      "translation": "屠夫 砍刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.32b0a1e7a646f610250b"
+    },
+    {
+      "id": "weapon.asset.cf75e8e6754150426d87",
+      "source": "Colossus Machete",
+      "translation": "巨像 弯刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.cf75e8e6754150426d87"
+    },
+    {
+      "id": "weapon.asset.60e01a62e8ea3d9c6d3f",
+      "source": "Divine Axe",
+      "translation": "神圣 斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.60e01a62e8ea3d9c6d3f"
+    },
+    {
+      "id": "weapon.asset.449dc717dd0d832b3d4e",
+      "source": "Double Axe",
+      "translation": "双重 斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.449dc717dd0d832b3d4e"
+    },
+    {
+      "id": "weapon.asset.e243527296943be410c1",
+      "source": "Gargoyle Tail Axe",
+      "translation": "石像鬼 尾 斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e243527296943be410c1"
+    },
+    {
+      "id": "weapon.asset.bd69e41037298a0e9a36",
+      "source": "Gimmershred",
+      "translation": "碎光",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.bd69e41037298a0e9a36"
+    },
+    {
+      "id": "weapon.asset.28fe9068c388355ebb20",
+      "source": "Guitar Axe",
+      "translation": "吉他 斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.28fe9068c388355ebb20"
+    },
+    {
+      "id": "weapon.asset.cd4609dec05068466b2f",
+      "source": "Hand Axe",
+      "translation": "手持 斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.cd4609dec05068466b2f"
+    },
+    {
+      "id": "weapon.asset.1931130abba4ee3c0bab",
+      "source": "Leviathan Axe",
+      "translation": "利维坦 斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1931130abba4ee3c0bab"
+    },
+    {
+      "id": "weapon.asset.96c80e0d6bb6c3f16a9d",
+      "source": "Stormbreaker",
+      "translation": "破风者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.96c80e0d6bb6c3f16a9d"
+    },
+    {
+      "id": "weapon.asset.0b80ad5e07ea9136ce47",
+      "source": "The Separator",
+      "translation": " 分离者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0b80ad5e07ea9136ce47"
+    },
+    {
+      "id": "weapon.asset.434be3950bb35c83ffd2",
+      "source": "Tomahawk",
+      "translation": "战斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.434be3950bb35c83ffd2"
+    },
+    {
+      "id": "weapon.asset.4ef9812ed8c198f16022",
+      "source": "Twin Axes",
+      "translation": "双生 斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4ef9812ed8c198f16022"
+    },
+    {
+      "id": "weapon.asset.7281255b5e448102a35f",
+      "source": "Winged Axes",
+      "translation": "翼 斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7281255b5e448102a35f"
+    },
+    {
+      "id": "weapon.asset.f9efa982c6d2821b0940",
+      "source": "Carnwennan",
+      "translation": "卡恩温南",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f9efa982c6d2821b0940"
+    },
+    {
+      "id": "weapon.asset.2afbedf1d87067ded06e",
+      "source": "Ceremonial Knife",
+      "translation": "仪式 飞刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2afbedf1d87067ded06e"
+    },
+    {
+      "id": "weapon.asset.ce2385e6d0c2cc337fcd",
+      "source": "Circus Knives",
+      "translation": "马戏 飞刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ce2385e6d0c2cc337fcd"
+    },
+    {
+      "id": "weapon.asset.8105eeb0c94a23c5ba01",
+      "source": "Dagger",
+      "translation": "匕首",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8105eeb0c94a23c5ba01"
+    },
+    {
+      "id": "weapon.asset.21820f0a8573db5a125f",
+      "source": "Gemini Daggers",
+      "translation": "双子 匕首",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.21820f0a8573db5a125f"
+    },
+    {
+      "id": "weapon.asset.c48f05a5c8513c28a123",
+      "source": "Golden Skean",
+      "translation": "黄金 短剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c48f05a5c8513c28a123"
+    },
+    {
+      "id": "weapon.asset.b9ad137099add99616c3",
+      "source": "Hunting Knife",
+      "translation": "猎 飞刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b9ad137099add99616c3"
+    },
+    {
+      "id": "weapon.asset.e05faab1121ee362f566",
+      "source": "Imp Dagger",
+      "translation": "小恶魔 匕首",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e05faab1121ee362f566"
+    },
+    {
+      "id": "weapon.asset.08af8199829b33ea3452",
+      "source": "Mail Breaker",
+      "translation": "破甲 破碎",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.08af8199829b33ea3452"
+    },
+    {
+      "id": "weapon.asset.8b44835473598c130fa9",
+      "source": "Ninja Dagger",
+      "translation": "忍者 匕首",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8b44835473598c130fa9"
+    },
+    {
+      "id": "weapon.asset.f1ab847fe27c4c1103b8",
+      "source": "Prop Knife",
+      "translation": "道具 飞刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f1ab847fe27c4c1103b8"
+    },
+    {
+      "id": "weapon.asset.ab475d623db281f20995",
+      "source": "Punk Hazard",
+      "translation": "朋克 危机",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ab475d623db281f20995"
+    },
+    {
+      "id": "weapon.asset.e7d176729b7dc4effc54",
+      "source": "Shadow Dagger",
+      "translation": "暗影 匕首",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e7d176729b7dc4effc54"
+    },
+    {
+      "id": "weapon.asset.7c4df96288a2f2ab763e",
+      "source": "Soulthief Dagger",
+      "translation": "噬魂者 匕首",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7c4df96288a2f2ab763e"
+    },
+    {
+      "id": "weapon.asset.1336176d3c696659f7a2",
+      "source": "The Hungry Blade",
+      "translation": " 饥饿 刀刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1336176d3c696659f7a2"
+    },
+    {
+      "id": "weapon.asset.f097bcd72741fdface7e",
+      "source": "Twin Daggers",
+      "translation": "双生 匕首",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f097bcd72741fdface7e"
+    },
+    {
+      "id": "weapon.asset.85813dd0dd67360163c9",
+      "source": "Twin Karambits",
+      "translation": "双生 爪刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.85813dd0dd67360163c9"
+    },
+    {
+      "id": "weapon.asset.9f94a622c34829f18e55",
+      "source": "Wooden Bo",
+      "translation": "木制 棍",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9f94a622c34829f18e55"
+    },
+    {
+      "id": "weapon.asset.e604431025f29d406455",
+      "source": "Rusty Fans",
+      "translation": "生锈 扇",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e604431025f29d406455"
+    },
+    {
+      "id": "weapon.asset.6bab9c40bcefeb307364",
+      "source": "Tempest Fans",
+      "translation": "暴风 扇",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.6bab9c40bcefeb307364"
+    },
+    {
+      "id": "weapon.asset.0c02c9d6072d66bd80c3",
+      "source": "War Fans",
+      "translation": "战争 扇",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0c02c9d6072d66bd80c3"
+    },
+    {
+      "id": "weapon.asset.96b9eab45539a32e7b08",
+      "source": "Anchor Flail",
+      "translation": "锚 连枷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.96b9eab45539a32e7b08"
+    },
+    {
+      "id": "weapon.asset.711583d72f4c0538720a",
+      "source": "Big Chomper",
+      "translation": "大 大嘴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.711583d72f4c0538720a"
+    },
+    {
+      "id": "weapon.asset.d2ba05443c38fd8728f5",
+      "source": "Cactus Flail",
+      "translation": "仙人掌 连枷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.d2ba05443c38fd8728f5"
+    },
+    {
+      "id": "weapon.asset.938ddfa4878722632f0d",
+      "source": "Coral Flail",
+      "translation": "珊瑚 连枷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.938ddfa4878722632f0d"
+    },
+    {
+      "id": "weapon.asset.1f1799ca1fb362770df6",
+      "source": "Crystal Flail",
+      "translation": "水晶 连枷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1f1799ca1fb362770df6"
+    },
+    {
+      "id": "weapon.asset.b2a2a498a76ad85a9c4c",
+      "source": "Flailstrom",
+      "translation": "连枷风暴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b2a2a498a76ad85a9c4c"
+    },
+    {
+      "id": "weapon.asset.fcb9336e398f3792228d",
+      "source": "Gunchaku",
+      "translation": "枪节棍",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.fcb9336e398f3792228d"
+    },
+    {
+      "id": "weapon.asset.168407409852dd94a82f",
+      "source": "Knob Twiddler",
+      "translation": "旋钮 拨弄者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.168407409852dd94a82f"
+    },
+    {
+      "id": "weapon.asset.5799030d75cd16d5ec3d",
+      "source": "Maelstrom",
+      "translation": "大漩涡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5799030d75cd16d5ec3d"
+    },
+    {
+      "id": "weapon.asset.7a75e5a5b9fac12d54f0",
+      "source": "Nunchaku",
+      "translation": "双节棍",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7a75e5a5b9fac12d54f0"
+    },
+    {
+      "id": "weapon.asset.0a09178c6bcae98e2f72",
+      "source": "Spiky Flail",
+      "translation": "尖刺 连枷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0a09178c6bcae98e2f72"
+    },
+    {
+      "id": "weapon.asset.8db7b87732beea585e1c",
+      "source": "Spore Flail",
+      "translation": "孢子 连枷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8db7b87732beea585e1c"
+    },
+    {
+      "id": "weapon.asset.9f4b554c268cb42911ac",
+      "source": "Sun Vortex",
+      "translation": "太阳 漩涡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9f4b554c268cb42911ac"
+    },
+    {
+      "id": "weapon.asset.b2e1232b9e634ddb0edb",
+      "source": "Balloon Hammer",
+      "translation": "气球 锤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b2e1232b9e634ddb0edb"
+    },
+    {
+      "id": "weapon.asset.3761bdca54aecbb32962",
+      "source": "Baseball Bat",
+      "translation": "棒球 蝙蝠",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3761bdca54aecbb32962"
+    },
+    {
+      "id": "weapon.asset.bf6e641f88a919837d02",
+      "source": "Blacksmith Hammer",
+      "translation": "铁匠 锤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.bf6e641f88a919837d02"
+    },
+    {
+      "id": "weapon.asset.3c955a691ce256f9868a",
+      "source": "Clockwork Hammer",
+      "translation": "发条 锤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3c955a691ce256f9868a"
+    },
+    {
+      "id": "weapon.asset.1c7ac04c4ac35a72863f",
+      "source": "Club",
+      "translation": "棍棒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1c7ac04c4ac35a72863f"
+    },
+    {
+      "id": "weapon.asset.b4e9e98639152de898f7",
+      "source": "Crusader Mace",
+      "translation": "十字军 钉锤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b4e9e98639152de898f7"
+    },
+    {
+      "id": "weapon.asset.c794fa5c1accb89693a4",
+      "source": "Echoing Fury",
+      "translation": "回响 狂怒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c794fa5c1accb89693a4"
+    },
+    {
+      "id": "weapon.asset.2a11ffe2b04d61ee76a7",
+      "source": "Giant Hammer",
+      "translation": "巨型 锤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2a11ffe2b04d61ee76a7"
+    },
+    {
+      "id": "weapon.asset.8458b59d5426c77d7f90",
+      "source": "Magi-Tech Hammer",
+      "translation": "魔导科技 锤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8458b59d5426c77d7f90"
+    },
+    {
+      "id": "weapon.asset.373e6833ff95493a8ca9",
+      "source": "Mjolnir",
+      "translation": "雷神之锤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.373e6833ff95493a8ca9"
+    },
+    {
+      "id": "weapon.asset.9c8972910f2c4f7a688d",
+      "source": "Morning Star",
+      "translation": "晨星 星辰",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9c8972910f2c4f7a688d"
+    },
+    {
+      "id": "weapon.asset.7003fccb5c973caf850a",
+      "source": "Quecholli",
+      "translation": "羽刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7003fccb5c973caf850a"
+    },
+    {
+      "id": "weapon.asset.352c008c7599ec099bd8",
+      "source": "Ragnarok",
+      "translation": "诸神黄昏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.352c008c7599ec099bd8"
+    },
+    {
+      "id": "weapon.asset.56b7f6935615be0925e4",
+      "source": "Reinforced Club",
+      "translation": "强化 棍棒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.56b7f6935615be0925e4"
+    },
+    {
+      "id": "weapon.asset.329788184dfd993887f4",
+      "source": "Stormhammer",
+      "translation": "风暴之锤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.329788184dfd993887f4"
+    },
+    {
+      "id": "weapon.asset.ccb63dfa418ca012c95b",
+      "source": "Broadsword",
+      "translation": "阔剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ccb63dfa418ca012c95b"
+    },
+    {
+      "id": "weapon.asset.4a0e7b68c14fc14ed63c",
+      "source": "Crystal Sword",
+      "translation": "水晶 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4a0e7b68c14fc14ed63c"
+    },
+    {
+      "id": "weapon.asset.2399379ebec10c3de83e",
+      "source": "Cutlass",
+      "translation": "弯刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2399379ebec10c3de83e"
+    },
+    {
+      "id": "weapon.asset.6700ca245da4c4279f25",
+      "source": "Demon King Blade",
+      "translation": "恶魔 王 刀刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.6700ca245da4c4279f25"
+    },
+    {
+      "id": "weapon.asset.55ff6b22117dfe577c66",
+      "source": "Energysaber",
+      "translation": "能量军刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.55ff6b22117dfe577c66"
+    },
+    {
+      "id": "weapon.asset.9180564fbed0f36d97e8",
+      "source": "Excalibur",
+      "translation": "圣剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9180564fbed0f36d97e8"
+    },
+    {
+      "id": "weapon.asset.ac949a0e283d7d186b6a",
+      "source": "Falchion",
+      "translation": "弯刃剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ac949a0e283d7d186b6a"
+    },
+    {
+      "id": "weapon.asset.6e18e451ca7224279e1d",
+      "source": "Fire Scimitar",
+      "translation": "火焰 弯刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.6e18e451ca7224279e1d"
+    },
+    {
+      "id": "weapon.asset.2964b3dc3901e7866c93",
+      "source": "Frostbane",
+      "translation": "霜灾",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2964b3dc3901e7866c93"
+    },
+    {
+      "id": "weapon.asset.9d2a3b12fe444f72cf3e",
+      "source": "Gladius",
+      "translation": "短剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9d2a3b12fe444f72cf3e"
+    },
+    {
+      "id": "weapon.asset.147e9502724385e3d232",
+      "source": "Broken Hero Sword",
+      "translation": "破损 英雄 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.147e9502724385e3d232"
+    },
+    {
+      "id": "weapon.asset.c05440e14999379828ae",
+      "source": "Frostbringer",
+      "translation": "霜寒使者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c05440e14999379828ae"
+    },
+    {
+      "id": "weapon.asset.cd868e27dea925dcb5c6",
+      "source": "Hero Sword",
+      "translation": "英雄 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.cd868e27dea925dcb5c6"
+    },
+    {
+      "id": "weapon.asset.663e4674b21f024c09a4",
+      "source": "Infernobringer",
+      "translation": "地狱使者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.663e4674b21f024c09a4"
+    },
+    {
+      "id": "weapon.asset.5c75a4e0f1bb18f2c720",
+      "source": "Lightbringer",
+      "translation": "光明使者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5c75a4e0f1bb18f2c720"
+    },
+    {
+      "id": "weapon.asset.e8d421778eca98063940",
+      "source": "Plaguebringer",
+      "translation": "瘟疫使者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e8d421778eca98063940"
+    },
+    {
+      "id": "weapon.asset.38f74c5778f2c4119965",
+      "source": "Shadowbringer",
+      "translation": "暗影使者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.38f74c5778f2c4119965"
+    },
+    {
+      "id": "weapon.asset.1836a718fb713261fce9",
+      "source": "Stormbringer",
+      "translation": "风暴使者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1836a718fb713261fce9"
+    },
+    {
+      "id": "weapon.asset.7f84b3f271c3f4a260b4",
+      "source": "Ice Scimitar",
+      "translation": "冰霜 弯刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7f84b3f271c3f4a260b4"
+    },
+    {
+      "id": "weapon.asset.173ffc56b667a452473f",
+      "source": "Misfit's Sword",
+      "translation": "异类的 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.173ffc56b667a452473f"
+    },
+    {
+      "id": "weapon.asset.59fa02139793502f428d",
+      "source": "Muramasa",
+      "translation": "村正",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.59fa02139793502f428d"
+    },
+    {
+      "id": "weapon.asset.fd7e9444a499cf230aa6",
+      "source": "Needle",
+      "translation": "针",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.fd7e9444a499cf230aa6"
+    },
+    {
+      "id": "weapon.asset.afa91a4355b11fe01c7a",
+      "source": "Phoenix",
+      "translation": "凤凰",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.afa91a4355b11fe01c7a"
+    },
+    {
+      "id": "weapon.asset.d7d0d13c4525326de68d",
+      "source": "Raijin",
+      "translation": "雷神",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.d7d0d13c4525326de68d"
+    },
+    {
+      "id": "weapon.asset.c022fb8252e9713471bf",
+      "source": "Rapier",
+      "translation": "细剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c022fb8252e9713471bf"
+    },
+    {
+      "id": "weapon.asset.2266bb3bad33b47c29b0",
+      "source": "Runic Sword",
+      "translation": "符文 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2266bb3bad33b47c29b0"
+    },
+    {
+      "id": "weapon.asset.37810c94860a54afbe99",
+      "source": "Salamandra",
+      "translation": "火蜥蜴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.37810c94860a54afbe99"
+    },
+    {
+      "id": "weapon.asset.c5bae30a27fcf083d3ea",
+      "source": "Shortsword",
+      "translation": "短剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c5bae30a27fcf083d3ea"
+    },
+    {
+      "id": "weapon.asset.f697022c0993706f9202",
+      "source": "Side Sword",
+      "translation": "侧手 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f697022c0993706f9202"
+    },
+    {
+      "id": "weapon.asset.53d3793e46901efc749a",
+      "source": "Starfury",
+      "translation": "星怒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.53d3793e46901efc749a"
+    },
+    {
+      "id": "weapon.asset.f38372b6fa2c40deb60a",
+      "source": "Swift Saber",
+      "translation": "迅捷 军刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f38372b6fa2c40deb60a"
+    },
+    {
+      "id": "weapon.asset.5a64c8a85f869afbece2",
+      "source": "True Excalibur",
+      "translation": "真正 圣剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5a64c8a85f869afbece2"
+    },
+    {
+      "id": "weapon.asset.cde00f11adbf4ab0e20e",
+      "source": "Wooden Sword",
+      "translation": "木制 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.cde00f11adbf4ab0e20e"
+    },
+    {
+      "id": "weapon.asset.293bf2fc080e85c4b117",
+      "source": "Bardiche",
+      "translation": "长柄斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.293bf2fc080e85c4b117"
+    },
+    {
+      "id": "weapon.asset.5263e10836755edc994b",
+      "source": "Bisento",
+      "translation": "眉尖刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5263e10836755edc994b"
+    },
+    {
+      "id": "weapon.asset.6b0aafe3932b9c652f8e",
+      "source": "Crystal Halberd",
+      "translation": "水晶 长戟",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.6b0aafe3932b9c652f8e"
+    },
+    {
+      "id": "weapon.asset.edc24f8aedc8d7c1ea5d",
+      "source": "Halberd",
+      "translation": "长戟",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.edc24f8aedc8d7c1ea5d"
+    },
+    {
+      "id": "weapon.asset.44827f88e0116f4163b7",
+      "source": "Lucerne",
+      "translation": "卢塞恩锤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.44827f88e0116f4163b7"
+    },
+    {
+      "id": "weapon.asset.283d70abf046b60b0639",
+      "source": "Poleaxe",
+      "translation": "长柄斧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.283d70abf046b60b0639"
+    },
+    {
+      "id": "weapon.asset.8fdc6310fd7c23f9460a",
+      "source": "Bone Scythe",
+      "translation": "骨 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8fdc6310fd7c23f9460a"
+    },
+    {
+      "id": "weapon.asset.e82697767f8b0b367ff8",
+      "source": "Crop Scythe",
+      "translation": "收割 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e82697767f8b0b367ff8"
+    },
+    {
+      "id": "weapon.asset.727c317d73a0e92e908f",
+      "source": "Double Scythe",
+      "translation": "双重 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.727c317d73a0e92e908f"
+    },
+    {
+      "id": "weapon.asset.953640947dd529316ec9",
+      "source": "Reaper's Toll",
+      "translation": "收割者的 丧钟",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.953640947dd529316ec9"
+    },
+    {
+      "id": "weapon.asset.0e4d1334bd4b8a7b910f",
+      "source": "Soul Scythe",
+      "translation": "灵魂 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0e4d1334bd4b8a7b910f"
+    },
+    {
+      "id": "weapon.asset.ee120d40beacd3273c44",
+      "source": "Cultist Sickles",
+      "translation": "邪教徒 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ee120d40beacd3273c44"
+    },
+    {
+      "id": "weapon.asset.7cf1db9e1224cd82baeb",
+      "source": "Cyber Sickles",
+      "translation": "赛博 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7cf1db9e1224cd82baeb"
+    },
+    {
+      "id": "weapon.asset.a23faf40a7ca452cfe62",
+      "source": "Death Sickles",
+      "translation": "死亡 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a23faf40a7ca452cfe62"
+    },
+    {
+      "id": "weapon.asset.44169e5386e8a5206a25",
+      "source": "Druid Sickles",
+      "translation": "德鲁伊 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.44169e5386e8a5206a25"
+    },
+    {
+      "id": "weapon.asset.a4da07ec5f7fa9d919fb",
+      "source": "Jagged Sickles",
+      "translation": "锯齿 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a4da07ec5f7fa9d919fb"
+    },
+    {
+      "id": "weapon.asset.dc588e28a75b21822067",
+      "source": "Poison Sickles",
+      "translation": "毒 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.dc588e28a75b21822067"
+    },
+    {
+      "id": "weapon.asset.0101a9b80aace7480024",
+      "source": "Sickles",
+      "translation": "镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0101a9b80aace7480024"
+    },
+    {
+      "id": "weapon.asset.df5412fe60d6c96f4528",
+      "source": "Titan Sickle",
+      "translation": "泰坦 镰刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.df5412fe60d6c96f4528"
+    },
+    {
+      "id": "weapon.asset.6e25daf50bea77de6fe1",
+      "source": "Amazon Spear",
+      "translation": "亚马逊 长矛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.6e25daf50bea77de6fe1"
+    },
+    {
+      "id": "weapon.asset.997ea9045679d352d803",
+      "source": "Draco Spear",
+      "translation": "天龙 长矛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.997ea9045679d352d803"
+    },
+    {
+      "id": "weapon.asset.d559538cd9c02e11710a",
+      "source": "Dragonslayer Lance",
+      "translation": "屠龙 骑枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.d559538cd9c02e11710a"
+    },
+    {
+      "id": "weapon.asset.e1f0d8accb4c5ca12ba1",
+      "source": "Flame Spear",
+      "translation": "烈焰 长矛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e1f0d8accb4c5ca12ba1"
+    },
+    {
+      "id": "weapon.asset.0aa4154035f1264ee9be",
+      "source": "Frost Spear",
+      "translation": "冰霜 长矛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0aa4154035f1264ee9be"
+    },
+    {
+      "id": "weapon.asset.409824f4600de8ceac19",
+      "source": "Gichang",
+      "translation": "旗枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.409824f4600de8ceac19"
+    },
+    {
+      "id": "weapon.asset.c9dc33102a25ba7a4b95",
+      "source": "Gungnir",
+      "translation": "冈格尼尔",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c9dc33102a25ba7a4b95"
+    },
+    {
+      "id": "weapon.asset.ef8062c3448ae81331b9",
+      "source": "Lance",
+      "translation": "骑枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ef8062c3448ae81331b9"
+    },
+    {
+      "id": "weapon.asset.1d28183fc1bf0c5c75f0",
+      "source": "Partizan",
+      "translation": "党卫枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1d28183fc1bf0c5c75f0"
+    },
+    {
+      "id": "weapon.asset.163122d3aff7d508f947",
+      "source": "Pike",
+      "translation": "长枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.163122d3aff7d508f947"
+    },
+    {
+      "id": "weapon.asset.a413756dc8a965a71b4e",
+      "source": "Rhongomyniad",
+      "translation": "朗戈米尼亚德",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a413756dc8a965a71b4e"
+    },
+    {
+      "id": "weapon.asset.d13a7a2ae27a77c6b6e1",
+      "source": "Spear",
+      "translation": "长矛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.d13a7a2ae27a77c6b6e1"
+    },
+    {
+      "id": "weapon.asset.535cbf5833601700df8f",
+      "source": "Trident",
+      "translation": "三叉戟",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.535cbf5833601700df8f"
+    },
+    {
+      "id": "weapon.asset.3ac7f99da6f48247fe04",
+      "source": "Unicorn Spear",
+      "translation": "独角兽 长矛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3ac7f99da6f48247fe04"
+    },
+    {
+      "id": "weapon.asset.ee6821a76b8b0f1b7f83",
+      "source": "Bastard Sword",
+      "translation": "混种 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ee6821a76b8b0f1b7f83"
+    },
+    {
+      "id": "weapon.asset.7cb12fdcebbfec6fde20",
+      "source": "Beam Sword",
+      "translation": "光束 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7cb12fdcebbfec6fde20"
+    },
+    {
+      "id": "weapon.asset.3fcd2708f0c1db3c03f5",
+      "source": "Buster Blade",
+      "translation": "破坏 刀刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3fcd2708f0c1db3c03f5"
+    },
+    {
+      "id": "weapon.asset.3c2fc90ded56792ec99f",
+      "source": "Chainsaw Katana",
+      "translation": "电锯 武士刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3c2fc90ded56792ec99f"
+    },
+    {
+      "id": "weapon.asset.c7158fb7ea5c6fa8c8da",
+      "source": "Claymore",
+      "translation": "双手剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c7158fb7ea5c6fa8c8da"
+    },
+    {
+      "id": "weapon.asset.8aa08616490eaaf9e2ca",
+      "source": "Dragonslayer Greatsword",
+      "translation": "屠龙 巨剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8aa08616490eaaf9e2ca"
+    },
+    {
+      "id": "weapon.asset.f4cf2e2ffd4fafb819e8",
+      "source": "Executioner Sword",
+      "translation": "处刑 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f4cf2e2ffd4fafb819e8"
+    },
+    {
+      "id": "weapon.asset.db699edaec989727941a",
+      "source": "Flameberge",
+      "translation": "焰形剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.db699edaec989727941a"
+    },
+    {
+      "id": "weapon.asset.156c6c3588805156b9c1",
+      "source": "Flying Dragon Sword",
+      "translation": "飞行 龙 剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.156c6c3588805156b9c1"
+    },
+    {
+      "id": "weapon.asset.8a383043d7ab6cc610a8",
+      "source": "Giant Slayer",
+      "translation": "巨型 屠杀者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8a383043d7ab6cc610a8"
+    },
+    {
+      "id": "weapon.asset.9c66ea4242586c57fee3",
+      "source": "Grass Blade",
+      "translation": "草 刀刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9c66ea4242586c57fee3"
+    },
+    {
+      "id": "weapon.asset.a731158cb0fabbf84125",
+      "source": "Katana",
+      "translation": "武士刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a731158cb0fabbf84125"
+    },
+    {
+      "id": "weapon.asset.141319a52ae79ad3525e",
+      "source": "Moonshine Greatsword",
+      "translation": "月光 巨剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.141319a52ae79ad3525e"
+    },
+    {
+      "id": "weapon.asset.55d76a640f2f1d5c5bad",
+      "source": "Necrosword",
+      "translation": "死灵剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.55d76a640f2f1d5c5bad"
+    },
+    {
+      "id": "weapon.asset.5c8946cfb077d41321ef",
+      "source": "Vorpal Blade",
+      "translation": "斩首 刀刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5c8946cfb077d41321ef"
+    },
+    {
+      "id": "weapon.asset.f435466cd3354300e5ee",
+      "source": "Zenith",
+      "translation": "天顶",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f435466cd3354300e5ee"
+    },
+    {
+      "id": "weapon.asset.d34d8fab0033fd3bc901",
+      "source": "Zweihander",
+      "translation": "双手巨剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.d34d8fab0033fd3bc901"
+    },
+    {
+      "id": "weapon.asset.720accb10739da60e8bf",
+      "source": "Blastbark",
+      "translation": "爆裂弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.720accb10739da60e8bf"
+    },
+    {
+      "id": "weapon.asset.066f7674a1a674fdfaf9",
+      "source": "Boneforce",
+      "translation": "骨力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.066f7674a1a674fdfaf9"
+    },
+    {
+      "id": "weapon.asset.f8aa362a171683aa294b",
+      "source": "Chloroblast Bow",
+      "translation": "叶绿爆裂 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f8aa362a171683aa294b"
+    },
+    {
+      "id": "weapon.asset.369f6d36a57947548006",
+      "source": "Cluckeye Bow",
+      "translation": "鸡眼 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.369f6d36a57947548006"
+    },
+    {
+      "id": "weapon.asset.6d8946fe7bd60d025abf",
+      "source": "Composite Bow",
+      "translation": "复合 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.6d8946fe7bd60d025abf"
+    },
+    {
+      "id": "weapon.asset.ae29ef0b9be8270e8def",
+      "source": "Compound Bow",
+      "translation": "合成 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ae29ef0b9be8270e8def"
+    },
+    {
+      "id": "weapon.asset.5b54955bbf42a20e403b",
+      "source": "Crude Bow",
+      "translation": "粗制 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5b54955bbf42a20e403b"
+    },
+    {
+      "id": "weapon.asset.15d17b1b697bcdd743fc",
+      "source": "Crystal Bow",
+      "translation": "水晶 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.15d17b1b697bcdd743fc"
+    },
+    {
+      "id": "weapon.asset.8a7ab01a9094f1827578",
+      "source": "Cupid Bow",
+      "translation": "丘比特 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8a7ab01a9094f1827578"
+    },
+    {
+      "id": "weapon.asset.655e4f45281e7951eb18",
+      "source": "Doubleshot Bow",
+      "translation": "双发 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.655e4f45281e7951eb18"
+    },
+    {
+      "id": "weapon.asset.94bbe7f36de95fcb839e",
+      "source": "Dragonslayer Bow",
+      "translation": "屠龙 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.94bbe7f36de95fcb839e"
+    },
+    {
+      "id": "weapon.asset.e3e2e88350bbff670b7d",
+      "source": "Elven Bow",
+      "translation": "精灵 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e3e2e88350bbff670b7d"
+    },
+    {
+      "id": "weapon.asset.03a72ccc59fc0ff5e98a",
+      "source": "Fire Fang",
+      "translation": "火焰 獠牙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.03a72ccc59fc0ff5e98a"
+    },
+    {
+      "id": "weapon.asset.628d12df50a809242a61",
+      "source": "Flint Bow",
+      "translation": "燧石 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.628d12df50a809242a61"
+    },
+    {
+      "id": "weapon.asset.289d1be8d8c24410b53d",
+      "source": "Helix Bow",
+      "translation": "螺旋 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.289d1be8d8c24410b53d"
+    },
+    {
+      "id": "weapon.asset.055fc25895799ef155da",
+      "source": "Ice Fang",
+      "translation": "冰霜 獠牙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.055fc25895799ef155da"
+    },
+    {
+      "id": "weapon.asset.7a21e233b845f3d5117c",
+      "source": "Kraken",
+      "translation": "海怪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7a21e233b845f3d5117c"
+    },
+    {
+      "id": "weapon.asset.3986c04d2a2463296b84",
+      "source": "Longbow",
+      "translation": "长弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3986c04d2a2463296b84"
+    },
+    {
+      "id": "weapon.asset.b8612bfb739608c629d5",
+      "source": "Magical Bow",
+      "translation": "魔法 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b8612bfb739608c629d5"
+    },
+    {
+      "id": "weapon.asset.6ab82a17b188e31c573f",
+      "source": "Michelangebow",
+      "translation": "米开朗弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.6ab82a17b188e31c573f"
+    },
+    {
+      "id": "weapon.asset.1f1d6cb0da2e91ecd3de",
+      "source": "Phantasm",
+      "translation": "幻影",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1f1d6cb0da2e91ecd3de"
+    },
+    {
+      "id": "weapon.asset.cd902a1f096bc53e87ad",
+      "source": "Rapidfire Bow",
+      "translation": "速射 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.cd902a1f096bc53e87ad"
+    },
+    {
+      "id": "weapon.asset.4c0d55d2b9c1fd20cbd8",
+      "source": "Raven Bow",
+      "translation": "乌鸦 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4c0d55d2b9c1fd20cbd8"
+    },
+    {
+      "id": "weapon.asset.d51b68d9f88172f17e9b",
+      "source": "Recurve Bow",
+      "translation": "反曲 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.d51b68d9f88172f17e9b"
+    },
+    {
+      "id": "weapon.asset.4aacacb91e05ec085dce",
+      "source": "Seraphim",
+      "translation": "炽天使",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4aacacb91e05ec085dce"
+    },
+    {
+      "id": "weapon.asset.9872946f2653a7e8a777",
+      "source": "Shortbow",
+      "translation": "短弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9872946f2653a7e8a777"
+    },
+    {
+      "id": "weapon.asset.54de35bffb49b1399738",
+      "source": "Sniper Bow",
+      "translation": "狙击 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.54de35bffb49b1399738"
+    },
+    {
+      "id": "weapon.asset.4c4938968f2aa071dc84",
+      "source": "Snow Angel",
+      "translation": "雪 天使",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4c4938968f2aa071dc84"
+    },
+    {
+      "id": "weapon.asset.bc88e43b7aae45a45831",
+      "source": "Star Bow",
+      "translation": "星辰 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.bc88e43b7aae45a45831"
+    },
+    {
+      "id": "weapon.asset.af9065d14f4deb572372",
+      "source": "Storm Cloud",
+      "translation": "风暴 云",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.af9065d14f4deb572372"
+    },
+    {
+      "id": "weapon.asset.046793afe1abace1d924",
+      "source": "Thorn Bow",
+      "translation": "荆棘 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.046793afe1abace1d924"
+    },
+    {
+      "id": "weapon.asset.08e6744a96777eb08633",
+      "source": "Winged Bow",
+      "translation": "翼 弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.08e6744a96777eb08633"
+    },
+    {
+      "id": "weapon.asset.590fc229e4b7a2ebdd3a",
+      "source": "Yumi",
+      "translation": "和弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.590fc229e4b7a2ebdd3a"
+    },
+    {
+      "id": "weapon.asset.233a45a555edd8c4d7e1",
+      "source": "Zephyr",
+      "translation": "西风",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.233a45a555edd8c4d7e1"
+    },
+    {
+      "id": "weapon.asset.3dfd7243fcb672173e14",
+      "source": "Bazooka",
+      "translation": "火箭筒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3dfd7243fcb672173e14"
+    },
+    {
+      "id": "weapon.asset.26874543e99c29193668",
+      "source": "Farmageddon",
+      "translation": "农场末日",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.26874543e99c29193668"
+    },
+    {
+      "id": "weapon.asset.39ef8882fff5c986e43e",
+      "source": "Firework Launcher",
+      "translation": "烟花 发射器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.39ef8882fff5c986e43e"
+    },
+    {
+      "id": "weapon.asset.c2348dc9b9df34c9a722",
+      "source": "Grenade Launcher",
+      "translation": "榴弹 发射器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c2348dc9b9df34c9a722"
+    },
+    {
+      "id": "weapon.asset.306cc91374e97edc8662",
+      "source": "Hand Cannon",
+      "translation": "手持 加农炮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.306cc91374e97edc8662"
+    },
+    {
+      "id": "weapon.asset.e335f74c7aa86f5a1d27",
+      "source": "Missile Launcher",
+      "translation": "导弹 发射器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e335f74c7aa86f5a1d27"
+    },
+    {
+      "id": "weapon.asset.2567b2712e5bdfdf5846",
+      "source": "Nyan Cannon",
+      "translation": "喵喵 加农炮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2567b2712e5bdfdf5846"
+    },
+    {
+      "id": "weapon.asset.fec03d3b6634c3bead62",
+      "source": "Pineapple Cannon",
+      "translation": "菠萝 加农炮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.fec03d3b6634c3bead62"
+    },
+    {
+      "id": "weapon.asset.02746385f144ed634978",
+      "source": "Plasma Cannon",
+      "translation": "等离子 加农炮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.02746385f144ed634978"
+    },
+    {
+      "id": "weapon.asset.3a036388e7a139314889",
+      "source": "Snow Launcher",
+      "translation": "雪 发射器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3a036388e7a139314889"
+    },
+    {
+      "id": "weapon.asset.4167d5e06f5342e81e8f",
+      "source": "Star Cannon",
+      "translation": "星辰 加农炮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4167d5e06f5342e81e8f"
+    },
+    {
+      "id": "weapon.asset.0a1878a25588f6088455",
+      "source": "Auto Crossbows",
+      "translation": "自动 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0a1878a25588f6088455"
+    },
+    {
+      "id": "weapon.asset.91e0246c0323af3b3fb6",
+      "source": "Bola Crossbow",
+      "translation": "流星锤 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.91e0246c0323af3b3fb6"
+    },
+    {
+      "id": "weapon.asset.0144751d5d3298d62ce7",
+      "source": "Buriza",
+      "translation": "布里萨",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0144751d5d3298d62ce7"
+    },
+    {
+      "id": "weapon.asset.f3ef95ede9b98578bfd7",
+      "source": "Crossbow",
+      "translation": "弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f3ef95ede9b98578bfd7"
+    },
+    {
+      "id": "weapon.asset.0fc46eda90509456a835",
+      "source": "Devil Machine",
+      "translation": "恶魔 机枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.0fc46eda90509456a835"
+    },
+    {
+      "id": "weapon.asset.8a0c2f77e04dfc3341a9",
+      "source": "Dual Crossbows",
+      "translation": "双持 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8a0c2f77e04dfc3341a9"
+    },
+    {
+      "id": "weapon.asset.822c58c81ba59c80f8b2",
+      "source": "Harp Crossbow",
+      "translation": "竖琴 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.822c58c81ba59c80f8b2"
+    },
+    {
+      "id": "weapon.asset.03fb2b58d850ee3c0940",
+      "source": "Heavy Crossbow",
+      "translation": "重型 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.03fb2b58d850ee3c0940"
+    },
+    {
+      "id": "weapon.asset.3fcfb8ef0e9fe1b2525f",
+      "source": "Hellsingers",
+      "translation": "地狱歌者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3fcfb8ef0e9fe1b2525f"
+    },
+    {
+      "id": "weapon.asset.2ce7da338e1cd63d4f17",
+      "source": "Manticore",
+      "translation": "蝎狮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2ce7da338e1cd63d4f17"
+    },
+    {
+      "id": "weapon.asset.1ef505388fce7fb0b9dd",
+      "source": "Mechanical Crossbow",
+      "translation": "机械 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.1ef505388fce7fb0b9dd"
+    },
+    {
+      "id": "weapon.asset.21ece0896505b1ba551f",
+      "source": "Octoshot Crossbow",
+      "translation": "八连射 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.21ece0896505b1ba551f"
+    },
+    {
+      "id": "weapon.asset.9fe696d126c90df73f89",
+      "source": "Pneumatic Crossbows",
+      "translation": "气动 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9fe696d126c90df73f89"
+    },
+    {
+      "id": "weapon.asset.150074f4516f0639b994",
+      "source": "Pus Spitter",
+      "translation": "脓液 喷吐者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.150074f4516f0639b994"
+    },
+    {
+      "id": "weapon.asset.7618eb98781df2e2456c",
+      "source": "Relic Crossbow",
+      "translation": "遗物 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7618eb98781df2e2456c"
+    },
+    {
+      "id": "weapon.asset.e62e685e2194e0f5d09b",
+      "source": "Repeating Crossbow",
+      "translation": "连发 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e62e685e2194e0f5d09b"
+    },
+    {
+      "id": "weapon.asset.4ebd94a99118bf2a21bc",
+      "source": "Scattershot Crossbow",
+      "translation": "散射 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4ebd94a99118bf2a21bc"
+    },
+    {
+      "id": "weapon.asset.ed19c09e28c20d136dfc",
+      "source": "Stake Crossbow",
+      "translation": "木桩 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ed19c09e28c20d136dfc"
+    },
+    {
+      "id": "weapon.asset.4bca6b1c315d75f88756",
+      "source": "The Calamities",
+      "translation": " 灾厄",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4bca6b1c315d75f88756"
+    },
+    {
+      "id": "weapon.asset.cc0cd42c9b91fe3e7365",
+      "source": "Tinkertop Crossbow",
+      "translation": "修补匠 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.cc0cd42c9b91fe3e7365"
+    },
+    {
+      "id": "weapon.asset.320d668b5e3200ca4d65",
+      "source": "Twinshot Crossbow",
+      "translation": "双射 弩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.320d668b5e3200ca4d65"
+    },
+    {
+      "id": "weapon.asset.b256a73d94a01e91195c",
+      "source": "Blowgun",
+      "translation": "吹箭",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b256a73d94a01e91195c"
+    },
+    {
+      "id": "weapon.asset.e683fd90e0ce0aa87825",
+      "source": "Dartling Gun",
+      "translation": "飞镖 枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e683fd90e0ce0aa87825"
+    },
+    {
+      "id": "weapon.asset.fd9a9a8806fc2bfdce54",
+      "source": "Disintegrator",
+      "translation": "分解炮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.fd9a9a8806fc2bfdce54"
+    },
+    {
+      "id": "weapon.asset.09e2a9ac4c5f7afb4463",
+      "source": "Disk Launcher",
+      "translation": "圆盘 发射器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.09e2a9ac4c5f7afb4463"
+    },
+    {
+      "id": "weapon.asset.021f31e381bd90da9d40",
+      "source": "Gatling Gun",
+      "translation": "加特林 枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.021f31e381bd90da9d40"
+    },
+    {
+      "id": "weapon.asset.c752e1a15d3e45bd1bfe",
+      "source": "Ghost Rifle",
+      "translation": "幽灵 步枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c752e1a15d3e45bd1bfe"
+    },
+    {
+      "id": "weapon.asset.8140f9a4ff42ad012bfd",
+      "source": "Golden Desert Eagle",
+      "translation": "黄金 沙漠 鹰",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8140f9a4ff42ad012bfd"
+    },
+    {
+      "id": "weapon.asset.e63a8872a1953d7bfad3",
+      "source": "Incinerator",
+      "translation": "焚化炉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e63a8872a1953d7bfad3"
+    },
+    {
+      "id": "weapon.asset.3e4e154b1844126399c7",
+      "source": "Laser Gun",
+      "translation": "激光 枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3e4e154b1844126399c7"
+    },
+    {
+      "id": "weapon.asset.62468a791b23162aba96",
+      "source": "Laser Rifle",
+      "translation": "激光 步枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.62468a791b23162aba96"
+    },
+    {
+      "id": "weapon.asset.7c73edf5b4571ebd1e1e",
+      "source": "Machine Gun",
+      "translation": "机枪 枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7c73edf5b4571ebd1e1e"
+    },
+    {
+      "id": "weapon.asset.81583f5165e48d22c9f7",
+      "source": "Magi-Tech Blasters",
+      "translation": "魔导科技 爆能枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.81583f5165e48d22c9f7"
+    },
+    {
+      "id": "weapon.asset.e8b291c69d46f11a4af4",
+      "source": "Match Pistols",
+      "translation": "火绳 手枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e8b291c69d46f11a4af4"
+    },
+    {
+      "id": "weapon.asset.4fc0603cb1f6918ebec7",
+      "source": "Maxibee",
+      "translation": "大蜜蜂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4fc0603cb1f6918ebec7"
+    },
+    {
+      "id": "weapon.asset.17c1a2dc3ff3b2ef719f",
+      "source": "Mega Machine Gun",
+      "translation": "巨型 机枪 枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.17c1a2dc3ff3b2ef719f"
+    },
+    {
+      "id": "weapon.asset.5a299d5fa0630992398c",
+      "source": "Minibee",
+      "translation": "小蜜蜂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5a299d5fa0630992398c"
+    },
+    {
+      "id": "weapon.asset.3a32af449a3872758797",
+      "source": "Money Gun",
+      "translation": "金钱 枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3a32af449a3872758797"
+    },
+    {
+      "id": "weapon.asset.776a7a84fbfee86ba830",
+      "source": "Piranha Gun",
+      "translation": "食人鱼 枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.776a7a84fbfee86ba830"
+    },
+    {
+      "id": "weapon.asset.ebc5a02d91df9316194d",
+      "source": "Pulse Pistols",
+      "translation": "脉冲 手枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ebc5a02d91df9316194d"
+    },
+    {
+      "id": "weapon.asset.27f16d28a716c7fbb8ec",
+      "source": "Railgun",
+      "translation": "电磁炮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.27f16d28a716c7fbb8ec"
+    },
+    {
+      "id": "weapon.asset.b2926d0a4949dbb3b1ae",
+      "source": "Revolver",
+      "translation": "左轮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b2926d0a4949dbb3b1ae"
+    },
+    {
+      "id": "weapon.asset.b6c1a5f5d57d7e1863f9",
+      "source": "SMGs",
+      "translation": "冲锋枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b6c1a5f5d57d7e1863f9"
+    },
+    {
+      "id": "weapon.asset.cf31299a367b865fda47",
+      "source": "Shotgun",
+      "translation": "霰弹枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.cf31299a367b865fda47"
+    },
+    {
+      "id": "weapon.asset.65b2870fd6831b3df9ba",
+      "source": "Sniper Rifle",
+      "translation": "狙击 步枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.65b2870fd6831b3df9ba"
+    },
+    {
+      "id": "weapon.asset.f6b43cdaf2c0bd3a74ff",
+      "source": "Staple Gun",
+      "translation": "订书钉 枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.f6b43cdaf2c0bd3a74ff"
+    },
+    {
+      "id": "weapon.asset.973fd61f9d4c488ae7de",
+      "source": "Tazer",
+      "translation": "电击器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.973fd61f9d4c488ae7de"
+    },
+    {
+      "id": "weapon.asset.19eb841bb91dc948cb6d",
+      "source": "Tommy Guns",
+      "translation": "汤姆逊 枪械",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.19eb841bb91dc948cb6d"
+    },
+    {
+      "id": "weapon.asset.75d66d8c9988960dc5c9",
+      "source": "Truth and Justice",
+      "translation": "真理 与 正义",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.75d66d8c9988960dc5c9"
+    },
+    {
+      "id": "weapon.asset.e9bb12055311b1361e0b",
+      "source": "Alchemical Concoction",
+      "translation": "炼金 混合剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e9bb12055311b1361e0b"
+    },
+    {
+      "id": "weapon.asset.2a23f8732ff84e61ff2e",
+      "source": "Arcane Shuriken",
+      "translation": "奥术 手里剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.2a23f8732ff84e61ff2e"
+    },
+    {
+      "id": "weapon.asset.87832c8d27aae7ca9b5f",
+      "source": "BOOM-erang",
+      "translation": "轰炸回旋镖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.87832c8d27aae7ca9b5f"
+    },
+    {
+      "id": "weapon.asset.672426155b0ee6ef7e87",
+      "source": "Brick",
+      "translation": "砖块",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.672426155b0ee6ef7e87"
+    },
+    {
+      "id": "weapon.asset.e8b4a32c41a626e49c2d",
+      "source": "Chakrams",
+      "translation": "轮刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e8b4a32c41a626e49c2d"
+    },
+    {
+      "id": "weapon.asset.5b358f9e5ac59b27f230",
+      "source": "Cross Glaive",
+      "translation": "十字 战刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5b358f9e5ac59b27f230"
+    },
+    {
+      "id": "weapon.asset.3d8e9c7dddf199809d40",
+      "source": "Crystal Chakrams",
+      "translation": "水晶 轮刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3d8e9c7dddf199809d40"
+    },
+    {
+      "id": "weapon.asset.3e0cb8eefdf035d97728",
+      "source": "Deck of Cards",
+      "translation": "卡牌 之 卡牌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3e0cb8eefdf035d97728"
+    },
+    {
+      "id": "weapon.asset.d67c65131fb8c01bb92f",
+      "source": "Destructo Glaive",
+      "translation": "毁灭 战刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.d67c65131fb8c01bb92f"
+    },
+    {
+      "id": "weapon.asset.55e5230394976b9b186a",
+      "source": "Doomerang",
+      "translation": "末日回旋镖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.55e5230394976b9b186a"
+    },
+    {
+      "id": "weapon.asset.460aa3b8f71bac8c1c9e",
+      "source": "Double-Edged Throwing Knives",
+      "translation": "双刃 投掷 飞刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.460aa3b8f71bac8c1c9e"
+    },
+    {
+      "id": "weapon.asset.3c4ea779fe7f23a3d9d7",
+      "source": "Eggs",
+      "translation": "蛋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3c4ea779fe7f23a3d9d7"
+    },
+    {
+      "id": "weapon.asset.840b3579556187b3f00b",
+      "source": "Fidget Glaive",
+      "translation": "坐立不安 战刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.840b3579556187b3f00b"
+    },
+    {
+      "id": "weapon.asset.db71d210a5074a14e96c",
+      "source": "Flamarang",
+      "translation": "火焰回旋镖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.db71d210a5074a14e96c"
+    },
+    {
+      "id": "weapon.asset.77f7aadd5bc8d4c25812",
+      "source": "Fractal Glaive",
+      "translation": "分形 战刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.77f7aadd5bc8d4c25812"
+    },
+    {
+      "id": "weapon.asset.8d4d7ff0fd73ab15e45a",
+      "source": "Frost Throwing Knives",
+      "translation": "冰霜 投掷 飞刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8d4d7ff0fd73ab15e45a"
+    },
+    {
+      "id": "weapon.asset.4a539b2b5b638b5edd84",
+      "source": "Ghost Javelins",
+      "translation": "幽灵 标枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4a539b2b5b638b5edd84"
+    },
+    {
+      "id": "weapon.asset.4d71dd4fd89a564dd899",
+      "source": "Gold Chakrams",
+      "translation": "黄金 轮刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.4d71dd4fd89a564dd899"
+    },
+    {
+      "id": "weapon.asset.e9205d96501f3c024066",
+      "source": "Grandmaster Shuriken",
+      "translation": "大宗师 手里剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.e9205d96501f3c024066"
+    },
+    {
+      "id": "weapon.asset.b42feb4c1216b111684b",
+      "source": "Kunai",
+      "translation": "苦无",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b42feb4c1216b111684b"
+    },
+    {
+      "id": "weapon.asset.ae8e36b9714f72cb5216",
+      "source": "Lightning Javelins",
+      "translation": "闪电 标枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.ae8e36b9714f72cb5216"
+    },
+    {
+      "id": "weapon.asset.7bcf9d858ba6fb0d8aad",
+      "source": "Lightning Shuriken",
+      "translation": "闪电 手里剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.7bcf9d858ba6fb0d8aad"
+    },
+    {
+      "id": "weapon.asset.b58416e3bd9644868d25",
+      "source": "Magical Boomerang",
+      "translation": "魔法 回旋镖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b58416e3bd9644868d25"
+    },
+    {
+      "id": "weapon.asset.8c994f239aa4fb212448",
+      "source": "Magical Trimerang",
+      "translation": "魔法 三环刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.8c994f239aa4fb212448"
+    },
+    {
+      "id": "weapon.asset.3bb15992324b6a8664cc",
+      "source": "Molotov Cocktail",
+      "translation": "莫洛托夫 鸡尾酒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.3bb15992324b6a8664cc"
+    },
+    {
+      "id": "weapon.asset.bf918d88f1a249a089c3",
+      "source": "Ornamental Chakrams",
+      "translation": "装饰 轮刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.bf918d88f1a249a089c3"
+    },
+    {
+      "id": "weapon.asset.9fbca849772141ace8bf",
+      "source": "Paper Bomb Kunai",
+      "translation": "纸制 炸弹 苦无",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9fbca849772141ace8bf"
+    },
+    {
+      "id": "weapon.asset.9cb1ce0dac6dcd1b02a8",
+      "source": "Poison Throwing Knives",
+      "translation": "毒 投掷 飞刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.9cb1ce0dac6dcd1b02a8"
+    },
+    {
+      "id": "weapon.asset.5a7740fbacb48e6a6f48",
+      "source": "Poisonous Concoction",
+      "translation": "有毒 混合剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.5a7740fbacb48e6a6f48"
+    },
+    {
+      "id": "weapon.asset.c750433a43e778035c28",
+      "source": "Sawblade Glaive",
+      "translation": "锯刃 战刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c750433a43e778035c28"
+    },
+    {
+      "id": "weapon.asset.98c7250b93d0c05af835",
+      "source": "Shadow Shuriken",
+      "translation": "暗影 手里剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.98c7250b93d0c05af835"
+    },
+    {
+      "id": "weapon.asset.b5152faaeee004c2a0ed",
+      "source": "Shuriken",
+      "translation": "手里剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b5152faaeee004c2a0ed"
+    },
+    {
+      "id": "weapon.asset.237075c4fad6dd7b8109",
+      "source": "Thorn Chakrams",
+      "translation": "荆棘 轮刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.237075c4fad6dd7b8109"
+    },
+    {
+      "id": "weapon.asset.a46e24c620c8fd0196f1",
+      "source": "Throwing Javelins",
+      "translation": "投掷 标枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.a46e24c620c8fd0196f1"
+    },
+    {
+      "id": "weapon.asset.899b65c1a715d62c1f29",
+      "source": "Throwing Knives",
+      "translation": "投掷 飞刀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.899b65c1a715d62c1f29"
+    },
+    {
+      "id": "weapon.asset.17ccba301a34724191a4",
+      "source": "Tri-Chakrams",
+      "translation": "三轮刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.17ccba301a34724191a4"
+    },
+    {
+      "id": "weapon.asset.c65950437a3a4489c4fb",
+      "source": "Wind Glaive",
+      "translation": "风 战刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.c65950437a3a4489c4fb"
+    },
+    {
+      "id": "weapon.asset.b3eb1856791f6fd191a5",
+      "source": "Wooden Boomerang",
+      "translation": "木制 回旋镖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 weapons-texts.json:asset.b3eb1856791f6fd191a5"
+    }
+  ]
+}

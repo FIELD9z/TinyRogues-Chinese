@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "个人术语示例：复制到 overrides 后生效",
+  "priority": 100,
+  "entries": [
+    {
+      "id": "personal.attack-speed",
+      "source": "Attack Speed",
+      "translation": "攻速",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    }
+  ]
+}

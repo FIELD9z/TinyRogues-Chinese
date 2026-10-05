@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "对话选项与编码异常原文",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "dialogue.Genie_Wealth",
+      "source": "Wealth",
+      "translation": "财富",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Genie_Wealth"
+    },
+    {
+      "id": "dialogue.Genie_Power",
+      "source": "Might",
+      "translation": "力量",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Genie_Power"
+    },
+    {
+      "id": "dialogue.Nomad_Merchant_1",
+      "source": "...",
+      "translation": "...",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Nomad_Merchant_1"
+    },
+    {
+      "id": "dialogue.Nomad_Merchant_Thanks_2",
+      "source": "Hm.",
+      "translation": "嗯。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Nomad_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Duergar_Blacksmith_1",
+      "source": "...",
+      "translation": "...",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Duergar_Blacksmith_1"
+    },
+    {
+      "id": "dialogue.Soul_Forge_Blacksmith_1",
+      "source": "...",
+      "translation": "...",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Forge_Blacksmith_1"
+    },
+    {
+      "id": "dialogue.Option_Talk",
+      "source": "Talk",
+      "translation": "交谈",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Option_Talk"
+    },
+    {
+      "id": "dialogue.Option1",
+      "source": "Yes",
+      "translation": "是",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Option1"
+    },
+    {
+      "id": "dialogue.Option2",
+      "source": "No",
+      "translation": "否",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Option2"
+    },
+    {
+      "id": "dialogue.Exclamation_Mark",
+      "source": "!",
+      "translation": "！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Exclamation_Mark"
+    },
+    {
+      "id": "dialogue.NPC_Tax_Collector_Choice_1",
+      "source": "Buy",
+      "translation": "购买",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Tax_Collector_Choice_1"
+    },
+    {
+      "id": "dialogue.NPC_Tax_Collector_Choice_2",
+      "source": "Leave",
+      "translation": "离开",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Tax_Collector_Choice_2"
+    },
+    {
+      "id": "dialogue.Enchantress_Talk",
+      "source": "Talk",
+      "translation": "交谈",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Enchantress_Talk"
+    },
+    {
+      "id": "dialogue.Old_Hag_Answer_Red",
+      "source": "Red",
+      "translation": "红色",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Hag_Answer_Red"
+    },
+    {
+      "id": "dialogue.Old_Hag_Answer_Blue",
+      "source": "Blue",
+      "translation": "蓝色",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Hag_Answer_Blue"
+    },
+    {
+      "id": "dialogue.Old_Hag_Answer_Green",
+      "source": "Green",
+      "translation": "绿色",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Hag_Answer_Green"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_Thinking",
+      "source": "...",
+      "translation": "...",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_Thinking"
+    },
+    {
+      "id": "dialogue.Frog_Princess_Answer_1",
+      "source": "*shrug*",
+      "translation": "*耸肩*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Frog_Princess_Answer_1"
+    },
+    {
+      "id": "dialogue.Option_Play",
+      "source": "Play",
+      "translation": "游玩",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Option_Play"
+    },
+    {
+      "id": "dialogue.Option_Leave",
+      "source": "Leave",
+      "translation": "离开",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Option_Leave"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_Option_1",
+      "source": "Help",
+      "translation": "帮忙",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_Option_1"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_Option_2",
+      "source": "Deny",
+      "translation": "拒绝",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_Option_2"
+    },
+    {
+      "id": "dialogue.Teleport_Symbol_Star",
+      "source": "Star",
+      "translation": "星星",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Teleport_Symbol_Star"
+    },
+    {
+      "id": "dialogue.Teleport_Symbol_Sun",
+      "source": "Sun",
+      "translation": "太阳",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Teleport_Symbol_Sun"
+    },
+    {
+      "id": "dialogue.Teleport_Symbol_Moon",
+      "source": "Moon",
+      "translation": "月亮",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Teleport_Symbol_Moon"
+    },
+    {
+      "id": "dialogue.Teleport_Symbol_Cancel",
+      "source": "Cancel",
+      "translation": "取消",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Teleport_Symbol_Cancel"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_Choice_5",
+      "source": "Leave",
+      "translation": "离开",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_Choice_5"
+    },
+    {
+      "id": "dialogue.NPC_Saint_Nicholas_On_Decline",
+      "source": "That’s quite alright.\nSometimes, the greatest gift\nis the one we don’t take.",
+      "translation": "没关系。\n有时，最珍贵的礼物\n正是我们没有收下的那一份。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Saint_Nicholas_On_Decline"
+    },
+    {
+      "id": "dialogue.NPC_Christkind_Prompt_2",
+      "source": "These <color=#5FCDE4>Ethereal Dice</color> are not about\nwinning or losing.\nThey are a reflection of faith—\nfaith in yourself, and in the path before you.\nDo you wish to carry them? <color=grey>(x3)</color>",
+      "translation": "这些<color=#5FCDE4>虚灵骰子</color>的意义\n并不在于输赢。\n它们映照的是信念——\n对自己的信念，对前路的信念。\n你愿意带上它们吗？<color=grey>(x3)</color>",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Christkind_Prompt_2"
+    },
+    {
+      "id": "dialogue.NPC_Christkind_On_Decline",
+      "source": "That’s alright.\nSometimes, the greatest answers\ncome not from tools, but from within.\nGo in peace.",
+      "translation": "没关系。\n有时，最重要的答案\n来自内心，而非借助外物。\n愿你平安。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Christkind_On_Decline"
+    }
+  ]
+}

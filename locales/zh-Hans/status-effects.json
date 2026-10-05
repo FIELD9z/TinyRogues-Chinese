@@ -1,0 +1,2940 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "独立状态效果翻译",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "status.asset.7f4b3ca014d3eaa78ecb",
+      "source": "Gargoyle Enrage",
+      "translation": "石像鬼暴怒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 54427"
+    },
+    {
+      "id": "status.asset.02d0c747bf36a835eaf9",
+      "source": "(x0%) increased movement speed.",
+      "translation": "移动速度提高 (x0%)。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 54427",
+      "protectedTokens": [
+        "(x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.e93bfde4f1b8716fb250",
+      "source": "that grants (x0%) increased movement speed.",
+      "translation": "提供 (x0%) 移动速度加成。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 54427",
+      "protectedTokens": [
+        "(x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.514247d7b0c053adff9f",
+      "source": "(x0%) Movement Speed",
+      "translation": "(x0%) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56010",
+      "protectedTokens": [
+        "(x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.859b57ddfadce9603bec",
+      "source": "(*)(x0%) Movement Speed",
+      "translation": "(*)(x0%) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56010",
+      "protectedTokens": [
+        "(x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.cb37b7d73b208ac77174",
+      "source": "Disintegration",
+      "translation": "瓦解",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56011"
+    },
+    {
+      "id": "status.asset.a77824e78dc1f5f1732d",
+      "source": "Echo",
+      "translation": "回响",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56013"
+    },
+    {
+      "id": "status.asset.69d3fb00fbfe891e4dc6",
+      "source": "Frostburn",
+      "translation": "霜焰",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56014"
+    },
+    {
+      "id": "status.asset.54e044e2dd8c2e8907fc",
+      "source": "Glimmer",
+      "translation": "微光",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56015"
+    },
+    {
+      "id": "status.asset.6a29ca305df1786f418e",
+      "source": "Glitter",
+      "translation": "闪耀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56016"
+    },
+    {
+      "id": "status.asset.60bed3afdcb38401ec0a",
+      "source": "(+x0%) Damage Taken from Lucky Hits<sprite name=\"Luck\">",
+      "translation": "(+x0%) 承受的幸运一击伤害<sprite name=\"Luck\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56016",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.a594aee1b706c31181d4",
+      "source": "•(+x0%) Damage Taken from Lucky Hits<sprite name=\"Luck\">",
+      "translation": "•(+x0%) 承受的幸运一击伤害<sprite name=\"Luck\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56016",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.12dcdb88ddf2900f97a3",
+      "source": "Gloom",
+      "translation": "阴郁",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56018"
+    },
+    {
+      "id": "status.asset.17f66e0de8b72d037295",
+      "source": "(+x0%) Damage Taken from Cursed Hits<sprite name=\"Curse\">",
+      "translation": "(+x0%) 承受的诅咒一击伤害<sprite name=\"Curse\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56018",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.975ac94bed5ae799e805",
+      "source": "•(+x0%) Damage Taken from Cursed Hits<sprite name=\"Curse\">",
+      "translation": "•(+x0%) 承受的诅咒一击伤害<sprite name=\"Curse\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56018",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.110bef9534a7ed51d928",
+      "source": "Necrosis",
+      "translation": "坏死",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56020"
+    },
+    {
+      "id": "status.asset.761e5a8ff292f2698faa",
+      "source": "Nettles",
+      "translation": "荨麻",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56021"
+    },
+    {
+      "id": "status.asset.a809ae9b4258d2f8376b",
+      "source": "Shadowburn",
+      "translation": "暗焰",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56024"
+    },
+    {
+      "id": "status.asset.a852bf47294cfd2726ca",
+      "source": "(xx0) Damage Taken",
+      "translation": "(xx0) 承受的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56025",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.ece2ad2818f2b221e9df",
+      "source": "•(xx0) Damage Taken",
+      "translation": "•(xx0) 承受的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56025",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.4fe248e03afb4f259d96",
+      "source": "Corruption",
+      "translation": "腐化",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56026"
+    },
+    {
+      "id": "status.asset.3a031abd53f34692f596",
+      "source": "(xx0) Dark Damage Taken",
+      "translation": "(xx0) 承受的黑暗伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56026",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.5bf8fb6ab593b54d1883",
+      "source": "•(xx0) Dark Damage Taken",
+      "translation": "•(xx0) 承受的黑暗伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56026",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.d9ee397d38f67f954fda",
+      "source": "Diffusion",
+      "translation": "扩散",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56027"
+    },
+    {
+      "id": "status.asset.ad57544196510e50598b",
+      "source": "(xx0) Energy Damage Taken",
+      "translation": "(xx0) 承受的能量伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56027",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.57608b247d0673a4386b",
+      "source": "•(xx0) Energy Damage Taken",
+      "translation": "•(xx0) 承受的能量伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56027",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.7abfe682d6091a7d901f",
+      "source": "Frostbite",
+      "translation": "冻伤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56028"
+    },
+    {
+      "id": "status.asset.97872a99c515a6a11188",
+      "source": "(xx0) Cold Damage Taken",
+      "translation": "(xx0) 承受的冰霜伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56028",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.83105a02e9e49c7e52f7",
+      "source": "•(xx0) Cold Damage Taken",
+      "translation": "•(xx0) 承受的冰霜伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56028",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.56ce13431eb8d096ff1e",
+      "source": "Judgement",
+      "translation": "裁决",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56029"
+    },
+    {
+      "id": "status.asset.0feab9ceea6daa76a7c3",
+      "source": "(xx0) Radiant Damage Taken",
+      "translation": "(xx0) 承受的光辉伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56029",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.7389ed621577f0829e1e",
+      "source": "•(xx0) Radiant Damage Taken",
+      "translation": "•(xx0) 承受的光辉伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56029",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.a5793ca4dd971319599a",
+      "source": "Roots",
+      "translation": "根缠",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56030"
+    },
+    {
+      "id": "status.asset.b5deae39ba5070f8b4cc",
+      "source": "(xx0) Nature Damage Taken",
+      "translation": "(xx0) 承受的自然伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56030",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.970348a251727faddc50",
+      "source": "•(xx0) Nature Damage Taken",
+      "translation": "•(xx0) 承受的自然伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56030",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.45b3f493b84c8cd61802",
+      "source": "Rupture",
+      "translation": "撕裂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56031"
+    },
+    {
+      "id": "status.asset.f3bf93bc2c444a827aea",
+      "source": "(xx0) Physical Damage Taken",
+      "translation": "(xx0) 承受的物理伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56031",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.bba667f706b89a906ca2",
+      "source": "•(xx0) Physical Damage Taken",
+      "translation": "•(xx0) 承受的物理伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56031",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.aacb1d790f9e8b325ab4",
+      "source": "Scorch",
+      "translation": "灼烧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56032"
+    },
+    {
+      "id": "status.asset.c26dcbb4cd61bbe5a47b",
+      "source": "(xx0) Fire Damage Taken",
+      "translation": "(xx0) 承受的火焰伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56032",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.a3b5caf0d531f83059db",
+      "source": "•(xx0) Fire Damage Taken",
+      "translation": "•(xx0) 承受的火焰伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56032",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.e6991f5b9b0bff87bd2f",
+      "source": "Toxic",
+      "translation": "剧毒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56033"
+    },
+    {
+      "id": "status.asset.0a7d9f46048b6989f021",
+      "source": "(xx0) Poison Damage Taken",
+      "translation": "(xx0) 承受的毒素伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56033",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.b3aff673796d8f7a625f",
+      "source": "•(xx0) Poison Damage Taken",
+      "translation": "•(xx0) 承受的毒素伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56033",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.617f845f10eeab01e8f3",
+      "source": "Zap",
+      "translation": "电击",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56034"
+    },
+    {
+      "id": "status.asset.af5c3ff123eb04715706",
+      "source": "(xx0) Lightning Damage Taken",
+      "translation": "(xx0) 承受的雷电伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56034",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.fdab05c2c251d8b25ded",
+      "source": "•(xx0) Lightning Damage Taken",
+      "translation": "•(xx0) 承受的雷电伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56034",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.48ac92c7a78d41d17694",
+      "source": "Dexterity Growth",
+      "translation": "敏捷成长",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56036"
+    },
+    {
+      "id": "status.asset.00d88ecbc4a4c43b0e03",
+      "source": "Intelligence Growth",
+      "translation": "智力成长",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56038"
+    },
+    {
+      "id": "status.asset.1ef6f2a4a8a3be28a3ce",
+      "source": "Strength Growth",
+      "translation": "力量成长",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56040"
+    },
+    {
+      "id": "status.asset.6ff2868070e561c5e92a",
+      "source": "Dark Aura",
+      "translation": "黑暗光环",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56044"
+    },
+    {
+      "id": "status.asset.b6687399010563240193",
+      "source": "Disintegration Aura",
+      "translation": "瓦解光环",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56045"
+    },
+    {
+      "id": "status.asset.310837a04b6c606eae10",
+      "source": "Holy Aura",
+      "translation": "神圣光环",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56046"
+    },
+    {
+      "id": "status.asset.4bdb7ac7d17782bfa1b1",
+      "source": "Necrosis Aura",
+      "translation": "坏死光环",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56047"
+    },
+    {
+      "id": "status.asset.ccae98c9435c29088d85",
+      "source": "(*)(+x0%) Damage",
+      "translation": "(*)(+x0%) 伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56050",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.86455d8e4533a2aaa6f6",
+      "source": "<color=grey>Tipsiness Duration</color>",
+      "translation": "<color=grey>醉意持续时间</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56050"
+    },
+    {
+      "id": "status.asset.05e12aba659f39cbcc6d",
+      "source": "(+x0%) Companion<sprite name=\"Companion\"> Damage",
+      "translation": "(+x0%) 同伴<sprite name=\"Companion\">伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56051",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.f0e08fab873c5108ea7b",
+      "source": "(*)(+x0%) Companion<sprite name=\"Companion\"> Damage",
+      "translation": "(*)(+x0%) 同伴<sprite name=\"Companion\">伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56051",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.7f3e551a15a76ebad063",
+      "source": "(+x0%) Damage Over Time",
+      "translation": "(+x0%) 持续伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56058",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.85285771181d5cdf70b0",
+      "source": "Attack Surge",
+      "translation": "攻击激涌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56059"
+    },
+    {
+      "id": "status.asset.ffb1246bc06f770c0340",
+      "source": "•(+x0%) Attack Speed",
+      "translation": "•(+x0%) 攻击速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56059",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.bb7b37bcfd7446a1a4ff",
+      "source": "(*)(xx0) Attack Speed\n(*)(xx1) Movement Speed",
+      "translation": "(*)(xx0) 攻击速度\n(*)(xx1) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56060",
+      "protectedTokens": [
+        "(xx0)",
+        "(xx1)"
+      ]
+    },
+    {
+      "id": "status.asset.412970ed9a0b540aefce",
+      "source": "Burning Passion",
+      "translation": "燃烧热情",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56061"
+    },
+    {
+      "id": "status.asset.52a11fbe25aa3d3edf73",
+      "source": "(x0) [[to]] (#x1) Fire Damage to Attacks",
+      "translation": "攻击附加 (x0) [[至]] (#x1) 火焰伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56061",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.7fbefe68b2d76d7efb01",
+      "source": "(*)(x0) [[to]] (#x1) Fire Damage to Attacks",
+      "translation": "(*)攻击附加 (x0) [[至]] (#x1) 火焰伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56061",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.28ad6fe02930a249dd0e",
+      "source": "Combat Bravery",
+      "translation": "战斗勇气",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56063"
+    },
+    {
+      "id": "status.asset.b3f705295761d77d0e30",
+      "source": "(xx0) Melee Damage",
+      "translation": "(xx0) 近战伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56063",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.9c9e081bf93e35fe47d2",
+      "source": "(*)(xx0) Melee Damage",
+      "translation": "(*)(xx0) 近战伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56063",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.0b06867df44988232cec",
+      "source": "Courage",
+      "translation": "勇气",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56064"
+    },
+    {
+      "id": "status.asset.b814fd17dc4e13e10c77",
+      "source": "<SubArrow>(xx2) Melee Attack Speed,\n<SubArrow>(xx0) Ranged Attack Speed,\n<SubArrow>(xx1) Magic Attack Speed,",
+      "translation": "<SubArrow>(xx2) 近战攻击速度，\n<SubArrow>(xx0) 远程攻击速度，\n<SubArrow>(xx1) 魔法攻击速度，",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56064",
+      "protectedTokens": [
+        "(xx0)",
+        "(xx1)",
+        "(xx2)"
+      ]
+    },
+    {
+      "id": "status.asset.c03d162cd6fdb86183e9",
+      "source": "•(xx2) Attack Speed with Melee\n•(xx0) Attack Speed with Ranged\n•(xx1) Attack Speed with Magic",
+      "translation": "•(xx2) 近战攻击速度\n•(xx0) 远程攻击速度\n•(xx1) 魔法攻击速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56064",
+      "protectedTokens": [
+        "(xx0)",
+        "(xx1)",
+        "(xx2)"
+      ]
+    },
+    {
+      "id": "status.asset.2f48014c6681f8bbaaf9",
+      "source": "Critical Surge",
+      "translation": "暴击激涌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56065"
+    },
+    {
+      "id": "status.asset.8bcec0ccbdbe998bec11",
+      "source": "•(+x0%) Critical Hit Chance<Crit>",
+      "translation": "•(+x0%) 暴击率<Crit>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56065",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.7398e296b03ad897d107",
+      "source": "Crystal Surge",
+      "translation": "水晶激涌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56066"
+    },
+    {
+      "id": "status.asset.24d4f2799a73f45d9490",
+      "source": "•(+x0%) Damage",
+      "translation": "•(+x0%) 伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56066",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.b59c74862e215521a67c",
+      "source": "Elite Archer",
+      "translation": "精英射手",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56067"
+    },
+    {
+      "id": "status.asset.bbfd9550092286e7beea",
+      "source": "(+x0%) Bow and Crossbow Damage",
+      "translation": "(+x0%) 弓与弩伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56067",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.f6ae7d7dffeda90a4770",
+      "source": "(*)(+x0%) Bow and Crossbow Damage",
+      "translation": "(*)(+x0%) 弓与弩伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56067",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.49583827f3007d4c5289",
+      "source": "Fury",
+      "translation": "狂怒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56068"
+    },
+    {
+      "id": "status.asset.ee05905d4fcb149beea7",
+      "source": "(+x0%) Attack Damage",
+      "translation": "(+x0%) 攻击伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56068",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.c1ee733f044a4b710eed",
+      "source": "(*)(+x0%) Attack Damage",
+      "translation": "(*)(+x0%) 攻击伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56068",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.a4ca938be8064e9ba8fa",
+      "source": "Haste",
+      "translation": "急速",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56069"
+    },
+    {
+      "id": "status.asset.f252dac54904ade71749",
+      "source": "(*)(+x0%) Movement Speed\n(*)(+x1%) Attack Speed",
+      "translation": "(*)(+x0%) 移动速度\n(*)(+x1%) 攻击速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56069",
+      "protectedTokens": [
+        "(+x0%)",
+        "(+x1%)"
+      ]
+    },
+    {
+      "id": "status.asset.b0bc80ad87b15e661897",
+      "source": "Invigorate",
+      "translation": "振奋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56070"
+    },
+    {
+      "id": "status.asset.759154e50e8d29e0cbee",
+      "source": "•(+x0%) Movement Speed",
+      "translation": "•(+x0%) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56070",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.d1ec178d2ab803b6e3ee",
+      "source": "Ki-Charge",
+      "translation": "聚气",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56071"
+    },
+    {
+      "id": "status.asset.0b3047e47d4e158183f7",
+      "source": "(*)(xx0) Attack Speed\n(*)(xx0) Movement Speed",
+      "translation": "(*)(xx0) 攻击速度\n(*)(xx0) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56071",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.36d598a99cae153924b0",
+      "source": "Luck Boost",
+      "translation": "幸运提升",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56072"
+    },
+    {
+      "id": "status.asset.8e50d59756412f3f64a6",
+      "source": "•(+x0%) Lucky Hit Chance<Luck>",
+      "translation": "•(+x0%) 幸运一击几率<Luck>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56072",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.29aaf7a0c49b71199b0b",
+      "source": "Mana Flux",
+      "translation": "法力涌流",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56073"
+    },
+    {
+      "id": "status.asset.52c3671862acb33c648d",
+      "source": "Mania",
+      "translation": "躁狂",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原版资源标明 UNUSED，禁用条目不默认启用。"
+    },
+    {
+      "id": "status.asset.669676f26704a56a48c3",
+      "source": "(xx0) Damage",
+      "translation": "(xx0) 伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56074",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.882092b7aca8275b0d31",
+      "source": "(*)(xx0) Damage",
+      "translation": "(*)(xx0) 伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56074",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.4a8bf7ffd981e06c101d",
+      "source": "Movement Surge",
+      "translation": "移动激涌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56075"
+    },
+    {
+      "id": "status.asset.55fa38e9b991ea058ad3",
+      "source": "Piercing Shot",
+      "translation": "穿透射击",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56076"
+    },
+    {
+      "id": "status.asset.157a59ed6e3586495b05",
+      "source": "Power Flow",
+      "translation": "力量流转",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56077"
+    },
+    {
+      "id": "status.asset.d15847db28c09f6b3ed4",
+      "source": "•(x0) Power",
+      "translation": "•(x0) 威力",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "按独立项目已确认的全局术语统一；保留全部原生变量。",
+      "protectedTokens": [
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.5ba6258b08f8b11210da",
+      "source": "Skill Surge",
+      "translation": "技能激涌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56079"
+    },
+    {
+      "id": "status.asset.fb0258db4b24b5ec3571",
+      "source": "(xx0) Magic Damage",
+      "translation": "(xx0) 魔法伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56079",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.c9b5ed7398ed323dd379",
+      "source": "•(xx0) Magic Damage",
+      "translation": "•(xx0) 魔法伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56079",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.96df6c480d618cc5cf09",
+      "source": "Speed Boost",
+      "translation": "速度提升",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56080"
+    },
+    {
+      "id": "status.asset.bbbffce6b8679553d347",
+      "source": "Stealth",
+      "translation": "潜行",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56081"
+    },
+    {
+      "id": "status.asset.1dc9d8407f46ce441279",
+      "source": "(+x0%) Critical Hit Chance<sprite name=\"Critical_Hit\">",
+      "translation": "(+x0%) 暴击率<sprite name=\"Critical_Hit\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56081",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.645a96da398bcae8dcb0",
+      "source": "(*)(+x0%) Critical Hit Chance<sprite name=\"Critical_Hit\">",
+      "translation": "(*)(+x0%) 暴击率<sprite name=\"Critical_Hit\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56081",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.3da44e77fe0851ae2f2d",
+      "source": "Swiftness",
+      "translation": "迅捷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56082"
+    },
+    {
+      "id": "status.asset.b4fea9c654e0ec19158d",
+      "source": "Tailwind",
+      "translation": "顺风",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56083"
+    },
+    {
+      "id": "status.asset.fbf4dc77daa921feb22a",
+      "source": "(*)(+x1%) Attack Speed\n(*)(+x0%) Movement Speed\n(*)(+x2%) Orbital Speed\n(*)(+x3%) Tick Speed",
+      "translation": "(*)(+x1%) 攻击速度\n(*)(+x0%) 移动速度\n(*)(+x2%) 环绕速度\n(*)(+x3%) 结算频率",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "按独立项目已确认的全局术语统一；保留全部原生变量。",
+      "protectedTokens": [
+        "(+x0%)",
+        "(+x1%)",
+        "(+x2%)",
+        "(+x3%)"
+      ]
+    },
+    {
+      "id": "status.asset.cb953c0f34ebea5e3629",
+      "source": "Tiny Dancer",
+      "translation": "小小舞者",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Tiny Dancer 可能歌曲典故，暂译后待考据。"
+    },
+    {
+      "id": "status.asset.fd86cef4ccd006b18432",
+      "source": "Fanaticism",
+      "translation": "狂热",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56085"
+    },
+    {
+      "id": "status.asset.2f60b1b9c1a2afeeca46",
+      "source": "Fish Bones Power",
+      "translation": "鱼骨之力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56086"
+    },
+    {
+      "id": "status.asset.df4ede829cec22cbe59b",
+      "source": "(+x0%) damage against Bosses",
+      "translation": "(+x0%) 对首领造成的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56086",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.95562a440c36456c568d",
+      "source": "(*)(+x0%) damage against Bosses",
+      "translation": "(*)(+x0%) 对首领造成的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56086",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.dbe0339de6354c6f7b15",
+      "source": "Frost Flounder Power",
+      "translation": "冰霜比目鱼之力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56087"
+    },
+    {
+      "id": "status.asset.07ac0d4d0633f290d5ed",
+      "source": "(+x0%) Cold damage",
+      "translation": "(+x0%) 冰霜伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56087",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.6663ae892f36d4c7b2bb",
+      "source": "(*)(+x0%) Cold damage",
+      "translation": "(*)(+x0%) 冰霜伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56087",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.15bec8572a26a5805eab",
+      "source": "Oceans Bounty",
+      "translation": "海洋馈赠",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56088"
+    },
+    {
+      "id": "status.asset.9f3653b0b296d27bb5e2",
+      "source": "•(+x0%) damage\n•(+x1%) Attack Speed \n•(+x2%) Movement Speed",
+      "translation": "•(+x0%) 伤害\n•(+x1%) 攻击速度 \n•(+x2%) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56088",
+      "protectedTokens": [
+        "(+x0%)",
+        "(+x1%)",
+        "(+x2%)"
+      ]
+    },
+    {
+      "id": "status.asset.c2ba6e46c10dfc8bdd9a",
+      "source": "<rainbow>Rainbow Trout Power</rainbow>",
+      "translation": "<rainbow>虹鳟之力</rainbow>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56090"
+    },
+    {
+      "id": "status.asset.7c715046aadaeb44f25b",
+      "source": "(+x0%) Elemental damage",
+      "translation": "(+x0%) 元素伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56090",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.961cf54b9097dbdc2eb0",
+      "source": "(*)(+x0%) Elemental damage",
+      "translation": "(*)(+x0%) 元素伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56090",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.9ce2515e68f908ece4fc",
+      "source": "Shellfish Surge",
+      "translation": "贝类激涌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56091"
+    },
+    {
+      "id": "status.asset.a2359a51082ef7a42032",
+      "source": "•(+x0%) Critical Hit Chance<Crit>\n•(+x1%) Stamina Recovery Speed<Stamina>\n•(+x2%) Mana Regeneration<Mana>",
+      "translation": "•(+x0%) 暴击率<Crit>\n•(+x1%) 耐力恢复速度<Stamina>\n•(+x2%) 法力再生<Mana>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56091",
+      "protectedTokens": [
+        "(+x0%)",
+        "(+x1%)",
+        "(+x2%)"
+      ]
+    },
+    {
+      "id": "status.asset.f89b5b6920277fa13d07",
+      "source": "Swordfish Power",
+      "translation": "剑鱼之力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56093"
+    },
+    {
+      "id": "status.asset.b5f0368b1b35eae66a87",
+      "source": "(+x0%) Physical damage",
+      "translation": "(+x0%) 物理伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56093",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.39e6fb5a8f6119ca603a",
+      "source": "(*)(+x0%) Physical damage",
+      "translation": "(*)(+x0%) 物理伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56093",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.13a6de0ad6b720f2e592",
+      "source": "(x0) Magic Find<sprite name=\"Magic_Find\">",
+      "translation": "(x0) 魔法发现率<sprite name=\"Magic_Find\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Magic Find 含义及译名需要全局术语统一。",
+      "protectedTokens": [
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.d116a21b68cf631c10e4",
+      "source": "(+x0%) Flask Drink Speed",
+      "translation": "(+x0%) 药瓶饮用速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56103",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.f66ccb7bd63aeeb86bf3",
+      "source": "(*)(+x0%) Flask Drink Speed",
+      "translation": "(*)(+x0%) 药瓶饮用速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56103",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.86361f5fb192f2a42368",
+      "source": "Does nothing! Congratulations!",
+      "translation": "什么效果都没有！恭喜！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56105"
+    },
+    {
+      "id": "status.asset.93023b88b3bf8fa3af73",
+      "source": "(*)Does nothing! Congratulations!",
+      "translation": "(*)什么效果都没有！恭喜！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56105"
+    },
+    {
+      "id": "status.asset.97c29ca234f95feeaa55",
+      "source": "Regeneration Potion",
+      "translation": "再生药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56106"
+    },
+    {
+      "id": "status.asset.cab0b7c65a0df5a63e8a",
+      "source": "(*)Recover 1 Heart<sprite name=\"Heart\"> on Room Completion.",
+      "translation": "(*)清空房间时恢复 1 颗红心<sprite name=\"Heart\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56106"
+    },
+    {
+      "id": "status.asset.99bad920d39363efcedd",
+      "source": "(x0) seconds of Invincibility After Taking Damage",
+      "translation": "受伤后获得 (x0) 秒无敌时间",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56107",
+      "protectedTokens": [
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.f4f6e16f359363404072",
+      "source": "Treasure Potion",
+      "translation": "寻宝药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56108"
+    },
+    {
+      "id": "status.asset.c05810a51338bca3f335",
+      "source": "Stamina Surge",
+      "translation": "耐力激涌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56110"
+    },
+    {
+      "id": "status.asset.28571a12925bc779437f",
+      "source": "•(x0) Stamina<Stamina>",
+      "translation": "•(x0) 耐力<Stamina>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56110",
+      "protectedTokens": [
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.0d1af2e8429a9b2e7b9b",
+      "source": "Summoned Storm",
+      "translation": "召唤风暴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56111"
+    },
+    {
+      "id": "status.asset.3558bd0531d755d69b20",
+      "source": "Armor Break",
+      "translation": "破甲",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56112"
+    },
+    {
+      "id": "status.asset.1b1a6992a6dbc6b9a9af",
+      "source": "(xx0) Damage Taken\nat Far Range<sprite name=\"Far\">",
+      "translation": "(xx0) 在远距离时\n承受的伤害<sprite name=\"Far\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56113",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.8311ec11858e55253a1a",
+      "source": "(*)<i>(xx0) Damage Taken\nat Far Range<sprite name=\"Far\"></i>",
+      "translation": "(*)<i>(xx0) 在远距离时\n承受的伤害<sprite name=\"Far\"></i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56113",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.82c4538ec3110f5b7ba1",
+      "source": "Confusion",
+      "translation": "混乱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56115"
+    },
+    {
+      "id": "status.asset.74d229ca8f4deb735bc7",
+      "source": "(xx0) Ranged Damage Taken",
+      "translation": "(xx0) 承受的远程伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56115",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.db012f90588e9023e09c",
+      "source": "(*)(xx0) Ranged Damage Taken",
+      "translation": "(*)(xx0) 承受的远程伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56115",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.0e01f1f4cf3845a4ac06",
+      "source": "Despair",
+      "translation": "绝望",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56116"
+    },
+    {
+      "id": "status.asset.f7a7d60c6dd660917986",
+      "source": "(xx0) Magic Damage Taken",
+      "translation": "(xx0) 承受的魔法伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56116",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.d3ed826d6efdca4a9146",
+      "source": "(*)(xx0) Magic Damage Taken",
+      "translation": "(*)(xx0) 承受的魔法伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56116",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.55d722c04032dc8173d7",
+      "source": "Fatigue",
+      "translation": "疲劳",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56117"
+    },
+    {
+      "id": "status.asset.f6a9f54f99672d22fd49",
+      "source": "•(xx0) Movement Speed",
+      "translation": "•(xx0) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56117",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.ee5c728095e49ba367a9",
+      "source": "Fear",
+      "translation": "恐惧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56118"
+    },
+    {
+      "id": "status.asset.36bc86d902253a024a5f",
+      "source": "(+x0%) to Damage Taken Roll",
+      "translation": "(+x0%) 受到伤害的随机取值",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "随机伤害取值机制需核对数值函数。",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.85b3f70e3b74d656536e",
+      "source": "(*)(+x0%) to Damage Taken Roll",
+      "translation": "(*)(+x0%) 受到伤害的随机取值",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "随机伤害取值机制需核对数值函数。",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.de176716ce34cdab0f7f",
+      "source": "Fragility",
+      "translation": "脆弱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56119"
+    },
+    {
+      "id": "status.asset.760992533b438cd3e9eb",
+      "source": "(xx0) Damage Over Time Taken",
+      "translation": "(xx0) 承受的持续伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56119",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.00caa3f6a0b30760276a",
+      "source": "(*)(xx0) Damage Over Time Taken",
+      "translation": "(*)(xx0) 承受的持续伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56119",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.6886626b03e3ed8537d0",
+      "source": "Impale",
+      "translation": "贯穿",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56120"
+    },
+    {
+      "id": "status.asset.c965a6168bbe9b643c68",
+      "source": "•(x0) [[to]] (#x1)  to Physical Damage Taken",
+      "translation": "•承受的物理伤害增加 (x0) [[至]] (#x1)",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56120",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.a91d068cbb02e8a461e0",
+      "source": "(*)(xx0) Damage Taken",
+      "translation": "(*)(xx0) 承受的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56121",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.7388c6ab8a6a7ea349ef",
+      "source": "Instability",
+      "translation": "不稳定",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56122"
+    },
+    {
+      "id": "status.asset.f9610eaa34b86a3aee22",
+      "source": "(xx0) Top End Damage Taken",
+      "translation": "(xx0) 承受的伤害上限",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Top End 伤害取值上限，待实际伤害机制复核。",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.3c22da0b1aece64dacdc",
+      "source": "(*)(xx0) Top End Damage Taken",
+      "translation": "(*)(xx0) 承受的伤害上限",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Top End 伤害取值上限，待实际伤害机制复核。",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.5abd6c2f701e4ba2bbf8",
+      "source": "Intimidate",
+      "translation": "威吓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56123"
+    },
+    {
+      "id": "status.asset.d2891d257d7e972925ed",
+      "source": "(xx0) Melee Damage Taken",
+      "translation": "(xx0) 承受的近战伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56123",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.1ceea5a92d7a3c513d56",
+      "source": "(*)(xx0) Melee Damage Taken",
+      "translation": "(*)(xx0) 承受的近战伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56123",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.58dff49ad6f1c644bdfc",
+      "source": "Puncture",
+      "translation": "穿刺",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56124"
+    },
+    {
+      "id": "status.asset.96a094a2ab21ced2eb92",
+      "source": "(x0) to (#x1)  to Physical Damage Taken",
+      "translation": "承受的物理伤害增加 (x0) 至 (#x1)",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56124",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.986b2c5cc6c1d6572186",
+      "source": "(*)(x0) to (#x1)  to Physical Damage Taken",
+      "translation": "(*)承受的物理伤害增加 (x0) 至 (#x1)",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56124",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.82432298991d6ed60e0b",
+      "source": "Sap",
+      "translation": "衰弱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56125"
+    },
+    {
+      "id": "status.asset.2eb6c278b6f840fe709d",
+      "source": "(xx0) Movement Speed",
+      "translation": "(xx0) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56125",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.3884ea70fde99207b973",
+      "source": "(*)(xx0) Movement Speed",
+      "translation": "(*)(xx0) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56125",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.147927cddbbd88c2f2cb",
+      "source": "Sticky Goo",
+      "translation": "黏稠胶液",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56126"
+    },
+    {
+      "id": "status.asset.8171fa7e43e88ca48909",
+      "source": "Subdued",
+      "translation": "压制",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56127"
+    },
+    {
+      "id": "status.asset.52db212d50a99a19335e",
+      "source": "(-xx0) Damage Dealt",
+      "translation": "(-xx0) 造成的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56127",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.5ba3ca9adb0c36803942",
+      "source": "(*)(-xx0) Damage Dealt",
+      "translation": "(*)(-xx0) 造成的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56127",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.1c7e650c614eda649bbb",
+      "source": "Taunt",
+      "translation": "嘲讽",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56128"
+    },
+    {
+      "id": "status.asset.d77a63bd980e956de7e4",
+      "source": "(xx0) Damage Taken\nat Close Range<sprite name=\"Close\">",
+      "translation": "(xx0) 在近距离时\n承受的伤害<sprite name=\"Close\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56128",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.35fde6a06a45b2c3d0f7",
+      "source": "(*)<i>(xx0) Damage Taken \nat Close Range<sprite name=\"Close\"></i>",
+      "translation": "(*)<i>(xx0) 在近距离时 \n承受的伤害<sprite name=\"Close\"></i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56128",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.50e3c5e43b6578369f95",
+      "source": "Vulnerability",
+      "translation": "易伤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56129"
+    },
+    {
+      "id": "status.asset.57cd27933279888a0b25",
+      "source": "Binding Chains",
+      "translation": "束缚锁链",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56130"
+    },
+    {
+      "id": "status.asset.6e39d4aebd930562266c",
+      "source": "•You cannot dash.",
+      "translation": "•无法冲刺。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56130"
+    },
+    {
+      "id": "status.asset.a95cde1a5bbd73dd0577",
+      "source": "You cannot dash.",
+      "translation": "无法冲刺。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56130"
+    },
+    {
+      "id": "status.asset.24510998c08f453b1980",
+      "source": "Damage Reduction",
+      "translation": "伤害减免",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56131"
+    },
+    {
+      "id": "status.asset.5aabb0e7c3d97906d06e",
+      "source": "(-xx0) damage taken",
+      "translation": "(-xx0) 承受的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56131",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.2d609ea93e865fe26dcd",
+      "source": "(*)(-xx0) damage taken",
+      "translation": "(*)(-xx0) 承受的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56131",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.84449d0a1cd657168a8a",
+      "source": "Imminent Death",
+      "translation": "死亡迫近",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56156"
+    },
+    {
+      "id": "status.asset.3437726fc5f8cff89ad4",
+      "source": "Mouse Swiftness",
+      "translation": "鼠类迅捷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56157"
+    },
+    {
+      "id": "status.asset.96b2a21a091386045b5d",
+      "source": "•(x0) movement speed",
+      "translation": "•(x0) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56157",
+      "protectedTokens": [
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.bbbeff0ec3228e6a70fc",
+      "source": "(x0) movement speed",
+      "translation": "(x0) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56157",
+      "protectedTokens": [
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.530682b1657bec6bccac",
+      "source": "Petrified",
+      "translation": "石化",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56158"
+    },
+    {
+      "id": "status.asset.167d8da986232ea32b14",
+      "source": "•(-xx0) stamina recovery speed<sprite name=\"Stamina\">\n•(-xx1) movement speed",
+      "translation": "•(-xx0) 耐力恢复速度<sprite name=\"Stamina\">\n•(-xx1) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56158",
+      "protectedTokens": [
+        "(-xx0)",
+        "(-xx1)"
+      ]
+    },
+    {
+      "id": "status.asset.61cec668aba81b6fc35d",
+      "source": "(-xx0) stamina recovery speed<sprite name=\"Stamina\"> and (-xx1) movement speed",
+      "translation": "(-xx0) 耐力恢复速度<sprite name=\"Stamina\">和 (-xx1) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56158",
+      "protectedTokens": [
+        "(-xx0)",
+        "(-xx1)"
+      ]
+    },
+    {
+      "id": "status.asset.7a9de723d9b8646e736b",
+      "source": "Webbed",
+      "translation": "蛛网束缚",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56159"
+    },
+    {
+      "id": "status.asset.1d710a6ee7ff1f208dba",
+      "source": "(-xx0) movement speed",
+      "translation": "(-xx0) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56159",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.e87de2ab44443faca815",
+      "source": "while in area",
+      "translation": "处于区域内时",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56159"
+    },
+    {
+      "id": "status.asset.e8f4b1d5533340428e92",
+      "source": "Stunned",
+      "translation": "眩晕",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56160"
+    },
+    {
+      "id": "status.asset.f4a4c69961cb72b34fdf",
+      "source": "Wither",
+      "translation": "枯萎",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56161"
+    },
+    {
+      "id": "status.asset.08e196eb3d50400625cf",
+      "source": "•(-xx0) movement speed ",
+      "translation": "•(-xx0) 移动速度 ",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56161",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.cfa0f3f0ee488fb4ee92",
+      "source": "(-xx0) movement speed ",
+      "translation": "(-xx0) 移动速度 ",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56161",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.c5de9eed2f12e730b0ff",
+      "source": "Exhausted",
+      "translation": "精疲力竭",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56162"
+    },
+    {
+      "id": "status.asset.9e2538b26e76e8f76b8b",
+      "source": "(-xx0) Movement Speed",
+      "translation": "(-xx0) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56162",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.b67b79c03ea6b9364a61",
+      "source": "(*)(-xx0) Movement Speed",
+      "translation": "(*)(-xx0) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56162",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.38f974adc7f66ec4f8a9",
+      "source": "Fairy Blessing",
+      "translation": "仙灵祝福",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56163"
+    },
+    {
+      "id": "status.asset.1a0b79e8eb0391b9e8db",
+      "source": "(*)<i>On entering a Floor, if you don't have any Soul Hearts<sprite name=\"Soul_Heart\">, gain one.</i>",
+      "translation": "(*)<i>进入楼层时，若没有灵魂之心<sprite name=\"Soul_Heart\">，则获得一颗。</i>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56163"
+    },
+    {
+      "id": "status.asset.142297ee8b40260175f9",
+      "source": "Moonlight's Path",
+      "translation": "月光之路",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56164"
+    },
+    {
+      "id": "status.asset.a1568e65ed9a5970da48",
+      "source": "(+x0%) Damage with Cursed Hits<sprite name=\"Curse\">",
+      "translation": "(+x0%) 诅咒一击伤害<sprite name=\"Curse\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56164",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.c858f766fa354f717c1b",
+      "source": "(*)(+x0%) Damage with Cursed Hits<sprite name=\"Curse\">",
+      "translation": "(*)(+x0%) 诅咒一击伤害<sprite name=\"Curse\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56164",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.7f047c1e46413c37c489",
+      "source": "Relaxed",
+      "translation": "放松",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56165"
+    },
+    {
+      "id": "status.asset.51929aaddf7bc45298c1",
+      "source": "Sunlight's Path",
+      "translation": "阳光之路",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56166"
+    },
+    {
+      "id": "status.asset.e09d93d2611a6ca0902b",
+      "source": "(+x0%) Damage with Lucky Hits<sprite name=\"Luck\">",
+      "translation": "(+x0%) 幸运一击伤害<sprite name=\"Luck\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56166",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.74fe409edbfa54e96a61",
+      "source": "(*)(+x0%) Damage with Lucky Hits<sprite name=\"Luck\">",
+      "translation": "(*)(+x0%) 幸运一击伤害<sprite name=\"Luck\">",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56166",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.e20386db7f18a6523b25",
+      "source": "(x0) [[to]] (#x1) Cold Damage to Weapons",
+      "translation": "武器附加 (x0) [[至]] (#x1) 冰霜伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56167",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.9482ae57d084a9bc7e62",
+      "source": "(*)(x0) [[to]] (#x1) Cold Damage to Weapons",
+      "translation": "(*)武器附加 (x0) [[至]] (#x1) 冰霜伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56167",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.c63533ac70757fddd2d0",
+      "source": "(x0) [[to]] (#x1) Fire Damage to Weapons",
+      "translation": "武器附加 (x0) [[至]] (#x1) 火焰伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56168",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.7a8cd6bcca2e04e8429d",
+      "source": "(*)(x0) [[to]] (#x1) Fire Damage to Weapons",
+      "translation": "(*)武器附加 (x0) [[至]] (#x1) 火焰伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56168",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.ed0b30f7c5fb530a89f3",
+      "source": "(x0) [[to]] (#x1) Lightning Damage to Weapons",
+      "translation": "武器附加 (x0) [[至]] (#x1) 雷电伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56172",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.5820d9f3f3b86770ad47",
+      "source": "(*)(x0) [[to]] (#x1) Lightning Damage to Weapons",
+      "translation": "(*)武器附加 (x0) [[至]] (#x1) 雷电伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56172",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.9bcc36ca20f32bb9390b",
+      "source": "(x0) [[to]] (#x1) Poison Damage to Weapons",
+      "translation": "武器附加 (x0) [[至]] (#x1) 毒素伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56174",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.97366c356df6ad06ee12",
+      "source": "(*)(x0) [[to]] (#x1) Poison Damage to Weapons",
+      "translation": "(*)武器附加 (x0) [[至]] (#x1) 毒素伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56174",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.42ecb94f693d1ebb5471",
+      "source": "(x0) [[to]] (#x1) Radiant Damage to Weapons",
+      "translation": "武器附加 (x0) [[至]] (#x1) 光辉伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56175",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.179c02f699b6e3129970",
+      "source": "(*)(x0) [[to]] (#x1) Radiant Damage to Weapons",
+      "translation": "(*)武器附加 (x0) [[至]] (#x1) 光辉伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56175",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.f0f4df29f07574613157",
+      "source": "(x0) [[to]] (#x1) Nature Damage to Weapons",
+      "translation": "武器附加 (x0) [[至]] (#x1) 自然伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56176",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.2ce36419e52f82b6a320",
+      "source": "(*)(x0) [[to]] (#x1) Nature Damage to Weapons",
+      "translation": "(*)武器附加 (x0) [[至]] (#x1) 自然伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56176",
+      "protectedTokens": [
+        "(#x1)",
+        "(x0)"
+      ]
+    },
+    {
+      "id": "status.asset.f16fb0745f382703122a",
+      "source": "(-xx0) Flask<Flask>  Drink Speed",
+      "translation": "(-xx0) 药瓶<Flask>饮用速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56180",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.749449c7ce6632ec20f0",
+      "source": "(*)(-xx0) Flask<Flask>  Drink Speed",
+      "translation": "(*)(-xx0) 药瓶<Flask>饮用速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56180",
+      "protectedTokens": [
+        "(-xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.7c1f6d87a8b6cd3c9146",
+      "source": "(+x0%)<se> Movement Speed",
+      "translation": "(+x0%)<se> 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56181",
+      "protectedTokens": [
+        "(+x0%)"
+      ]
+    },
+    {
+      "id": "status.asset.0a0601cd58eff94b2cb6",
+      "source": "You are marked to take damage.",
+      "translation": "你被标记，即将受到伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56182"
+    },
+    {
+      "id": "status.asset.26d7dbab9b597b4b83fc",
+      "source": "Marks target to take damage.",
+      "translation": "标记目标，使其受到伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56182"
+    },
+    {
+      "id": "status.asset.0f81a51c59558f31774c",
+      "source": "(+x0%)<se> Attack Speed and (+x1%)<se> Companion Attack Speed<Companion>",
+      "translation": "(+x0%)<se> 攻击速度和 (+x1%)<se> 同伴攻击速度<Companion>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56183",
+      "protectedTokens": [
+        "(+x0%)",
+        "(+x1%)"
+      ]
+    },
+    {
+      "id": "status.asset.c76e50b657922d4eea8c",
+      "source": "(*)(+x0%)<se> Attack Speed\n(*)(+x1%)<se> Companion Attack Speed<Companion>",
+      "translation": "(*)(+x0%)<se> 攻击速度\n(*)(+x1%)<se> 同伴攻击速度<Companion>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56183",
+      "protectedTokens": [
+        "(+x0%)",
+        "(+x1%)"
+      ]
+    },
+    {
+      "id": "status.asset.73b09fa083b1c4394b80",
+      "source": "(xx0)<se> Damage Per Mana Container<Mana> you have",
+      "translation": "每拥有一个法力容器<Mana>，获得 (xx0)<se> 伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56184",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.b5218253a76f2d740b6c",
+      "source": "(*)(xx0)<se> Damage Per Mana Container<Mana> you have",
+      "translation": "(*)每拥有一个法力容器<Mana>，获得 (xx0)<se> 伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56184",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.f569a17f811bc428a956",
+      "source": "While in //Magic //Circle.",
+      "translation": "处于//魔法//法阵内时。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56184"
+    },
+    {
+      "id": "status.asset.45f67c1e10387433dad0",
+      "source": "Pumped Up",
+      "translation": "振作",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56185"
+    },
+    {
+      "id": "status.asset.240b46749fb9e81fcefc",
+      "source": "(xx0)<se> Attack Speed",
+      "translation": "(xx0)<se> 攻击速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56185",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.8d66baed3ee3d2572b97",
+      "source": "(*)(xx0)<se> Attack Speed",
+      "translation": "(*)(xx0)<se> 攻击速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56185",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.85bb3909f7f0f089e4a6",
+      "source": "Shackled",
+      "translation": "桎梏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56186"
+    },
+    {
+      "id": "status.asset.bbce69198cf2fba93bbb",
+      "source": "(+x0%)<se> Movement Speed and (+x1%)<se> Damage Taken",
+      "translation": "(+x0%)<se> 移动速度和 (+x1%)<se> 承受的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56186",
+      "protectedTokens": [
+        "(+x0%)",
+        "(+x1%)"
+      ]
+    },
+    {
+      "id": "status.asset.89ab4a5ed7b8b9786eb6",
+      "source": "(*)(+x0%)<se> Movement Speed\n(*)(+x1%)<se> Damage Taken",
+      "translation": "(*)(+x0%)<se> 移动速度\n(*)(+x1%)<se> 承受的伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56186",
+      "protectedTokens": [
+        "(+x0%)",
+        "(+x1%)"
+      ]
+    },
+    {
+      "id": "status.asset.d4e690a227608d10ed33",
+      "source": "(*)(xx0) Damage with Non Critical Hits",
+      "translation": "(*)(xx0) 非暴击伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56187",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.53078023830e20068dbb",
+      "source": "Cold Balance",
+      "translation": "冰霜平衡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56188"
+    },
+    {
+      "id": "status.asset.05c48c409a6d617b7257",
+      "source": "(xx0) Cold Damage",
+      "translation": "(xx0) 冰霜伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56188",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.f21186d470ce5f5e9064",
+      "source": "(*)(xx0) Cold Damage",
+      "translation": "(*)(xx0) 冰霜伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56188",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.cbd0c3a25bc559a3a1f0",
+      "source": "Fire Balance",
+      "translation": "火焰平衡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56189"
+    },
+    {
+      "id": "status.asset.82e1a4ae43198e8d5977",
+      "source": "(xx0) Fire Damage",
+      "translation": "(xx0) 火焰伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56189",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.b5c734ed36c4d41af612",
+      "source": "(*)(xx0) Fire Damage",
+      "translation": "(*)(xx0) 火焰伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56189",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.287d7227f3650aa5ef47",
+      "source": "Lightning Balance",
+      "translation": "雷电平衡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56190"
+    },
+    {
+      "id": "status.asset.c9efe8d35b8402d03faf",
+      "source": "(xx0) Lightning Damage",
+      "translation": "(xx0) 雷电伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56190",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.97822fa6de28578b3423",
+      "source": "(*)(xx0) Lightning Damage",
+      "translation": "(*)(xx0) 雷电伤害",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56190",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.b511b53f52d21550b66f",
+      "source": "Laser Show",
+      "translation": "激光秀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56191"
+    },
+    {
+      "id": "status.asset.80160d54afb1fdc58909",
+      "source": "Morale",
+      "translation": "士气",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56193"
+    },
+    {
+      "id": "status.asset.faf9cd08e48f4341e1ae",
+      "source": "While having at least 1 stack.",
+      "translation": "拥有至少 1 层时。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56193"
+    },
+    {
+      "id": "status.asset.857b3f7f0127b30836b8",
+      "source": "Beetles",
+      "translation": "甲虫群",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56194"
+    },
+    {
+      "id": "status.asset.4c2c0dab21062c66d5ef",
+      "source": "Beetle",
+      "translation": "甲虫",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56194"
+    },
+    {
+      "id": "status.asset.91d89454744e8dc76f3f",
+      "source": "Bola",
+      "translation": "套索",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56195"
+    },
+    {
+      "id": "status.asset.5c5d824869b4fb2025ab",
+      "source": "Crush",
+      "translation": "粉碎",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56196"
+    },
+    {
+      "id": "status.asset.bdabd53e8c21b59cec2d",
+      "source": "DNA Splice",
+      "translation": "DNA 拼接",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56197"
+    },
+    {
+      "id": "status.asset.a5866fd52f54f03e996e",
+      "source": "Doom",
+      "translation": "厄运",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56198"
+    },
+    {
+      "id": "status.asset.2ed33191d5f204fc0d07",
+      "source": "Grapple",
+      "translation": "钩索",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56199"
+    },
+    {
+      "id": "status.asset.153f9475ef2526648df3",
+      "source": "•(xx0) Damage Taken\n•(xx1) Movement Speed",
+      "translation": "•(xx0) 承受的伤害\n•(xx1) 移动速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56199",
+      "protectedTokens": [
+        "(xx0)",
+        "(xx1)"
+      ]
+    },
+    {
+      "id": "status.asset.369fb963b2c3d336ed95",
+      "source": "Haunt",
+      "translation": "幽魂缠身",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56200"
+    },
+    {
+      "id": "status.asset.875fc5869fb29eba4965",
+      "source": "Ghost",
+      "translation": "幽灵",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56200"
+    },
+    {
+      "id": "status.asset.d1ee654f167486df67f1",
+      "source": "Paper Bomb",
+      "translation": "纸炸弹",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56201"
+    },
+    {
+      "id": "status.asset.2feba3727499a3b17d7a",
+      "source": "Retribution",
+      "translation": "惩戒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56202"
+    },
+    {
+      "id": "status.asset.95dcf90eb683ec081023",
+      "source": "Silver Bolt",
+      "translation": "银箭",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56203"
+    },
+    {
+      "id": "status.asset.82d519e44743c27055cf",
+      "source": "Aurora",
+      "translation": "极光",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56204"
+    },
+    {
+      "id": "status.asset.67a15dc878cdf4c6f05b",
+      "source": "Clack",
+      "translation": "咔嗒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56206"
+    },
+    {
+      "id": "status.asset.161a4086583bcc7e3e8f",
+      "source": "Piranha Bites",
+      "translation": "食人鱼撕咬",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56208"
+    },
+    {
+      "id": "status.asset.912509de5d40fbda0361",
+      "source": "Shriek",
+      "translation": "尖啸",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56209"
+    },
+    {
+      "id": "status.asset.a376207c65e2ee1c1244",
+      "source": "Snowburn",
+      "translation": "雪焰",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56210"
+    },
+    {
+      "id": "status.asset.d3f3d479c44c9cac682c",
+      "source": "Virus",
+      "translation": "病毒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56211"
+    },
+    {
+      "id": "status.asset.48a1d2c6b8e603da69fa",
+      "source": "Sugar Rush",
+      "translation": "糖分冲刺",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56212"
+    },
+    {
+      "id": "status.asset.eb392dafb5e997c98819",
+      "source": "Supersonic",
+      "translation": "超音速",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版状态效果字段独立翻译；来源 resources.assets / 56213"
+    },
+    {
+      "id": "status.asset.ebe6cec3a5bf663043a0",
+      "source": "(xx0) Attack Speed with Vorpal Blade",
+      "translation": "(xx0) 沃泊尔之刃攻击速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Vorpal Blade 专名需统一。",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    },
+    {
+      "id": "status.asset.41c1c7d156a6225e2e99",
+      "source": "(*)(xx0) Attack Speed with Vorpal Blade",
+      "translation": "(*)(xx0) 沃泊尔之刃攻击速度",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Vorpal Blade 专名需统一。",
+      "protectedTokens": [
+        "(xx0)"
+      ]
+    }
+  ]
+}

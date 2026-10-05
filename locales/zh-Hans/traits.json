@@ -1,0 +1,1656 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "特质",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "trait.asset.b606fcece86cd263358e",
+      "source": "Freezing Core",
+      "translation": "冰霜核心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56275"
+    },
+    {
+      "id": "trait.asset.b6494570f7bfa154329e",
+      "source": "Laser Core",
+      "translation": "激光核心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56276"
+    },
+    {
+      "id": "trait.asset.112df7d502308ccb05c9",
+      "source": "Lucky Core",
+      "translation": "幸运核心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56277"
+    },
+    {
+      "id": "trait.asset.7d2591f7e19e63da0ac3",
+      "source": "Mana Core",
+      "translation": "法力核心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56278"
+    },
+    {
+      "id": "trait.asset.d747c0932be99eff9ad7",
+      "source": "Power Core",
+      "translation": "力量核心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56279"
+    },
+    {
+      "id": "trait.asset.4f2d615e8c63658e4242",
+      "source": "Advanced Ballistics",
+      "translation": "高级弹道学",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56280"
+    },
+    {
+      "id": "trait.asset.86be18915083e2144a56",
+      "source": "Your Ranged damage is always considered to be at Close Range<Close>.",
+      "translation": "你的远程伤害始终视为近距离伤害<Close>。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56280",
+      "protectedTokens": [
+        "<Close>"
+      ]
+    },
+    {
+      "id": "trait.asset.e8809973ca40a394ad33",
+      "source": "Agility",
+      "translation": "敏捷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56281"
+    },
+    {
+      "id": "trait.asset.dce18d745b784e1db649",
+      "source": "Alacrity",
+      "translation": "迅捷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56282"
+    },
+    {
+      "id": "trait.asset.6564565b9ee3c6277a4b",
+      "source": "Ascetic's Discipline",
+      "translation": "苦行者的戒律",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56283"
+    },
+    {
+      "id": "trait.asset.ecc57e238f126ac97ebf",
+      "source": "Best Friends Forever",
+      "translation": "永远的最佳伙伴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56284"
+    },
+    {
+      "id": "trait.asset.b3f23cb39b2b7596ce80",
+      "source": "Blood Infection",
+      "translation": "血液感染",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56285"
+    },
+    {
+      "id": "trait.asset.8452f706c3d443894280",
+      "source": "On Tick, Bleed inflicts [[5]] stacks of Poison.",
+      "translation": "每次触发时，流血会施加[[5]]层中毒。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56285",
+      "protectedTokens": []
+    },
+    {
+      "id": "trait.asset.ba2d4222ff16554d5449",
+      "source": "Cheap Shot",
+      "translation": "偷袭",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56286"
+    },
+    {
+      "id": "trait.asset.d34d7de4263931799342",
+      "source": "Chill Aura",
+      "translation": "寒冷光环",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56287"
+    },
+    {
+      "id": "trait.asset.434e553aa4990c07715b",
+      "source": "Cull the Weak",
+      "translation": "弱者淘汰",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56288"
+    },
+    {
+      "id": "trait.asset.a625d59d4ca099ec0389",
+      "source": "(*)<i>Enemies take more Damage equal to the reduction of their Movement Speed. <g>(multiplicative)</g></i>\n",
+      "translation": "(*)<i>敌人受到的额外伤害等于其移动速度降低的数值。<g>（乘算）</g></i>\n",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56288",
+      "protectedTokens": [
+        "(*)",
+        "</g>",
+        "</i>",
+        "<g>",
+        "<i>"
+      ]
+    },
+    {
+      "id": "trait.asset.1ade88e2b01eb89e18c1",
+      "source": "Deadly Toxins",
+      "translation": "致命毒素",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56289"
+    },
+    {
+      "id": "trait.asset.aa25cd5792e787f4be9f",
+      "source": "Dynamo",
+      "translation": "发电机",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56290"
+    },
+    {
+      "id": "trait.asset.8efe99846d7f1a854d2a",
+      "source": "Earned Luck",
+      "translation": "赢来的幸运",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56291"
+    },
+    {
+      "id": "trait.asset.c722e6bfbc030f6d0213",
+      "source": "Electric City",
+      "translation": "电能都市",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56292"
+    },
+    {
+      "id": "trait.asset.61fd291cff6cb1bb60bc",
+      "source": "Exit Strategy",
+      "translation": "退出策略",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56293"
+    },
+    {
+      "id": "trait.asset.073705f18130a733ce86",
+      "source": "Exploitative Explosives",
+      "translation": "爆炸利用",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56294"
+    },
+    {
+      "id": "trait.asset.0945052ca30b5d9b57b0",
+      "source": "Your Explosion Damage inflicts Vulnerability.",
+      "translation": "你的爆炸伤害会施加脆弱。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56294"
+    },
+    {
+      "id": "trait.asset.9d8f9eecb74ee8be756e",
+      "source": "Grenadier",
+      "translation": "掷弹兵",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56295"
+    },
+    {
+      "id": "trait.asset.9420b6757495d42f9eb4",
+      "source": "Harmony",
+      "translation": "和谐",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56296"
+    },
+    {
+      "id": "trait.asset.9171557749ae2da2cad2",
+      "source": "Your Weapon gains",
+      "translation": "你的武器获得",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56296"
+    },
+    {
+      "id": "trait.asset.166ed493c80c048d5e65",
+      "source": "Illusion of Control",
+      "translation": "掌控幻觉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56297"
+    },
+    {
+      "id": "trait.asset.df23603a468cc99c77a5",
+      "source": "Influence",
+      "translation": "影响力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56298"
+    },
+    {
+      "id": "trait.asset.a8139bed64096a532276",
+      "source": "Intuition",
+      "translation": "直觉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56299"
+    },
+    {
+      "id": "trait.asset.cadff94c738e870f93fa",
+      "source": "Lethality",
+      "translation": "致命性",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56300"
+    },
+    {
+      "id": "trait.asset.67dd4d6a23466961736b",
+      "source": "The Damage Bonus from Lethal Hits<Lethal> is affected by your Critical Hit Damage<Crit>.",
+      "translation": "致命一击<Lethal>带来的伤害加成会受到你的暴击伤害<Crit>影响。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56300",
+      "protectedTokens": [
+        "<Crit>",
+        "<Lethal>"
+      ]
+    },
+    {
+      "id": "trait.asset.df1b9fcbf8f112bd1b51",
+      "source": "Lightning Conductor",
+      "translation": "避雷针",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56301"
+    },
+    {
+      "id": "trait.asset.3d4c545ccb5acceca898",
+      "source": "Like Clockwork",
+      "translation": "严丝合缝",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56302"
+    },
+    {
+      "id": "trait.asset.f0e892b6263d5836e46a",
+      "source": "Opportunistic",
+      "translation": "趁火打劫",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56303"
+    },
+    {
+      "id": "trait.asset.45bc707a6a7840ea64a4",
+      "source": "Pet the Dog",
+      "translation": "摸摸狗狗",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56304"
+    },
+    {
+      "id": "trait.asset.37632e64be63b7f38d19",
+      "source": "Point Blank",
+      "translation": "近距离射击",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56305"
+    },
+    {
+      "id": "trait.asset.1530e6cc02b4fad38584",
+      "source": "Poison Aura",
+      "translation": "毒雾光环",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56306"
+    },
+    {
+      "id": "trait.asset.e11d994f7ab8741a1470",
+      "source": "Precision",
+      "translation": "精准",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56307"
+    },
+    {
+      "id": "trait.asset.2436ba9a64a129719538",
+      "source": "Raised Morale",
+      "translation": "士气高涨",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56308"
+    },
+    {
+      "id": "trait.asset.8b8f9ee7367ff6707888",
+      "source": "Repeat Offender",
+      "translation": "惯犯",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56309"
+    },
+    {
+      "id": "trait.asset.7d1127dfd6c2da705a4d",
+      "source": "Rogue's Tally",
+      "translation": "盗贼账本",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56310"
+    },
+    {
+      "id": "trait.asset.1c0b57829c5c09fec0dc",
+      "source": "Sharpshooter",
+      "translation": "神射手",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56311"
+    },
+    {
+      "id": "trait.asset.665eaac86600410c9c92",
+      "source": "Spellblade",
+      "translation": "法术之刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56312"
+    },
+    {
+      "id": "trait.asset.ad0790534a70fab91abb",
+      "source": "Spinning Blades",
+      "translation": "旋转刀刃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56313"
+    },
+    {
+      "id": "trait.asset.b5e2cc1b888058819289",
+      "source": "Step of the Wind",
+      "translation": "风之步",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56314"
+    },
+    {
+      "id": "trait.asset.1ed32a26bd353b19f14c",
+      "source": "On Dash, gain [[5]] stacks of Tailwind.",
+      "translation": "冲刺时获得[[5]]层顺风。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56314",
+      "protectedTokens": []
+    },
+    {
+      "id": "trait.asset.28ff35538d45b7246ec4",
+      "source": "Swagger",
+      "translation": "虚张声势",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56315"
+    },
+    {
+      "id": "trait.asset.16d97f25f73734aee26e",
+      "source": "Transcendence",
+      "translation": "超越",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56316"
+    },
+    {
+      "id": "trait.asset.36a71cba06a048764d09",
+      "source": "Trigger Maniac",
+      "translation": "扳机狂人",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56317"
+    },
+    {
+      "id": "trait.asset.016758b5951667581db1",
+      "source": "Two Steps Ahead",
+      "translation": "领先两步",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56318"
+    },
+    {
+      "id": "trait.asset.bcc033b7884e5003f051",
+      "source": "Anatomical Knowledge",
+      "translation": "解剖学知识",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56319"
+    },
+    {
+      "id": "trait.asset.701b946f41f19ed6f26f",
+      "source": "Apocalypse",
+      "translation": "末日",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56320"
+    },
+    {
+      "id": "trait.asset.36d1b0784e01e1bb419a",
+      "source": "//Arcane Familiar",
+      "translation": "//奥术使魔",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56321"
+    },
+    {
+      "id": "trait.asset.677a17a7e975113a42b4",
+      "source": "Astromancy",
+      "translation": "星术",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56322"
+    },
+    {
+      "id": "trait.asset.61a150b4b3cebe50f176",
+      "source": "Bramble Growth",
+      "translation": "荆棘生长",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56323"
+    },
+    {
+      "id": "trait.asset.b118de65649605b1b7c9",
+      "source": "(*)<i>Your Nature Damage inflicts Bleed.</i>\n",
+      "translation": "(*)<i>你的自然伤害会施加流血。</i>\n",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56323",
+      "protectedTokens": [
+        "(*)",
+        "</i>",
+        "<i>"
+      ]
+    },
+    {
+      "id": "trait.asset.cbcab85b94d116064056",
+      "source": "Burn Aura",
+      "translation": "燃烧光环",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56324"
+    },
+    {
+      "id": "trait.asset.4da9018e70406019dd96",
+      "source": "Chrono Shift",
+      "translation": "时空转移",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56325"
+    },
+    {
+      "id": "trait.asset.d58da33c63f17c0aafe1",
+      "source": "Cold Blood",
+      "translation": "冷血",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56326"
+    },
+    {
+      "id": "trait.asset.ef7917e4063093ee3446",
+      "source": "Combustion",
+      "translation": "燃烧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56327"
+    },
+    {
+      "id": "trait.asset.e71bc9f8a20f0f0e2523",
+      "source": "Corrosive Magic",
+      "translation": "腐蚀魔法",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56328"
+    },
+    {
+      "id": "trait.asset.eba7106218bc419ab327",
+      "source": "Necrotic and Poison Damage from you and your Companions<Companion> inflicts Fragility.",
+      "translation": "你和同伴<Companion>造成的死灵与中毒伤害会施加脆弱。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56328",
+      "protectedTokens": [
+        "<Companion>"
+      ]
+    },
+    {
+      "id": "trait.asset.b62fe0f5195f689a14d2",
+      "source": "Dominance",
+      "translation": "支配",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56329"
+    },
+    {
+      "id": "trait.asset.4d724240814612b9ffb3",
+      "source": "Dreamer",
+      "translation": "梦想家",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56330"
+    },
+    {
+      "id": "trait.asset.1dc149785865484ae85b",
+      "source": "//Elem//ental Balance",
+      "translation": "//元素//平衡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56331"
+    },
+    {
+      "id": "trait.asset.4a866502e888b4b4bc6f",
+      "source": "//Elem//ental Focus",
+      "translation": "//元素//专精",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56332"
+    },
+    {
+      "id": "trait.asset.054487ab343a7c331207",
+      "source": "(*)<i>Fire Damage from Skills and Auras inflicts Scorch.</i>\n(*)<i>Cold Damage from Skills and Auras inflicts Frostbite.</i>\n(*)<i>Lightning Damage from Skills and Auras inflicts Zap.</i>",
+      "translation": "(*)<i>技能与光环造成的火焰伤害会施加灼烧。</i>\n(*)<i>技能与光环造成的寒冷伤害会施加冻伤。</i>\n(*)<i>技能与光环造成的闪电伤害会施加电击。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56332",
+      "protectedTokens": [
+        "(*)",
+        "(*)",
+        "(*)",
+        "</i>",
+        "</i>",
+        "</i>",
+        "<i>",
+        "<i>",
+        "<i>"
+      ]
+    },
+    {
+      "id": "trait.asset.fc9032218f403082ac7a",
+      "source": "Entropy",
+      "translation": "熵",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56333"
+    },
+    {
+      "id": "trait.asset.d52ca3d349b6e40413db",
+      "source": "Event Horizon",
+      "translation": "事件视界",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56334"
+    },
+    {
+      "id": "trait.asset.fedf765fd9598f1f2f68",
+      "source": "Forethought",
+      "translation": "未雨绸缪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56335"
+    },
+    {
+      "id": "trait.asset.6f96221fb2a0f2365e11",
+      "source": "(*)Your Hearts<Heart> count as Soul Hearts<Soul_Heart>.\n",
+      "translation": "(*)你的红心<Heart>计数视为灵魂之心<Soul_Heart>。\n",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56335",
+      "protectedTokens": [
+        "(*)",
+        "<Heart>",
+        "<Soul_Heart>"
+      ]
+    },
+    {
+      "id": "trait.asset.233befb87e5f525f9dae",
+      "source": "//Hex Touch",
+      "translation": "//邪触",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56336"
+    },
+    {
+      "id": "trait.asset.481cfe3e13fb793d46bb",
+      "source": "Ice Conjuration",
+      "translation": "冰霜塑能",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56337"
+    },
+    {
+      "id": "trait.asset.980e84866476ca6d62e7",
+      "source": "Ignition Burst",
+      "translation": "点火爆发",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56338"
+    },
+    {
+      "id": "trait.asset.1af1adf7ae52855de3ef",
+      "source": "Insight",
+      "translation": "洞察",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56339"
+    },
+    {
+      "id": "trait.asset.a530a664834986cbd82b",
+      "source": "Inspiring Presence",
+      "translation": "鼓舞气场",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56340"
+    },
+    {
+      "id": "trait.asset.6a3b081968bb032b3a35",
+      "source": "Keen Mind",
+      "translation": "敏锐头脑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56341"
+    },
+    {
+      "id": "trait.asset.3f03ef9dd219a06ae2aa",
+      "source": "Lightning Always Strikes Twice",
+      "translation": "闪电总会击中两次",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56342"
+    },
+    {
+      "id": "trait.asset.6266d0a288235aa063ab",
+      "source": "Any time you trigger Lightning Damage, the effect is triggered an additional time after a 0.5 second delay.",
+      "translation": "每当你触发闪电伤害时，0.5秒后会额外触发一次该效果。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56342"
+    },
+    {
+      "id": "trait.asset.6ad05e4734d17ea1ac60",
+      "source": "Mageblood",
+      "translation": "法师之血",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56343"
+    },
+    {
+      "id": "trait.asset.b271772d5a6c24f47348",
+      "source": "Mana Beacon",
+      "translation": "法力信标",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56344"
+    },
+    {
+      "id": "trait.asset.00c3de329c392148fbe1",
+      "source": "Nature's Boon",
+      "translation": "自然恩惠",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56345"
+    },
+    {
+      "id": "trait.asset.f4ca6226dac23cd0e815",
+      "source": "Normal Distribution",
+      "translation": "正态分布",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56346"
+    },
+    {
+      "id": "trait.asset.2212b7bee4c7171bfbd5",
+      "source": "Pocket Magic",
+      "translation": "袖里魔法",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56347"
+    },
+    {
+      "id": "trait.asset.8b95063d0992ef440b52",
+      "source": "Power Hungry",
+      "translation": "贪得无厌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56348"
+    },
+    {
+      "id": "trait.asset.dc37a4fc0e8c050cbdfb",
+      "source": "Prodigy",
+      "translation": "神童",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56349"
+    },
+    {
+      "id": "trait.asset.6f24901fa2b6f73e2401",
+      "source": "Shock Aura",
+      "translation": "震击光环",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56350"
+    },
+    {
+      "id": "trait.asset.857214869e4dcacb1c42",
+      "source": "Static Blows",
+      "translation": "静电重击",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56351"
+    },
+    {
+      "id": "trait.asset.628ad970892048406e75",
+      "source": "Strong Together",
+      "translation": "同心协力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56352"
+    },
+    {
+      "id": "trait.asset.c955c30e18eb7d1e10d0",
+      "source": "Thaumaturgical Echo",
+      "translation": "奇术回响",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56353"
+    },
+    {
+      "id": "trait.asset.919951616e230eb4859f",
+      "source": "Trickery",
+      "translation": "诡计",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56354"
+    },
+    {
+      "id": "trait.asset.98cd34b120e7e660c214",
+      "source": "Vision Quest",
+      "translation": "视觉探索",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56355"
+    },
+    {
+      "id": "trait.asset.a84616d71efc48e1e0ae",
+      "source": "Zoo Utopia",
+      "translation": "动物园乌托邦",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56356"
+    },
+    {
+      "id": "trait.asset.0c2cbef6aa60c99035b5",
+      "source": "//Elem//ental Complexion",
+      "translation": "//元素//肤色",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56357"
+    },
+    {
+      "id": "trait.asset.9aa7002d5b3beda51d4d",
+      "source": "Energy Aura",
+      "translation": "能量光环",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56358"
+    },
+    {
+      "id": "trait.asset.8279c5278ac9186a7089",
+      "source": "Lightning Force",
+      "translation": "闪电之力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56359"
+    },
+    {
+      "id": "trait.asset.055ac3687e022a4b62d0",
+      "source": "Mama's Stuff",
+      "translation": "妈妈的宝贝",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56360"
+    },
+    {
+      "id": "trait.asset.5d6ddec13c20f81a0463",
+      "source": "Mastering Randomness",
+      "translation": "掌握随机",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56361"
+    },
+    {
+      "id": "trait.asset.f09a20f1ddfe789d8f70",
+      "source": "Mental Link",
+      "translation": "心灵链接",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56362"
+    },
+    {
+      "id": "trait.asset.2c9f751b613bac120e07",
+      "source": "Mere Marionettes",
+      "translation": "纯粹傀儡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56363"
+    },
+    {
+      "id": "trait.asset.aa4830ae432a8d94faf0",
+      "source": "Papa's Stuff",
+      "translation": "爸爸的宝贝",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56364"
+    },
+    {
+      "id": "trait.asset.8537bed64acc4128cb3c",
+      "source": "Psionic Bombardment",
+      "translation": "灵能轰击",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56365"
+    },
+    {
+      "id": "trait.asset.8c9d73b8a9d880c04380",
+      "source": "Spontaneous Combustion",
+      "translation": "自发燃烧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56366"
+    },
+    {
+      "id": "trait.asset.f91a657dc8d37b90540d",
+      "source": "(*)<i>Burn Ticks deal [[+2.50%]] Boss Health Damage and [[+10%]] Non Boss Health Damage. <g>(Cannot be scaled.)</g></i>\n",
+      "translation": "(*)<i>燃烧跳动会造成[[+2.50%]]首领生命伤害和[[+10%]]非首领生命伤害。<g>（无法缩放。）</g></i>\n",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56366",
+      "protectedTokens": [
+        "(*)",
+        "</g>",
+        "</i>",
+        "<g>",
+        "<i>"
+      ]
+    },
+    {
+      "id": "trait.asset.2e18a408e83c83006c55",
+      "source": "Time Dilation",
+      "translation": "时间膨胀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56367"
+    },
+    {
+      "id": "trait.asset.8a2d624335bd945dddd8",
+      "source": "Adrenaline",
+      "translation": "肾上腺素",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56368"
+    },
+    {
+      "id": "trait.asset.66ceeda18036131f67d2",
+      "source": "An Honest Day Of Work",
+      "translation": "诚实劳动的一天",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56369"
+    },
+    {
+      "id": "trait.asset.f7b9d9fec38761d7c51a",
+      "source": "Ancestral Aid",
+      "translation": "祖灵援助",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56370"
+    },
+    {
+      "id": "trait.asset.c2c0bd72b00602bbb8a0",
+      "source": "Arrogance",
+      "translation": "傲慢",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56371"
+    },
+    {
+      "id": "trait.asset.3518c9ad875e32a470be",
+      "source": "Attack of Opportunity",
+      "translation": "乘虚而入",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56372"
+    },
+    {
+      "id": "trait.asset.f82d43340760f0e1f6fe",
+      "source": "Barbarism",
+      "translation": "野蛮主义",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56373"
+    },
+    {
+      "id": "trait.asset.89597f49bfbd5ee023f0",
+      "source": "Battle Rush",
+      "translation": "战斗冲锋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56374"
+    },
+    {
+      "id": "trait.asset.f3a523476957417d73fc",
+      "source": "Beef",
+      "translation": "健壮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56375"
+    },
+    {
+      "id": "trait.asset.3ee698be4273606a97ef",
+      "source": "Berserk",
+      "translation": "狂暴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56376"
+    },
+    {
+      "id": "trait.asset.78bf0ba160c831894f4c",
+      "source": "Blessed Hammer",
+      "translation": "祝福之锤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56377"
+    },
+    {
+      "id": "trait.asset.324f6fe89914ed3a4940",
+      "source": "Blunt Trauma",
+      "translation": "钝击创伤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56378"
+    },
+    {
+      "id": "trait.asset.e58081fdfe0845bae9f6",
+      "source": "Striking damage from you and your Companions<Companion> inflicts Instability.",
+      "translation": "你和同伴<Companion>造成的打击伤害会施加不稳定。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56378",
+      "protectedTokens": [
+        "<Companion>"
+      ]
+    },
+    {
+      "id": "trait.asset.04e506f2b5cc9b7033bc",
+      "source": "Bone Crusher",
+      "translation": "碎骨者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56379"
+    },
+    {
+      "id": "trait.asset.7abd0a0148fe559332c4",
+      "source": "(*)<i>Your Attacks inflict a stack of Crush with Crushing Hits<Crushing>.</i>\n(*)<i>Crush deals ((x0.50)) damage when inflicted with Ranged or Magic.</i>",
+      "translation": "(*)<i>你的攻击在造成粉碎重击<Crushing>时会获得一层粉碎。</i>\n(*)<i>使用远程或魔法造成粉碎时，伤害为((x0.50))。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56379",
+      "protectedTokens": [
+        "((x0.50))",
+        "(*)",
+        "(*)",
+        "</i>",
+        "</i>",
+        "<Crushing>",
+        "<i>",
+        "<i>"
+      ]
+    },
+    {
+      "id": "trait.asset.344560b64f8a2ae3787b",
+      "source": "Boozer",
+      "translation": "酒鬼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56380"
+    },
+    {
+      "id": "trait.asset.8ba08db58a95afbacdfa",
+      "source": "Brawler",
+      "translation": "格斗家",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56381"
+    },
+    {
+      "id": "trait.asset.03bc437647118ee89351",
+      "source": "Brawn Over Brain",
+      "translation": "体魄胜过头脑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56382"
+    },
+    {
+      "id": "trait.asset.31a4545380dc91050845",
+      "source": "Close Combat",
+      "translation": "近战",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56383"
+    },
+    {
+      "id": "trait.asset.c2d4c633f00c93ed0f3f",
+      "source": "Explosive Force",
+      "translation": "爆破之力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56384"
+    },
+    {
+      "id": "trait.asset.4928e7096ac7f9f584c7",
+      "source": "Fire and Blood",
+      "translation": "火与血",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56385"
+    },
+    {
+      "id": "trait.asset.1cc5c981a22fd291035a",
+      "source": "Hand Of Hearts",
+      "translation": "心之手",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56386"
+    },
+    {
+      "id": "trait.asset.9c30d81696bb7a642ca7",
+      "source": "Heavy Draw",
+      "translation": "强力拉弓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56387"
+    },
+    {
+      "id": "trait.asset.3672a838e39a2ad31614",
+      "source": "[[Half]] your Strength also applies to Dexterity Scaling from Ranged Weapons.",
+      "translation": "[[一半]]你的力量也会作用于远程武器的敏捷成长。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56387",
+      "protectedTokens": []
+    },
+    {
+      "id": "trait.asset.37053d873751a9817730",
+      "source": "Holy Fire",
+      "translation": "圣火",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56388"
+    },
+    {
+      "id": "trait.asset.32fec473b974a90fef06",
+      "source": "Momentum",
+      "translation": "动能",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56389"
+    },
+    {
+      "id": "trait.asset.47005fe1aa58291aa58e",
+      "source": "No Pain No Gain",
+      "translation": "不劳不得",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56390"
+    },
+    {
+      "id": "trait.asset.80c3d975ce156b98b5b2",
+      "source": "Overwhelming Presence",
+      "translation": "压倒性气场",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56391"
+    },
+    {
+      "id": "trait.asset.301d029db2efc10d228f",
+      "source": "Pack Mentality",
+      "translation": "群体心态",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56392"
+    },
+    {
+      "id": "trait.asset.6c0b97017cce69879fdb",
+      "source": "(*)<i>Your damage rolls ((twice)) and takes the ((lower)) value.</i>\n",
+      "translation": "(*)<i>你的伤害掷骰((twice))，并取((lower))的数值。</i>\n",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56392",
+      "protectedTokens": [
+        "((lower))",
+        "((twice))",
+        "(*)",
+        "</i>",
+        "<i>"
+      ]
+    },
+    {
+      "id": "trait.asset.c67e815c531aa0a8bb7f",
+      "source": "Pointy End",
+      "translation": "尖锐一击",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56393"
+    },
+    {
+      "id": "trait.asset.3b2f88070bf2c89eee4b",
+      "source": "Power is Power",
+      "translation": "力量即力量",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56394"
+    },
+    {
+      "id": "trait.asset.94303251f7b9582ccfae",
+      "source": "Pushing Through",
+      "translation": "奋力突破",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56395"
+    },
+    {
+      "id": "trait.asset.239e9373421730eced7f",
+      "source": "Rage",
+      "translation": "怒火",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56396"
+    },
+    {
+      "id": "trait.asset.16f0dab48dbf4762a153",
+      "source": "(*)<i>Your Attacks grant you 1 stack of Rage on hit.</i>\n(*)<i>Melee Attacks grant [[5]] stacks.</i>",
+      "translation": "(*)<i>你的攻击命中时会获得1层怒火。</i>\n(*)<i>近战攻击会获得[[5]]层。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56396",
+      "protectedTokens": [
+        "(*)",
+        "(*)",
+        "</i>",
+        "</i>",
+        "<i>",
+        "<i>"
+      ]
+    },
+    {
+      "id": "trait.asset.31de0af848edbd0050d4",
+      "source": "Razor's Edge",
+      "translation": "剃刀锋芒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56397"
+    },
+    {
+      "id": "trait.asset.09e0f63080b89e74918e",
+      "source": "Slashing damage from you and your Companions<Companion> inflicts Bleed. ",
+      "translation": "你和同伴<Companion>造成的斩击伤害会施加流血。  ",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56397",
+      "protectedTokens": [
+        "<Companion>"
+      ]
+    },
+    {
+      "id": "trait.asset.4634b722f75774c46ec9",
+      "source": "Resolute Technique",
+      "translation": "坚决技巧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56398"
+    },
+    {
+      "id": "trait.asset.b66c4a22fa471660a41f",
+      "source": "Savage Wounds",
+      "translation": "残酷创伤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56399"
+    },
+    {
+      "id": "trait.asset.0bfc7e307d7e310ed3cf",
+      "source": "Shrouded in Shadows",
+      "translation": "笼罩于暗影",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56400"
+    },
+    {
+      "id": "trait.asset.434408b301ddc661f3ee",
+      "source": "Steady Strikes",
+      "translation": "稳定打击",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56401"
+    },
+    {
+      "id": "trait.asset.69821c913332ca19983c",
+      "source": "Testudo",
+      "translation": "龟甲阵",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56402"
+    },
+    {
+      "id": "trait.asset.db07f64b3026310b86ad",
+      "source": "Threat Reckoning",
+      "translation": "威胁评估",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56403"
+    },
+    {
+      "id": "trait.asset.47f6f6d3c635b0135c2d",
+      "source": "(*)<i>Your Attacks with One-Handed Weapons inflict Taunt.</i>\n(*)<i>Your Attacks with Two-Handed Weapons inflict Intimidate.</i>",
+      "translation": "(*)<i>你使用单手武器的攻击会施加嘲讽。</i>\n(*)<i>你使用双手武器的攻击会施加威吓。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56403",
+      "protectedTokens": [
+        "(*)",
+        "(*)",
+        "</i>",
+        "</i>",
+        "<i>",
+        "<i>"
+      ]
+    },
+    {
+      "id": "trait.asset.d9fe73adf1e114722198",
+      "source": "Titan Grip",
+      "translation": "泰坦之握",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56404"
+    },
+    {
+      "id": "trait.asset.d704dcf66eedaea5fbad",
+      "source": "(*)<i>You can wear an Offhand with Two-Handed Weapons.</i>\n(*)<i>Two-Handed Weapons [[also]] count as One-Handed.</i>",
+      "translation": "(*)<i>你可以在使用双手武器时装备副手装备。</i>\n(*)<i>双手武器[[同时]]视为单手武器。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56404",
+      "protectedTokens": [
+        "(*)",
+        "(*)",
+        "</i>",
+        "</i>",
+        "<i>",
+        "<i>"
+      ]
+    },
+    {
+      "id": "trait.asset.b3010eeffdd8bbf06543",
+      "source": "Unforgiving",
+      "translation": "不饶恕",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56405"
+    },
+    {
+      "id": "trait.asset.503be329773713d35c14",
+      "source": "(*)<i>Damage from your Skill inflicts Vulnerability.</i>\n",
+      "translation": "(*)<i>你的技能造成的伤害会施加脆弱。</i>\n",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56405",
+      "protectedTokens": [
+        "(*)",
+        "</i>",
+        "<i>"
+      ]
+    },
+    {
+      "id": "trait.asset.e0eec04dd5a0ef092f70",
+      "source": "Super Charged",
+      "translation": "超载",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56406"
+    },
+    {
+      "id": "trait.asset.4dd107dfc65b92cd793c",
+      "source": "Super Devoted",
+      "translation": "超级虔诚",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56407"
+    },
+    {
+      "id": "trait.asset.988ea6e763b78f6f98de",
+      "source": "Super Drunkard",
+      "translation": "超级酒鬼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56408"
+    },
+    {
+      "id": "trait.asset.ef815090d823410a7412",
+      "source": "Super Protection",
+      "translation": "超级防护",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56409"
+    },
+    {
+      "id": "trait.asset.54677253de003454884d",
+      "source": "(*)<i>Gain [[+5]] Armor Containers<sprite name=\"Armor\">.</i>\n(*)<i>Armor Containers<Armor> count as Soul Hearts<Soul_Heart>.</i>",
+      "translation": "(*)<i>获得[[+5]]个护甲容器<sprite name=\"Armor\">。</i>\n(*)<i>护甲容器<Armor>视为灵魂之心<Soul_Heart>。</i>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56409",
+      "protectedTokens": [
+        "(*)",
+        "(*)",
+        "</i>",
+        "</i>",
+        "<Armor>",
+        "<Soul_Heart>",
+        "<i>",
+        "<i>",
+        "<sprite name=\"Armor\">"
+      ]
+    },
+    {
+      "id": "trait.asset.057df2142ec168817485",
+      "source": "Super Fortune",
+      "translation": "超级幸运",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56410"
+    },
+    {
+      "id": "trait.asset.f8da4ec1283354748bdc",
+      "source": "Super Friendly",
+      "translation": "超级友善",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56411"
+    },
+    {
+      "id": "trait.asset.acf121b38b3346f03ef4",
+      "source": "Super Health",
+      "translation": "超级生命",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56412"
+    },
+    {
+      "id": "trait.asset.5bcef7dddb15665fd37a",
+      "source": "Super Lazy",
+      "translation": "超级慵懒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56413"
+    },
+    {
+      "id": "trait.asset.e1fb80d8564e67109791",
+      "source": "Super Magi-Tech Metabolism",
+      "translation": "超级魔导科技代谢",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56414"
+    },
+    {
+      "id": "trait.asset.a6e6498f3c714e1b83bc",
+      "source": "Super Reflexes",
+      "translation": "超级反射",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56415"
+    },
+    {
+      "id": "trait.asset.cbf4b59eed425da9a0c8",
+      "source": "Super Rich",
+      "translation": "超级富有",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56416"
+    },
+    {
+      "id": "trait.asset.d88f5a93e3ab1cea032c",
+      "source": "You have [[Infinite]] Gold<sprite name=\"Gold\">.\n<color=grey>(Assumes 1000 Gold<sprite name=\"Gold\"> for the purpose of Effects that scale with Gold<sprite name=\"Gold\">.)</color>",
+      "translation": "你拥有[[无限]]金币<sprite name=\"Gold\">。\n<color=grey>（为了计算随金币<sprite name=\"Gold\">缩放的效果，按1000金币<sprite name=\"Gold\">计算。）</color>",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56416",
+      "protectedTokens": [
+        "</color>",
+        "<color=grey>",
+        "<sprite name=\"Gold\">",
+        "<sprite name=\"Gold\">",
+        "<sprite name=\"Gold\">"
+      ]
+    },
+    {
+      "id": "trait.asset.b6124d9520f4feb48834",
+      "source": "Super Smarts",
+      "translation": "超级聪明",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56417"
+    },
+    {
+      "id": "trait.asset.7de8f219b084fdac856c",
+      "source": "Super Speed",
+      "translation": "超级速度",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56418"
+    },
+    {
+      "id": "trait.asset.4b2aaf17d763fdd724ce",
+      "source": "Super Stamina",
+      "translation": "超级体力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56419"
+    },
+    {
+      "id": "trait.asset.002fb2dbfe0b620ecca8",
+      "source": "Super Strength",
+      "translation": "超级力量",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:56420"
+    }
+  ]
+}

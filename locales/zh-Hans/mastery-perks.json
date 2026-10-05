@@ -1,0 +1,1959 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "独立精通天赋翻译",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "progression.asset.26a4ad83911900215710.display",
+      "source": "Adaptability",
+      "translation": "适应性",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.399ac70fbea6d1c1a35f.display",
+      "source": "All In",
+      "translation": "孤注一掷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.89042892c5d643586c14.display",
+      "source": "Backup Armory",
+      "translation": "备用军械库",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.bbb18c1b3083b35bb4e5.display",
+      "source": "Bargain Hunter",
+      "translation": "砍价高手",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.524a5081887dd8b6e57b.display",
+      "source": "Bulk Seller",
+      "translation": "批量销售",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.cc063891a6890d63dfb0.display",
+      "source": "Bunking Up",
+      "translation": "借宿",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.a9fca32e8c7fed957d6c.display",
+      "source": "Butterfly Effect",
+      "translation": "蝴蝶效应",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.8e6dd139d80c8158a66f.display",
+      "source": "Call To Adventure",
+      "translation": "冒险召唤",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.d76b2638413ef973b618.display",
+      "source": "Catharsis",
+      "translation": "净化心灵",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.6bd18e5d745b79495546.display",
+      "source": "Compromised Loot",
+      "translation": "妥协的战利品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.3dd7b2ce39aee1b6d488.display",
+      "source": "Dedication",
+      "translation": "专注",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.4e629b01f19c6504074f.display",
+      "source": "Deep Sea Contraband",
+      "translation": "深海走私",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.d9b372a941ed0a237304.display",
+      "source": "Deflation",
+      "translation": "通货紧缩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.2341ac3f010dfd9d27d8.display",
+      "source": "Demand And Supply",
+      "translation": "需求与供给",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.ada0c985f5940d136c28.display",
+      "source": "Double Trouble",
+      "translation": "双重麻烦",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.d3706ce4c314dcfb646d.display",
+      "source": "Drinking On The Dot",
+      "translation": "准点饮酒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.40088addbc956e7e9c8f.display",
+      "source": "Enigmatic",
+      "translation": "神秘莫测",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.62a6bba25a0c04ca06b9.display",
+      "source": "Ethereal Roulette",
+      "translation": "虚灵轮盘",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.8599da6b921810e1dea5.display",
+      "source": "Evergreen",
+      "translation": "常青",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.e05f9deb9a5d19130b38.display",
+      "source": "Explosive Delivery",
+      "translation": "爆炸快递",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.25235e8caff2bb8c90fb.display",
+      "source": "Faith",
+      "translation": "信仰",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.2a85ad6057a220e06717.display",
+      "source": "Farewell Drink",
+      "translation": "饯行酒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.117adc6ef37c1498d783.display",
+      "source": "First Aid",
+      "translation": "急救",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.750b4bd63b59f918f7a7.display",
+      "source": "Fishing Club",
+      "translation": "钓鱼俱乐部",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.22f0488d0d4abdd5487d.display",
+      "source": "Forbidden Magic",
+      "translation": "禁忌魔法",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.ad3f559251bde1982b35.display",
+      "source": "Freedom",
+      "translation": "自由",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.a33345970e2a6523b38a.display",
+      "source": "Friend of Nature",
+      "translation": "自然之友",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.6e102c3c97a4816af308.display",
+      "source": "Friendship Quest",
+      "translation": "友谊任务",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.9ab93954413e5d8de5b3.display",
+      "source": "Golden Roulette",
+      "translation": "黄金轮盘",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.d60e9adf89c4540493a6.display",
+      "source": "Happy Hour",
+      "translation": "欢乐时光",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.c6582ec2d62639c5ea3e.display",
+      "source": "Head Start",
+      "translation": "抢先起步",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.11cdc4c2719366c02259.display",
+      "source": "Health Insurance",
+      "translation": "医疗保险",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.ac279f29ab8e45d394a1.display",
+      "source": "Heart Seeker",
+      "translation": "寻心者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.9243817a4ac9962366a1.display",
+      "source": "High Roller",
+      "translation": "豪赌客",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.136b592e40498a2e9f05.display",
+      "source": "High Stakes",
+      "translation": "高额赌注",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.20cd74ff42b6cc4a6804.display",
+      "source": "Holy Devoition",
+      "translation": "神圣奉献",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.29f464816019c55d80e1.display",
+      "source": "Hope",
+      "translation": "希望",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.1ac0bc0b6c8a5b1ca437.display",
+      "source": "In The Eleventh Hour",
+      "translation": "最后关头",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.d737863383445d44009b.display",
+      "source": "Inflation",
+      "translation": "通货膨胀",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.dbd6921f7cf500110e3a.display",
+      "source": "Labyrinth Of Fate",
+      "translation": "命运迷宫",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.117776b6a8bfe99efbf9.display",
+      "source": "Lazy Stroll",
+      "translation": "悠闲漫步",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.950d69c01dcc9581ed0e.display",
+      "source": "Left To Fate",
+      "translation": "听天由命",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.778e5edf9671fae46f97.display",
+      "source": "Loss Leader",
+      "translation": "亏本引流",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.cb470e4f4b446f9a6197.display",
+      "source": "Lost Goods",
+      "translation": "遗失货物",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.735a2605d1e101843f41.display",
+      "source": "Loyalty",
+      "translation": "忠诚",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.e31a9ab2db6ccf240ac8.display",
+      "source": "Lucky Start",
+      "translation": "幸运开局",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.6863311d6cffbc3fb43b.display",
+      "source": "Magnum Opus",
+      "translation": "旷世杰作",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.f6d4cbebc62d35e22aeb.display",
+      "source": "Mixed Bag",
+      "translation": "混合福袋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.83578b0271e5948e03d7.display",
+      "source": "Money At The Spot",
+      "translation": "就地变现",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.84012646b35ba776ca9b.display",
+      "source": "Odyssey",
+      "translation": "奥德赛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.e9150e2a230b13a1b81c.display",
+      "source": "Opening Move",
+      "translation": "起手式",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.e01ca2872ab3313d5195.display",
+      "source": "Pandoras Boxes",
+      "translation": "潘多拉魔盒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.80d88fed154d60a0bae9.display",
+      "source": "Pay To Win",
+      "translation": "氪金取胜",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.ffc3935df57d1eb72bd6.display",
+      "source": "Perfectionist",
+      "translation": "完美主义者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.29e9e392892392d98179.display",
+      "source": "Perseverance",
+      "translation": "坚持不懈",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.07c162af549a574a7947.display",
+      "source": "Personal Agency",
+      "translation": "自主意志",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.1a1a4bb6d83b862ad72e.display",
+      "source": "Pity",
+      "translation": "怜悯",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.1385bd6026f54f82a519.display",
+      "source": "Playtime",
+      "translation": "游乐时光",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.7a3e41ff7da49e6db4c6.display",
+      "source": "Precognition",
+      "translation": "预知",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.bb4b5e9aee3bbae5de57.display",
+      "source": "Prodigy",
+      "translation": "神童",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.c219760bd4e5aab96739.display",
+      "source": "Prosperity",
+      "translation": "繁荣",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.2d80af5e768d964cd0fc.display",
+      "source": "Quick Recovery",
+      "translation": "快速恢复",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.65874435ba670917bc39.display",
+      "source": "Rainy Day Fund",
+      "translation": "未雨绸缪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.96eb721ce0d2c05cc3cf.display",
+      "source": "Ready To Go",
+      "translation": "整装待发",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.fc47d0264756b0979ed0.display",
+      "source": "Rebirth",
+      "translation": "重生",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.13443a4449afcdc5a57d.display",
+      "source": "Red Roulette",
+      "translation": "红色轮盘",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.6a3fb9ac74e1530a40b6.display",
+      "source": "Repair Every Slot",
+      "translation": "修遍全身",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.988835012948e6aeb168.display",
+      "source": "Repercussions",
+      "translation": "因果回响",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.f564d0e3d61772fa1fa3.display",
+      "source": "Rise Or Fall",
+      "translation": "起落之间",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.4fc11d433c2acd2f3a76.display",
+      "source": "Royal Descent",
+      "translation": "王室血统",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.ba28b36102929004d172.display",
+      "source": "Safe Bet",
+      "translation": "稳妥下注",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.b4915fc564cfcbae8fbb.display",
+      "source": "Secret Service",
+      "translation": "秘密服务",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.41c7bdb857c322e62e0f.display",
+      "source": "Shortcut",
+      "translation": "捷径",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.a52eb32b8997a10f9e4a.display",
+      "source": "Silent Night",
+      "translation": "平安夜",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.822d9542efbf533465a1.display",
+      "source": "Skirmisher",
+      "translation": "游击者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.1e0d63df2fc246118f3a.display",
+      "source": "Sleight",
+      "translation": "巧手",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.5d2a8494ded46b5816cd.display",
+      "source": "Slow And Steady",
+      "translation": "稳扎稳打",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.f20d8cf064ee7ca5c522.display",
+      "source": "Smash And Grab",
+      "translation": "打砸抢",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.6a077e7f7ed8586cfd78.display",
+      "source": "Smuggler Nook",
+      "translation": "走私者角落",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.0af5e1cda17bb1f77d88.display",
+      "source": "Speed",
+      "translation": "速度",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.44ef1178df1b9d59743c.display",
+      "source": "Spoiled For Choice",
+      "translation": "眼花缭乱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.af850aa35faa02f5b477.display",
+      "source": "Stamina Scout",
+      "translation": "耐力侦察员",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.abbf9d5a23858e803dc4.display",
+      "source": "Steady To Go",
+      "translation": "稳步前进",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.28403524a7fbca54b5ae.display",
+      "source": "Strong Foundation",
+      "translation": "坚实基础",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.95f6002fc9e5f471285a.display",
+      "source": "Suit Up",
+      "translation": "披挂上阵",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.1e2cd75b776ce6f4a6a8.display",
+      "source": "Supernatural Aid",
+      "translation": "超自然援助",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.4f4562a182194a3a7c72.display",
+      "source": "Superstitions",
+      "translation": "迷信",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.37204a6700ad6d117597.display",
+      "source": "Supply And Demand",
+      "translation": "供给与需求",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.ecd8b8502b3dc5d10902.display",
+      "source": "Sympathy",
+      "translation": "同情",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.c61b4a8f2509dcc0e2c2.display",
+      "source": "Take This",
+      "translation": "拿着这个",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.1108f5a9c720031e98cd.display",
+      "source": "The Glass Is Half Empty",
+      "translation": "杯中半空",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.75c40d1d20b627b9c3b0.display",
+      "source": "The Glass Is Half Full",
+      "translation": "杯中半满",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.fafc00cfbaf5658be4ba.display",
+      "source": "They Key To Success",
+      "translation": "成功的钥匙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.44dd4deb2b3e809c9696.display",
+      "source": "Thief In the Shadows",
+      "translation": "暗影盗贼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.104aff115e28c2d156ab.display",
+      "source": "Throne Quest",
+      "translation": "王座任务",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.5c6fb9436e44445f3057.display",
+      "source": "Treasure Hunter",
+      "translation": "寻宝猎人",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.7295350df92ea7463e96.display",
+      "source": "Trust Issues",
+      "translation": "信任危机",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.6982af110fc2becc0665.display",
+      "source": "Twilight Fall",
+      "translation": "暮光降临",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.d0f145b46ff012943efa.display",
+      "source": "Vanity",
+      "translation": "虚荣",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.f582531deddb8d27cb08.display",
+      "source": "Vigor",
+      "translation": "活力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.5247f4cc5aac62f69405.display",
+      "source": "Weave The Arcane",
+      "translation": "编织奥术",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.03b06051beaad468ef84.display",
+      "source": "Well Rounded Beast",
+      "translation": "全面成长",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.9479e84d821a973ed629.display",
+      "source": "Wild Card",
+      "translation": "万能牌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.17e6639ba3b45dec6d1f.display",
+      "source": "Wildlife Trafficking",
+      "translation": "野生动物走私",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.6675478fbd1213bd2ced.display",
+      "source": "Window Shopper",
+      "translation": "橱窗购物者",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.1c65e27e89f88593f0f5.display",
+      "source": "World of Hurt",
+      "translation": "苦痛世界",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.2c9866524c45d1af67a5.display",
+      "source": "Worth Of A Soul",
+      "translation": "灵魂价值",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.5c0029a63af9e566d792.display",
+      "source": "Wrangler",
+      "translation": "驯兽师",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "根据原版资源名去固定后缀得到 canonical 显示名；native MetaPerk.Title 会全大写并插入不换行空格，需专用适配器。"
+    },
+    {
+      "id": "progression.asset.6ab1cd5eecd110749ef1",
+      "source": "Weapons that are not the same Weapon Type that you are\ncurrently wearing are [[x1.20]] more ##common.\n<color=grey>[Weapon Types are //Melee, //Ranged and Magic.]</color>",
+      "translation": "与你当前使用的武器类型不同的武器\n出现频率乘以 [[x1.20]]，更为##常见。\n<color=grey>[武器类型分为//近战、//远程和魔法。]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55795"
+    },
+    {
+      "id": "progression.asset.09ef5605cb2238321ca9",
+      "source": "Gain a [[50%]] chance that Food Rewards match your highest Attribute.",
+      "translation": "食物奖励有 [[50%]] 几率对应你的最高属性。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55796"
+    },
+    {
+      "id": "progression.asset.e37e351a3ad13cb987b3",
+      "source": "Floor 3 has an additional Armory, but it only contains 2 Weapons.",
+      "translation": "第 3 层额外出现一间军械库，但其中只有 2 把武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55797"
+    },
+    {
+      "id": "progression.asset.672c89af0ebcaa36abc6",
+      "source": "Gain a [[10%]] Discount in all Shops.",
+      "translation": "所有商店提供 [[10%]] 折扣。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55798"
+    },
+    {
+      "id": "progression.asset.da071ce0021fd0e83204",
+      "source": "With each consecutive Item sold at a Pawn Shop, following Items sell for\n[[+1]] Gold<sprite name=\"Gold\"> up to a maximum of [[+10]].",
+      "translation": "在当铺连续出售物品时，后续物品的售价每件增加\n[[+1]] 金币<sprite name=\"Gold\">，最高增加 [[+10]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55799"
+    },
+    {
+      "id": "progression.asset.cf8519e666416299d96a",
+      "source": "Staying over night at the Tavern costs [[5]] Gold<sprite name=\"Gold\"> instead of 10.",
+      "translation": "在酒馆过夜只需 [[5]] 金币<sprite name=\"Gold\">，而非 10。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55800"
+    },
+    {
+      "id": "progression.asset.af11990b21d6b6733623",
+      "source": "Colors of Traits offered to you are more likely to match the colors of Traits you already have.",
+      "translation": "提供的特质更有可能与你已有特质的颜色相同。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55801"
+    },
+    {
+      "id": "progression.asset.8cb048227f985c9e893f",
+      "source": "Gain [[+1]] Suppression<sprite name=\"Suppression\"> in the Floor 1, 2 and 3 Boss Fight.",
+      "translation": "在第 1、2、3 层首领战中获得 [[+1]] 压制<sprite name=\"Suppression\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55802"
+    },
+    {
+      "id": "progression.asset.926b70bcec31854b7fef",
+      "source": "Gain [[+1]] Suppression<Suppression> in the Floor 10 Boss Fight.",
+      "translation": "在第 10 层首领战中获得 [[+1]] 压制<Suppression>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55803"
+    },
+    {
+      "id": "progression.asset.92b0eb03ef9d6365007e",
+      "source": "Locked Cellars never contain locked Treasure Chests.",
+      "translation": "上锁的地窖里不会出现上锁的宝箱。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55804"
+    },
+    {
+      "id": "progression.asset.083d990c0dd628ea7b54",
+      "source": "Weapons of the same Weapon Class that you started with, \nare [[x1.20]] more //common.\n<color=grey>[E.g.: Sword, Bow, Gun, Wand, ...]</color>",
+      "translation": "与你初始武器同类的武器， \n出现频率乘以 [[x1.20]]，更为//常见。\n<color=grey>[例如：剑、弓、枪、魔杖……]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55805"
+    },
+    {
+      "id": "progression.asset.1478b85a2b05d6a54818",
+      "source": "The Black Market always has the Kuo-Tao selling Fish.\nYou also gain a [[50%]] Discount at that Shop.",
+      "translation": "黑市必定有寇涛鱼人出售鱼类。\n该商店还会提供 [[50%]] 折扣。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55806"
+    },
+    {
+      "id": "progression.asset.bd1baf014d650a81ef8f",
+      "source": "Weapons and Equipment are worth [[+1 to +5]] Gold<sprite name=\"Gold\"> more at Pawn Shops.",
+      "translation": "武器与装备在当铺的售价提高 [[+1 至 +5]] 金币<sprite name=\"Gold\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55807"
+    },
+    {
+      "id": "progression.asset.fa7940f14baadbd96786",
+      "source": "Soul<Soul> Prices in Shops under 5 are reduced to 1.",
+      "translation": "商店中低于 5 灵魂<Soul>的价格降至 1。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55808"
+    },
+    {
+      "id": "progression.asset.b45abfc98f402ff5761d",
+      "source": "You encounter less Mimics but they now always appear in pairs.\n<color=grey>[Info: Fighting against 2 Mimics at the same time can be difficult but rewarding.]</color>",
+      "translation": "你会遇到更少的宝箱怪，但它们必定成对出现。\n<color=grey>[提示：同时对战 2 个宝箱怪可能很困难，但奖励也很丰厚。]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55809"
+    },
+    {
+      "id": "progression.asset.c9f32e8c61a27fd12584",
+      "source": "Taverns are now guaranteed to appear on Floor 3, 6 and 9 instead of appearing randomly.",
+      "translation": "酒馆固定出现在第 3、6、9 层，不再随机出现。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55810"
+    },
+    {
+      "id": "progression.asset.365c8644383db28e0d60",
+      "source": "Enchanting Weapons at the Enchantress costs [[20]] Gold<sprite name=\"Gold\"> instead of 30.",
+      "translation": "向附魔师附魔武器只需 [[20]] 金币<sprite name=\"Gold\">，而非 30。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55811"
+    },
+    {
+      "id": "progression.asset.e25187ea3ca93cce640f",
+      "source": "Dice Rewards grant [[+1 to +2]] Ethereal Dice.",
+      "translation": "骰子奖励增加 [[+1 至 +2]] 个虚灵骰子。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55812"
+    },
+    {
+      "id": "progression.asset.2e67c9961518a2254501",
+      "source": "Green Blossoms last 10 Rooms instead of 1 Room.\n",
+      "translation": "绿花草持续 10 个房间，而非 1 个房间。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55813"
+    },
+    {
+      "id": "progression.asset.fcfa6f4086e9174d34f4",
+      "source": "Once per Run, when you enter a Floor beyond Floor 5 without any Bombs<sprite name=\"Bomb\">, gain [[3]] Bombs<sprite name=\"Bomb\">.",
+      "translation": "每局一次，进入第 5 层之后的楼层时，若没有炸弹<sprite name=\"Bomb\">，则获得 [[3]] 枚炸弹<sprite name=\"Bomb\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55814"
+    },
+    {
+      "id": "progression.asset.9ca06be2d2844764abcd",
+      "source": "While one Alignment is 2 or higher and the other three are 1 or lower:\nGain [[+1]] Treasure Find<Treasure>.\n<g>(Alignments are Good<Good>, Evil<Evil>, Lawful<Lawful> or Chaotic<Chaos>.)</g>\n",
+      "translation": "当一种阵营倾向不低于 2，其他三种不高于 1 时：\n获得 [[+1]] 宝藏发现率<Treasure>。\n<g>（阵营倾向包括善良<Good>、邪恶<Evil>、守序<Lawful>与混乱<Chaos>。）</g>\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55815"
+    },
+    {
+      "id": "progression.asset.17da4135db2973c6cf2b",
+      "source": "Floor 10 always has a Tavern.",
+      "translation": "第 10 层必定有酒馆。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55816"
+    },
+    {
+      "id": "progression.asset.fc784e80b33530545a06",
+      "source": "Gain [[+1]] Flask<Flask>.",
+      "translation": "获得 [[+1]] 药瓶<Flask>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55817"
+    },
+    {
+      "id": "progression.asset.f5ce1de4bf0088770d8f",
+      "source": "An aquarium is added to\nevery Tavern, at which\nyou may catch up to [[2]] Fish.",
+      "translation": "每家酒馆都增加\n一个水族箱，你可以\n从中钓到最多 [[2]] 条鱼。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55818"
+    },
+    {
+      "id": "progression.asset.e94b9b67b98bbe75c8c8",
+      "source": "The Black Market always has the Wizard selling ##Charms.\nYou also gain a [[50%]] Discount at that Shop.",
+      "translation": "黑市必定有法师出售##护符。\n该商店还会提供 [[50%]] 折扣。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55819"
+    },
+    {
+      "id": "progression.asset.8eed6b50022f1458c860",
+      "source": "Rooms are up to [[2]] Tiles larger in Width and Height.",
+      "translation": "房间的宽度与高度最多增加 [[2]] 格。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55820"
+    },
+    {
+      "id": "progression.asset.a67a5c92f5f10f08d778",
+      "source": "The Dryad is now always at the Tavern, replacing the Nurse.\nShe sells Green Blossoms for Gold<Gold>.",
+      "translation": "树精固定出现在酒馆，替代护士。\n她出售绿花草，收取金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55821"
+    },
+    {
+      "id": "progression.asset.50bd8c5e961fb6375c03",
+      "source": "On Floor 1, you are guaranteed a Door that leads to a Companion Reward as Boss Reward.",
+      "translation": "第 1 层必定有一道门，其首领奖励为同伴。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55822"
+    },
+    {
+      "id": "progression.asset.9747b8eade8d1929c5d2",
+      "source": "Dice Rewards grant [[+1]] Golden Dice.",
+      "translation": "骰子奖励增加 [[+1]] 个黄金骰子。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55823"
+    },
+    {
+      "id": "progression.asset.336d288f8c417af726be",
+      "source": "Booze is [[2 to 5]] Gold<sprite name=\"Gold\"> cheaper.",
+      "translation": "酒水便宜 [[2 至 5]] 金币<sprite name=\"Gold\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55824"
+    },
+    {
+      "id": "progression.asset.dbf3ae2066b958ef0d8b",
+      "source": "You start with [[+1]] EXP.",
+      "translation": "开局获得 [[+1]] 经验值。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55825"
+    },
+    {
+      "id": "progression.asset.5183640f894f5aa136de",
+      "source": "Healing at the Nurse costs [[5]] Gold<sprite name=\"Gold\"> instead of 10.",
+      "translation": "向护士治疗只需 [[5]] 金币<sprite name=\"Gold\">，而非 10。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55826"
+    },
+    {
+      "id": "progression.asset.e52b0263955e05712f5d",
+      "source": "On the first 3 Floors: \nEquipment items that grant Hearts<sprite name=\"Heart\"> are [[x2.00]] more ##common.",
+      "translation": "在前 3 层： \n提供红心<sprite name=\"Heart\">的装备出现频率乘以 [[x2.00]]，更为##常见。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55827"
+    },
+    {
+      "id": "progression.asset.9cf1e3c01cdb5d087609",
+      "source": "Gain a [[20%]] chance to gain the maximum amount of Rewards from a Room.",
+      "translation": "有 [[20%]] 几率从房间获得最大数量的奖励。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55828"
+    },
+    {
+      "id": "progression.asset.fd29d586b2f5be166b2c",
+      "source": "Increases your Super Effective<sprite name=\"Super_Effective\"> Damage by [[+15%]].",
+      "translation": "效果拔群<sprite name=\"Super_Effective\">伤害提高 [[+15%]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55829"
+    },
+    {
+      "id": "progression.asset.c8ebdcfe91dab4e6f510",
+      "source": "The Cleric is now always at the Tavern, replacing the Nurse.\nShe sells Purging Stones that reduce Curse<Curse> for Gold<Gold>.",
+      "translation": "牧师固定出现在酒馆，替代护士。\n她出售可降低诅咒<Curse>的净化石，收取金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55830"
+    },
+    {
+      "id": "progression.asset.d58918bf279494fc7cbc",
+      "source": "You start with \n[[+1]] Soul Heart<sprite name=\"Soul_Heart\">.",
+      "translation": "开局获得 \n[[+1]] 颗灵魂之心<sprite name=\"Soul_Heart\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55831"
+    },
+    {
+      "id": "progression.asset.f917c601e5f3171786f5",
+      "source": "Healing<sprite name=\"Heart\"> Rewards are [[25%]] more ##common while at the brink of death.",
+      "translation": "濒死时，治疗<sprite name=\"Heart\">奖励出现频率提高 [[25%]]，更为##常见。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55832"
+    },
+    {
+      "id": "progression.asset.bea5f965ecadbe1746fa",
+      "source": "Weapons and Equipment are\n[[1 to 5]] Gold<sprite name=\"Gold\"> cheaper at Shops.",
+      "translation": "商店里的武器与装备\n便宜 [[1 至 5]] 金币<sprite name=\"Gold\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55833"
+    },
+    {
+      "id": "progression.asset.00dfc1f1460a878573c7",
+      "source": "Floor 10 always has an Event Room.",
+      "translation": "第 10 层必定有事件房间。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55834"
+    },
+    {
+      "id": "progression.asset.fb317d20e74307ff7f62",
+      "source": "While you are Level 0,\nBosses have\n[[x0.90]] Health<Heart> and Armor<Armor>.",
+      "translation": "当你处于 0 级时，\n首领的\n生命<Heart>与护甲<Armor>为 [[x0.90]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55835"
+    },
+    {
+      "id": "progression.asset.77f366544fda267959d9",
+      "source": "Curse<sprite name=\"Curse\"> is [[x0.75]] less likely to downgrade Room Rewards.",
+      "translation": "诅咒<sprite name=\"Curse\">使房间奖励降级的几率乘以 [[x0.75]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55836"
+    },
+    {
+      "id": "progression.asset.6bd5235cb97e741b0665",
+      "source": "Upgrading Weapons at Blacksmiths costs [[10]]/[[15]]/20/((25)) instead of always 20.",
+      "translation": "在铁匠处升级武器的费用为 [[10]]/[[15]]/20/((25))，而非每次都为 20。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55837",
+      "protectedTokens": [
+        "(25)"
+      ]
+    },
+    {
+      "id": "progression.asset.77ac666667f61b4b342a",
+      "source": "Floor 10 always has a Shop.",
+      "translation": "第 10 层必定有商店。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55838"
+    },
+    {
+      "id": "progression.asset.10726cf6a0bae90d7316",
+      "source": "Every Blacksmith can now upgrade Weapons to Upgrade Level [[4]].",
+      "translation": "所有铁匠都能将武器升至 [[4]] 级。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55839"
+    },
+    {
+      "id": "progression.asset.2700aa08fc04c575ab84",
+      "source": "Gain [[+1]] Luck<sprite name=\"Luck\">\non Floor 1 and 2.",
+      "translation": "第 1、2 层\n获得 [[+1]] 幸运<sprite name=\"Luck\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55840"
+    },
+    {
+      "id": "progression.asset.29ccc3e9e7483a1388d6",
+      "source": "Legendary Weapons always spawn with a Legendary Enchantment Modifier.",
+      "translation": "传奇武器必定带有传奇附魔词缀。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55841"
+    },
+    {
+      "id": "progression.asset.6e95ee90440a9000bc5a",
+      "source": "Shops that trade for Souls<Soul> have a [[10%]] chance to charge Gold<Gold> instead.",
+      "translation": "以灵魂<Soul>交易的商店有 [[10%]] 几率改为收取金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55842"
+    },
+    {
+      "id": "progression.asset.f173b10e7599bb93b6b9",
+      "source": "Pawn Shops are now guaranteed to appear on Floor 3, 6 and 9 instead of appearing randomly.",
+      "translation": "当铺固定出现在第 3、6、9 层，不再随机出现。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55843"
+    },
+    {
+      "id": "progression.asset.4cf7db914f2058497c15",
+      "source": "While you are not using any Legendary Item, Legendary Items are [[x1.20]] more ##common.",
+      "translation": "未使用任何传奇物品时，传奇物品出现频率乘以 [[x1.20]]，更为##常见。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55844"
+    },
+    {
+      "id": "progression.asset.72b379f071d65c360775",
+      "source": "Your first Trait Selection always offers [[4]] Choices.",
+      "translation": "第一次选择特质时必定提供 [[4]] 个选项。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55845"
+    },
+    {
+      "id": "progression.asset.886925e6eed8311f947f",
+      "source": "Upon opening\n5 Treasure Chests, \npermanently gain \n[[+1]] Magic Find<Magic_Find>.",
+      "translation": "打开\n5 个宝箱后， \n永久获得 \n[[+1]] 魔法发现率<Magic_Find>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55846"
+    },
+    {
+      "id": "progression.asset.bb62006f42f2b7d58794",
+      "source": "Floor 1 always has a Shop.",
+      "translation": "第 1 层必定有商店。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55847"
+    },
+    {
+      "id": "progression.asset.47fbc4df2788004ded20",
+      "source": "Gain [[+1]] Trait Reroll\non Level 6.",
+      "translation": "在 6 级时\n获得 [[+1]] 次特质重掷。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55848"
+    },
+    {
+      "id": "progression.asset.44af9b26dd4619ab62da",
+      "source": "Weapons in Armories never have Negative Enchantment Modifiers.",
+      "translation": "军械库里的武器不会带有负面附魔词缀。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55849"
+    },
+    {
+      "id": "progression.asset.ca2a9df62ff3b3f5a97e",
+      "source": "Curse<sprite name=\"Curse\"> is [[x0.75]] less likely to seal Traits.",
+      "translation": "诅咒<sprite name=\"Curse\">封印特质的几率乘以 [[x0.75]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55850"
+    },
+    {
+      "id": "progression.asset.5150fc31ac03b0778909",
+      "source": "Blacksmiths can remove Negative Enchantment Modifiers from Weapons at no charge.",
+      "translation": "铁匠可免费移除武器上的负面附魔词缀。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55851"
+    },
+    {
+      "id": "progression.asset.39d0ba4f350bd7eee576",
+      "source": "Event Rooms with Minigames \nand Arcade Rooms are\n[[x2.00]] more //common.\n",
+      "translation": "包含小游戏的事件房间 \n与游乐厅\n出现频率乘以 [[x2.00]]，更为//常见。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55852"
+    },
+    {
+      "id": "progression.asset.a6ff58965d31eef6542e",
+      "source": "The Enchantress is always at the Tavern.",
+      "translation": "附魔师固定出现在酒馆。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55853"
+    },
+    {
+      "id": "progression.asset.4025dea6264b72130f5d",
+      "source": "The chance to win the Jackpot at the Arcade rises\nfrom 1% to [[5%]].\n\nAdditionally, Minigames are\n[[20% to 30% easier]].\n<g>(E.g.: Fishing, Dancing, Lockpicking...)</g>",
+      "translation": "游乐厅的头奖中奖几率\n从 1% 提高至 [[5%]]。\n\n此外，小游戏\n的难度降低 [[20% 至 30%]]。\n<g>（例如：钓鱼、跳舞、撬锁……）</g>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55854"
+    },
+    {
+      "id": "progression.asset.046ab73e9e388628badd",
+      "source": "Boss Rewards that grant //Weapons or Equipment now guarantee Type for [[3]] Items instead of just for 1.",
+      "translation": "提供//武器或装备的首领奖励，会保证 [[3]] 件物品的类型，而非仅保证 1 件。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55855"
+    },
+    {
+      "id": "progression.asset.360ce697bec74b77f6b2",
+      "source": "Gain [[+25%]] Flask<Flask> Drink Speed.",
+      "translation": "药瓶<Flask>饮用速度提高 [[+25%]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55856"
+    },
+    {
+      "id": "progression.asset.acde3b312daec8169bf8",
+      "source": "Once per Run, when you enter a Floor beyond Floor 5 without any Gold<Gold>, gain [[10]] Gold<Gold>.",
+      "translation": "每局一次，进入第 5 层之后的楼层时，若没有金币<Gold>，则获得 [[10]] 金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55857"
+    },
+    {
+      "id": "progression.asset.e0bda2f1c36451c8b9fe",
+      "source": "Gain [[+25%]] chance for Weapons to spawn with an Enchantment Modifier.",
+      "translation": "武器生成时带有附魔词缀的几率提高 [[+25%]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55858"
+    },
+    {
+      "id": "progression.asset.0f29bee9e50fc2428df6",
+      "source": "Gain [[+1]] Revive<sprite name=\"Revive\">.",
+      "translation": "获得 [[+1]] 次复活<sprite name=\"Revive\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55859"
+    },
+    {
+      "id": "progression.asset.097e132242b0d108b127",
+      "source": "Dice Rewards grant [[+2 to +3]] Red Dice.",
+      "translation": "骰子奖励增加 [[+2 至 +3]] 个红色骰子。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55860"
+    },
+    {
+      "id": "progression.asset.97f26145cb6138e30006",
+      "source": "Blacksmiths are now guaranteed to appear on Floor 3, 6 and 9 instead of appearing randomly.",
+      "translation": "铁匠固定出现在第 3、6、9 层，不再随机出现。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55861"
+    },
+    {
+      "id": "progression.asset.9314ecd452a69ef81dca",
+      "source": "For each point of Evil<Evil>,\nfind [[+5%]] Blood Chest Rewards.\n\nFor each point of Good<Good>,\nfind [[+5%]] Shrine Rewards.\n\nFor each point of Lawful<Lawful>,\nfind [[+5%]] Soul Rewards.\n\nFor each point of Chaotic<Chaos>,\nfind [[+5%]] Dice Rewards.",
+      "translation": "每点邪恶<Evil>，\n血宝箱奖励出现频率提高 [[+5%]]。\n\n每点善良<Good>，\n祭坛奖励出现频率提高 [[+5%]]。\n\n每点守序<Lawful>，\n灵魂奖励出现频率提高 [[+5%]]。\n\n每点混乱<Chaos>，\n骰子奖励出现频率提高 [[+5%]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55862"
+    },
+    {
+      "id": "progression.asset.e9524ed15375c10e6c61",
+      "source": "Every Armory contains a Weapon with an Enchantment Modifier.",
+      "translation": "每间军械库都包含一把带有附魔词缀的武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55863"
+    },
+    {
+      "id": "progression.asset.46e53d5728a2516ac909",
+      "source": "You gain [[+10%]] chance per Run to run into a Royal Armory.\n<color=grey>[Added to a 5% Base Chance.]</color>",
+      "translation": "每局遇到皇家军械库的几率提高 [[+10%]]。\n<color=grey>[在 5% 的基础几率上叠加。]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55864"
+    },
+    {
+      "id": "progression.asset.d1b2f08e051d6e075bd0",
+      "source": "If the rolled amount of Room Rewards is below average the amount is rolled again, taking the higher of the two values.",
+      "translation": "若房间奖励数量的随机结果低于平均值，则重新随机一次，取两次结果中的较高值。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55865"
+    },
+    {
+      "id": "progression.asset.642fcfac95f418365b13",
+      "source": "You find up to [[x2.00]]\nmore Secret Rooms\nand Locked Cellars.",
+      "translation": "发现的秘密房间\n与上锁地窖数量\n最多增至 [[x2.00]] 倍。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55866"
+    },
+    {
+      "id": "progression.asset.4cc550bb88d933b8bb8f",
+      "source": "You start with [[+5]] EXP but every Level takes ((+1)) EXP to achieve.",
+      "translation": "开局获得 [[+5]] 经验值，但每次升级所需经验值增加 ((+1))。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55867",
+      "protectedTokens": [
+        "(+1)"
+      ]
+    },
+    {
+      "id": "progression.asset.e099422f685bdbdd65f5",
+      "source": "Santa is now always at the Tavern, replacing the Nurse.\nHe sells Gift Boxes for Gold<Gold>.",
+      "translation": "圣诞老人固定出现在酒馆，替代护士。\n他出售礼物盒，收取金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55868"
+    },
+    {
+      "id": "progression.asset.cb879e29e7443a901a72",
+      "source": "When Stamina<Stamina> is drained, instead of ((emptying)) Stamina Recovery<Stamina> progress, the Stamina Recovery<Stamina> progress is [[halved]].",
+      "translation": "耐力<Stamina>耗尽时，耐力恢复<Stamina>进度不再((清空))，耐力恢复<Stamina>进度只会[[减半]]。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55869；原生红色标记解析已验证可使用中文。",
+      "protectedTokens": []
+    },
+    {
+      "id": "progression.asset.e2a4b6554ba0a3248f25",
+      "source": "Gain [[-0.5 seconds]] Bomb<Bomb>\nExplosion Delay.",
+      "translation": "[[-0.5 秒]] 炸弹<Bomb>\n爆炸延迟。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55870"
+    },
+    {
+      "id": "progression.asset.1f4071d751899c8c70ec",
+      "source": "Increases your Not Very Effective<sprite name=\"Not_Very_Effective\"> Damage by [[+10%]].",
+      "translation": "效果不佳<sprite name=\"Not_Very_Effective\">伤害提高 [[+10%]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55871"
+    },
+    {
+      "id": "progression.asset.42630c492935ff60415a",
+      "source": "Bombing Treasure Chests, Shrines and the Arcade Drops [[x2.00]] more stuff.",
+      "translation": "用炸弹炸毁宝箱、祭坛和游乐厅时，掉落物数量增至 [[x2.00]] 倍。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55872"
+    },
+    {
+      "id": "progression.asset.3f054d5e28861b51f63e",
+      "source": "The Tavern gains [[+25%]] chance to have the Black Market.\n<color=grey>[Added to a 15% Base Chance.]</color>",
+      "translation": "酒馆出现黑市的几率提高 [[+25%]]。\n<color=grey>[在 15% 的基础几率上叠加。]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55873"
+    },
+    {
+      "id": "progression.asset.5022dc910967ee0b710e",
+      "source": "Gain [[+0.5]] Movement Speed.",
+      "translation": "获得 [[+0.5]] 移动速度。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55874"
+    },
+    {
+      "id": "progression.asset.497795d06d02ee4a9522",
+      "source": "Completing an entire Floor without taking Damage makes the Boss offer [[+1]] Reward.",
+      "translation": "无伤完成整个楼层后，首领增加 [[+1]] 个奖励选项。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55875"
+    },
+    {
+      "id": "progression.asset.5bf1d491b6b96d42498f",
+      "source": "On the first 3 Floors: \nEquipment items that grant Stamina<Stamina> or Stamina Recovery Speed<Stamina> are [[x2.00]] more ##common.",
+      "translation": "在前 3 层： \n提供耐力<Stamina>或耐力恢复速度<Stamina>的装备出现频率乘以 [[x2.00]]，更为##常见。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55876"
+    },
+    {
+      "id": "progression.asset.2ba6b2d305473742db7b",
+      "source": "Gain [[+25%]] chance for Weapons to spawn [[+1]] Upgrade Level.",
+      "translation": "武器生成时额外获得 [[+1]] 升级等级的几率提高 [[+25%]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55877"
+    },
+    {
+      "id": "progression.asset.a887dccad82cbc1ad13f",
+      "source": "Gain [[+1]] Trait Reroll\non Level 1.",
+      "translation": "在 1 级时\n获得 [[+1]] 次特质重掷。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55878"
+    },
+    {
+      "id": "progression.asset.4e01a60934b9171bc65f",
+      "source": "Treasure Chests gain [[+20%]] chance to contain an additional Item.",
+      "translation": "宝箱包含额外物品的几率提高 [[+20%]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55879"
+    },
+    {
+      "id": "progression.asset.fb601f5c20b74fedd7f1",
+      "source": "On Floor 1, you are guaranteed a Door that leads to a ##Charm Reward as Boss Reward.",
+      "translation": "第 1 层必定有一道门，其首领奖励为##护符。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55880"
+    },
+    {
+      "id": "progression.asset.4c5c56987f87a3350224",
+      "source": "Upon entering Floor 2, \ngain [[+1]] point of \na random Alignment.\n<g>(Alignments are Good<Good>, Evil<Evil>, Lawful<Lawful> and Chaotic<Chaos>.</g>",
+      "translation": "进入第 2 层时， \n随机一种阵营倾向\n提高 [[+1]] 点。\n<g>（阵营倾向包括善良<Good>、邪恶<Evil>、守序<Lawful>与混乱<Chaos>。</g>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55881"
+    },
+    {
+      "id": "progression.asset.ebd09a2196b2ae97275d",
+      "source": "Gold<Gold> Prices in Shops under 10 are reduced to 5.",
+      "translation": "商店中低于 10 金币<Gold>的价格降至 5。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55882"
+    },
+    {
+      "id": "progression.asset.449032f5db10351300b9",
+      "source": "Blacksmiths sell\nRepair Powder for 5 Gold<sprite name=\"Gold\">.",
+      "translation": "铁匠出售修理粉，\n售价为 5 金币<sprite name=\"Gold\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55883"
+    },
+    {
+      "id": "progression.asset.e4eba75a3cc71afa94a3",
+      "source": "On Floor 1, you are guaranteed a Door that leads to a Weapon Reward as Boss Reward.",
+      "translation": "第 1 层必定有一道门，其首领奖励为武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55884"
+    },
+    {
+      "id": "progression.asset.8af6733ed1287fcf1aad",
+      "source": "You encounter [[x0.80]] Enchanted Enemy Packs.",
+      "translation": "附魔敌人群的数量为 [[x0.80]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55885"
+    },
+    {
+      "id": "progression.asset.61546bd2f83486f1b9ba",
+      "source": "Enchanted Enemy Packs have [[x0.90]] Health<Heart> and Armor<Armor>.",
+      "translation": "附魔敌人群的生命<Heart>与护甲<Armor>为 [[x0.90]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55886"
+    },
+    {
+      "id": "progression.asset.1d4332890d51476e8e5f",
+      "source": "Once per Run, when you enter a Floor beyond Floor 5 without any Keys<Key>, gain [[2]] Keys<Key>.",
+      "translation": "每局一次，进入第 5 层之后的楼层时，若没有钥匙<Key>，则获得 [[2]] 把钥匙<Key>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55887"
+    },
+    {
+      "id": "progression.asset.ca5ddc715db8806e9569",
+      "source": "Defeating a Boss without taking Damage grants\nyou [[+1]] Magic Find<sprite name=\"Magic_Find\"> just for that Reward Selection.",
+      "translation": "无伤击败首领后，\n仅在本次奖励选择中获得 [[+1]] 魔法发现率<sprite name=\"Magic_Find\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55888"
+    },
+    {
+      "id": "progression.asset.0da195e54f9936910ed5",
+      "source": "Reduces Alignment Requirement to enter Final Floors by [[1]].",
+      "translation": "进入最终楼层所需的阵营倾向降低 [[1]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55889"
+    },
+    {
+      "id": "progression.asset.2ecebc29be1869e7dbcb",
+      "source": "Secret Rooms are highlighted.",
+      "translation": "秘密房间会被高亮显示。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55890"
+    },
+    {
+      "id": "progression.asset.14ed2cc051da0fe45625",
+      "source": "You encounter more Mimics but you get no hint for their upcoming appearance anymore.\n<color=grey>[Info: Mimics grant twice the Rewards of Treasure Chests, so more Mimics equals more Rewards.]</color>",
+      "translation": "你会遇到更多宝箱怪，但不再提前收到它们出现的提示。\n<color=grey>[提示：宝箱怪提供的奖励是宝箱的两倍，因此宝箱怪越多，奖励就越多。]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55891"
+    },
+    {
+      "id": "progression.asset.9b233861608c1f05d946",
+      "source": "Twilight Branches are [[x2.00]] as //common.",
+      "translation": "暮光树枝出现频率乘以 [[x2.00]]，更为//常见。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55892"
+    },
+    {
+      "id": "progression.asset.27cee24a564b921ed522",
+      "source": "Boss Rewards that guarantee an Item of a certain Rarity now guarantee that Rarity or a higher Rarity for all Items offered.",
+      "translation": "原本保证一件特定稀有度物品的首领奖励，现在会保证所有选项的稀有度不低于该稀有度。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55893"
+    },
+    {
+      "id": "progression.asset.3c0d2b8a54ca17e5d61d",
+      "source": "Gain [[+10]] Equip Load Capacity.",
+      "translation": "获得 [[+10]] 负重上限。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55894"
+    },
+    {
+      "id": "progression.asset.a9bc0dff64fd46dc4c8c",
+      "source": "Gain [[+30%]] chance for enchanting to result in a Legendary Enchantment Modifier.",
+      "translation": "附魔结果为传奇附魔词缀的几率提高 [[+30%]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55895"
+    },
+    {
+      "id": "progression.asset.f0f10899e2c4d5b307bc",
+      "source": "On Entering Floor 2, 4, 6 and 8 gain [[+1]] of your lowest Attribute.",
+      "translation": "进入第 2、4、6、8 层时，最低属性提高 [[+1]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55896"
+    },
+    {
+      "id": "progression.asset.d31b52da16e7a7badb0a",
+      "source": "Trait Selections always contain a Trait of the color that matches your lowest Attribute.",
+      "translation": "每次特质选择都会包含一个颜色与你最低属性对应的特质。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55897"
+    },
+    {
+      "id": "progression.asset.6757101ab05c2c7ec4a9",
+      "source": "The Black Market always has Smuggler selling Companions<Companion>.\nYou also gain a [[50%]] Discount at that Shop.",
+      "translation": "黑市必定有走私者出售同伴<Companion>。\n该商店还会提供 [[50%]] 折扣。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55898"
+    },
+    {
+      "id": "progression.asset.dcb894553ef69f907660",
+      "source": "Shops gain a [[25%]] to have 1 additional offer.",
+      "translation": "商店有 [[25%]] 几率增加 1 个商品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55899"
+    },
+    {
+      "id": "progression.asset.6ea1c15353e5321bb7d9",
+      "source": "Blood Chests and\nBlood Altars are \n[[x1.30]] more //common.",
+      "translation": "血宝箱与\n鲜血祭坛\n出现频率乘以 [[x1.30]]，更为//常见。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55900"
+    },
+    {
+      "id": "progression.asset.0b0e19cad09e5ba0fb4c",
+      "source": "All Blacksmiths now charge\n[[5]] Souls<sprite name=\"Soul\"> instead of \n20 Gold<sprite name=\"Gold\"> per Upgrade Level.",
+      "translation": "所有铁匠每次升级\n改为收取 [[5]] 灵魂<sprite name=\"Soul\">，而非\n20 金币<sprite name=\"Gold\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55901"
+    },
+    {
+      "id": "progression.asset.3ad56da2922b38016f8a",
+      "source": "While on full Stamina<Stamina>, your Hitbox is [[smaller]].",
+      "translation": "耐力<Stamina>全满时，你的判定范围[[更小]]。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Meta_Perk_Tree.System.MetaPerk / resources.assets / 55902"
+    }
+  ]
+}

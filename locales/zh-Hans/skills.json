@@ -1,0 +1,1210 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "技能",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "skill.asset.cf9af7650b88c8f542af",
+      "source": "Deceive",
+      "translation": "欺诈",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:63860"
+    },
+    {
+      "id": "skill.asset.6e87afccfa94e0ec9d70",
+      "source": "Instantaneously blink away and leave behind a decoy that lasts for (duration).\n<lb>This ##skill triggers your On Dash Effects.<lb>\nThe decoy ##attacks Enemies dealing (damage) Damage. The decoy's attack speed is equal to yours.\n(CastTime)",
+      "translation": "瞬间闪烁离开，并留下一个持续(duration)的诱饵。\n<lb>该##技能会触发你的冲刺时效果。<lb>\n诱饵会##攻击敌人，造成(damage)伤害。诱饵的攻击速度与你相同。\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:63860",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(duration)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.2e7d875e911842ce9bfd",
+      "source": "Blink away and leave behind a decoy. Enemies will ##attack the decoy for a short duration.",
+      "translation": "闪烁离开并留下诱饵。敌人会在短时间内##攻击诱饵。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:63860"
+    },
+    {
+      "id": "skill.asset.3c6b26688526a0b50f36",
+      "source": "Rend",
+      "translation": "撕裂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:66418"
+    },
+    {
+      "id": "skill.asset.92cbc79701a66b610466",
+      "source": "Deal (damage) Damage to Enemies around you and inflict Bleed.\n<lb>If a target was already Bleeding, tick the Bleed (ticks) times in rapid succession.<lb>\n(scaling)\n(CastTime)",
+      "translation": "对周围敌人造成(damage)伤害并施加流血。\n<lb>如果目标已经流血，则快速连续触发(ticks)次流血。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:66418",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(scaling)",
+        "(ticks)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.e729d9a12719782d201e",
+      "source": "Deal Slashing Damage to Enemies around you and inflict Bleed.\nIf the target is Bleeding already, instead tick the Bleed multiple times.",
+      "translation": "对周围敌人造成斩击伤害并施加流血。\n如果目标已经流血，则改为连续触发多次流血。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:66418"
+    },
+    {
+      "id": "skill.asset.b845baccda7ae9f138de",
+      "source": "Magical Portal",
+      "translation": "魔法传送门",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67522"
+    },
+    {
+      "id": "skill.asset.f5d298a340799bde196b",
+      "source": "Exit the current Room and get transported to a random Event Room on this Floor.<lb>\nCannot be used during combat.<lb>\nCannot be used during or after Boss Encounters.<lb>\nCannot be used if Floor has no Event Rooms.<lb>\n(CastTime)",
+      "translation": "离开当前房间并传送到本层随机事件房间。<lb>\n战斗中无法使用。<lb>\n首领战遭遇期间或之后无法使用。<lb>\n本层没有事件房间时无法使用。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67522",
+      "protectedTokens": [
+        "(CastTime)",
+        "<lb>",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.3592c8b9e824dfe2c028",
+      "source": "Teleport yourself to a random Event Room.",
+      "translation": "传送到随机事件房间。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67522"
+    },
+    {
+      "id": "skill.asset.6b6f2b631d272c2d5d28",
+      "source": "Town Portal",
+      "translation": "城镇传送门",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67523"
+    },
+    {
+      "id": "skill.asset.ca7cceb536dd11f1710f",
+      "source": "Flee from the current Room and get transported to a Tavern.<lb>\nCannot be used during or after Boss Encounters.<lb>\n(CastTime)",
+      "translation": "逃离当前房间并传送到酒馆。<lb>\n首领战遭遇期间或之后无法使用。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67523",
+      "protectedTokens": [
+        "(CastTime)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.368bbf77410a5fda8745",
+      "source": "Flee from the current Room and teleport yourself to a Tavern.",
+      "translation": "逃离当前房间并传送到酒馆。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67523"
+    },
+    {
+      "id": "skill.asset.3bbb8c33b974c43ce3a8",
+      "source": "Dashing Strike",
+      "translation": "冲刺打击",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67594"
+    },
+    {
+      "id": "skill.asset.389f7f35f04d0649cf5e",
+      "source": "Dash into a direction and deal (damage) Damage to every Enemy you strike.\n<lb>This ##skill inflicts (stacks) stacks of any stacking effect at once.<lb>\nThis ##skill triggers your On Dash Effects.<lb>\n(scaling)\n(CastTime)",
+      "translation": "向一个方向冲刺，对撞到的每个敌人造成(damage)伤害。\n<lb>该##技能会一次性施加任意可叠加效果的(stacks)层。<lb>\n该##技能会触发你的冲刺时效果。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67594",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(scaling)",
+        "(stacks)",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.e3ba7584162d6725cd38",
+      "source": "Dash into a direction and deal Slashing Damage to every Enemy you strike.",
+      "translation": "向一个方向冲刺，对撞到的每个敌人造成斩击伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67594"
+    },
+    {
+      "id": "skill.asset.267e4c28ae43e29cfb13",
+      "source": "Wild Shape",
+      "translation": "野性变形",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67595"
+    },
+    {
+      "id": "skill.asset.7cd3e19294a9923b45ce",
+      "source": "Transform into a Bear, Monkey or Owl for (duration) seconds, replacing your Weapon Attack and granting an Effect.<lb>\n(bear)<lb>\n(monkey)<lb>\n(owl)<lb>(scaling)\n(CastTime)",
+      "translation": "变形成熊、猴子或猫头鹰，持续(duration)秒，替换你的武器攻击并赋予一种效果。<lb>\n(bear)<lb>\n(monkey)<lb>\n(owl)<lb>(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67595",
+      "protectedTokens": [
+        "(CastTime)",
+        "(bear)",
+        "(duration)",
+        "(monkey)",
+        "(owl)",
+        "(scaling)",
+        "<lb>",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.e3e58d23e369b5107f69",
+      "source": "Transform into a Bear, Monkey or Owl for a short duration.",
+      "translation": "变形成熊、猴子或猫头鹰，持续一小段时间。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67595"
+    },
+    {
+      "id": "skill.asset.e43b25f5c497368aa60b",
+      "source": "Flex",
+      "translation": "展示肌肉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67881"
+    },
+    {
+      "id": "skill.asset.05be958cd1cfbc64620a",
+      "source": "Stand still and flex your muscles, becoming Invulnerable for (invulnTime) seconds.<lb>\nIf you would have taken damage in that time, gain (bonus) for (duration).<lb>\nYour muscles astonish all Enemies in the room dealing (damage) Damage.\n(CastTime)",
+      "translation": "站立不动展示肌肉，获得无敌，持续(invulnTime)秒。<lb>\n如果这段时间内本应受到伤害，则获得(bonus)，持续(duration)。<lb>\n你的肌肉让房间内所有敌人惊叹，并造成(damage)伤害。\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67881",
+      "protectedTokens": [
+        "(CastTime)",
+        "(bonus)",
+        "(damage)",
+        "(duration)",
+        "(invulnTime)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.a8a4cbe2dd03d83295e0",
+      "source": "Flex your muscles and become Invulnerable  for a short duration. If you would have taken damage in that duration, gain an Attack Speed Buff.",
+      "translation": "展示肌肉并获得一小段时间的无敌。如果这段时间内本应受到伤害，则获得攻击速度增益。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:67881"
+    },
+    {
+      "id": "skill.asset.b9a7403b814f9029ce4f",
+      "source": "Piercing Volley",
+      "translation": "穿刺齐射",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:70947"
+    },
+    {
+      "id": "skill.asset.f21504b37e890cf53fae",
+      "source": "Shoot a volley of piercing arrows that deals (damage) Damage.<lb>\n(scaling)\n(CastTime)",
+      "translation": "射出一轮穿刺箭，造成(damage)伤害。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:70947",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(scaling)",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.144035650582b541d593",
+      "source": "Shoot a volley of piercing arrows that deals Thrusting Damage.",
+      "translation": "射出一轮穿刺箭，造成穿刺伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:70947"
+    },
+    {
+      "id": "skill.asset.5e3b729e3d75dbddec83",
+      "source": "Guard Bash",
+      "translation": "盾牌猛击",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:71728"
+    },
+    {
+      "id": "skill.asset.419920a7cc4f0d85c1b1",
+      "source": "Bash into the direction you are currently aiming at, dealing (damage) Damage and destroying Enemy Projectiles.<lb>\nCovers a larger area while wearing a Shield.<lb>\n(CastTime)\n(scaling)",
+      "translation": "向当前瞄准方向猛击，造成(damage)伤害并摧毁敌方投射物。<lb>\n装备盾牌时覆盖更大范围。<lb>\n(CastTime)\n(scaling)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:71728",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(scaling)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.a8837491c0f40fe4a7e4",
+      "source": "Deal Striking Damage in a cone and clear the area of Enemy Projectiles.",
+      "translation": "在锥形区域造成打击伤害并清除敌方投射物。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:71728"
+    },
+    {
+      "id": "skill.asset.d3c87a43fbd0039d8a7a",
+      "source": "Parry",
+      "translation": "招架",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:71729"
+    },
+    {
+      "id": "skill.asset.e3934a084c5db370508f",
+      "source": "Parry into the direction you are currently aiming at, destroying enemy projectiles and deflecting them dealing (damage) Damage.\n<lb>This damage massively increases depending on the projectile.<lb>\n(scaling)\n(CastTime)",
+      "translation": "向当前瞄准方向招架，摧毁敌方投射物并将其偏转，造成(damage)伤害。\n<lb>该伤害会根据投射物大幅提高。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:71729",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(scaling)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.ebf1685b951c3da06810",
+      "source": "Parry Enemy Projectiles, retaliating with Physical Damage.",
+      "translation": "招架敌方投射物，以物理伤害反击。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:71729"
+    },
+    {
+      "id": "skill.asset.630652ea8dcbde5434fc",
+      "source": "Super Flight",
+      "translation": "超级飞行",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:73290"
+    },
+    {
+      "id": "skill.asset.a96d6803b3b2253ade58",
+      "source": "Fly up in the air and become intangible for (duration) before dropping down and smashing the ground with your Fists dealing (damage) Damage in a large area.<lb>\nAfter landing, your invincibility after taking damage starts.<lb>\n(scaling)\n(CastTime)",
+      "translation": "飞上空中并变得无形，持续(duration)，随后落下，用拳头砸击地面，在大范围内造成(damage)伤害。<lb>\n落地后，你受到伤害时的无敌效果开始生效。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:73290",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(duration)",
+        "(scaling)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.1008b4fea2dbaf3bf0ab",
+      "source": "Fly up in the air, before dropping down and smashing the ground with your Fists to deal massive Striking Damage.",
+      "translation": "飞上空中，随后落下用拳头砸击地面，造成巨额打击伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:73290"
+    },
+    {
+      "id": "skill.asset.d80b4916f3c4c755832e",
+      "source": "Magic Circle",
+      "translation": "魔法阵",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75195"
+    },
+    {
+      "id": "skill.asset.f15e99e542418d2a2a19",
+      "source": "Create a ##magic circle on the ground. While standing inside the circle you deal (bonus).\n<lb>The circle lasts forever but only [[1]] circle can exist at a time.<lb>\n(CastTime)",
+      "translation": "在地面创造一个##魔法阵。站在法阵内时，你会造成(bonus)。\n<lb>法阵会永久存在，但同时只能有[[1]]个法阵。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75195",
+      "protectedTokens": [
+        "(CastTime)",
+        "(bonus)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.814917cf342b601e4a7b",
+      "source": "Create a circle on the ground that grants you a Damage Buff while you stand in it. The Buff scales with your amount of Mana<Mana>.",
+      "translation": "在地面创造一个法阵，站在其中时获得伤害增益。增益会随你的法力<Mana>数量缩放。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75195",
+      "protectedTokens": [
+        "<Mana>"
+      ]
+    },
+    {
+      "id": "skill.asset.aae43b59bd76a0ec90b4",
+      "source": "High Noon",
+      "translation": "正午",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75713"
+    },
+    {
+      "id": "skill.asset.a9a1e4549e3e1448062e",
+      "source": "Unload [[6]] shots at up to [[6]] Enemies on screen, prioritizing weakest enemies.<lb>\nEach shot deals (damage) Damage and has [[100%]] Lucky Hit Chance<Luck>.<lb>\n(scaling)\n(CastTime)",
+      "translation": "向屏幕上最多[[6]]个敌人射出[[6]]发子弹，优先攻击最弱的敌人。<lb>\n每发造成(damage)伤害，并拥有[[100%]]幸运命中率<Luck>。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75713",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(scaling)",
+        "<Luck>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.f5b2f21d06b19ba4d9e3",
+      "source": "Unload [[6]] shots at up to [[6]] Enemies dealing Thrusting Damage and guaranteed Lucky Hits<Luck>.",
+      "translation": "向最多[[6]]个敌人射出[[6]]发子弹，造成穿刺伤害并保证幸运命中<Luck>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75713",
+      "protectedTokens": [
+        "<Luck>"
+      ]
+    },
+    {
+      "id": "skill.asset.31a1021e592f2f17ca8a",
+      "source": "Consecrate",
+      "translation": "祝圣",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75714"
+    },
+    {
+      "id": "skill.asset.cafe5a6860923ceba654",
+      "source": "A light shines down inflicting [[10]] [[permanent]] stacks of Glitter and dealing (damage) Damage [[10]] times.\n<lb>When used outside of combat, this ##skill can cleanse a door from being Cursed<Curse>.<lb>\n(CastTime)",
+      "translation": "一道光芒照下，施加[[10]]层[[永久]]闪耀，并造成(damage)伤害[[10]]次。\n<lb>在战斗外使用时，该##技能可以净化被诅咒<Curse>的门。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75714",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "<Curse>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.aa55f6abdc7854948a63",
+      "source": "Deals Radiant Damage and inflicts [[permanent]] Glitter.\nCan cleanse Doors from Curse<Curse>.",
+      "translation": "造成辉光伤害并施加[[永久]]闪耀。\n可以净化被诅咒<Curse>的门。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75714",
+      "protectedTokens": [
+        "<Curse>"
+      ]
+    },
+    {
+      "id": "skill.asset.057876f8317469d34a06",
+      "source": "Arrest",
+      "translation": "逮捕",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75715"
+    },
+    {
+      "id": "skill.asset.6bff36e28ab23a2d7335",
+      "source": "Shackle an Enemy, [[permanently]] applying (debuff) and dealing (damage) Damage.<lb>\nIf the Enemy is Enchanted the Debuff is applied to the entire pack and the packs Enchantment is removed.<lb>\n(CastTime)",
+      "translation": "束缚一个敌人，[[永久]]施加(debuff)并造成(damage)伤害。<lb>\n如果敌人被附魔，减益会施加给整群敌人，并移除该群的附魔。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75715",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(debuff)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.f7da5f7c36452a65b56c",
+      "source": "Arrest an Enemy, inflicting a Debuff and removing its Enchantment Modifiers.",
+      "translation": "逮捕敌人，施加减益并移除其附魔修正。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75715"
+    },
+    {
+      "id": "skill.asset.ffab38295f464cc9d8c7",
+      "source": "Pickpocket",
+      "translation": "扒窃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75716"
+    },
+    {
+      "id": "skill.asset.9cff8c226307e1356563",
+      "source": "Pickpocket a selected target.<lb>\nCan be used on enemies and non-hostile creatures, but only once per target.<lb>\nOnce per run, using this on a non-hostile creature adds [[+1]] Evil<Evil>.<lb>\n(CastTime)",
+      "translation": "扒窃选定目标。<lb>\n可对敌人与非敌对生物使用，但每个目标只能使用一次。<lb>\n每次冒险中，对非敌对生物使用一次会增加[[+1]]邪恶<Evil>。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75716",
+      "protectedTokens": [
+        "(CastTime)",
+        "<Evil>",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.d2354e7f88455aa0b652",
+      "source": "Steal something from a selected target. Can result in Gold<Gold>, Souls<Soul>, Items and many other things.",
+      "translation": "从选定目标那里偷取物品。可能获得金币<Gold>、灵魂<Soul>、物品及许多其他东西。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75716",
+      "protectedTokens": [
+        "<Gold>",
+        "<Soul>"
+      ]
+    },
+    {
+      "id": "skill.asset.05baf237240ab76c0c1d",
+      "source": "Charisma",
+      "translation": "魅惑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75717"
+    },
+    {
+      "id": "skill.asset.35e6c2d26dbbce54a5d6",
+      "source": "Inflicts [[permanent]] Charm to an Enemy.<lb>\nCan be used on non-hostile creatures to ##charm them, reducing the price of their service by (discount).<lb>\nIf they don't provide a service that costs something, they will instead give you a Gift Box.<lb>\n(CastTime)",
+      "translation": "对敌人施加[[永久]]魅惑。<lb>\n可对非敌对生物使用##魅惑，按(discount)降低其服务价格。<lb>\n如果它们不提供需要付费的服务，就会改为送你一个礼物盒。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75717",
+      "protectedTokens": [
+        "(CastTime)",
+        "(discount)",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.b8db84db0ae69e72cda5",
+      "source": "Inflict [[permanent]] Charm to an Enemy or gain the favour of any non-hostile creature.",
+      "translation": "对敌人施加[[永久]]魅惑，或赢得任意非敌对生物的好感。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75717",
+      "protectedTokens": []
+    },
+    {
+      "id": "skill.asset.7fe504ebe1da9945a735",
+      "source": "Jinx",
+      "translation": "厄运",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75718"
+    },
+    {
+      "id": "skill.asset.5ca522d5c67970c44acd",
+      "source": "Jinx all enemies on screen applying [[10]] [[permanent]] stacks of Gloom.\n<lb>When used outside of combat, this ##skill can Curse<Curse> Doors to upgrade Rewards if possible.<lb>\n(CastTime)",
+      "translation": "对屏幕上所有敌人施加[[10]]层[[永久]]阴霾。\n<lb>在战斗外使用时，该##技能可以诅咒<Curse>门，在可能的情况下升级奖励。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75718",
+      "protectedTokens": [
+        "(CastTime)",
+        "<Curse>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.468f5b649fb8cc3f30ee",
+      "source": "Jinx all Enemies to inflict [[permanent]] Gloom on them or Curse<Curse> Doors to upgrade their Rewards if possible.",
+      "translation": "对所有敌人施加厄运，使其获得[[永久]]阴霾；也可以诅咒<Curse>门，在可能的情况下升级奖励。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75718",
+      "protectedTokens": [
+        "<Curse>"
+      ]
+    },
+    {
+      "id": "skill.asset.8f6c8d73559539de84f1",
+      "source": "Polymorph",
+      "translation": "变羊术",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75719"
+    },
+    {
+      "id": "skill.asset.d343f2068f1aa7fd8b99",
+      "source": "Turn an enemy into a harmless sheep.<lb>\nCannot be used on Bosses.<lb>\nCan also be used on Treasure Chests and Shrines. Use with caution!<lb>\n(CastTime)",
+      "translation": "将敌人变成无害的绵羊。<lb>\n无法对首领使用。<lb>\n也可对宝箱和圣坛使用。谨慎行事！<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75719",
+      "protectedTokens": [
+        "(CastTime)",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.43ac99edd0ed0a73a917",
+      "source": "Turn an enemy into a harmless sheep.\nCan also be used on Treasure Chests and Shrines at your own risk!",
+      "translation": "将敌人变成无害的绵羊。\n也可对宝箱和圣坛使用，风险自负！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75719"
+    },
+    {
+      "id": "skill.asset.dd77f0c8e9c39d551f69",
+      "source": "Jump",
+      "translation": "跳跃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75948"
+    },
+    {
+      "id": "skill.asset.4581d86fb914b7c87e78",
+      "source": "Turn intangible and jump to a targeted location dealing (damage) Damage where you land.\n<lb>Wielding a Spear or Polearm extends the maximum distance.\n<lb>If you land close to an enemy, your invincibility after taking damage starts.\n<lb>This ##skill triggers your On Dash Effects.<lb>\n(scaling)\n(CastTime)",
+      "translation": "变得无形并跳向目标位置，在落点造成(damage)伤害。\n<lb>持有长矛或长柄武器会提高最大距离。\n<lb>如果落在敌人附近，你受到伤害时的无敌效果开始生效。\n<lb>该##技能会触发你的冲刺时效果。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75948",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(scaling)",
+        "<lb>",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.b9c4edeb8569f1b6486d",
+      "source": "Jump to a targeted location dealing Physical Damage in an area.",
+      "translation": "跳向目标位置，在区域内造成物理伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75948"
+    },
+    {
+      "id": "skill.asset.725fc3fa35a2817fdedc",
+      "source": "Smoke Grenade",
+      "translation": "烟雾弹",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75949"
+    },
+    {
+      "id": "skill.asset.9ae4d88f7b9f0ece3b9e",
+      "source": "Throw a smoke grenade that inflicts Confusion to enemies inside it for (duration).<lb>\nIf Explosion Damage touches the smoke, it will ignite it and deal (damage) Damage.<lb>\n(scaling)\n(CastTime)",
+      "translation": "投掷烟雾弹，使其中的敌人陷入混乱，持续(duration)。<lb>\n如果爆炸伤害接触烟雾，就会点燃烟雾并造成(damage)伤害。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75949",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(duration)",
+        "(scaling)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.6ec5ca80977a6b2940ac",
+      "source": "Throw a smoke grenade that inflicts Confusion and explodes when ignited by Explosion Damage.",
+      "translation": "投掷烟雾弹，使敌人陷入混乱，并在被爆炸伤害点燃时爆炸。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75949"
+    },
+    {
+      "id": "skill.asset.f3bc7a2c115b52cc0c49",
+      "source": "Flame Wall",
+      "translation": "火焰墙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75950"
+    },
+    {
+      "id": "skill.asset.496a78d456d05ec195d5",
+      "source": "Create a trench of ##fire that deals (damage) Damage (tickRate) for (duration).\n<lb>Projectiles fired through the wall by you or your allies gain (bonusDamage) Damage.<lb>\n(scaling)\n(CastTime)",
+      "translation": "制造一道##火焰壕沟，造成(damage)伤害，每(tickRate)持续(duration)。\n<lb>你或盟友穿过墙壁发射的投射物获得(bonusDamage)伤害。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75950",
+      "protectedTokens": [
+        "(CastTime)",
+        "(bonusDamage)",
+        "(damage)",
+        "(duration)",
+        "(scaling)",
+        "(tickRate)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.73c6dbf2337a9b8692e2",
+      "source": "Create a trench of flames that deals Fire Damage. Projectiles fired through the wall deal additional Fire Damage.",
+      "translation": "制造一道火焰壕沟，造成火焰伤害。穿过火焰墙发射的投射物会造成额外火焰伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:75950"
+    },
+    {
+      "id": "skill.asset.6087de73cea432112e0c",
+      "source": "Frost Nova",
+      "translation": "冰霜新星",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:76003"
+    },
+    {
+      "id": "skill.asset.9fa448fb6ff5e3cbeb5f",
+      "source": "Deal (damage) Damage to enemies around you, creating frozen ground that inflicts Chill and lasts for (duration).<lb>\n(scaling)\n(CastTime)",
+      "translation": "对周围敌人造成(damage)伤害，创造一片造成寒冷并持续(duration)的冻土地面。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:76003",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(duration)",
+        "(scaling)",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.d4bb58937b184da59e20",
+      "source": "Emit a nova of frost around you, dealing Cold Damage and leaving behind frozen ground that inflicts Chill.",
+      "translation": "在周围释放冰霜新星，造成寒冷伤害，并留下会施加寒冷的冻土地面。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:76003"
+    },
+    {
+      "id": "skill.asset.fa26652211cd740e7a5c",
+      "source": "Mimic",
+      "translation": "拟态",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:76896"
+    },
+    {
+      "id": "skill.asset.c1ea19e042cd7f6d676d",
+      "source": "Mimic the Skill of your current form.",
+      "translation": "模仿当前形态的技能。",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:76896"
+    },
+    {
+      "id": "skill.asset.a9dc0434488b9e497c63",
+      "source": "Mimic the Skill of the Class you currently take the form of.",
+      "translation": "模仿你当前变身职业的技能。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:76896"
+    },
+    {
+      "id": "skill.asset.41873dfd79e1111c1f30",
+      "source": "Missile Storm",
+      "translation": "导弹风暴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:77998"
+    },
+    {
+      "id": "skill.asset.51d66c3e96d30d3249f7",
+      "source": "Unleash a barrage of missiles for (duration), ##firing a seeking missile (tickRate), dealing (damage) Damage.<lb>\n(scaling)\n(CastTime)",
+      "translation": "释放持续(duration)的导弹弹幕，##发射追踪导弹，每(tickRate)发射一次，造成(damage)伤害。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:77998",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(duration)",
+        "(scaling)",
+        "(tickRate)",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.4fe680faccc1ec5fc356",
+      "source": "Unleash a barrage of seeking missiles that deal Explosion Damage for a short duration.",
+      "translation": "释放追踪导弹弹幕，在短时间内造成爆炸伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:77998"
+    },
+    {
+      "id": "skill.asset.d432fac502e31d914a2a",
+      "source": "Vengeance",
+      "translation": "复仇",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:77999"
+    },
+    {
+      "id": "skill.asset.7bcec6d8b329b286786d",
+      "source": "For (duration), with each Attack a shadow of your past shoots a bullet that deals (damage) Damage.<lb>\nWhile this ##skill is active you deal (bonusEffect).<lb>\n(scaling)\n(CastTime)",
+      "translation": "持续(duration)期间，每次攻击都会让过去的你的影子射出一颗造成(damage)伤害的子弹。<lb>\n该##技能生效时，你会造成(bonusEffect)。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:77999",
+      "protectedTokens": [
+        "(CastTime)",
+        "(bonusEffect)",
+        "(damage)",
+        "(duration)",
+        "(scaling)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.0e2aa3dfadda54e0f454",
+      "source": "For a short duration, with each Attack a shadow of your past also shoots a bullet.",
+      "translation": "持续一小段时间，每次攻击都会让过去的你的影子也射出一颗子弹。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:77999"
+    },
+    {
+      "id": "skill.asset.58cad77eb4bd53b5164b",
+      "source": "Telekinetic Barrier",
+      "translation": "念动力屏障",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78000"
+    },
+    {
+      "id": "skill.asset.2eec2ea6dd05d45e2e3a",
+      "source": "For (duration) deflect all Enemy Projectiles in a small radius around you dealing (damage) Damage.\n<lb>This damage massively increases depending on the projectile.\n<lb>You cannot ##attack while this ##skill is active and dashing prematurely ends it.<lb>\n(scaling)\n(CastTime)",
+      "translation": "持续(duration)期间，偏转你周围小范围内所有敌方投射物，造成(damage)伤害。\n<lb>该伤害会根据投射物大幅提高。\n<lb>该##技能生效时你无法##攻击，提前冲刺会结束技能。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78000",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(duration)",
+        "(scaling)",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.83dc17c6678c2ede8095",
+      "source": "Deflect all Enemy Projectiles around you for a short duration, retaliating with Physical Damage.",
+      "translation": "偏转周围所有敌方投射物，持续一小段时间，并以物理伤害反击。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78000"
+    },
+    {
+      "id": "skill.asset.e87484fe01889bdbf2a4",
+      "source": "Rally Riffraff",
+      "translation": "召集杂兵",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78001"
+    },
+    {
+      "id": "skill.asset.98f0009eb4ffc096fb0b",
+      "source": "Summon [[(count)]] (companionName) Companions<Companion> that each grants (companionEffect) for (duration).<lb>\n(CastTime)",
+      "translation": "召唤[[(count)]]个(companionName)同伴<Companion>，每个同伴会在(duration)期间赋予(companionEffect)。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78001",
+      "protectedTokens": [
+        "(CastTime)",
+        "(companionEffect)",
+        "(companionName)",
+        "(duration)",
+        "<Companion>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.0a99bcb1abed96eb3c29",
+      "source": "Call in some Pirate Companions<Companion> for a short duration.",
+      "translation": "召唤一些海盗同伴<Companion>，持续一小段时间。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78001",
+      "protectedTokens": [
+        "<Companion>"
+      ]
+    },
+    {
+      "id": "skill.asset.594492678a64a8e3513f",
+      "source": "Dark Arts",
+      "translation": "黑暗艺术",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78911"
+    },
+    {
+      "id": "skill.asset.b0b4a06787bf35804bea",
+      "source": "Turn intangible and gain (bonus) for (duration). During this time, any enemy you touch is marked and at the end every marked enemy takes (damage) Damage. \n<lb>If this Skill deals a Critical Hit<Crit> it also triggers your On Dash Effects.\n<lb>You cannot ##attack while this ##skill is active and dashing prematurely ends it.<lb>\n(CastTime)",
+      "translation": "变得无形，并在(duration)期间获得(bonus)。期间，任何被你碰到的敌人都会被标记，结束时每个被标记的敌人受到(damage)伤害。 \n<lb>如果该技能造成暴击<Crit>，还会触发你的冲刺时效果。\n<lb>该##技能生效时你无法##攻击，提前冲刺会结束技能。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78911",
+      "protectedTokens": [
+        "(CastTime)",
+        "(bonus)",
+        "(damage)",
+        "(duration)",
+        "<Crit>",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.68ad9f08e1c92e8c1af3",
+      "source": "Turn intangible and mark Enemies by touching them, inflicting Damage when the Skill ends.",
+      "translation": "变得无形，并通过接触标记敌人，技能结束时造成伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78911"
+    },
+    {
+      "id": "skill.asset.a05641d967f52a26547d",
+      "source": "Summon Lich",
+      "translation": "召唤巫妖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78912"
+    },
+    {
+      "id": "skill.asset.3658d85f5ac6114b65f2",
+      "source": "Summon a (companionName) Companion<Companion> that grants (companionEffect) for (duration).<lb>\n(CastTime)",
+      "translation": "召唤一个(companionName)同伴<Companion>，在(duration)期间赋予(companionEffect)。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78912",
+      "protectedTokens": [
+        "(CastTime)",
+        "(companionEffect)",
+        "(companionName)",
+        "(duration)",
+        "<Companion>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.0347931904442d55ebcc",
+      "source": "Summon a powerful Lich Companion<Companion> for a short duration.",
+      "translation": "召唤一名强大的巫妖同伴<Companion>，持续一小段时间。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78912",
+      "protectedTokens": [
+        "<Companion>"
+      ]
+    },
+    {
+      "id": "skill.asset.7fc09dccf39205342114",
+      "source": "Heroic Flag",
+      "translation": "英雄旗帜",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78913"
+    },
+    {
+      "id": "skill.asset.de9b4e5c155e626d1f3b",
+      "source": "Raise a flag and gain (bonus) for (duration).<lb>\n(CastTime)",
+      "translation": "举起旗帜并在(duration)期间获得(bonus)。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78913",
+      "protectedTokens": [
+        "(CastTime)",
+        "(bonus)",
+        "(duration)",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.2960f50f60ccf2ac59ff",
+      "source": "Raise a flag that grants an Attack Speed Buff to you and your Companions<Companion> for a short duration.",
+      "translation": "举起旗帜，在短时间内为你和同伴<Companion>赋予攻击速度增益。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:78913",
+      "protectedTokens": [
+        "<Companion>"
+      ]
+    },
+    {
+      "id": "skill.asset.e74c4d88fc51fd0cd08f",
+      "source": "Serenity",
+      "translation": "宁静",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:79696"
+    },
+    {
+      "id": "skill.asset.d4583ac1b1d0e3fa0406",
+      "source": "Focus your mind and body to become invulnerable to all enemy damage for (duration).<lb>\nLasts an additional (bonusDuration) while unarmed.<lb>\nDashing costs [[0]] Stamina<Stamina> while this ##skill is active.\n<lb>Prevents swapping Weapon while active.<lb>\n(CastTime)",
+      "translation": "集中精神与身体，在(duration)期间免疫所有敌方伤害。<lb>\n未装备武器时额外持续(bonusDuration)。<lb>\n该##技能生效时，冲刺消耗[[0]]体力<Stamina>。\n<lb>激活期间无法切换武器。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:79696",
+      "protectedTokens": [
+        "(CastTime)",
+        "(bonusDuration)",
+        "(duration)",
+        "<Stamina>",
+        "<lb>",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.79fcbdfd0c8c96d028cb",
+      "source": "Become Invulnerable to all Enemy Damage for a short duration.",
+      "translation": "短时间内免疫所有敌方伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:79696"
+    },
+    {
+      "id": "skill.asset.25c52e585abf40e81051",
+      "source": "Twirl",
+      "translation": "旋舞",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:80143"
+    },
+    {
+      "id": "skill.asset.8ada461f494bffe90ff4",
+      "source": "On Dash, leave behind a Pose and consume any existing Pose.<lb>\nUsing this Skill consumes your Pose, teleporting you to its position.<lb>\nWhenever a Pose is consumed, it deals (damage) Damage.<lb>\nThis ##skill triggers your On Dash Effects, including itself.<lb>\n(scaling)\n(CastTime)",
+      "translation": "冲刺时留下一个姿势并消耗已有姿势。<lb>\n使用该技能会消耗姿势，将你传送到其位置。<lb>\n每当消耗一个姿势，就会造成(damage)伤害。<lb>\n该##技能会触发你的冲刺时效果，包括自身。<lb>\n(scaling)\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:80143",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(scaling)",
+        "<lb>",
+        "<lb>",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.f6e54df179bc58d87fc3",
+      "source": "Leave behind Poses. Dashing consumes Poses to deal Slashing Damage. Activating this Skill teleports you to your last Pose.",
+      "translation": "留下姿势。冲刺会消耗姿势并造成斩击伤害。激活该技能会将你传送到最近的姿势。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:80143"
+    },
+    {
+      "id": "skill.asset.fec28be69ea278f1fb13",
+      "source": "Holy Shield",
+      "translation": "圣盾",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:80237"
+    },
+    {
+      "id": "skill.asset.0fce0a2ef4908e4db49f",
+      "source": "Emit a holy light that destroys enemy projectiles for (duration).<lb>\nThe light also deals (damage) Damage (tickRate).\nIf you are wearing a Shield the light also inflicts Judgement.<lb>\n(CastTime)",
+      "translation": "释放神圣光芒，持续(duration)摧毁敌方投射物。<lb>\n光芒还会造成(damage)伤害，每(tickRate)一次。\n如果你装备盾牌，光芒还会施加审判。<lb>\n(CastTime)",
+      "context": "skill-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:80237",
+      "protectedTokens": [
+        "(CastTime)",
+        "(damage)",
+        "(duration)",
+        "(tickRate)",
+        "<lb>",
+        "<lb>"
+      ]
+    },
+    {
+      "id": "skill.asset.a7ff57b181f37c14aef7",
+      "source": "Emit a cone of holy light that protects you from Enemy Projectiles and inflicts Judgement for a short duration.",
+      "translation": "释放锥形神圣光芒，保护你免受敌方投射物伤害，并在短时间内施加审判。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始资源来源 resources.assets:80237"
+    }
+  ]
+}

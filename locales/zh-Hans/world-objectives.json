@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "独立成长翻译：world-objectives",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "progression.asset.af620dc81f02a7310414",
+      "source": "Brave the Unknown",
+      "translation": "勇闯未知",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54193"
+    },
+    {
+      "id": "progression.asset.52b07942174a82991eaa",
+      "source": "The Bonfire beckons you on a journey to vanquish the darkness that plagues this world.",
+      "translation": "篝火召唤你踏上旅程，扫除荼毒这个世界的黑暗。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54193"
+    },
+    {
+      "id": "progression.asset.896f1716fe5e88bcca67",
+      "source": "Begin your adventure.",
+      "translation": "开始冒险。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54193"
+    },
+    {
+      "id": "progression.asset.6645ccfa2d6ff70eeca0",
+      "source": "A new set of enemies may appear on each floor.",
+      "translation": "每个楼层都可能出现一批新的敌人。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54193"
+    },
+    {
+      "id": "progression.asset.202b14f2233ffee294b5",
+      "source": "Achieving this world objective enables a new set of enemies to appear on each floor.",
+      "translation": "达成这个世界目标后，每个楼层都能出现一批新的敌人。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54193"
+    },
+    {
+      "id": "progression.asset.ed975d5b2f8e88776542",
+      "source": "A New Dawn",
+      "translation": "新的黎明",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54194"
+    },
+    {
+      "id": "progression.asset.054ee7d36083bdad8d87",
+      "source": "The Bonfire calls upon you to vanquish Death and expand its dominion over this world.",
+      "translation": "篝火呼唤你击败死神，让它的统御遍及这个世界。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54194"
+    },
+    {
+      "id": "progression.asset.253e86f4d4de30879734",
+      "source": "Defeat Death.",
+      "translation": "击败死神。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54194"
+    },
+    {
+      "id": "progression.asset.2e68ec347de5a742b578",
+      "source": "Unlocks a set of alternate floors to appear, bringing new events to discover and foes to defeat with it.",
+      "translation": "解锁一批可能出现的替代楼层，带来新的事件与敌人。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54194"
+    },
+    {
+      "id": "progression.asset.83f6bf867b2b4719902e",
+      "source": "Achieving this world objective unlocked a set of alternate floors.",
+      "translation": "达成这个世界目标后，已解锁一批替代楼层。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54194"
+    },
+    {
+      "id": "progression.asset.ab69faad7a12f972c889",
+      "source": "Beyond Tomorrow",
+      "translation": "明日之后",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54195"
+    },
+    {
+      "id": "progression.asset.f5dc3d45d437bb133996",
+      "source": "The Bonfire has sensed something beyond Death and implores you to persevere on your quest to unravel the curse of mortality.",
+      "translation": "篝火感知到死神之外还有某种存在，恳请你坚持探索，解开凡人必死的诅咒。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54195"
+    },
+    {
+      "id": "progression.asset.f6fa5ed71d0619d7f018",
+      "source": "Defeat Death with 5 different classes.",
+      "translation": "使用 5 个不同职业击败死神。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54195"
+    },
+    {
+      "id": "progression.asset.6741b234c5d60f04a565",
+      "source": "Unlocks the gate to the Shadow Planes.",
+      "translation": "解锁通往暗影位面的门。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54195"
+    },
+    {
+      "id": "progression.asset.eda67fc7f09786c04e28",
+      "source": "Achieving this world objective unlocked the gate to the Shadow Planes.",
+      "translation": "达成这个世界目标后，已解锁通往暗影位面的门。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54195"
+    },
+    {
+      "id": "progression.asset.c6b440d2d59359e13a1c",
+      "source": "Echoes of the Forgotten",
+      "translation": "遗忘之地的回响",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54196"
+    },
+    {
+      "id": "progression.asset.467a3dbc0bb3b8a8d020",
+      "source": "The Bonfire urges you to delve into the eerie depths beyond death and confront the lurking tyrant that dwells within these forgotten shadows.",
+      "translation": "篝火催促你深入死亡彼端的幽暗深处，迎战潜伏在遗忘暗影中的暴君。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54196"
+    },
+    {
+      "id": "progression.asset.3b38371da84b3ace7212",
+      "source": "Defeat the guardian of the Shadow Planes.",
+      "translation": "击败暗影位面的守护者。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54196"
+    },
+    {
+      "id": "progression.asset.d81011abd0cf7c23c782",
+      "source": "Unlocks ethereal shops and enables unlocking new classes.",
+      "translation": "解锁虚灵商店，并开放新职业的解锁途径。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54196"
+    },
+    {
+      "id": "progression.asset.8cb291716b62632ce6ab",
+      "source": "Achieving this world objective unlocked ethereal shops and enabled paths to unlock new classes.",
+      "translation": "达成这个世界目标后，已解锁虚灵商店，并开放新职业的解锁途径。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54196"
+    },
+    {
+      "id": "progression.asset.fa6c750ea0ad9c6a830f",
+      "source": "The End?",
+      "translation": "终结？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54197"
+    },
+    {
+      "id": "progression.asset.b6ed9df4005e99b62563",
+      "source": "The Bonfire tells you to descend deeper into the realm of shadows to vanquish the eternal grip of Death once and for all.",
+      "translation": "篝火指引你深入暗影领域，彻底挣脱死神永恒的掌控。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54197"
+    },
+    {
+      "id": "progression.asset.cc849e07a7320da061aa",
+      "source": "Defeat Primal Death.",
+      "translation": "击败原初死神。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54197"
+    },
+    {
+      "id": "progression.asset.2f07a99406ab0670c823",
+      "source": "Achieving this world objective unlocked the gates to the High Heavens and Burning Hells.",
+      "translation": "达成这个世界目标后，已解锁通往至高天堂与燃烧地狱的门。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54197"
+    },
+    {
+      "id": "progression.asset.2b77a10c720a7d49cb54",
+      "source": "Whispers of Brimstone",
+      "translation": "硫磺低语",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54198"
+    },
+    {
+      "id": "progression.asset.9b915a176d8120eee80f",
+      "source": "Defeating death in its primal form has revealed yet another potential path in a souls journey. The Bonfire charges you with traveling to the Burning Hells to discover the secrets of the afterlife.",
+      "translation": "击败原初形态的死神后，灵魂的旅途又出现了新的道路。篝火委托你前往燃烧地狱，探寻来世的秘密。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54198"
+    },
+    {
+      "id": "progression.asset.51ce3050ddda06df5833",
+      "source": "Defeat the guardian of the Burning Hells.",
+      "translation": "击败燃烧地狱的守护者。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54198"
+    },
+    {
+      "id": "progression.asset.2f20cc6c9638746b62f7",
+      "source": "Unlocks infernal shops and enables unlocking new classes.",
+      "translation": "解锁地狱商店，并开放新职业的解锁途径。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54198"
+    },
+    {
+      "id": "progression.asset.7177e8051c50df613cb1",
+      "source": "Achieving this world objective unlocked infernal shops and enabled paths to unlock new classes.",
+      "translation": "达成这个世界目标后，已解锁地狱商店，并开放新职业的解锁途径。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54198"
+    },
+    {
+      "id": "progression.asset.0fb518edb7cff9e6aa33",
+      "source": "Visions of Starlight",
+      "translation": "星光幻景",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54199"
+    },
+    {
+      "id": "progression.asset.2e43173732173cf44479",
+      "source": "Defeating death in its primal form has revealed yet another potential path in a souls journey. The Bonfire charges you with traveling to the High Heavens to discover the secrets of the afterlife.",
+      "translation": "击败原初形态的死神后，灵魂的旅途又出现了新的道路。篝火委托你前往至高天堂，探寻来世的秘密。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54199"
+    },
+    {
+      "id": "progression.asset.67afe6be93dc8080158e",
+      "source": "Defeat the guardian of the High Heavens.",
+      "translation": "击败至高天堂的守护者。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54199"
+    },
+    {
+      "id": "progression.asset.1cc1d2e569b769ce870e",
+      "source": "Unlocks angelic shops and enables unlocking new classes.",
+      "translation": "解锁天使商店，并开放新职业的解锁途径。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54199"
+    },
+    {
+      "id": "progression.asset.4d7e869cae41b5039819",
+      "source": "Achieving this world objective unlocked angelic shops and enabled paths to unlock new classes.",
+      "translation": "达成这个世界目标后，已解锁天使商店，并开放新职业的解锁途径。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / resources.assets / 54199"
+    },
+    {
+      "id": "progression.asset.804f1edb06fea20ce902",
+      "source": "The Pact",
+      "translation": "契约",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / sharedassets1.assets / 321"
+    },
+    {
+      "id": "progression.asset.ff7ae41ac2d3ba9c89bd",
+      "source": "Conquer heaven and hell and find the keys to unlock the remaining locks that seal away the Abyss.",
+      "translation": "征服天堂与地狱，寻找钥匙，解开封印深渊的其余锁链。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / sharedassets1.assets / 321"
+    },
+    {
+      "id": "progression.asset.a39cc91a6545a8742160",
+      "source": "Sit on the celestial and infernal throne.",
+      "translation": "坐上天堂与地狱的王座。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / sharedassets1.assets / 321"
+    },
+    {
+      "id": "progression.asset.b693d24b443feda859fd",
+      "source": "Unlocks access to the Abyss.",
+      "translation": "解锁通往深渊的道路。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / sharedassets1.assets / 321"
+    },
+    {
+      "id": "progression.asset.920111c6573ed3fd5ac2",
+      "source": "Achieving this world objective unlocks the sealed gate to the Abyss. <color=grey>In the next expansion. Not available yet.</color>",
+      "translation": "达成这个世界目标后，将解锁封印深渊的大门。<color=grey>将在下次扩展中推出。暂未开放。</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / sharedassets1.assets / 321"
+    },
+    {
+      "id": "progression.asset.2e756f7bd2f8826e939e",
+      "source": "Beyond Good and Evil",
+      "translation": "善恶之外",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / sharedassets1.assets / 322"
+    },
+    {
+      "id": "progression.asset.9ce8dfa8926b28592abd",
+      "source": "The Bonfire challenges you to uncover the secrets of the abyss. Enter the previously sealed gate and discover what lies beyond the realm of order.",
+      "translation": "篝火要你探寻深渊的秘密。进入曾被封印的大门，揭开秩序领域之外的真相。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / sharedassets1.assets / 322"
+    },
+    {
+      "id": "progression.asset.0ebaef01d85f14c83f97",
+      "source": "Enter and vanquish the first level of the Abyss.",
+      "translation": "进入并征服深渊的第一层。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；World_Progression.WorldObjective / sharedassets1.assets / 322"
+    }
+  ]
+}

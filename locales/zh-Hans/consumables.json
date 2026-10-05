@@ -1,0 +1,2141 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "独立消耗品翻译",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "consumables.asset.92d5625d8d51a1d082fd",
+      "source": "Beer",
+      "translation": "啤酒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54895"
+    },
+    {
+      "id": "consumables.asset.463af6c79ab187e9f6d5",
+      "source": "Champagne",
+      "translation": "香槟",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54896"
+    },
+    {
+      "id": "consumables.asset.68d6c2e007f539386903",
+      "source": "Mead",
+      "translation": "蜂蜜酒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54897"
+    },
+    {
+      "id": "consumables.asset.0482be5d433f10038c6a",
+      "source": "Rum",
+      "translation": "朗姆酒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54898"
+    },
+    {
+      "id": "consumables.asset.a86326782a3887b332bd",
+      "source": "Sake",
+      "translation": "清酒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54899"
+    },
+    {
+      "id": "consumables.asset.42635a1ba5f0173480aa",
+      "source": "Tequila",
+      "translation": "龙舌兰酒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54900"
+    },
+    {
+      "id": "consumables.asset.a5ffef22418642e472fc",
+      "source": "Whiskey",
+      "translation": "威士忌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54901"
+    },
+    {
+      "id": "consumables.asset.7c89b36a69b4ab39969c",
+      "source": "Wine",
+      "translation": "葡萄酒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54902"
+    },
+    {
+      "id": "consumables.asset.84d24e6161cda2a9e682",
+      "source": "Acorn",
+      "translation": "橡果",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54903"
+    },
+    {
+      "id": "consumables.asset.96440deae8d675347108",
+      "source": "Automaton Remote V1",
+      "translation": "自动机遥控器 V1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54904"
+    },
+    {
+      "id": "consumables.asset.e95a1853aef1a79f03d1",
+      "source": "Automaton Remote V2",
+      "translation": "自动机遥控器 V2",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54905"
+    },
+    {
+      "id": "consumables.asset.87af8627bb28e7b529cc",
+      "source": "Automaton Remote V3",
+      "translation": "自动机遥控器 V3",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54906"
+    },
+    {
+      "id": "consumables.asset.57f826bc9648d08d942f",
+      "source": "Banana",
+      "translation": "香蕉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54907"
+    },
+    {
+      "id": "consumables.asset.7f19266dd28873840937",
+      "source": "Bird Cage",
+      "translation": "鸟笼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54908"
+    },
+    {
+      "id": "consumables.asset.7ce18d67c6d0ca1af5b2",
+      "source": "Blood Vial",
+      "translation": "血液小瓶",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54909"
+    },
+    {
+      "id": "consumables.asset.eed9ea37f06fbc17c06c",
+      "source": "Blue Mushroom Pin",
+      "translation": "蓝蘑菇徽章",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54910"
+    },
+    {
+      "id": "consumables.asset.62132f9af44dc54c821a",
+      "source": "Blueberries",
+      "translation": "蓝莓",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54911"
+    },
+    {
+      "id": "consumables.asset.e81e2b5f5d0e83b5fbe3",
+      "source": "Boxing Glove",
+      "translation": "拳击手套",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54912"
+    },
+    {
+      "id": "consumables.asset.760e0f86b5b211c75d8e",
+      "source": "Brimstone",
+      "translation": "硫磺",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54913"
+    },
+    {
+      "id": "consumables.asset.8bf62828ca9910b7dee1",
+      "source": "Camel Leash",
+      "translation": "骆驼缰绳",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54914"
+    },
+    {
+      "id": "consumables.asset.3b6bec6aa3b547371116",
+      "source": "Carrot on a stick",
+      "translation": "胡萝卜钓竿",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54915"
+    },
+    {
+      "id": "consumables.asset.067274e6e281633cae48",
+      "source": "Carrot on a Stick",
+      "translation": "胡萝卜钓竿",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54915"
+    },
+    {
+      "id": "consumables.asset.603673827b0652229160",
+      "source": "Dino Claw",
+      "translation": "恐龙爪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54916"
+    },
+    {
+      "id": "consumables.asset.635f42ae796ad28cd28e",
+      "source": "Dragon Horn",
+      "translation": "龙角",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54917"
+    },
+    {
+      "id": "consumables.asset.5f1bd0c00d12618b3e5d",
+      "source": "Dubious Skull",
+      "translation": "可疑头骨",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54918"
+    },
+    {
+      "id": "consumables.asset.a09358401f9745d4199e",
+      "source": "Echo Shard",
+      "translation": "回声碎片",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54919"
+    },
+    {
+      "id": "consumables.asset.fee6c89bb73a80344e1b",
+      "source": "Falcon Feather",
+      "translation": "猎隼羽毛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54920"
+    },
+    {
+      "id": "consumables.asset.a9956bc15042cb20aebb",
+      "source": "Fallen Star",
+      "translation": "陨落星辰",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54921"
+    },
+    {
+      "id": "consumables.asset.d0aad884ecc9e513f492",
+      "source": "Foxberries",
+      "translation": "狐狸浆果",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Foxberries may be a creature lure/name pun; literal coined name pending context review."
+    },
+    {
+      "id": "consumables.asset.c0e97f3ab81844aa41a9",
+      "source": "Gazer Tentacle",
+      "translation": "凝视者触手",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54923"
+    },
+    {
+      "id": "consumables.asset.ee6910b8b1f7c78608dc",
+      "source": "Goat Horn",
+      "translation": "山羊角",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54924"
+    },
+    {
+      "id": "consumables.asset.cac2515c9608185752a6",
+      "source": "Goblin Toe",
+      "translation": "哥布林脚趾",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54925"
+    },
+    {
+      "id": "consumables.asset.fe688a1988f984d8ba5e",
+      "source": "Green Mushroom Pin",
+      "translation": "绿蘑菇徽章",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54926"
+    },
+    {
+      "id": "consumables.asset.40dc17ac7d73e2d7317d",
+      "source": "Hatching Egg",
+      "translation": "孵化中的蛋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54927"
+    },
+    {
+      "id": "consumables.asset.a4c06d7e821a34b2155a",
+      "source": "Hawk Whistle",
+      "translation": "鹰哨",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54928"
+    },
+    {
+      "id": "consumables.asset.f37fad546d01a6d3c399",
+      "source": "Holy Cross",
+      "translation": "神圣十字架",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54929"
+    },
+    {
+      "id": "consumables.asset.b4b637a974f156c3b575",
+      "source": "Honeycomb",
+      "translation": "蜂巢",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54930"
+    },
+    {
+      "id": "consumables.asset.6b7600c44dc457eb9444",
+      "source": "Horseshoe",
+      "translation": "马蹄铁",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54931"
+    },
+    {
+      "id": "consumables.asset.1a64fd8a4b4d6e2023fd",
+      "source": "Jar of Goo",
+      "translation": "黏液罐",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54932"
+    },
+    {
+      "id": "consumables.asset.e61f8f1bb074cde15d65",
+      "source": "Laptop",
+      "translation": "笔记本电脑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54933"
+    },
+    {
+      "id": "consumables.asset.6efafb99ee2030c0153b",
+      "source": "Light Bulb",
+      "translation": "灯泡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54934"
+    },
+    {
+      "id": "consumables.asset.65870fc041719e051700",
+      "source": "Lost Treasure",
+      "translation": "失落宝藏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54935"
+    },
+    {
+      "id": "consumables.asset.87972708851cd7f873ba",
+      "source": "Lost Wood",
+      "translation": "迷失之木",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Lost Wood may reference a named creature/location; needs lore review."
+    },
+    {
+      "id": "consumables.asset.a342dccddaa3bcdeb872",
+      "source": "Mistletoe",
+      "translation": "槲寄生",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54937"
+    },
+    {
+      "id": "consumables.asset.04c810c9fa0d7f247a3c",
+      "source": "Money Bag",
+      "translation": "钱袋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54938"
+    },
+    {
+      "id": "consumables.asset.b24ef7f523f8e13f3021",
+      "source": "Moonstone",
+      "translation": "月长石",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54939"
+    },
+    {
+      "id": "consumables.asset.3408b8ed580691382a11",
+      "source": "Obsidian Key",
+      "translation": "黑曜石钥匙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54940"
+    },
+    {
+      "id": "consumables.asset.5a8b25c7463e04ffebfe",
+      "source": "Owl Feather",
+      "translation": "猫头鹰羽毛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54941"
+    },
+    {
+      "id": "consumables.asset.382d84a6d757d8c83fb2",
+      "source": "Paper Sheet",
+      "translation": "纸张",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54942"
+    },
+    {
+      "id": "consumables.asset.289a379c0f1372ad8852",
+      "source": "Parrot Feather",
+      "translation": "鹦鹉羽毛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54943"
+    },
+    {
+      "id": "consumables.asset.3c649f5eb3cff749b40e",
+      "source": "Peculiar Skull",
+      "translation": "奇异头骨",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54944"
+    },
+    {
+      "id": "consumables.asset.d0237e7a8d80e2b9e666",
+      "source": "Pixie Dust",
+      "translation": "精灵尘",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54945"
+    },
+    {
+      "id": "consumables.asset.2d2aec7127f568cc5d5d",
+      "source": "Rainbow in a Bottle",
+      "translation": "瓶中彩虹",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54946"
+    },
+    {
+      "id": "consumables.asset.75c8f4cff4ccda57e358",
+      "source": "<rainbow>Rainbow in a Bottle</rainbow>",
+      "translation": "<rainbow>瓶中彩虹</rainbow>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54946"
+    },
+    {
+      "id": "consumables.asset.92750c6e09982e9fd47f",
+      "source": "Red Mushroom Pin",
+      "translation": "红蘑菇徽章",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54947"
+    },
+    {
+      "id": "consumables.asset.2deda5a8f3dd1c423511",
+      "source": "Red Scarf",
+      "translation": "红围巾",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54948"
+    },
+    {
+      "id": "consumables.asset.2c240200b4cdb5ac2e13",
+      "source": "Rusty Revolver",
+      "translation": "生锈左轮手枪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54949"
+    },
+    {
+      "id": "consumables.asset.90ff14792f9f485d77cf",
+      "source": "Snail Shell",
+      "translation": "蜗牛壳",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54950"
+    },
+    {
+      "id": "consumables.asset.039a297d2addf97b3a94",
+      "source": "Snake Basket",
+      "translation": "蛇篮",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54951"
+    },
+    {
+      "id": "consumables.asset.3e0a2987673d49b7b06b",
+      "source": "Sorrow Spear",
+      "translation": "悲伤之矛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54952"
+    },
+    {
+      "id": "consumables.asset.9b61b8c344989c25f989",
+      "source": "Spider Silk",
+      "translation": "蜘蛛丝",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Sorrow Spear companion naming pending context."
+    },
+    {
+      "id": "consumables.asset.b6a970c25db2ba7fe861",
+      "source": "Suspicious Skull",
+      "translation": "疑似头骨",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Three skull identities distinguish companion types; deliberate translation pending in-game art review."
+    },
+    {
+      "id": "consumables.asset.7d3a3de17227f3b58d29",
+      "source": "T-Bone Steak",
+      "translation": "丁骨牛排",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54955"
+    },
+    {
+      "id": "consumables.asset.e6cdb23e3cab78594023",
+      "source": "Teddy",
+      "translation": "泰迪熊",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54956"
+    },
+    {
+      "id": "consumables.asset.5930f6b34787cd96d636",
+      "source": "Thunderbird Totem",
+      "translation": "雷鸟图腾",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54957"
+    },
+    {
+      "id": "consumables.asset.0a2d6a47576d35d54cf2",
+      "source": "Torero Flag",
+      "translation": "斗牛士旗帜",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54958"
+    },
+    {
+      "id": "consumables.asset.f504e59853742bce2556",
+      "source": "Vampire Fangs",
+      "translation": "吸血鬼獠牙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54959"
+    },
+    {
+      "id": "consumables.asset.13fa8849987e3731404a",
+      "source": "Voodoo Doll",
+      "translation": "巫毒娃娃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54960"
+    },
+    {
+      "id": "consumables.asset.f9f6949ae6399b267ed3",
+      "source": "Zombie Arm",
+      "translation": "僵尸手臂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54961"
+    },
+    {
+      "id": "consumables.asset.0154871c3eee0c3d9654",
+      "source": "Anchovy",
+      "translation": "鳀鱼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54962"
+    },
+    {
+      "id": "consumables.asset.251d03bbb146e28f3096",
+      "source": "Crab",
+      "translation": "螃蟹",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54963"
+    },
+    {
+      "id": "consumables.asset.56d708587f95c3c4c392",
+      "source": "Fish Bones",
+      "translation": "鱼骨",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54964"
+    },
+    {
+      "id": "consumables.asset.206dad7e3a7af82521d7",
+      "source": "Frost Flounder",
+      "translation": "冰霜比目鱼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54965"
+    },
+    {
+      "id": "consumables.asset.9da79f3643d91e5b7110",
+      "source": "Goldfish",
+      "translation": "金鱼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54966"
+    },
+    {
+      "id": "consumables.asset.4ff0ead4aa1c4d89e911",
+      "source": "Kelp",
+      "translation": "海带",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54967"
+    },
+    {
+      "id": "consumables.asset.c474e0a261dacd125c0e",
+      "source": "Lobster",
+      "translation": "龙虾",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54968"
+    },
+    {
+      "id": "consumables.asset.25674eb6f4b155666a77",
+      "source": "Rainbow Trout",
+      "translation": "虹鳟",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54969"
+    },
+    {
+      "id": "consumables.asset.bea4d0713b0f32f379e9",
+      "source": "Starfish",
+      "translation": "海星",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54970"
+    },
+    {
+      "id": "consumables.asset.e9397a4c23476f048df3",
+      "source": "Sword Fish",
+      "translation": "剑鱼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54971"
+    },
+    {
+      "id": "consumables.asset.be253382ad607670518b",
+      "source": "Swordfish",
+      "translation": "剑鱼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54971"
+    },
+    {
+      "id": "consumables.asset.dd85ded482d02f136b21",
+      "source": "Tuna",
+      "translation": "金枪鱼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54972"
+    },
+    {
+      "id": "consumables.asset.18fc35cbec39874c0b54",
+      "source": "Anglerfish",
+      "translation": "鮟鱇鱼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54973"
+    },
+    {
+      "id": "consumables.asset.7185d004ec376d90dbe9",
+      "source": "Dispels 1 stack of Curse<sprite name=\"Curse\">.",
+      "translation": "消除 1 层诅咒<sprite name=\"Curse\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54973"
+    },
+    {
+      "id": "consumables.asset.8f81791f05db33df4a74",
+      "source": "Red Tetra",
+      "translation": "红灯鱼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54974"
+    },
+    {
+      "id": "consumables.asset.21f2a708f41397d1cb28",
+      "source": "Recovers 1 Heart<sprite name=\"Heart\">.",
+      "translation": "恢复 1 颗红心<sprite name=\"Heart\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54974"
+    },
+    {
+      "id": "consumables.asset.e947ec2ba09f502b0f24",
+      "source": "Soul Snapper",
+      "translation": "灵魂鲷鱼",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54975"
+    },
+    {
+      "id": "consumables.asset.685ff1b83260f15c4fbb",
+      "source": "Algae",
+      "translation": "藻类",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54976"
+    },
+    {
+      "id": "consumables.asset.f43a99c547220f6d1a8f",
+      "source": "Gold Cup",
+      "translation": "金杯",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54977"
+    },
+    {
+      "id": "consumables.asset.3b66eb85cb4920712a09",
+      "source": "Old Boot",
+      "translation": "旧靴子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54978"
+    },
+    {
+      "id": "consumables.asset.60171112a5955bb48863",
+      "source": "Platinum Kettle",
+      "translation": "铂金水壶",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54979"
+    },
+    {
+      "id": "consumables.asset.bb6a14476a819727f19d",
+      "source": "Silver Spoon",
+      "translation": "银勺",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54980"
+    },
+    {
+      "id": "consumables.asset.653fa85356cd7ab9a761",
+      "source": "Tin Can",
+      "translation": "锡罐",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54981"
+    },
+    {
+      "id": "consumables.asset.417caf0d0b6fc3a1d13c",
+      "source": "Jellyfishing Net",
+      "translation": "水母捕捞网",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54982"
+    },
+    {
+      "id": "consumables.asset.564d276934d040e5010a",
+      "source": "Blue Spice",
+      "translation": "蓝色香料",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54983"
+    },
+    {
+      "id": "consumables.asset.5e0f1626cc708e13c3eb",
+      "source": "Charcoal Pine Resin",
+      "translation": "炭火松脂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54984"
+    },
+    {
+      "id": "consumables.asset.7221d0bc351103e9effc",
+      "source": "Crystal Pine Resin",
+      "translation": "结晶松脂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54985"
+    },
+    {
+      "id": "consumables.asset.4626ef7d3ec15903a8d0",
+      "source": "Fresh Charcoal Pine Resin",
+      "translation": "新鲜炭火松脂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54986"
+    },
+    {
+      "id": "consumables.asset.cd6da2aff8baa42d89fc",
+      "source": "Fresh Crystal Pine Resin",
+      "translation": "新鲜结晶松脂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54987"
+    },
+    {
+      "id": "consumables.asset.9f2c749582b1f97a2466",
+      "source": "Fresh Gold Pine Resin",
+      "translation": "新鲜黄金松脂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54988"
+    },
+    {
+      "id": "consumables.asset.51650c0c53642baf9ee8",
+      "source": "Gold Pine Resin",
+      "translation": "黄金松脂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54989"
+    },
+    {
+      "id": "consumables.asset.6a04d08aa00612fc99df",
+      "source": "Green Spice",
+      "translation": "绿色香料",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54990"
+    },
+    {
+      "id": "consumables.asset.886a22f94c84f71a8af8",
+      "source": "Maple Pine Resin",
+      "translation": "枫木松脂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54991"
+    },
+    {
+      "id": "consumables.asset.ab412c4e4fc6bac1c0c9",
+      "source": "Poison Filled Jar",
+      "translation": "毒液罐",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54992"
+    },
+    {
+      "id": "consumables.asset.2e3b6c2b4c72df456794",
+      "source": "Enchants your Weapon with the <color=#FF00FF>Contaminated</color> modifier.",
+      "translation": "为武器附加<color=#FF00FF>污染</color>词缀。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54992"
+    },
+    {
+      "id": "consumables.asset.b41a4e2941e4f77d43e4",
+      "source": "Red Spice",
+      "translation": "红色香料",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54993"
+    },
+    {
+      "id": "consumables.asset.2b4393e98fa480e0eef0",
+      "source": "Spore Pine Resin",
+      "translation": "孢子松脂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54994"
+    },
+    {
+      "id": "consumables.asset.a3379656c3e360cfdddc",
+      "source": "Yellow Spice",
+      "translation": "黄色香料",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 54995"
+    },
+    {
+      "id": "consumables.asset.2a6e03c1c3e9d55e8964",
+      "source": "Brightflex",
+      "translation": "光辉合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Flex material family proprietary coined term: meaning needs item tooltip review."
+    },
+    {
+      "id": "consumables.asset.d1393cd10143de54fa97",
+      "source": "Darkflex",
+      "translation": "黑暗合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Flex material family proprietary coined term."
+    },
+    {
+      "id": "consumables.asset.f146ea5c78e11cd3f748",
+      "source": "Heatflex",
+      "translation": "炽热合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Flex material family proprietary coined term."
+    },
+    {
+      "id": "consumables.asset.d35dd72c2f6908fd14f8",
+      "source": "Iceflex",
+      "translation": "寒冰合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Flex material family proprietary coined term."
+    },
+    {
+      "id": "consumables.asset.9acfc94e1a14fefab1cb",
+      "source": "Mithril",
+      "translation": "秘银",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55000"
+    },
+    {
+      "id": "consumables.asset.222532f70806f634d931",
+      "source": "Toxiflex",
+      "translation": "剧毒合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Flex material family proprietary coined term."
+    },
+    {
+      "id": "consumables.asset.eb1528721b09217b86cc",
+      "source": "Voltflex",
+      "translation": "雷电合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Flex material family proprietary coined term."
+    },
+    {
+      "id": "consumables.asset.3a0de09e7ee207d4b5ac",
+      "source": "Antidote",
+      "translation": "解毒剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55003"
+    },
+    {
+      "id": "consumables.asset.441ecdbd5e164db410af",
+      "source": "Cures poison.",
+      "translation": "解除中毒。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55003"
+    },
+    {
+      "id": "consumables.asset.225ac83f6fcd18dc38eb",
+      "source": "Blacksmith Whetstone",
+      "translation": "铁匠磨刀石",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55004"
+    },
+    {
+      "id": "consumables.asset.71a76738584b1ff34c38",
+      "source": "Upgrades any Weapon by 1 Level.\n<SubArrow>Non Melee Weapons up to Level 3.\n<SubArrow>Melee Weapons up to Level 4.",
+      "translation": "将任意武器提升 1 级。\n<SubArrow>非近战武器最高可升至 3 级。\n<SubArrow>近战武器最高可升至 4 级。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55004"
+    },
+    {
+      "id": "consumables.asset.6d47b9c1c15fdc13937a",
+      "source": "Cheese",
+      "translation": "奶酪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55005"
+    },
+    {
+      "id": "consumables.asset.191b9613f928765557aa",
+      "source": "Permanently grants [[+1]] Maximum Tipsiness.",
+      "translation": "永久获得 [[+1]] 醉意上限。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55005"
+    },
+    {
+      "id": "consumables.asset.b5dda63ed78f95d2b449",
+      "source": "Crystalized Soul Heart",
+      "translation": "结晶灵魂之心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55006"
+    },
+    {
+      "id": "consumables.asset.594cf89c3e87b61d78db",
+      "source": "Crystalized //Soul //Heart",
+      "translation": "结晶//灵魂//之心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55006"
+    },
+    {
+      "id": "consumables.asset.688aa82c44bfa9179391",
+      "source": "Grants +1 Soul Heart<sprite name=\"Soul_Heart\">.",
+      "translation": "获得 +1 颗灵魂之心<sprite name=\"Soul_Heart\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55006"
+    },
+    {
+      "id": "consumables.asset.ac6b8d7b53e7c214d356",
+      "source": "Fairy Tale Branch",
+      "translation": "童话树枝",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55007"
+    },
+    {
+      "id": "consumables.asset.15bd156e78c28f443a04",
+      "source": "Enchants your Weapon with\nthe Arcane Modifier.",
+      "translation": "为武器附加\n奥术词缀。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55007"
+    },
+    {
+      "id": "consumables.asset.a92686afd3c7ed6abdc2",
+      "source": "Gift Box",
+      "translation": "礼物盒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55008"
+    },
+    {
+      "id": "consumables.asset.d587f0df76dceb7bdd39",
+      "source": "Grants [[1]] random Equipment Item.",
+      "translation": "获得 [[1]] 件随机装备。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55008"
+    },
+    {
+      "id": "consumables.asset.7f20068f335553493c05",
+      "source": "Green Blossom",
+      "translation": "绿花草",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55009"
+    },
+    {
+      "id": "consumables.asset.043fa267cf971ef4014c",
+      "source": "Phoenix Feather",
+      "translation": "凤凰羽毛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55010"
+    },
+    {
+      "id": "consumables.asset.844305f97ed002f75a80",
+      "source": "Revives<sprite name=\"Revive\"> you once.",
+      "translation": "使你复活<sprite name=\"Revive\">一次。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55010"
+    },
+    {
+      "id": "consumables.asset.e0133b2d340d21208ce4",
+      "source": "Power Gem",
+      "translation": "力量宝石",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55011"
+    },
+    {
+      "id": "consumables.asset.5fe901b577d37f1a0555",
+      "source": "Grants +[[5]] EXP.",
+      "translation": "获得 +[[5]] 经验值。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55011"
+    },
+    {
+      "id": "consumables.asset.612b4e58de11822863d8",
+      "source": "Power Shard",
+      "translation": "力量碎片",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55012"
+    },
+    {
+      "id": "consumables.asset.a74ed4964a0dbdfd92e6",
+      "source": "Grants +[[1]] EXP.",
+      "translation": "获得 +[[1]] 经验值。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55012"
+    },
+    {
+      "id": "consumables.asset.b345d5ba3c0e8026325e",
+      "source": "Purging Stone",
+      "translation": "净化石",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55013"
+    },
+    {
+      "id": "consumables.asset.bd62497f45ad4d200d5c",
+      "source": "Dispels 1 stack of Curse<Curse>.",
+      "translation": "消除 1 层诅咒<Curse>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55013"
+    },
+    {
+      "id": "consumables.asset.43676e23b0957367a5d9",
+      "source": "Repair Powder",
+      "translation": "修理粉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55014"
+    },
+    {
+      "id": "consumables.asset.db8c7f9cb42abc79bf9e",
+      "source": "Repairs all Armor<sprite name=\"Armor\">.\n<color=grey>(Cannot be used during combat.)</color>",
+      "translation": "修复所有护甲<sprite name=\"Armor\">。\n<color=grey>（战斗中无法使用。）</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55014"
+    },
+    {
+      "id": "consumables.asset.9b1b460aebc17e86c677",
+      "source": "Small Gift Box",
+      "translation": "小礼物盒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55015"
+    },
+    {
+      "id": "consumables.asset.41ac4b04386fc2185e64",
+      "source": "Grants [[1]] random Consumable Item.",
+      "translation": "获得 [[1]] 件随机消耗品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55015"
+    },
+    {
+      "id": "consumables.asset.68b5a7d83c7743b217b3",
+      "source": "Twilight Branch",
+      "translation": "暮光树枝",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55016"
+    },
+    {
+      "id": "consumables.asset.35ebe5fe8f192f24d97a",
+      "source": "Applies a random Enchantment\nModifier to Weapon.",
+      "translation": "为武器附加\n随机附魔词缀。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55016"
+    },
+    {
+      "id": "consumables.asset.cb6a36ecd043a84f1c87",
+      "source": "Blue Jungle Berry",
+      "translation": "蓝色丛林浆果",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55017"
+    },
+    {
+      "id": "consumables.asset.a095a3c2f3af03eb13db",
+      "source": "Grants [[+3]] Intelligence.",
+      "translation": "获得 [[+3]] 智力。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55017"
+    },
+    {
+      "id": "consumables.asset.59e501993f263bbcf3a2",
+      "source": "+3 INTELLIGENCE",
+      "translation": "+3 智力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55017"
+    },
+    {
+      "id": "consumables.asset.ab4dbdd630f2099dafb7",
+      "source": "Calcium",
+      "translation": "钙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55018"
+    },
+    {
+      "id": "consumables.asset.90da17968207e04420cc",
+      "source": "Grants [[+1]] Dexterity.",
+      "translation": "获得 [[+1]] 敏捷。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55018"
+    },
+    {
+      "id": "consumables.asset.5a710959cfdcc3176f55",
+      "source": "+1 DEXTERITY",
+      "translation": "+1 敏捷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55018"
+    },
+    {
+      "id": "consumables.asset.1328218f03f89d302d51",
+      "source": "Green Jungle Berry",
+      "translation": "绿色丛林浆果",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55019"
+    },
+    {
+      "id": "consumables.asset.c26f457baf245ff8f020",
+      "source": "Grants [[+3]] Dexterity.",
+      "translation": "获得 [[+3]] 敏捷。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55019"
+    },
+    {
+      "id": "consumables.asset.1d7db252c87288e453f9",
+      "source": "+3 DEXTERITY",
+      "translation": "+3 敏捷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55019"
+    },
+    {
+      "id": "consumables.asset.5ef241d9bf075d722c9c",
+      "source": "Protein",
+      "translation": "蛋白质",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55020"
+    },
+    {
+      "id": "consumables.asset.7ad510afe000306f1a14",
+      "source": "Grants [[+1]] Strength.",
+      "translation": "获得 [[+1]] 力量。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55020"
+    },
+    {
+      "id": "consumables.asset.84607b97565ffa4bfba4",
+      "source": "+1 STRENGTH",
+      "translation": "+1 力量",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55020"
+    },
+    {
+      "id": "consumables.asset.bdddd9bc844ba384e9c8",
+      "source": "Red Jungle Berry",
+      "translation": "红色丛林浆果",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55021"
+    },
+    {
+      "id": "consumables.asset.6464df0e6c7bbfa0e3a4",
+      "source": "Grants [[+3]] Strength.",
+      "translation": "获得 [[+3]] 力量。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55021"
+    },
+    {
+      "id": "consumables.asset.09dea20c23b684617097",
+      "source": "+3 STRENGTH",
+      "translation": "+3 力量",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55021"
+    },
+    {
+      "id": "consumables.asset.8222e7f00e9ed6855fbe",
+      "source": "Zinc",
+      "translation": "锌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55022"
+    },
+    {
+      "id": "consumables.asset.e8d4e325a1c8a465191f",
+      "source": "Grants [[+1]] Intelligence.",
+      "translation": "获得 [[+1]] 智力。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55022"
+    },
+    {
+      "id": "consumables.asset.2c2576c2d635c55b78be",
+      "source": "+1 INTELLIGENCE",
+      "translation": "+1 智力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55022"
+    },
+    {
+      "id": "consumables.asset.a3ba3d0be6d70e0a6ec7",
+      "source": "Ethereal Orb",
+      "translation": "虚灵宝珠",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55023"
+    },
+    {
+      "id": "consumables.asset.b705507a83e9d5c551c8",
+      "source": "Pick a Trait to remove and get offered a selection of new Traits to replace it with.",
+      "translation": "选择一个特质移除，再从新提供的特质中选一个替换它。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55023"
+    },
+    {
+      "id": "consumables.asset.18341201dfd51cd56ef4",
+      "source": "Mana Elixir",
+      "translation": "法力灵药",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55024"
+    },
+    {
+      "id": "consumables.asset.3188287f88441a066c56",
+      "source": "//Mana Elixir",
+      "translation": "//法力灵药",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55024"
+    },
+    {
+      "id": "consumables.asset.60525e9633b78b75ba53",
+      "source": "Replenishing Repair Powder Empty",
+      "translation": "自动补充修理粉（空）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55025"
+    },
+    {
+      "id": "consumables.asset.9c8342e5dde973dba5bc",
+      "source": "Replenishing Repair Powder",
+      "translation": "自动补充修理粉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55025"
+    },
+    {
+      "id": "consumables.asset.baa9eef821fb685428a7",
+      "source": "Slowly replenishes each time you clear a room.\n",
+      "translation": "每次清空房间时缓慢补充。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55025"
+    },
+    {
+      "id": "consumables.asset.902f5968a8d3c6a08e16",
+      "source": "Repairs all armor points<sprite name=\"Armor\">.\nReplenishes a few floors later.",
+      "translation": "修复所有护甲点<sprite name=\"Armor\">。\n经过几层后补充。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55026"
+    },
+    {
+      "id": "consumables.asset.a65f1a2066fbe193761a",
+      "source": "Scroll Of Escape",
+      "translation": "逃脱卷轴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55027"
+    },
+    {
+      "id": "consumables.asset.e20c03f6a21066ff8d8b",
+      "source": "Teleports you to a Safe Place.\nCannot be used during or after Boss Encounters.",
+      "translation": "将你传送至安全地点。\n首领战期间或结束后无法使用。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55027"
+    },
+    {
+      "id": "consumables.asset.7521d757b301525c50a4",
+      "source": "Smuggler Pouch",
+      "translation": "走私者袋子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55028"
+    },
+    {
+      "id": "consumables.asset.944236e5eb1bd617c31f",
+      "source": "What did you smuggle?",
+      "translation": "你走私了什么？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55028"
+    },
+    {
+      "id": "consumables.asset.22e3c133e73277c7556e",
+      "source": "Philosopher Stone",
+      "translation": "贤者之石",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55029"
+    },
+    {
+      "id": "consumables.asset.5f8d279e119df9ce8feb",
+      "source": "Philosopher's Stone",
+      "translation": "贤者之石",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55029"
+    },
+    {
+      "id": "consumables.asset.3e2b15958dc375cbdfb2",
+      "source": "Slowly creates a random potion, spawning it on room completion.\n",
+      "translation": "缓慢生成随机药剂，在清空房间时掉落。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55029"
+    },
+    {
+      "id": "consumables.asset.f2a4c688bd2b51db2fab",
+      "source": "Sacramental Bread",
+      "translation": "圣餐面包",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55030"
+    },
+    {
+      "id": "consumables.asset.fe72a6cd52be47743f02",
+      "source": "Fully absolves you from Curse<sprite name=\"Curse\">.",
+      "translation": "彻底解除你的诅咒<sprite name=\"Curse\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55030"
+    },
+    {
+      "id": "consumables.asset.d104f7b4ea086f65ec3d",
+      "source": "Attunes all your equipped items that don't have on attune effects.",
+      "translation": "调谐所有未附带调谐触发效果的已装备物品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55031"
+    },
+    {
+      "id": "consumables.asset.2083460a902e19d55e14",
+      "source": "Allows you to choose between granting you a key<sprite name=\"Key\">, a bomb<sprite name=\"Bomb\"> or 5 gold<sprite name=\"Gold\">.",
+      "translation": "可选择获得一把钥匙<sprite name=\"Key\">、一枚炸弹<sprite name=\"Bomb\">或 5 枚金币<sprite name=\"Gold\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55032"
+    },
+    {
+      "id": "consumables.asset.18de9d76e19b4379533b",
+      "source": "1 Key<sprite name=\"Key\">",
+      "translation": "1 把钥匙<sprite name=\"Key\">",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55032"
+    },
+    {
+      "id": "consumables.asset.9f94db887713c6b8eead",
+      "source": "1 Bomb<sprite name=\"Bomb\">",
+      "translation": "1 枚炸弹<sprite name=\"Bomb\">",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55032"
+    },
+    {
+      "id": "consumables.asset.9b1c48a056c734d5aa47",
+      "source": "5 Gold<sprite name=\"Gold\">",
+      "translation": "5 枚金币<sprite name=\"Gold\">",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55032"
+    },
+    {
+      "id": "consumables.asset.70a691040a5f537e220e",
+      "source": "Soul Shard",
+      "translation": "灵魂碎片",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55033"
+    },
+    {
+      "id": "consumables.asset.35db52aca3a1be39c7c4",
+      "source": "A seemingly useless fragment of a Soul Pylon.\nThe shard is still radiating soul energy.",
+      "translation": "一块看似无用的灵魂塔碎片。\n碎片仍在散发灵魂能量。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55033"
+    },
+    {
+      "id": "consumables.asset.291370e0751c054135a8",
+      "source": "Abyss Key",
+      "translation": "深渊钥匙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55034"
+    },
+    {
+      "id": "consumables.asset.9e304ef049657bde4167",
+      "source": "One of three //keys required to open the sealed gate to the Abyss.",
+      "translation": "开启深渊封印大门所需的三把//钥匙之一。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55034"
+    },
+    {
+      "id": "consumables.asset.f4fa629babd54acb1cd0",
+      "source": "Cigarette",
+      "translation": "香烟",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55035"
+    },
+    {
+      "id": "consumables.asset.9000062a3e8bac38604d",
+      "source": "Contraband",
+      "translation": "违禁品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55036"
+    },
+    {
+      "id": "consumables.asset.3f3833e41eff490d0742",
+      "source": "What did you loot?",
+      "translation": "你搜到了什么？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55036"
+    },
+    {
+      "id": "consumables.asset.610dc46c0674a929e35c",
+      "source": "Dexterity Pill",
+      "translation": "敏捷药丸",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55037"
+    },
+    {
+      "id": "consumables.asset.98d83da3b173d0a4e8b9",
+      "source": "Grants +[[1]] EXP and [[+5]] Dexterity.",
+      "translation": "获得 +[[1]] 经验值和 [[+5]] 敏捷。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55037"
+    },
+    {
+      "id": "consumables.asset.2624caa4716a7fae6632",
+      "source": "Diamond",
+      "translation": "钻石",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55038"
+    },
+    {
+      "id": "consumables.asset.0d4790664ff590c4f79e",
+      "source": "Dynamite",
+      "translation": "炸药",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55039"
+    },
+    {
+      "id": "consumables.asset.a308cb35cc4a56bc8e90",
+      "source": "Like a Bomb<Bomb> but with more kaboom!",
+      "translation": "类似炸弹<Bomb>，但炸得更响！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55039"
+    },
+    {
+      "id": "consumables.asset.2d36510c8ebb924d07fb",
+      "source": "Gold Bars",
+      "translation": "金条",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55040"
+    },
+    {
+      "id": "consumables.asset.ec3c32cd8a019700caa2",
+      "source": "Holy Water",
+      "translation": "圣水",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55041"
+    },
+    {
+      "id": "consumables.asset.83038d245d8ec3130926",
+      "source": "Illegal Gun Parts",
+      "translation": "非法枪械零件",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55042"
+    },
+    {
+      "id": "consumables.asset.54107e0d523466cb81a3",
+      "source": "Upgrades a gun or cannon by 1 level. <color=grey>(Up to level 4)</color>\n",
+      "translation": "将枪或炮提升 1 级。<color=grey>（最高可升至 4 级）</color>\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55042"
+    },
+    {
+      "id": "consumables.asset.149652362e7614803b37",
+      "source": "Intelligence Pill",
+      "translation": "智力药丸",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55043"
+    },
+    {
+      "id": "consumables.asset.7d9a7b3230a73a5a41ff",
+      "source": "Grants +[[1]] EXP and [[+5]] Intelligence.",
+      "translation": "获得 +[[1]] 经验值和 [[+5]] 智力。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55043"
+    },
+    {
+      "id": "consumables.asset.f0f2d930bba943f64a7f",
+      "source": "Pickaxe",
+      "translation": "镐",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55044"
+    },
+    {
+      "id": "consumables.asset.128c1f535de4891d087e",
+      "source": "Rusty Pickaxe",
+      "translation": "生锈镐",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55044"
+    },
+    {
+      "id": "consumables.asset.caf0b31e692b3bf0eba7",
+      "source": "One time use consumable that can \ndestroy the same things a bomb can destroy.\nTo use, stand near target to destroy.",
+      "translation": "一次性消耗品，可摧毁\n炸弹能够摧毁的同类目标。\n使用时请靠近要摧毁的目标。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55044"
+    },
+    {
+      "id": "consumables.asset.71f1290bc9aa85f9b092",
+      "source": "Rusty Pickaxe broke!",
+      "translation": "生锈镐损坏了！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55044"
+    },
+    {
+      "id": "consumables.asset.7cf21f5549bfeb26ce2c",
+      "source": "Rusty Key",
+      "translation": "生锈钥匙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55045"
+    },
+    {
+      "id": "consumables.asset.04864da3a521c8f6a76b",
+      "source": "Santa Bag",
+      "translation": "圣诞老人的袋子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55046"
+    },
+    {
+      "id": "consumables.asset.9334bb005c3bfe65cc4b",
+      "source": "Santa's Bag",
+      "translation": "圣诞老人的袋子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55046"
+    },
+    {
+      "id": "consumables.asset.1851cb15cbf1f5e7c509",
+      "source": "What do you wish for?",
+      "translation": "你想要什么？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55046"
+    },
+    {
+      "id": "consumables.asset.4160e4f0ed87ebea368d",
+      "source": "Storm In A Bottle",
+      "translation": "瓶中风暴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55047"
+    },
+    {
+      "id": "consumables.asset.8b1e262bd7b8f279f282",
+      "source": "Strength Pill",
+      "translation": "力量药丸",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55048"
+    },
+    {
+      "id": "consumables.asset.d4578f05f09f65a080a6",
+      "source": "Grants +[[1]] EXP and [[+5]] Strength.",
+      "translation": "获得 +[[1]] 经验值和 [[+5]] 力量。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55048"
+    },
+    {
+      "id": "consumables.asset.283ffe5d1af16e64d087",
+      "source": "Super Illegal Gun Parts",
+      "translation": "超级非法枪械零件",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55049"
+    },
+    {
+      "id": "consumables.asset.f0bf95fba3b928c189b2",
+      "source": "Upgrades a gun or cannon by 1 level. <color=grey>(Up to level 5)</color>\n",
+      "translation": "将枪或炮提升 1 级。<color=grey>（最高可升至 5 级）</color>\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55049"
+    },
+    {
+      "id": "consumables.asset.1f05dee83a70394c6ac3",
+      "source": "Agility Potion",
+      "translation": "灵巧药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55050"
+    },
+    {
+      "id": "consumables.asset.2e3a1344c700be031466",
+      "source": "Anger Potion",
+      "translation": "愤怒药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55051"
+    },
+    {
+      "id": "consumables.asset.fb81ece9843e8eb5fa1b",
+      "source": "Inferno Potion",
+      "translation": "炼狱药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55052"
+    },
+    {
+      "id": "consumables.asset.43b135579520278ba504",
+      "source": "Luck Potion",
+      "translation": "幸运药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55053"
+    },
+    {
+      "id": "consumables.asset.0402e37a68a0051d3e63",
+      "source": "Mana Potion",
+      "translation": "法力药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55054"
+    },
+    {
+      "id": "consumables.asset.8faea0b0abfa7b734c16",
+      "source": "Power Potion",
+      "translation": "力量药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55055"
+    },
+    {
+      "id": "consumables.asset.a9213d72be78691daec3",
+      "source": "Rainbow Potion",
+      "translation": "彩虹药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55056"
+    },
+    {
+      "id": "consumables.asset.7d9459f42363415a9f0e",
+      "source": "<rainbow>Rainbow Potion</rainbow>",
+      "translation": "<rainbow>彩虹药剂</rainbow>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55056"
+    },
+    {
+      "id": "consumables.asset.a32a42cd34676847d636",
+      "source": "Grants a random Potion effect.",
+      "translation": "获得一种随机药剂效果。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55056"
+    },
+    {
+      "id": "consumables.asset.6131c616ed9c908195b8",
+      "source": "Stamina Potion",
+      "translation": "耐力药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55057"
+    },
+    {
+      "id": "consumables.asset.70b2efe81951d6901b39",
+      "source": "Bartering Potion",
+      "translation": "议价药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55058"
+    },
+    {
+      "id": "consumables.asset.bf1d716f057d7f5427a3",
+      "source": "Fortune Potion",
+      "translation": "财富药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55059"
+    },
+    {
+      "id": "consumables.asset.bef25825b9ad1e3760f5",
+      "source": "Gulp Potion",
+      "translation": "畅饮药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55060"
+    },
+    {
+      "id": "consumables.asset.168020448845eaa33a4b",
+      "source": "Lethality Potion",
+      "translation": "致命药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55061"
+    },
+    {
+      "id": "consumables.asset.1f0bdd34af311e9ca87e",
+      "source": "Mundane Potion",
+      "translation": "平凡药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "Mundane mechanical meaning requires effect asset review."
+    },
+    {
+      "id": "consumables.asset.faf1ce95b0df917414a0",
+      "source": "Recovery Potion",
+      "translation": "恢复药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55063"
+    },
+    {
+      "id": "consumables.asset.b77db82a731b974cebe8",
+      "source": "Retaliation Potion",
+      "translation": "反击药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55064"
+    },
+    {
+      "id": "consumables.asset.76be85e37fad351000ef",
+      "source": "Wrath Potion",
+      "translation": "盛怒药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55065"
+    },
+    {
+      "id": "consumables.asset.29c975a9f3850d59b101",
+      "source": "Tome Of Dexterity",
+      "translation": "敏捷之书",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55066"
+    },
+    {
+      "id": "consumables.asset.f082ae7763aebf3705de",
+      "source": "Teachings in Dexterity",
+      "translation": "敏捷教诲",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55066"
+    },
+    {
+      "id": "consumables.asset.4a30da175a7315350af2",
+      "source": "Tome Of Intelligence",
+      "translation": "智力之书",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55067"
+    },
+    {
+      "id": "consumables.asset.b4f931b846e548f3f153",
+      "source": "Teachings in Intelligence",
+      "translation": "智力教诲",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55067"
+    },
+    {
+      "id": "consumables.asset.ca30a4275c5d362672a9",
+      "source": "Tome Of Strength",
+      "translation": "力量之书",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55068"
+    },
+    {
+      "id": "consumables.asset.b4ee8ce148ec65111b41",
+      "source": "Teachings in Strength",
+      "translation": "力量教诲",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文消耗品序列化字段独立翻译；来源 resources.assets / 55068"
+    }
+  ]
+}

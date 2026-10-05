@@ -1,0 +1,1439 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "核心术语与界面",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "core.63ee3a1b965a",
+      "source": "Strength",
+      "translation": "力量",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.c072f44b1cf3",
+      "source": "Dexterity",
+      "translation": "敏捷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.78ea5ef30f1e",
+      "source": "Intelligence",
+      "translation": "智力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.e1bad657cc0d",
+      "source": "STR",
+      "translation": "力量",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.6eeee9f311c4",
+      "source": "DEX",
+      "translation": "敏捷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.370fbb51f069",
+      "source": "INT",
+      "translation": "智力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.3c37ae267dab",
+      "source": "Weapon Damage",
+      "translation": "武器伤害",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.736e26ef215e",
+      "source": "Attack Speed",
+      "translation": "攻击速度",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.7912f291504c",
+      "source": "Movement Speed",
+      "translation": "移动速度",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.d4d783790623",
+      "source": "Mana Recovery",
+      "translation": "法力恢复",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.1d569cb0fae7",
+      "source": "Equip Load",
+      "translation": "装备负重",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.3588cf469edc",
+      "source": "Equip Load Capacity",
+      "translation": "负重上限",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.28f08bd5802e",
+      "source": "Critical Hit Chance",
+      "translation": "暴击率",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.ff7a57c6eb0c",
+      "source": "Critical Hit Damage",
+      "translation": "暴击伤害",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.9425a58cfc66",
+      "source": "Lucky Hit Chance",
+      "translation": "幸运命中率",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.abce239c6135",
+      "source": "Cursed Hit Chance",
+      "translation": "诅咒命中率",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.7b3d88a34c81",
+      "source": "Stamina Recovery Speed",
+      "translation": "体力恢复速度",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.55898449eb74",
+      "source": "Health",
+      "translation": "生命",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.770af9d18037",
+      "source": "Heart",
+      "translation": "红心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.a75d031a9c8d",
+      "source": "Soul Heart",
+      "translation": "灵魂红心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.a592855d0508",
+      "source": "Armor",
+      "translation": "护甲",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.cc350ea33939",
+      "source": "Stamina",
+      "translation": "体力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.066ffe4ac557",
+      "source": "Mana",
+      "translation": "法力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.6249df4367d0",
+      "source": "Gold",
+      "translation": "金币",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.99a52df3ff3d",
+      "source": "Key",
+      "translation": "钥匙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.359be5f85088",
+      "source": "Bomb",
+      "translation": "炸弹",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.70629416ece0",
+      "source": "Soul",
+      "translation": "灵魂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.382e766581df",
+      "source": "Luck",
+      "translation": "幸运",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.88b3d8eed54f",
+      "source": "Curse",
+      "translation": "诅咒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.9d597870c4b3",
+      "source": "Alignment",
+      "translation": "阵营倾向",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.c939327ca16d",
+      "source": "Good",
+      "translation": "善良",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.50bf80da81cf",
+      "source": "Evil",
+      "translation": "邪恶",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.0cca95feef86",
+      "source": "Lawful",
+      "translation": "守序",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.a971bd6f76ab",
+      "source": "Chaotic",
+      "translation": "混乱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.1c6ac69f1e5d",
+      "source": "Neutral",
+      "translation": "中立",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.28e3e479e087",
+      "source": "Trait",
+      "translation": "特质",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.e0ab4adb01b2",
+      "source": "Traits",
+      "translation": "特质",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.6df1bb18a59a",
+      "source": "Skill",
+      "translation": "技能",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.66d0f523a379",
+      "source": "Skills",
+      "translation": "技能",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.0f850a258a52",
+      "source": "Perk",
+      "translation": "天赋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.c339bf736e4a",
+      "source": "Perks",
+      "translation": "天赋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.280e3d53be82",
+      "source": "Mastery",
+      "translation": "精通",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.fc1b68ad29c7",
+      "source": "Mastery Level",
+      "translation": "精通等级",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.db94b23ab95e",
+      "source": "Mastery EXP",
+      "translation": "精通经验",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.8eab0f09df01",
+      "source": "Experience",
+      "translation": "经验",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.06a1ad637e7f",
+      "source": "EXP",
+      "translation": "经验",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.f972de7365a4",
+      "source": "Damage Scaling",
+      "translation": "伤害成长",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.feddcf308625",
+      "source": "Rarity",
+      "translation": "稀有度",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.309955e00850",
+      "source": "Common",
+      "translation": "普通",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.ce9b9e6a2b75",
+      "source": "Uncommon",
+      "translation": "精良",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.291d2a97565f",
+      "source": "Rare",
+      "translation": "稀有",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.a93d389804ee",
+      "source": "Epic",
+      "translation": "史诗",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.c80b041f5d1d",
+      "source": "Legendary",
+      "translation": "传奇",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.b6f6f3ad07b3",
+      "source": "Set",
+      "translation": "套装",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.1710782c5d15",
+      "source": "Weapon",
+      "translation": "武器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.aafc7b0e9b9e",
+      "source": "Weapons",
+      "translation": "武器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.7f2465ac7cef",
+      "source": "Equipment",
+      "translation": "装备",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.a47fdf6415fc",
+      "source": "Helmet",
+      "translation": "头盔",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.ff12b80dd50f",
+      "source": "Body Armor",
+      "translation": "身甲",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.5c4a86a81eca",
+      "source": "Gloves",
+      "translation": "手套",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.929433e4be1d",
+      "source": "Boots",
+      "translation": "靴子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.2d905db4bafc",
+      "source": "Offhand",
+      "translation": "副手",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.adf7651801ae",
+      "source": "Accessory",
+      "translation": "饰品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.cb202ce740ea",
+      "source": "Charm",
+      "translation": "护符",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.1dadb3284b8b",
+      "source": "Companion",
+      "translation": "伙伴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.4f3a9bd00397",
+      "source": "Class",
+      "translation": "职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.9c40ae32bd6b",
+      "source": "Ability",
+      "translation": "能力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.f501ca38cce8",
+      "source": "Passive Ability",
+      "translation": "被动能力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.2e24eb8ac337",
+      "source": "Melee",
+      "translation": "近战",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.3f0b51a2492f",
+      "source": "Ranged",
+      "translation": "远程",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.ed1a5a81b812",
+      "source": "Magic",
+      "translation": "魔法",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.a89383f1a430",
+      "source": "Physical",
+      "translation": "物理",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.4309e83a3ded",
+      "source": "Elemental",
+      "translation": "元素",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.479682c90cdf",
+      "source": "Radiant",
+      "translation": "光辉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.60acc53f13a5",
+      "source": "Dark",
+      "translation": "暗影",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.c141faa80e43",
+      "source": "Fire",
+      "translation": "火焰",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.f151cd9e12c8",
+      "source": "Cold",
+      "translation": "冰霜",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.41e68f2cdb38",
+      "source": "Lightning",
+      "translation": "雷电",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.d5a78b996fe6",
+      "source": "Poison",
+      "translation": "中毒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.2574b5ca76b0",
+      "source": "Bleed",
+      "translation": "流血",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.926c5b431404",
+      "source": "Burn",
+      "translation": "燃烧",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.106eb3ebbb80",
+      "source": "Chill",
+      "translation": "寒冷",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.8d7aa335b28e",
+      "source": "Shock",
+      "translation": "感电",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.f2b23cdca8d1",
+      "source": "Enchantment",
+      "translation": "附魔",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.8c40b4eb6298",
+      "source": "Infusion",
+      "translation": "灌注",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.ee2970d641a4",
+      "source": "Attunement",
+      "translation": "调谐",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.5f4c7406a101",
+      "source": "Blessing",
+      "translation": "祝福",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.66eaa3ba7dcb",
+      "source": "Buff",
+      "translation": "增益",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.ba1d2c7c499e",
+      "source": "Debuff",
+      "translation": "减益",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.6779d52e0897",
+      "source": "Status Effect",
+      "translation": "状态效果",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.f0f6436953da",
+      "source": "Ailment",
+      "translation": "状态异常",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.e4eb18069d65",
+      "source": "Food",
+      "translation": "食物",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.bf5b95c165e0",
+      "source": "Pears",
+      "translation": "梨",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.ba4c9e950f09",
+      "source": "Meat",
+      "translation": "肉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.c2d3bfa84436",
+      "source": "Candy",
+      "translation": "糖果",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.c0862201e27e",
+      "source": "Flask",
+      "translation": "药瓶",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.41e4ae984c22",
+      "source": "Potion",
+      "translation": "药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.2d40135411c0",
+      "source": "Booze",
+      "translation": "酒水",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.feabf8ca5c42",
+      "source": "Tipsiness",
+      "translation": "醉意",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.f28b9ca197d4",
+      "source": "Shrine",
+      "translation": "圣坛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.bf3fac40de1b",
+      "source": "Campfire",
+      "translation": "篝火",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.f5d1dce68f65",
+      "source": "Bonfire",
+      "translation": "篝火",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.911ea89c43d9",
+      "source": "Room",
+      "translation": "房间",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.d268c9c44920",
+      "source": "Floor",
+      "translation": "楼层",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.b9f5ac79f671",
+      "source": "Boss Crowns",
+      "translation": "首领王冠",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.b092ddb47c95",
+      "source": "Bosses Killed",
+      "translation": "击败首领",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.735573534370",
+      "source": "BOSS DEFEATED",
+      "translation": "首领已击败",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.c7131df4f2e0",
+      "source": "Attune Items",
+      "translation": "调谐装备",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.fa46a2d09c8d",
+      "source": "Reroll Weapon",
+      "translation": "重随机武器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.701671205878",
+      "source": "Reroll Traits",
+      "translation": "重随机特质",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.21a9922358f3",
+      "source": "Buy Potions",
+      "translation": "购买药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.0fd19b4c4a54",
+      "source": "Toggle Inventory",
+      "translation": "开关背包",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.758f487fe8e9",
+      "source": "Inventory",
+      "translation": "背包",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.51e0a68231bb",
+      "source": "Empty Inventory Slots",
+      "translation": "空背包格",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.9a78a588ee9c",
+      "source": "Filled Inventory Slots",
+      "translation": "已用背包格",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.dec84b65feb3",
+      "source": "Use Skill",
+      "translation": "使用技能",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.4135b348884d",
+      "source": "Cancel Skill",
+      "translation": "取消技能",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.04adda4ac0c7",
+      "source": "Interact",
+      "translation": "互动",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.31fbef162594",
+      "source": "Continue",
+      "translation": "继续",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.28f9044138a5",
+      "source": "New Game",
+      "translation": "开始游戏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.d640c7421da0",
+      "source": "Resume",
+      "translation": "继续游戏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.d0db8b5e364b",
+      "source": "Options",
+      "translation": "选项",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.74a883a037bc",
+      "source": "Settings",
+      "translation": "设置",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.0b5de9334cbb",
+      "source": "Graphics Settings",
+      "translation": "画面设置",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.6ba2d782cb45",
+      "source": "Sound Settings",
+      "translation": "声音设置",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.799c26913574",
+      "source": "Controls",
+      "translation": "操作",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.d17d84a60499",
+      "source": "Exit",
+      "translation": "退出",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.b3eb37acb66b",
+      "source": "Quit",
+      "translation": "退出",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.76900f1bfd16",
+      "source": "Back",
+      "translation": "返回",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.eebdd24a77d9",
+      "source": "Confirm",
+      "translation": "确认",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.19766ed6ccb2",
+      "source": "Cancel",
+      "translation": "取消",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.31e392d1c037",
+      "source": "Apply",
+      "translation": "应用",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.daee7606b339",
+      "source": "Reset",
+      "translation": "重置",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.85a39ab345d6",
+      "source": "Yes",
+      "translation": "是",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.1ea442a134b2",
+      "source": "No",
+      "translation": "否",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.449f5a775762",
+      "source": "Talk",
+      "translation": "交谈",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.fc6e4a408d56",
+      "source": "Leave",
+      "translation": "离开",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.64e3cb0e4960",
+      "source": "Buy",
+      "translation": "购买",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.2ec1e2815946",
+      "source": "Sell",
+      "translation": "出售",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.885fd3041d12",
+      "source": "Equip",
+      "translation": "装备",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.4543c883301a",
+      "source": "Unequip",
+      "translation": "卸下",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.c8af9ae37a48",
+      "source": "Drop",
+      "translation": "丢弃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.6b615cfb6c3e",
+      "source": "Consume",
+      "translation": "使用",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.b79cac926e0b",
+      "source": "Help",
+      "translation": "帮助",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.6b983a81e5e8",
+      "source": "Restart",
+      "translation": "重新开始",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.2a6b24ad2872",
+      "source": "Credits",
+      "translation": "制作人员",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.7b790708ff1b",
+      "source": "Collection",
+      "translation": "收藏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.74cf2bc63fe1",
+      "source": "Achievements",
+      "translation": "成就",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.c461dbb2bab7",
+      "source": "Fullscreen",
+      "translation": "全屏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.d4055fafa379",
+      "source": "Resolution",
+      "translation": "分辨率",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.6eb00b4b2614",
+      "source": "Music",
+      "translation": "音乐",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.46124e023603",
+      "source": "Sound",
+      "translation": "音效",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.b10fb966d720",
+      "source": "Volume",
+      "translation": "音量",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.55c1520824a8",
+      "source": "Mouse",
+      "translation": "鼠标",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.2316810a5de3",
+      "source": "Keyboard",
+      "translation": "键盘",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.31df66dc9f06",
+      "source": "Controller",
+      "translation": "手柄",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.93bcc3510b6f",
+      "source": "Treasure chest",
+      "translation": "宝箱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "core.436e61016e26",
+      "source": "Play",
+      "translation": "游玩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立术语基线；短标签须结合运行时上下文复核"
+    },
+    {
+      "id": "status.charm",
+      "source": "Charm",
+      "translation": "魅惑",
+      "context": "status",
+      "kind": "exact",
+      "status": "translated",
+      "note": "状态效果语境"
+    }
+  ]
+}

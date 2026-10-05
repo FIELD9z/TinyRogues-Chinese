@@ -1,0 +1,4715 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "对话 B",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "dialogue.Fishing_On_Fail",
+      "source": "*It got away...*",
+      "translation": "*它跑掉了……*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fishing_On_Fail"
+    },
+    {
+      "id": "dialogue.Fishing_On_No_Bite",
+      "source": "*Not even a nibble...*",
+      "translation": "*连一口都没咬到……*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fishing_On_No_Bite"
+    },
+    {
+      "id": "dialogue.Fishing_On_Success",
+      "source": "*You got it!*",
+      "translation": "*钓到了！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fishing_On_Success"
+    },
+    {
+      "id": "dialogue.Fishing_Prompt",
+      "source": "Try to catch a fish?",
+      "translation": "要试着钓鱼吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fishing_Prompt"
+    },
+    {
+      "id": "dialogue.Fishing_Rod_Break",
+      "source": "*Oops!\nThe fishing rod broke!*",
+      "translation": "*糟糕！\n鱼竿断了！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fishing_Rod_Break"
+    },
+    {
+      "id": "dialogue.Flower_Girl_Talk",
+      "source": "I made these circlets myself.\nDo you like them?",
+      "translation": "这些花环都是我亲手做的。\n你喜欢吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Flower_Girl_Talk"
+    },
+    {
+      "id": "dialogue.Flower_Girl_Thanks",
+      "source": "Thank you!",
+      "translation": "谢谢你！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Flower_Girl_Thanks"
+    },
+    {
+      "id": "dialogue.Fox_1",
+      "source": "Ah, hello there!\nHave you seen any bunnies around?",
+      "translation": "啊，你好！\n你有看到附近有什么兔子吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fox_1"
+    },
+    {
+      "id": "dialogue.Fox_2",
+      "source": "You haven't?\nDo you think you will see\nsome on your adventure?\nCan I join you?",
+      "translation": "没有吗？\n你觉得冒险时会遇到\n一些兔子吗？\n我能和你一起走吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fox_2"
+    },
+    {
+      "id": "dialogue.Fox_3",
+      "source": "Even for all the bunnies\nin the meadow, I wouldn't\njoin forces with an owl. Apologies.",
+      "translation": "就算草地上有所有的兔子，\n我也不会\n和猫头鹰联手。抱歉。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fox_3"
+    },
+    {
+      "id": "dialogue.Fox_4",
+      "source": "Even for all the bunnies\nin the meadow, I wouldn't\njoin forces with a squirrel. Apologies.",
+      "translation": "就算草地上有所有的兔子，\n我也不会\n和松鼠联手。抱歉。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fox_4"
+    },
+    {
+      "id": "dialogue.Fox_5",
+      "source": "No? That's a pity...",
+      "translation": "没有吗？真可惜……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fox_5"
+    },
+    {
+      "id": "dialogue.Fox_6",
+      "source": "Fantastic!\nI love the scent of\nan adventure ahead!",
+      "translation": "太棒了！\n我喜欢前方\n冒险的气息！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fox_6"
+    },
+    {
+      "id": "dialogue.Fox_On_Found_Item",
+      "source": "*sniff sniff*\nI found treasure!",
+      "translation": "*嗅嗅……*\n我发现了宝藏！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fox_On_Found_Item"
+    },
+    {
+      "id": "dialogue.Frog_Princess_1",
+      "source": "Oh my!\nIt feels so good to stretch my legs again.\nI've been cooped up as a frog for so long!",
+      "translation": "天哪！\n重新伸展双腿的感觉真好。\n我被困在青蛙身体里太久了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Frog_Princess_1"
+    },
+    {
+      "id": "dialogue.Frog_Princess_2",
+      "source": "I cannot begin to express my gratitude.\nYour bravery and kindness shine\nbrighter than the sun.",
+      "translation": "我无法用言语表达我的感激。\n你的勇气与善良\n比太阳还要耀眼。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Frog_Princess_2"
+    },
+    {
+      "id": "dialogue.Frog_Princess_3",
+      "source": "Please, allow me to\ngift you something special,\na token of my appreciation.",
+      "translation": "请允许我\n送你一件特别的礼物，\n以表谢意。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Frog_Princess_3"
+    },
+    {
+      "id": "dialogue.Frog_Princess_4",
+      "source": "You are my hero!",
+      "translation": "你是我的英雄！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Frog_Princess_4"
+    },
+    {
+      "id": "dialogue.Frog_Princess_5",
+      "source": "Thank you.\nYour name shall be remembered in our\nkingdom's tales of heroism and bravery.",
+      "translation": "谢谢你。\n你的名字会被铭记在我们王国\n英勇无畏的传说中。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Frog_Princess_5"
+    },
+    {
+      "id": "dialogue.Frog_Princess_Answer_2",
+      "source": "Give it a kiss",
+      "translation": "给它一个吻",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Frog_Princess_Answer_2"
+    },
+    {
+      "id": "dialogue.Frog_Princess_Question",
+      "source": "What to do\nwith this frog?",
+      "translation": "该怎么处理\n这只青蛙？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Frog_Princess_Question"
+    },
+    {
+      "id": "dialogue.Gambler_Ghost_1",
+      "source": "Want to play a game?\nYou can win some Ethereal Dice!",
+      "translation": "想玩个游戏吗？\n你可以赢得一些幽灵骰子！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Gambler_Ghost_1"
+    },
+    {
+      "id": "dialogue.Gambler_Ghost_2",
+      "source": "He-he-he!\nPerfect, let's play!",
+      "translation": "嘿嘿嘿！\n太好了，我们来玩吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Gambler_Ghost_2"
+    },
+    {
+      "id": "dialogue.Gambler_Ghost_3",
+      "source": "Oh!?\nBut what's life without\na little fun, right?\nHe-he-he!",
+      "translation": "哦！？\n不过人生没有一点乐趣\n又有什么意思，对吧？\n嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Gambler_Ghost_3"
+    },
+    {
+      "id": "dialogue.Gambler_Ghost_Done_Playing",
+      "source": "Ah sorry,\nI don't feel like playing anymore right now.",
+      "translation": "啊，抱歉，\n我现在不想再玩了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Gambler_Ghost_Done_Playing"
+    },
+    {
+      "id": "dialogue.Gambler_Ghost_On_Loss",
+      "source": "You win!\nHe-he-he!\nWe should play again...",
+      "translation": "你赢了！\n嘿嘿嘿！\n我们下次再玩……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Gambler_Ghost_On_Loss"
+    },
+    {
+      "id": "dialogue.Gambler_Ghost_On_Win",
+      "source": "I win!\nNo dice for you, he-he-he!\nWe should play again!",
+      "translation": "我赢了！\n没有骰子给你，嘿嘿嘿！\n我们下次再玩！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Gambler_Ghost_On_Win"
+    },
+    {
+      "id": "dialogue.Genie_1",
+      "source": "Rub the magic lamp?",
+      "translation": "要擦拭魔法灯吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Genie_1"
+    },
+    {
+      "id": "dialogue.Genie_2",
+      "source": "Master,\nI shall fulfil one wish,\nwhat do you wish for?",
+      "translation": "主人，\n我会实现一个愿望，\n你想要什么？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Genie_2"
+    },
+    {
+      "id": "dialogue.Genie_3",
+      "source": "So shall it be.",
+      "translation": "如你所愿。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Genie_3"
+    },
+    {
+      "id": "dialogue.Genie_4",
+      "source": "My work is done here,\ncontinue onwards, master.",
+      "translation": "我的工作完成了，\n继续前进吧，主人。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Genie_4"
+    },
+    {
+      "id": "dialogue.Giant_Clam_1",
+      "source": "Try to snatch the Pearl Ring?",
+      "translation": "要抢走珍珠戒指吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Giant_Clam_1"
+    },
+    {
+      "id": "dialogue.Giant_Clam_Fail",
+      "source": "*Ouch!\nNot quick enough!*",
+      "translation": "*哎哟！\n动作不够快！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Giant_Clam_Fail"
+    },
+    {
+      "id": "dialogue.Giant_Clam_Success",
+      "source": "*Got it!*",
+      "translation": "*拿到了！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Giant_Clam_Success"
+    },
+    {
+      "id": "dialogue.Goat_Devil_1",
+      "source": "Well, well, isn't this\na peculiar predicament?\nFrom one cage-rattler\nto another, salutations!",
+      "translation": "哎呀，哎呀，这真是\n个奇怪的处境啊？\n从一个摇笼子的人\n向另一个摇笼子的人致意！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_1"
+    },
+    {
+      "id": "dialogue.Goat_Devil_2",
+      "source": "I will not lie to you.\nYes, I am a devil.\nNow, don't jump to\nquick conclusions.\nMeh-eh-eh-eh!",
+      "translation": "我不会骗你。\n是的，我是恶魔。\n不过别急着\n下结论。\n咩——嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_2"
+    },
+    {
+      "id": "dialogue.Goat_Devil_3",
+      "source": "While this cage isn't\nmy ideal setting, it doesn't\nimpede my talent for...\nintriguing negotiations.",
+      "translation": "虽然这座牢笼\n不是我理想的处所，\n却丝毫不妨碍我\n进行……有趣的谈判。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_3"
+    },
+    {
+      "id": "dialogue.Goat_Devil_4",
+      "source": "Let's chat, shall we?\nI'm sure we can figure something out.\nMeh-eh-eh-eh!",
+      "translation": "我们聊聊吧？\n我相信我们能想出办法。\n咩——嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_4"
+    },
+    {
+      "id": "dialogue.Goat_Devil_5",
+      "source": "No? Well that's a shame.\nIf you change your mind\nremember: you are always welcome.\nMeh-eh-eh-eh!",
+      "translation": "不了？真遗憾。\n如果你改变主意，\n记住：随时欢迎你。\n咩——嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_5"
+    },
+    {
+      "id": "dialogue.Goat_Devil_6",
+      "source": "Yes. Let's see...",
+      "translation": "好吧。让我看看……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_6"
+    },
+    {
+      "id": "dialogue.Goat_Devil_7",
+      "source": "Now that wasn't that bad, huh?\nMeh-eh-eh-eh!\nPleasure making business.",
+      "translation": "这没那么糟，对吧？\n咩——嘿嘿嘿！\n很高兴和你做成这笔交易。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_7"
+    },
+    {
+      "id": "dialogue.Goat_Devil_8",
+      "source": "My deal stands as it is.\nCome back any time\nif you change your mind.\nMeh-eh-eh-eh!",
+      "translation": "我的条件不变。\n你改变主意的话\n随时可以回来。\n咩——嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_8"
+    },
+    {
+      "id": "dialogue.Goat_Devil_9",
+      "source": "So be it!",
+      "translation": "就这样吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_9"
+    },
+    {
+      "id": "dialogue.Goat_Devil_Full_Heal_1",
+      "source": "While my situation might\nlook quite dire.\nIt looks like you aren't doing\ntoo well either.",
+      "translation": "虽然我的处境看起来\n可能相当糟糕，\n但看来你的状况\n也不太好。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_Full_Heal_1"
+    },
+    {
+      "id": "dialogue.Goat_Devil_Full_Heal_2",
+      "source": "For the measly amount of\nALL your souls, I'd be glad\nto fully heal you!\nHow about that?",
+      "translation": "只要你全部的\n灵魂，我就很乐意\n把你彻底治好！\n怎么样？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_Full_Heal_2"
+    },
+    {
+      "id": "dialogue.Goat_Devil_Level_Up_1",
+      "source": "You are quite strong, huh?\nYou seem to have grown a lot.\nBut you haven't reached your\nfull potential yet, huh?",
+      "translation": "你很强嘛，对吧？\n你似乎成长了不少。\n但你还没达到\n自己的极限，对吧？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_Level_Up_1"
+    },
+    {
+      "id": "dialogue.Goat_Devil_Level_Up_2",
+      "source": "For the measly amount of\nALL your souls, I'd be glad\nto level you up to the point\nof reaching your next breakpoint?\nHow about that?",
+      "translation": "只要你全部的\n灵魂，我就很乐意\n帮你升级到\n下一个突破点？\n怎么样？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_Level_Up_2"
+    },
+    {
+      "id": "dialogue.Goat_Devil_New_Weapon_1",
+      "source": "Let's take a look\nat your weapon...\nOh my, oh my...\nnot the best quality, huh?",
+      "translation": "让我看看\n你的武器……\n哎呀，哎呀……\n品质不太好，对吧？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_New_Weapon_1"
+    },
+    {
+      "id": "dialogue.Goat_Devil_New_Weapon_2",
+      "source": "For the measly amount of\nALL your souls, I'd be glad\nto bestow a new legendary weapon upon you!\nHow about that?",
+      "translation": "只要你全部的\n灵魂，我就很乐意\n赐予你一件新的传说级武器！\n怎么样？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_New_Weapon_2"
+    },
+    {
+      "id": "dialogue.Goat_Devil_Revive_1",
+      "source": "You look pretty well set.\nI have an idea for a simple\nbut classic deal!",
+      "translation": "你看起来准备得很充分。\n我有个简单\n却经典的交易点子！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_Revive_1"
+    },
+    {
+      "id": "dialogue.Goat_Devil_Revive_2",
+      "source": "For the measly amount of\nALL your souls, I'd be glad\nto revive you once from death!\nHow about that?",
+      "translation": "只要你全部的\n灵魂，我就很乐意\n让你起死回生一次！\n怎么样？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_Revive_2"
+    },
+    {
+      "id": "dialogue.Goat_Devil_Weapon_Upgrade_1",
+      "source": "Your weapon seems\nmighty fine...\nbut barely upgraded.\nMeh-eh-eh-eh!",
+      "translation": "你的武器看起来\n相当不错……\n但几乎没有升级。\n咩——嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_Weapon_Upgrade_1"
+    },
+    {
+      "id": "dialogue.Goat_Devil_Weapon_Upgrade_2",
+      "source": "For the measly amount of\nALL your souls, I'd be glad to upgrade your weapon to level 4!\nHow about that?",
+      "translation": "只要你全部的\n灵魂，我就很乐意把你的武器升级到4级！\n怎么样？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Goat_Devil_Weapon_Upgrade_2"
+    },
+    {
+      "id": "dialogue.Golden_Tree",
+      "source": "Examine the golden tree?",
+      "translation": "要调查金色的树吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Golden_Tree"
+    },
+    {
+      "id": "dialogue.Guillotine",
+      "source": "Investigate the corpse?",
+      "translation": "要调查尸体吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Guillotine"
+    },
+    {
+      "id": "dialogue.Heaven_Rat_Merchant_1",
+      "source": "I collect souls for the high heavens!\nEverything's for sale!",
+      "translation": "我替至高天堂收集灵魂！\n什么都有得卖！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Heaven_Rat_Merchant_1"
+    },
+    {
+      "id": "dialogue.Heaven_Rat_Merchant_2",
+      "source": "I hope you brought\nplenty of souls!",
+      "translation": "希望你带了\n足够多的灵魂！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Heaven_Rat_Merchant_2"
+    },
+    {
+      "id": "dialogue.Heaven_Rat_Merchant_3",
+      "source": "What do you think about\nour heavenly wares?",
+      "translation": "你觉得\n我们的天界货物怎么样？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Heaven_Rat_Merchant_3"
+    },
+    {
+      "id": "dialogue.Hell_Rat_Merchant_1",
+      "source": "I collect souls for\nthe master.\nNeed anything?",
+      "translation": "我替\n主人收集灵魂。\n需要什么吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Hell_Rat_Merchant_1"
+    },
+    {
+      "id": "dialogue.Hell_Rat_Merchant_2",
+      "source": "I hope you brought\na bunch of souls!\nNee hee hee hee!",
+      "translation": "希望你带了\n一大把灵魂！\n咿嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Hell_Rat_Merchant_2"
+    },
+    {
+      "id": "dialogue.Hell_Rat_Merchant_3",
+      "source": "Quite hot down here, huh?\nNee hee hee hee!",
+      "translation": "这里很热，对吧？\n咿嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Hell_Rat_Merchant_3"
+    },
+    {
+      "id": "dialogue.Heroes_Grave_1",
+      "source": "\"Here rests a once powerful hero.\"",
+      "translation": "“这里安眠着一位曾经强大的英雄。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Heroes_Grave_1"
+    },
+    {
+      "id": "dialogue.Heroes_Grave_2",
+      "source": "\"They fought valiantly\nto protect the innocent.\"",
+      "translation": "“他们曾英勇奋战\n保护无辜者。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Heroes_Grave_2"
+    },
+    {
+      "id": "dialogue.Heroes_Grave_3",
+      "source": "*Hearing about the heroes legacy,\nfills you with Determination.",
+      "translation": "*听闻英雄的遗志，\n你充满了决心。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Heroes_Grave_3"
+    },
+    {
+      "id": "dialogue.Hobo_1",
+      "source": "Hey, want to play a game?\nFor the low price of <color=yellow>5 Gold<sprite name=\"Gold\"></color> you can\nwin some superb trash I've collected!",
+      "translation": "嘿，要玩个游戏吗？\n只要低价支付<color=yellow>5金币<sprite name=\"Gold\"></color>，\n就能赢走我收集的绝妙垃圾！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Hobo_1"
+    },
+    {
+      "id": "dialogue.Hobo_2",
+      "source": "Yeehaw! Let's play!\nHe-he-he!",
+      "translation": "耶！来玩吧！\n嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Hobo_2"
+    },
+    {
+      "id": "dialogue.Hobo_3",
+      "source": "Don't you like fun?\nThat's odd.",
+      "translation": "你不喜欢乐趣吗？\n真奇怪。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Hobo_3"
+    },
+    {
+      "id": "dialogue.Hobo_On_Doesnt_Want_To_Play_Anymore",
+      "source": "I'm all out of stuff\nfor you to win.\nHe-he-he!",
+      "translation": "我已经没有\n东西可以让你赢了。\n嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Hobo_On_Doesnt_Want_To_Play_Anymore"
+    },
+    {
+      "id": "dialogue.Hobo_On_Loss",
+      "source": "I win!\nThat means I get to keep my stuff.\nHe-he-he!",
+      "translation": "我赢了！\n这下我的东西归我了。\n嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Hobo_On_Loss"
+    },
+    {
+      "id": "dialogue.Hobo_On_Win",
+      "source": "Lucky you!\nLet's see...\nHere, take this!",
+      "translation": "你真走运！\n让我看看……\n来，拿着！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Hobo_On_Win"
+    },
+    {
+      "id": "dialogue.Ice_Sculpting",
+      "source": "Attempt to finish\nthe ice sculpture?",
+      "translation": "要试着完成\n冰雕吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ice_Sculpting"
+    },
+    {
+      "id": "dialogue.Ice_Sculpting_Lose",
+      "source": "*That didn't go so well..*",
+      "translation": "*好像不太顺利……*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ice_Sculpting_Lose"
+    },
+    {
+      "id": "dialogue.Ice_Sculpting_Win_1",
+      "source": "*You finished the last\nice sculpture*",
+      "translation": "*你完成了最后一座\n冰雕*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ice_Sculpting_Win_1"
+    },
+    {
+      "id": "dialogue.Ice_Sculpting_Win_2",
+      "source": "*You feel an icy wind\nblow through the caverns.*",
+      "translation": "*你感到一阵冰冷的风\n吹过洞窟。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ice_Sculpting_Win_2"
+    },
+    {
+      "id": "dialogue.Ice_Sculpting_Win_3",
+      "source": "*The goddess of Winter\nseems satisfied.*",
+      "translation": "*冬之女神\n似乎很满意。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ice_Sculpting_Win_3"
+    },
+    {
+      "id": "dialogue.Ichor",
+      "source": "Take a sip of ichor?",
+      "translation": "要喝一口灵液吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ichor"
+    },
+    {
+      "id": "dialogue.Ichor_Win_1",
+      "source": "*A hint of strawberry!\nIf only you could remember\nwhat a strawberry tastes like...*",
+      "translation": "*一丝草莓味！\n要是你还记得\n草莓是什么味道就好了……*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ichor_Win_1"
+    },
+    {
+      "id": "dialogue.Ichor_Win_2",
+      "source": "*A sharp aftertaste,\nsurprisingly refreshing!*",
+      "translation": "*强烈的回味，\n意外地清爽！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ichor_Win_2"
+    },
+    {
+      "id": "dialogue.Ichor_Win_3",
+      "source": "*The forbidden nectar of the gods.\nWhat a yummy snack!*",
+      "translation": "*神明的禁忌甘露。\n真是美味的点心！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ichor_Win_3"
+    },
+    {
+      "id": "dialogue.Ichor_Win_4",
+      "source": "*Tastes like victory!*",
+      "translation": "*尝起来像胜利！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ichor_Win_4"
+    },
+    {
+      "id": "dialogue.Intelligence_Mushroom_1",
+      "source": "Greetings, keen traveler!",
+      "translation": "你好，敏锐的旅人！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Intelligence_Mushroom_1"
+    },
+    {
+      "id": "dialogue.Intelligence_Mushroom_2",
+      "source": "Will you take my offspring\non a magnificent adventure?",
+      "translation": "你愿意带我的孩子\n去一场壮丽的冒险吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Intelligence_Mushroom_2"
+    },
+    {
+      "id": "dialogue.Intelligence_Mushroom_3",
+      "source": "I have a lot of trust in you.\nFare well and take care!",
+      "translation": "我非常信任你。\n一路顺风，保重！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Intelligence_Mushroom_3"
+    },
+    {
+      "id": "dialogue.Intelligence_Mushroom_4",
+      "source": "I see you've decided for another.\nThat is fine, I shall wait for an\neven smarter traveler!",
+      "translation": "我看出你选择了另一个。\n没关系，我会等待\n更聪明的旅人！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Intelligence_Mushroom_4"
+    },
+    {
+      "id": "dialogue.Jungle_Pylon_1",
+      "source": "Touch the strange crystal?",
+      "translation": "要触碰这枚奇异的水晶吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Jungle_Pylon_1"
+    },
+    {
+      "id": "dialogue.Jungle_Pylon_2",
+      "source": "*You have been blessed\nby the power of the pylon.*",
+      "translation": "*你受到了\n石柱之力的祝福。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Jungle_Pylon_2"
+    },
+    {
+      "id": "dialogue.Jungle_Pylon_3",
+      "source": "*You gained [[+3]] Magic Find<sprite name=\"Magic_Find\">.*",
+      "translation": "*你获得了[[+3]]寻宝率<sprite name=\"Magic_Find\">。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Jungle_Pylon_3"
+    },
+    {
+      "id": "dialogue.Knight_Statue",
+      "source": "Investigate the statue of a knight?",
+      "translation": "要调查骑士雕像吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Knight_Statue"
+    },
+    {
+      "id": "dialogue.Kobold_Blue_1",
+      "source": "I fish for food!",
+      "translation": "我钓鱼是为了食物！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Blue_1"
+    },
+    {
+      "id": "dialogue.Kobold_Blue_2",
+      "source": "Do you fish too?\nNeed any tips?",
+      "translation": "你也钓鱼吗？\n需要一些诀窍吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Blue_2"
+    },
+    {
+      "id": "dialogue.Kobold_Green_1",
+      "source": "We love gold.\nGold so shiny!\nYou know!?",
+      "translation": "我们喜欢金子。\n金子真闪亮！\n知道吗！？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Green_1"
+    },
+    {
+      "id": "dialogue.Kobold_Green_2",
+      "source": "We love food.\nGold is nice,\nbut cannot fill belly!\nYou know?!",
+      "translation": "我们喜欢食物。\n金子很好，\n但填不饱肚子！\n知道吗？！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Green_2"
+    },
+    {
+      "id": "dialogue.Kobold_Green_3",
+      "source": "We love community.\nMakes little folk strong!\nYou know?!",
+      "translation": "我们喜欢团结。\n小个子也能因此变强！\n知道吗？！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Green_3"
+    },
+    {
+      "id": "dialogue.Kobold_Green_Thanks_1",
+      "source": "Need more?\nI have more.",
+      "translation": "还要更多吗？\n我还有。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Green_Thanks_1"
+    },
+    {
+      "id": "dialogue.Kobold_Green_Thanks_2",
+      "source": "Hmm, I make this again,\nstrangers love this.",
+      "translation": "嗯，我再做一个，\n陌生人喜欢这个。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Green_Thanks_2"
+    },
+    {
+      "id": "dialogue.Kobold_Purple_1",
+      "source": "Psshd!\nDon't tell other Kobolds!",
+      "translation": "嘘！\n别告诉其他狗头人！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Purple_1"
+    },
+    {
+      "id": "dialogue.Kobold_Purple_2",
+      "source": "I like to come here to drink!\nYes yes!",
+      "translation": "我喜欢来这里喝酒！\n是的，是的！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Purple_2"
+    },
+    {
+      "id": "dialogue.Kobold_Purple_3",
+      "source": "Makes feel fuzzy!",
+      "translation": "喝了会让人飘飘然！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Purple_3"
+    },
+    {
+      "id": "dialogue.Kobold_Purple_4",
+      "source": "Tavernkeep a very nice man!\nSo nice indeed!",
+      "translation": "酒馆老板是个很好的人！\n真的非常好！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Purple_4"
+    },
+    {
+      "id": "dialogue.Kobold_Red_1",
+      "source": "We craft and sell.",
+      "translation": "我们制作并出售。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Red_1"
+    },
+    {
+      "id": "dialogue.Kobold_Red_2",
+      "source": "Ok...\nI craft and other kobold sell.",
+      "translation": "好吧……\n我负责制作，其他狗头人负责出售。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kobold_Red_2"
+    },
+    {
+      "id": "dialogue.Kuo_Tao_Merchant_1",
+      "source": "Interested in fresh catch?\nI keep most for me.\nVery delicious!",
+      "translation": "对新鲜捕获物感兴趣吗？\n大部分我会留给自己。\n非常美味！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kuo_Tao_Merchant_1"
+    },
+    {
+      "id": "dialogue.Kuo_Tao_Merchant_2",
+      "source": "I catch what I find.\nVery tasty!",
+      "translation": "我抓到什么就卖什么。\n非常美味！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kuo_Tao_Merchant_2"
+    },
+    {
+      "id": "dialogue.Kuo_Tao_Merchant_3",
+      "source": "The sea provides.\nFood good for you!",
+      "translation": "大海会提供一切。\n食物对你有好处！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kuo_Tao_Merchant_3"
+    },
+    {
+      "id": "dialogue.Kuo_Tao_Merchant_Thanks_1",
+      "source": "My favorite...",
+      "translation": "我最喜欢的……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kuo_Tao_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.Kuo_Tao_Merchant_Thanks_2",
+      "source": "So tasty!",
+      "translation": "真好吃！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Kuo_Tao_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Lever_Game_Already_Active",
+      "source": "*The lever\nis already activated.*",
+      "translation": "*拉杆\n已经启动了。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Lever_Game_Already_Active"
+    },
+    {
+      "id": "dialogue.Lever_Game_Finished",
+      "source": "*Better not touch\nanything anymore...*",
+      "translation": "*最好别再碰\n任何东西了……*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Lever_Game_Finished"
+    },
+    {
+      "id": "dialogue.Lever_Game_Reset",
+      "source": "*It seems all\nlevers reset...*",
+      "translation": "*看来所有\n拉杆都重置了……*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Lever_Game_Reset"
+    },
+    {
+      "id": "dialogue.Lever_Game_Switch",
+      "source": "*There is a hidden lever.\nFlip it?*",
+      "translation": "*那里有一根隐藏的拉杆。\n要扳动吗？*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Lever_Game_Switch"
+    },
+    {
+      "id": "dialogue.Lever_Game_Wrong_Lever",
+      "source": "*The lever\nwon't budge!*",
+      "translation": "*拉杆\n纹丝不动！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Lever_Game_Wrong_Lever"
+    },
+    {
+      "id": "dialogue.Leviathan_1",
+      "source": "Watching.",
+      "translation": "注视。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_1"
+    },
+    {
+      "id": "dialogue.Leviathan_2",
+      "source": "Consume.",
+      "translation": "吞噬。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_2"
+    },
+    {
+      "id": "dialogue.Leviathan_3",
+      "source": "Reward.",
+      "translation": "奖赏。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_3"
+    },
+    {
+      "id": "dialogue.Leviathan_4",
+      "source": "Feed souls? (5<sprite name=\"Soul\">)",
+      "translation": "喂食灵魂？ (5<sprite name=\"Soul\">)",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_4"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_0",
+      "source": "I welcome thee, my disciple.\nHas thou brought any Souls<sprite name=\"Soul\">?",
+      "translation": "我欢迎你，我的门徒。\n你带来灵魂<sprite name=\"Soul\">了吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_0"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_2",
+      "source": "Tell me thy secrets.\nWhat is it that thou seek?",
+      "translation": "告诉我你的秘密。\n你究竟在寻找什么？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_2"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_3",
+      "source": "Remember.\nI am always watching thee.",
+      "translation": "记住。\n我一直注视着你。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_3"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_4",
+      "source": "Bring me more souls.\nTrust me.\nThere is always more rewards for thee.",
+      "translation": "给我带来更多灵魂。\n相信我。\n奖赏总会更多。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_4"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_Answer_1",
+      "source": "Very well.",
+      "translation": "很好。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_Answer_1"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_Answer_2_Accept",
+      "source": "Wise choice.",
+      "translation": "明智的选择。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_Answer_2_Accept"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_Answer_2_Decline",
+      "source": "I will not upgrade\nthis trash any further...",
+      "translation": "我不会再为这件垃圾\n继续升级了……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_Answer_2_Decline"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_Answer_3",
+      "source": "A simple task.",
+      "translation": "一项简单的任务。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_Answer_3"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_Answer_4",
+      "source": "Such greed?\nI expected better.\nNonetheless, a deal is a deal.",
+      "translation": "如此贪婪？\n我本以为你会更好。\n不过交易就是交易。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_Answer_4"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_Choice_1",
+      "source": "Random Reward (5 Souls<sprite name=\"Soul\">)",
+      "translation": "随机奖励 (5灵魂<sprite name=\"Soul\">)",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_Choice_1"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_Choice_2",
+      "source": "Upgrade Weapon (5 Souls<sprite name=\"Soul\">)",
+      "translation": "升级武器 (5灵魂<sprite name=\"Soul\">)",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_Choice_2"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_Choice_3",
+      "source": "Heal And Repair (5 Souls<sprite name=\"Soul\">)",
+      "translation": "治疗并修理 (5灵魂<sprite name=\"Soul\">)",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_Choice_3"
+    },
+    {
+      "id": "dialogue.Leviathan_Disciple_Choice_4",
+      "source": "Riches (5 Souls<sprite name=\"Soul\">)",
+      "translation": "财富 (5灵魂<sprite name=\"Soul\">)",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Leviathan_Disciple_Choice_4"
+    },
+    {
+      "id": "dialogue.Librarian_Ghost_1",
+      "source": "You can take one tome.\nOne tome only!",
+      "translation": "你可以拿走一本典籍。\n只能拿一本！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Librarian_Ghost_1"
+    },
+    {
+      "id": "dialogue.Librarian_Ghost_2",
+      "source": "And remember to share your\nwisdom with others.",
+      "translation": "记住，要把你的\n智慧分享给他人。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Librarian_Ghost_2"
+    },
+    {
+      "id": "dialogue.Lost_Canary",
+      "source": "Take the bird cage?",
+      "translation": "要带走鸟笼吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Lost_Canary"
+    },
+    {
+      "id": "dialogue.Man-Eater_Plants_Event",
+      "source": "Try to snatch the item?",
+      "translation": "要试着抢走这件物品吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Man-Eater_Plants_Event"
+    },
+    {
+      "id": "dialogue.Mana_Shrine_1",
+      "source": "Read the glyphs inscribed the mana shrine?",
+      "translation": "要阅读刻在法力圣坛上的符文吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Mana_Shrine_1"
+    },
+    {
+      "id": "dialogue.Mana_Shrine_2",
+      "source": "*Reading the ancient texts,\nempowered your magical potency.*",
+      "translation": "*阅读古老的文字后，\n你的魔力变得更强了。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Mana_Shrine_2"
+    },
+    {
+      "id": "dialogue.Mana_Shrine_3",
+      "source": "*You gained [[+1]] maximum mana<sprite name=\"Mana\">.*",
+      "translation": "*你获得了[[+1]]最大法力<sprite name=\"Mana\">。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Mana_Shrine_3"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Lesson_1",
+      "source": "Lesson Of True Might",
+      "translation": "真力之课",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Lesson_1"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Lesson_1_Mastered",
+      "source": "Mastering the Lesson Of True Might\npermanently grants you\n[[+25% increased damage with non-crits]].",
+      "translation": "掌握真力之课\n将永久赋予你\n[[非暴击伤害提高 +25%]]。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Lesson_1_Mastered"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Lesson_2",
+      "source": "Lesson Of True Speed",
+      "translation": "真速之课",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Lesson_2"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Lesson_2_Mastered",
+      "source": "Mastering the Lesson Of True Speed\npermanently grants you\n[[+10% movement and attack speed]].",
+      "translation": "掌握真速之课\n将永久赋予你\n[[移速和攻速提高 +10%]]。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Lesson_2_Mastered"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Lesson_3",
+      "source": "Lesson Of True Precision",
+      "translation": "真准之课",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Lesson_3"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Lesson_3_Mastered",
+      "source": "Mastering the Lesson Of True Precision\npermanently grants you\n+[[10% critical hit chance]].",
+      "translation": "掌握真准之课\n将永久赋予你\n+[[10% 暴击率]]。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Lesson_3_Mastered"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Master_1",
+      "source": "Greetings.",
+      "translation": "你好。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Master_1"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Master_2",
+      "source": "Are you here to\nlearn ancient combat\ntechniques?",
+      "translation": "你是来\n学习古老的战斗\n技巧的吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Master_2"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Master_3-1",
+      "source": "I shall teach you one lesson,\nbut one lesson only.",
+      "translation": "我会教你一课，\n但只能教一课。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Master_3-1"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Master_3-2",
+      "source": "Really?\nI might have misjudged\nyour character.",
+      "translation": "真的吗？\n看来我误判了\n你的为人。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Master_3-2"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Master_4",
+      "source": "I am not sure you\nquite understood the\nquintessence of this lesson.",
+      "translation": "我不确定你是否\n真正理解了\n这堂课的精髓。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Master_4"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Master_5",
+      "source": "Maybe you need\nmore training.",
+      "translation": "也许你需要\n更多训练。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Master_5"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Master_6",
+      "source": "That was an exceptional\nperformance.",
+      "translation": "表现得非常\n出色。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Master_6"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Master_7",
+      "source": "It seems you've mastered\nmy technique.",
+      "translation": "看来你已经掌握了\n我的技巧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Master_7"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Master_8",
+      "source": "Fare well on\nyour journey.",
+      "translation": "在旅途中\n一路顺风。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Master_8"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Master_What_Lesson",
+      "source": "You must decide on\nwhich lesson I shall teach you.",
+      "translation": "你必须决定\n我该教你哪一课。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Master_What_Lesson"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Ready_Up",
+      "source": "Ready up!\nFollow my moves!",
+      "translation": "准备好！\n跟着我的动作！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Ready_Up"
+    },
+    {
+      "id": "dialogue.Martial_Arts_Try_Again",
+      "source": "Do you want to\ntry again?",
+      "translation": "想再\n试一次吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Martial_Arts_Try_Again"
+    },
+    {
+      "id": "dialogue.Monkey_Statue_1",
+      "source": "Touch the golden monkey statue?",
+      "translation": "要触碰金色的猴子雕像吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Monkey_Statue_1"
+    },
+    {
+      "id": "dialogue.Monkey_Statue_2",
+      "source": "*You gained [[+1]] luck<sprite name=\"Luck\">\nbut you also have been cursed<sprite name=\"Curse\">\nby the golden monkey.*",
+      "translation": "*你获得了[[+1]]幸运<sprite name=\"Luck\">，\n但也被金色的猴子\n施加了诅咒<sprite name=\"Curse\">。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Monkey_Statue_2"
+    },
+    {
+      "id": "dialogue.Mouse_Trap",
+      "source": "Try to snatch the Cheese?",
+      "translation": "要抢走奶酪吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Mouse_Trap"
+    },
+    {
+      "id": "dialogue.Mouse_Trap_Got_It_Anyways",
+      "source": "*Got it anyways.*",
+      "translation": "*还是拿到了。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Mouse_Trap_Got_It_Anyways"
+    },
+    {
+      "id": "dialogue.Museum_Choice_1",
+      "source": "Revive this fossil",
+      "translation": "复活这块化石",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Choice_1"
+    },
+    {
+      "id": "dialogue.Museum_Choice_2",
+      "source": "Not this one",
+      "translation": "不要这块",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Choice_2"
+    },
+    {
+      "id": "dialogue.Museum_Fossil_Cherubim",
+      "source": "\"Cherubim Fossil\"\n\"An angelic being\nthat fell down from\nthe high heavens.\"",
+      "translation": "“天使化石”\n“一个天使般的存在\n从至高天堂\n坠落而下。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Fossil_Cherubim"
+    },
+    {
+      "id": "dialogue.Museum_Fossil_Dragon",
+      "source": "\"Dragon Fossil\"\n\"Most dragons are able to\nbreath fire.\"",
+      "translation": "“龙化石”\n“大多数龙都能\n喷出火焰。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Fossil_Dragon"
+    },
+    {
+      "id": "dialogue.Museum_Fossil_Hellspawn_Hatchling",
+      "source": "\"Hellspawn Fossil\"\n\"A devilish creature\nborn in the depths\nof the burning hells.\"",
+      "translation": "“地狱种化石”\n“一个诞生于\n燃烧地狱深处的\n恶魔生物。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Fossil_Hellspawn_Hatchling"
+    },
+    {
+      "id": "dialogue.Museum_Fossil_Sorrowsworn",
+      "source": "\"Sorrowsworn Fossil\"\n\"A demonic minion that spreads misery\nwith a pointy spear of shadows.\"",
+      "translation": "“悲恸化石”\n“一个散播苦难的恶魔爪牙，\n手持一把尖利的暗影长矛。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Fossil_Sorrowsworn"
+    },
+    {
+      "id": "dialogue.Museum_Fossil_Velociraptor",
+      "source": "\"Raptor Fossil\"\n\"These dinosaurs loved to\nhunt in packs.\"",
+      "translation": "“迅猛龙化石”\n“这些恐龙喜欢\n成群捕猎。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Fossil_Velociraptor"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_10",
+      "source": "Can't decide?\nI understand, all of them were\nvery interesting creatures.",
+      "translation": "决定不了？\n我明白，这些生物\n都很有意思。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_10"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_11",
+      "source": "What a coincidence!\nI would have chosen the same.\nLet's get to work!",
+      "translation": "真巧！\n我也会选一样的。\n我们开始吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_11"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_12",
+      "source": "I can't believe it!\nWe actually did it!\nThat was quite the process, huh?",
+      "translation": "难以置信！\n我们居然真的做到了！\n过程相当复杂，对吧？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_12"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_13",
+      "source": "As promised,\nyou can keep it.",
+      "translation": "如约而至，\n它归你了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_13"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_14",
+      "source": "I am just so happy\nto have had the opportunity\nto make use of these\nancient techniques.",
+      "translation": "我只是非常高兴\n有机会\n运用这些\n古老的技术。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_14"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_15",
+      "source": "Thank you.\nWithout you, this wouldn't\nhave been possible.",
+      "translation": "谢谢你。\n没有你，这根本\n不可能完成。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_15"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_1",
+      "source": "Hello there.\nBy any chance, do\nyou have a minute of free time?",
+      "translation": "你好。\n你有空\n抽出一点时间吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_1"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_2",
+      "source": "Oh...\nThat's a pity...",
+      "translation": "哦……\n真可惜……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_2"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_3",
+      "source": "Oh! Really?\nThat's great.",
+      "translation": "哦！真的吗？\n太好了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_3"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_4",
+      "source": "Listen.\nI studied these ancient texts and\nI think I found out how\nto revive a creature.",
+      "translation": "听我说。\n我研究了这些古老文字，\n我想我找到了\n复活生物的方法。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_4"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_5",
+      "source": "I have the materials to\nrevive one creature.",
+      "translation": "我有复活\n一只生物所需的材料。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_5"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_6",
+      "source": "My problem is, that\nit can't be done alone.\nI need a helping hand.",
+      "translation": "问题是，这件事\n不能靠我一个人完成。\n我需要你的帮助。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_6"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_7",
+      "source": "If you help me out,\nyou can choose and keep the creature.\nHow about that?",
+      "translation": "如果你帮我，\n就可以选择并留下这只生物。\n怎么样？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_7"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_8",
+      "source": "Aw, come on!\nDon't leave me hanging!",
+      "translation": "哎，别这样！\n别让我干等啊！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_8"
+    },
+    {
+      "id": "dialogue.Museum_Scientist_9",
+      "source": "Okay okay.\nI'll be waiting for you\nto choose a fossil.",
+      "translation": "好吧好吧。\n我会等你\n选一块化石。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Museum_Scientist_9"
+    },
+    {
+      "id": "dialogue.NPC_Bar_Maiden_1",
+      "source": "Would you like to stay\nfor the night?\n<color=grey>[Will reroll tavern visitors.]</color>",
+      "translation": "想留宿一晚吗？\n<color=grey>[会重新安排酒馆访客。]</color>\n",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Bar_Maiden_1"
+    },
+    {
+      "id": "dialogue.NPC_Bar_Maiden_1_Discount",
+      "source": "Would you like to stay\nfor the night? (5 Gold<sprite name=\"Gold\">)\n<color=grey>[Will reroll tavern visitors.]</color>",
+      "translation": "想留宿一晚吗？ (5金币<sprite name=\"Gold\">)\n<color=grey>[会重新安排酒馆访客。]</color>\n",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Bar_Maiden_1_Discount"
+    },
+    {
+      "id": "dialogue.NPC_Bar_Maiden_2",
+      "source": "Very well.\nI hope you have a nice stay!",
+      "translation": "好吧。\n希望你住得愉快！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Bar_Maiden_2"
+    },
+    {
+      "id": "dialogue.NPC_Bar_Maiden_3",
+      "source": "People come and go.\nThe crowd in the tavern,\nmight be completely different tomorrow.",
+      "translation": "人来人往。\n酒馆里的客人\n明天可能完全不同。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Bar_Maiden_3"
+    },
+    {
+      "id": "dialogue.NPC_Bar_Maiden_4",
+      "source": "Sorry, you must find another\nplace to stay tonight.\nWe have closed tomorrow.",
+      "translation": "抱歉，今晚你得\n另找住处。\n我们明天闭店。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Bar_Maiden_4"
+    },
+    {
+      "id": "dialogue.NPC_Barkeeper_1",
+      "source": "Welcome! Can I help you to a drink?",
+      "translation": "欢迎！要来杯酒吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Barkeeper_1"
+    },
+    {
+      "id": "dialogue.NPC_Barkeeper_2",
+      "source": "No worries!\nCome back any time.",
+      "translation": "别担心！\n随时欢迎回来。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Barkeeper_2"
+    },
+    {
+      "id": "dialogue.NPC_Barkeeper_3",
+      "source": "I don't see how\nyou're gonna pay\nfor that buddy.",
+      "translation": "我没看出你\n要怎么付钱，\n朋友。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Barkeeper_3"
+    },
+    {
+      "id": "dialogue.NPC_Barkeeper_4",
+      "source": "Ha-ha! Very well!\nKeep in mind there's\nplenty more where that came from!",
+      "translation": "哈哈！好吧！\n记住，这种好东西\n还有很多呢！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Barkeeper_4"
+    },
+    {
+      "id": "dialogue.NPC_Barkeeper_5",
+      "source": "Woah!\nI think you've had enough.\nNow I gotta clean up your mess...",
+      "translation": "哇！\n我觉得你已经喝够了。\n现在还得收拾你的烂摊子……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Barkeeper_5"
+    },
+    {
+      "id": "dialogue.NPC_Christkind_After_Buy",
+      "source": "Remember, the light you seek\nis already with you.\nGo forward, and shine brightly\nfor all to see.",
+      "translation": "记住，你寻找的光\n其实一直都在你身边。\n继续前行，发出耀眼光芒\n让所有人都看见。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Christkind_After_Buy"
+    },
+    {
+      "id": "dialogue.NPC_Christkind_On_Buy",
+      "source": "You have chosen well.\nLet these guide you,\nnot to fortune, but to understanding.",
+      "translation": "你选得很好。\n愿它们引导你，\n走向理解，而非财富。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Christkind_On_Buy"
+    },
+    {
+      "id": "dialogue.NPC_Christkind_Prompt_1",
+      "source": "Peace be with you.\nThe world is heavy, isn't it?\nBut you are never alone.",
+      "translation": "愿和平与你同在。\n这个世界很沉重，对吧？\n但你从来不是孤身一人。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Christkind_Prompt_1"
+    },
+    {
+      "id": "dialogue.NPC_Cleric_1",
+      "source": "Good day to you!\nWould you be interested in\nbuying a \"Purging Stone\"?",
+      "translation": "祝你今天愉快！\n有兴趣买一块“净化石”吗？\n",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Cleric_1"
+    },
+    {
+      "id": "dialogue.NPC_Cleric_2",
+      "source": "Thank you! And remember,\nit is only human to commit a sin.\nTi-hi-hi-hi.",
+      "translation": "谢谢！记住，\n犯错是人之常情。\n嘻嘻嘻嘻。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Cleric_2"
+    },
+    {
+      "id": "dialogue.NPC_Cleric_3",
+      "source": "You appear to lack faith.\nLet's hope you don't\nregret this choice.",
+      "translation": "看来你缺乏信仰。\n希望你不会\n后悔这个选择。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Cleric_3"
+    },
+    {
+      "id": "dialogue.NPC_Cleric_4",
+      "source": "Try to not get\ncursed again!\nPurging Stones are quite\nrare and precious.",
+      "translation": "尽量别再\n被诅咒了！\n净化石相当\n稀有而珍贵。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Cleric_4"
+    },
+    {
+      "id": "dialogue.NPC_Cleric_Evil_Reaction",
+      "source": "I can feel the darkness inside you.\nPoor soul.\nI hope you find your way\nback to the light.",
+      "translation": "我能感到你体内的黑暗。\n可怜的灵魂。\n希望你能找到\n回到光明的路。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Cleric_Evil_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Cleric_Good_Reaction",
+      "source": "I can feel the light inside you.\nWe fight for the same cause.\nBlessed be your path.",
+      "translation": "我能感到你体内的光明。\n我们为同一个目标而战。\n愿你的道路受到祝福。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Cleric_Good_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Creepy_Wizard_1",
+      "source": "Hmmm...\nDo you want to buy this\n\"Storm In A Bottle\"?",
+      "translation": "嗯……\n要买这瓶\n“风暴之瓶”吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Creepy_Wizard_1"
+    },
+    {
+      "id": "dialogue.NPC_Creepy_Wizard_2",
+      "source": "Thank god.\nI really need some booze...",
+      "translation": "谢天谢地。\n我真的需要喝点酒……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Creepy_Wizard_2"
+    },
+    {
+      "id": "dialogue.NPC_Creepy_Wizard_3",
+      "source": "I understand.\nIf you change your mind,\nlet me know.",
+      "translation": "我明白。\n你改变主意的话，\n告诉我一声。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Creepy_Wizard_3"
+    },
+    {
+      "id": "dialogue.NPC_Demolitionist_1",
+      "source": "I probably shouldn't do this...\nOh! Hey! You!\nDo you want to buy 3 Bombs<sprite name=\"Bomb\">?",
+      "translation": "我大概不该这样做……\n哦！嘿！你！\n要买3个炸弹<sprite name=\"Bomb\">吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Demolitionist_1"
+    },
+    {
+      "id": "dialogue.NPC_Demolitionist_2",
+      "source": "Hell yeah, brother!\nHave a blast!",
+      "translation": "当然，兄弟！\n炸个痛快！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Demolitionist_2"
+    },
+    {
+      "id": "dialogue.NPC_Demolitionist_3",
+      "source": "Aww... really?\nYou know, it's really fun\nto blow stuff up.\nThink about it.",
+      "translation": "啊……真的吗？\n你知道吗，炸东西\n真的很有趣。\n好好想想吧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Demolitionist_3"
+    },
+    {
+      "id": "dialogue.NPC_Demolitionist_4",
+      "source": "You're the bomb, brother!\nCheers!",
+      "translation": "你真是个炸弹，兄弟！\n干杯！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Demolitionist_4"
+    },
+    {
+      "id": "dialogue.NPC_Drunken_Man_1",
+      "source": "I'm so drunk...\nI can't even stand up.",
+      "translation": "我醉得厉害……\n连站都站不起来。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Drunken_Man_1"
+    },
+    {
+      "id": "dialogue.NPC_Drunken_Man_2",
+      "source": "I have decided I'm just\ngonna sit here and accept it.",
+      "translation": "我决定就这样\n坐在这里接受现实。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Drunken_Man_2"
+    },
+    {
+      "id": "dialogue.NPC_Drunken_Man_3",
+      "source": "ZzzZZzzzz...",
+      "translation": "呼呼ZZzzzz……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Drunken_Man_3"
+    },
+    {
+      "id": "dialogue.NPC_Dryad_1",
+      "source": "Greetings, stranger!\nCare to purchase\na \"Green Blossom\"?",
+      "translation": "你好，陌生人！\n要买一朵\n“绿花”吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dryad_1"
+    },
+    {
+      "id": "dialogue.NPC_Dryad_2",
+      "source": "Many thanks! Remember,\neven in the deepest woods,\nlife finds a way.\nHi-hi-hi-hi.",
+      "translation": "多谢！记住，\n即使在最深的森林里，\n生命也总能找到出路。\n嘻嘻嘻嘻。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dryad_2"
+    },
+    {
+      "id": "dialogue.NPC_Dryad_3",
+      "source": "You seem hesitant.\nMay the forest's wisdom guide you\nin your decision.",
+      "translation": "你似乎有些犹豫。\n愿森林的智慧指引你\n做出决定。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dryad_3"
+    },
+    {
+      "id": "dialogue.NPC_Dryad_4",
+      "source": "Be mindful as you tread\nnature's paths.\nNature's gifts are\na gift, not a given.",
+      "translation": "走在自然的道路上\n要多加小心。\n自然的馈赠是礼物，\n不是理所当然。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dryad_4"
+    },
+    {
+      "id": "dialogue.NPC_Dryad_Evil_Reaction",
+      "source": "I sense a shadow within you.\nTread carefully, lost one.\nThe forest's embrace can still\noffer you solace.",
+      "translation": "我感到你心中的阴影。\n小心前行，迷途者。\n森林的怀抱\n仍能给你安慰。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dryad_Evil_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Dryad_Good_Reaction",
+      "source": "Your heart beats in harmony\nwith nature.\nWe share the same roots.\nMay your journey be fruitful.",
+      "translation": "你的心跳与自然\n和谐一致。\n我们拥有相同的根。\n愿你的旅途硕果累累。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dryad_Good_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Dwarf_Soldier_1",
+      "source": "A real warrior, always\nbrings some Repair Powder into battle!\nWanna buy some?",
+      "translation": "真正的战士总会\n带着一些修理粉上战场！\n要买点吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dwarf_Soldier_1"
+    },
+    {
+      "id": "dialogue.NPC_Dwarf_Soldier_2",
+      "source": "Ya-ya-ya!\nYou know what's good!\nAnd so do I, if you know what I mean.",
+      "translation": "呀呀呀！\n你知道什么是好东西！\n我当然也知道。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dwarf_Soldier_2"
+    },
+    {
+      "id": "dialogue.NPC_Dwarf_Soldier_3",
+      "source": "Whaaaaat?!\nI said a REAL warrior anyways!",
+      "translation": "什——么？！\n我说的是货真价实的战士！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dwarf_Soldier_3"
+    },
+    {
+      "id": "dialogue.NPC_Dwarf_Soldier_4",
+      "source": "A real warrior always\nmakes sure their armor\nis in tip-top shape!\nNo slacking!",
+      "translation": "真正的战士总会\n确保自己的护甲\n处于最佳状态！\n别偷懒！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dwarf_Soldier_4"
+    },
+    {
+      "id": "dialogue.NPC_Dwarf_Soldier_Evil_Reaction",
+      "source": "What are you looking at?\nBuddy.\nI know your kind,\ndon't try anything stupid.",
+      "translation": "你在看什么？\n朋友。\n我知道你这种人，\n别打什么馊主意。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dwarf_Soldier_Evil_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Dwarf_Soldier_Good_Reaction",
+      "source": "I can feel it!\nYou are a strong, brave\nand foremost kind warrior like me!",
+      "translation": "我感受到了！\n你是个强大、勇敢，\n最重要的是善良的战士，和我一样！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Dwarf_Soldier_Good_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Farmer_Boy_1",
+      "source": "Howdy!\nMy father was a gambling addict.\nMay he rest in peace.",
+      "translation": "你好！\n我父亲是个赌徒。\n愿他安息。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Farmer_Boy_1"
+    },
+    {
+      "id": "dialogue.NPC_Farmer_Boy_2",
+      "source": "He left me the farm in\na really bad condition.",
+      "translation": "他把农场留给我时，\n状况已经糟透了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Farmer_Boy_2"
+    },
+    {
+      "id": "dialogue.NPC_Farmer_Boy_4",
+      "source": "He also left me his dice collection.\nWould you be interested\nin buying some dice?",
+      "translation": "他还留下了他的骰子收藏。\n你有兴趣\n买些骰子吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Farmer_Boy_4"
+    },
+    {
+      "id": "dialogue.NPC_Farmer_Boy_5",
+      "source": "Splendid!\nThat will help me pay my debts.",
+      "translation": "太好了！\n这能帮我还债。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Farmer_Boy_5"
+    },
+    {
+      "id": "dialogue.NPC_Farmer_Boy_6",
+      "source": "Smart choice.\nIt's better to stay away\nfrom gambling anyways!",
+      "translation": "明智的选择。\n反正还是远离赌博\n比较好！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Farmer_Boy_6"
+    },
+    {
+      "id": "dialogue.NPC_Farmer_Boy_7",
+      "source": "Howdy!\nHow's it going?",
+      "translation": "你好！\n最近怎么样？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Farmer_Boy_7"
+    },
+    {
+      "id": "dialogue.NPC_Gun_Trader_1",
+      "source": "Come closer and listen up.\nI got a massive deal for you, eh?\nWanna buy some \"Illegal Gun Parts\"?",
+      "translation": "靠近点，听好了。\n我给你一笔超划算的交易，嗯？\n要买些“非法枪械零件”吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Gun_Trader_1"
+    },
+    {
+      "id": "dialogue.NPC_Gun_Trader_2",
+      "source": "You know it!\nThat's the good stuff!",
+      "translation": "当然！\n这才是好东西！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Gun_Trader_2"
+    },
+    {
+      "id": "dialogue.NPC_Gun_Trader_3",
+      "source": "Oh...\nDo you mind keeping the\nlittle talk we just had\nbetween us?",
+      "translation": "哦……\n你介意把我们刚才\n的小谈话\n保密吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Gun_Trader_3"
+    },
+    {
+      "id": "dialogue.NPC_Gun_Trader_4",
+      "source": "Good stuff, eh?",
+      "translation": "好东西，对吧？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Gun_Trader_4"
+    },
+    {
+      "id": "dialogue.NPC_Gun_Trader_Evil_Reaction",
+      "source": "You seem a bit shady, eh?",
+      "translation": "你看起来有点可疑，嗯？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Gun_Trader_Evil_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Gun_Trader_Good_Reaction",
+      "source": "A bit of a hero, aren't you?\nHmmm...",
+      "translation": "你是个小英雄，对吧？\n嗯……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Gun_Trader_Good_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Krampus_After_Buy",
+      "source": "Your fate is sealed now...\nEnjoy the game while you can,\nfor it plays you just as much.",
+      "translation": "你的命运已经封印……\n趁还能享受游戏就尽情享受吧，\n因为游戏也同样在玩弄你。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Krampus_After_Buy"
+    },
+    {
+      "id": "dialogue.NPC_Krampus_On_Buy",
+      "source": "Ah-ha-ha-ha!\nA bold choice for one so fragile.\nRemember, the dice always win in the end.",
+      "translation": "啊哈哈哈哈！\n如此脆弱的人竟敢做出大胆选择。\n记住，骰子最终总会获胜。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Krampus_On_Buy"
+    },
+    {
+      "id": "dialogue.NPC_Krampus_On_Decline",
+      "source": "Ahh, a coward, I see.\nRun along then.\nBut don't think you can escape me forever...",
+      "translation": "啊，一个懦夫，我明白了。\n那就快跑吧。\n但别以为你能永远逃离我……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Krampus_On_Decline"
+    },
+    {
+      "id": "dialogue.NPC_Krampus_Prompt_1",
+      "source": "Heh-heh-heh...\nNaughty children get coal,\nand wicked ones get dice.\nWhich are you?",
+      "translation": "嘿嘿嘿……\n淘气的孩子得到煤炭，\n坏孩子得到骰子。\n你是哪一种？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Krampus_Prompt_1"
+    },
+    {
+      "id": "dialogue.NPC_Krampus_Prompt_2",
+      "source": "These aren't just any dice,\nohh no.\n<color=#3B3B7A>Obsidian Dice</color> can decide your fate.\nDare to buy some? <color=grey>(x5)</color>",
+      "translation": "这可不是普通的骰子，\n哦，不是。\n<color=#3B3B7A>黑曜石骰子</color>能决定你的命运。\n敢买一些吗？ <color=grey>(x5)</color>",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Krampus_Prompt_2"
+    },
+    {
+      "id": "dialogue.NPC_Nurse_1",
+      "source": "Hello!\nYou look very healthy,\nI don't think I can help you.",
+      "translation": "你好！\n你看起来很健康，\n我想我帮不上忙。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Nurse_1"
+    },
+    {
+      "id": "dialogue.NPC_Nurse_2",
+      "source": "Hello!\nYou look a little roughed up,\nneed some healing?\n<color=grey>[Fully recovers hearts<sprite name=\"Heart\">\nand refills flasks.]</color>",
+      "translation": "你好！\n你看起来有点狼狈，\n需要治疗吗？\n<color=grey>[完全恢复红心<sprite name=\"Heart\">\n并补满药瓶。]</color>",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Nurse_2"
+    },
+    {
+      "id": "dialogue.NPC_Nurse_3",
+      "source": "Looking better already!",
+      "translation": "已经好多了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Nurse_3"
+    },
+    {
+      "id": "dialogue.NPC_Nurse_4",
+      "source": "Okay, but don't\nblame me if you die out there.",
+      "translation": "好吧，但要是你死在外面\n可别怪我。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Nurse_4"
+    },
+    {
+      "id": "dialogue.NPC_Nurse_After_Healed_Already",
+      "source": "All patched up and\nready to go!\nTake care out there!",
+      "translation": "都处理好了，\n可以出发了！\n在外面小心！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Nurse_After_Healed_Already"
+    },
+    {
+      "id": "dialogue.NPC_Old_Hag_Tavern_1",
+      "source": "You look a bit, ill-equipped?\nA raggedy bag full of holes!\nWant me to patch one up?",
+      "translation": "你看起来装备不太齐全？\n一个满是破洞的破袋子！\n要我补一个吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Old_Hag_Tavern_1"
+    },
+    {
+      "id": "dialogue.NPC_Old_Hag_Tavern_2",
+      "source": "A few stitches and your pocket\nwill be as good as new!\nNye-he-he-he!",
+      "translation": "缝几针，你的口袋\n就会焕然一新！\n咿嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Old_Hag_Tavern_2"
+    },
+    {
+      "id": "dialogue.NPC_Old_Hag_Tavern_3",
+      "source": "Oh, hoarding holes now, are we?\nWell, keep your tatters then!\nNye-he-he-he!",
+      "translation": "哦，原来你在收集破洞，是吗？\n那就留着你的破布吧！\n咿嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Old_Hag_Tavern_3"
+    },
+    {
+      "id": "dialogue.NPC_Old_Hag_Tavern_4",
+      "source": "All stitched up!\nNow don't go filling it\nwith too much junk!\nNye-he-he-he!",
+      "translation": "全都缝好了！\n现在别再往里\n塞太多垃圾！\n咿嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Old_Hag_Tavern_4"
+    },
+    {
+      "id": "dialogue.NPC_Old_Hag_Tavern_5",
+      "source": "My, aren't we tidy now?\nNothing left for me to fix, off with you!\nNye-he-he-he!",
+      "translation": "哎呀，现在不是整洁多了吗？\n没什么要我修的了，走吧！\n咿嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Old_Hag_Tavern_5"
+    },
+    {
+      "id": "dialogue.NPC_Old_Man_1",
+      "source": "The young people today just\ncan't hold their drinks\nlike we could back in our day.",
+      "translation": "现在的年轻人\n真不会喝酒，\n不像我们那时候。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Old_Man_1"
+    },
+    {
+      "id": "dialogue.NPC_Old_Man_2",
+      "source": "We would drink all night\nand not get hangovers.",
+      "translation": "我们能喝一整晚\n还不会宿醉。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Old_Man_2"
+    },
+    {
+      "id": "dialogue.NPC_Old_Man_3",
+      "source": "Now, one drink and they're\nall over the place!",
+      "translation": "现在倒好，喝一杯\n就东倒西歪！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Old_Man_3"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Buyer_1",
+      "source": "Potion Seller,\nI need your strongest potions.",
+      "translation": "药水商，我需要\n你最强的药水。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Buyer_1"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Buyer_2",
+      "source": "But I am going into battle!\nI need your potions...",
+      "translation": "但我要上战场！\n我需要你的药水……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Buyer_2"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Buyer_3",
+      "source": "How come you sell to them\nbut not to me?",
+      "translation": "为什么你卖给他们\n却不卖给我？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Buyer_3"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Seller_1",
+      "source": "My potions are too strong for you!",
+      "translation": "我的药水对你来说太强了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Seller_1"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Seller_3",
+      "source": "Always happy to help!\nCome again.",
+      "translation": "随时乐意帮忙！\n欢迎再来。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Seller_3"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Seller_4",
+      "source": "Maybe you aren't\nstrong enough after all...",
+      "translation": "看来你终究\n还不够强……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Seller_4"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Seller_5",
+      "source": "I told you.\nMy potions are too strong for you!",
+      "translation": "我说过了。\n我的药水对你来说太强了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Seller_5"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Seller_Anger_Potion",
+      "source": "Hello there! You seem strong.\nNeed a \"Anger Potion\"?",
+      "translation": "你好！你看起来很强。\n要一瓶“愤怒药水”吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Seller_Anger_Potion"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Seller_Luck_Potion",
+      "source": "Hello there! You seem strong.\nNeed a \"Luck Potion\"?",
+      "translation": "你好！你看起来很强。\n要一瓶“幸运药水”吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Seller_Luck_Potion"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Seller_Power_Potion",
+      "source": "Hello there! You seem strong.\nNeed a \"Power Potion\"?",
+      "translation": "你好！你看起来很强。\n要一瓶“力量药水”吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Seller_Power_Potion"
+    },
+    {
+      "id": "dialogue.NPC_Potion_Seller_Wrath_Potion",
+      "source": "Hello there! You seem strong.\nNeed a \"Wrath Potion\"?",
+      "translation": "你好！你看起来很强。\n要一瓶“狂怒药水”吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Potion_Seller_Wrath_Potion"
+    },
+    {
+      "id": "dialogue.NPC_Princess_1",
+      "source": "Fancy some magic for your quest?\nI bring a Fairy Tale Branch\nfrom a land far, far away.\nInterested?",
+      "translation": "想为你的任务准备些魔法吗？\n我带来了一根童话树枝，\n来自遥远、遥远的国度。\n有兴趣吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Princess_1"
+    },
+    {
+      "id": "dialogue.NPC_Princess_2",
+      "source": "Magical choice!\nThis branch could weave some\nexciting twists in your story.\nOr perhaps, ... ours?\nTi-hi-hi!",
+      "translation": "魔法般的选择！\n这根树枝能让你的故事\n出现令人兴奋的转折。\n或者，也许是……我们的故事？\n嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Princess_2"
+    },
+    {
+      "id": "dialogue.NPC_Princess_3",
+      "source": "Can't decide?\nA little magic can lead to\nbig adventures.\nGo on, be enchanted!",
+      "translation": "决定不了？\n一点魔法就能带来\n大冒险。\n来吧，接受魔法的召唤！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Princess_3"
+    },
+    {
+      "id": "dialogue.NPC_Princess_4",
+      "source": "Remember, every step is\npart of your story.\nTake a risk once in a while;\nwho knows where it might lead!",
+      "translation": "记住，每一步都是\n你故事的一部分。\n偶尔冒一次险；\n谁知道它会把你带向哪里！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Princess_4"
+    },
+    {
+      "id": "dialogue.NPC_Princess_After_Buy",
+      "source": "With this branch,\nyour tale takes a magical turn.\nMay it lead you to wonders untold.\nSafe travels. Ti-hi-hi!",
+      "translation": "有了这根树枝，\n你的故事将迎来魔法转折。\n愿它把你带向未知奇迹。\n旅途平安。嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Princess_After_Buy"
+    },
+    {
+      "id": "dialogue.NPC_Princess_Evil_Reaction",
+      "source": "I sense a shadow in your tale.\nBut every hero has their trials.\nJust don't stray too far from the light.",
+      "translation": "我感到了你故事里的阴影。\n但每位英雄都有自己的试炼。\n只是别离光明太远。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Princess_Evil_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Princess_Good_Reaction",
+      "source": "A heart full of magic!\nTogether, let's weave a tale that's\nnothing short of magical.\nShall we?",
+      "translation": "你心中充满魔法！\n让我们一起编织一个\n真正充满魔法的故事。\n怎么样？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Princess_Good_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Saint_Nicholas_After_Buy",
+      "source": "Use them well, my friend.\nAnd remember:\ngood deeds often return to us tenfold.",
+      "translation": "好好使用它们，我的朋友。\n记住：\n善行常会十倍回报。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Saint_Nicholas_After_Buy"
+    },
+    {
+      "id": "dialogue.NPC_Saint_Nicholas_On_Buy",
+      "source": "Wonderful!\nMay these dice guide you wisely\nand bring you only the best fortune.",
+      "translation": "太棒了！\n愿这些骰子明智地指引你，\n只带来最好的好运。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Saint_Nicholas_On_Buy"
+    },
+    {
+      "id": "dialogue.NPC_Saint_Nicholas_Prompt_1",
+      "source": "Ah, welcome, my friend.\nThe holiday season is full of blessings\nand second chances.\nHow may I help you?",
+      "translation": "啊，欢迎，我的朋友。\n节日时节充满祝福\n与重新开始的机会。\n我能如何帮助你？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Saint_Nicholas_Prompt_1"
+    },
+    {
+      "id": "dialogue.NPC_Saint_Nicholas_Prompt_2",
+      "source": "I carry a special gift:\n<color=#FFC414>Golden Dice</color>, blessed with fortune and grace.\nThey could bring you a brighter path.\nWould you like some? <color=grey>(x3)</color>",
+      "translation": "我带来了一份特别的礼物：\n<color=#FFC414>黄金骰子</color>，承载着好运与恩典。\n它们会为你带来更光明的道路。\n要来一些吗？ <color=grey>(x3)</color>",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Saint_Nicholas_Prompt_2"
+    },
+    {
+      "id": "dialogue.NPC_Samurai_1",
+      "source": "Hello there.\nThe tavern booze is good\nbut I also brought my own.",
+      "translation": "你好。\n酒馆的酒不错，\n但我也带了自己的。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Samurai_1"
+    },
+    {
+      "id": "dialogue.NPC_Samurai_2",
+      "source": "You know what,\nI'll sell you some.\nWant to buy some \"Sake\"?",
+      "translation": "你知道吗，\n我可以卖你一些。\n要买点“清酒”吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Samurai_2"
+    },
+    {
+      "id": "dialogue.NPC_Samurai_3",
+      "source": "It truly does lift\nthe fighting spirit!\nBut don't over do it!",
+      "translation": "它确实能振奋\n战斗精神！\n但别喝过量！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Samurai_3"
+    },
+    {
+      "id": "dialogue.NPC_Samurai_4",
+      "source": "Understandable.\nAfter all, you aren't as cool as me.\n*sip*",
+      "translation": "可以理解。\n毕竟你没我这么酷。\n*啜饮*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Samurai_4"
+    },
+    {
+      "id": "dialogue.NPC_Santa_1",
+      "source": "Hoh-hoh-hoh!\nI am the real Santa!\nCan you believe it?",
+      "translation": "呵呵呵！\n我是真正的圣诞老人！\n你相信吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Santa_1"
+    },
+    {
+      "id": "dialogue.NPC_Santa_2",
+      "source": "Hey kid...\nMind helping Santa out?\nI'll sell ya a \"Gift Box\", deal?",
+      "translation": "嘿，小家伙……\n能帮圣诞老人一个忙吗？\n我卖你一个“礼物盒”，成交？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Santa_2"
+    },
+    {
+      "id": "dialogue.NPC_Santa_3",
+      "source": "Hoh-hoh-hoh!\nYou saved the christmas spirits!",
+      "translation": "呵呵呵！\n你拯救了圣诞精灵！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Santa_3"
+    },
+    {
+      "id": "dialogue.NPC_Santa_4",
+      "source": "Oh well...\nThat's depressing to hear.",
+      "translation": "好吧……\n听到这个真让人沮丧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Santa_4"
+    },
+    {
+      "id": "dialogue.NPC_Santa_5",
+      "source": "Thank you.\nThat really hit the spot!\n*burp*",
+      "translation": "谢谢你。\n真是帮大忙了！\n*嗝*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Santa_5"
+    },
+    {
+      "id": "dialogue.NPC_Tax_Collector_1",
+      "source": "Got some Souls<sprite name=Soul>?\nListen up!\nWant to buy this\nSoul Heart<sprite name=Soul_Heart>.\nHe-he-he!",
+      "translation": "有灵魂<sprite name=Soul>吗？\n听好了！\n要买这个\n灵魂之心<sprite name=Soul_Heart>吗？\n嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Tax_Collector_1"
+    },
+    {
+      "id": "dialogue.NPC_Tax_Collector_2",
+      "source": "He-he-he-he!\nPleasure making business!",
+      "translation": "嘿嘿嘿嘿！\n很高兴做成这笔交易！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Tax_Collector_2"
+    },
+    {
+      "id": "dialogue.NPC_Tax_Collector_3",
+      "source": "Come on!\nYou have no use for Souls<sprite name=Soul>, right?",
+      "translation": "来吧！你也用不上灵魂<sprite name=Soul>，\n对吧？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Tax_Collector_3"
+    },
+    {
+      "id": "dialogue.NPC_Tax_Collector_4",
+      "source": "Sorry!\nNo refunds.\nThat's my policy.\nHe-he-he-he!",
+      "translation": "抱歉！\n不退款。\n这是我的规矩。\n嘿嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Tax_Collector_4"
+    },
+    {
+      "id": "dialogue.NPC_Viking_1",
+      "source": "The beer here is decent,\nbut my brew is legendary.",
+      "translation": "这里的啤酒还行，\n但我的自酿酒可是传说级的。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Viking_1"
+    },
+    {
+      "id": "dialogue.NPC_Viking_2",
+      "source": "You seem like a strong lad!\nI'll offer you some.\nWhat do you say,\na bottle of Mead?",
+      "translation": "你看起来是个强壮的小伙子！\n我给你来一些。\n怎么样，\n来瓶蜂蜜酒？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Viking_2"
+    },
+    {
+      "id": "dialogue.NPC_Viking_3",
+      "source": "It warms the warrior's soul!\nBut moderation is key, friend!",
+      "translation": "能温暖战士的灵魂！\n但朋友，适量饮用才是关键！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Viking_3"
+    },
+    {
+      "id": "dialogue.NPC_Viking_4",
+      "source": "No worries.\nNot everyone can match my might.\n*gulp*",
+      "translation": "别担心。\n不是所有人都能匹敌我的力量。\n*咕嘟*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Viking_4"
+    },
+    {
+      "id": "dialogue.NPC_Viking_Evil_Reaction",
+      "source": "Whom do we have here?\nA little bit of a rowdy, huh?\nI like it.",
+      "translation": "我们这里来了谁？\n有点吵闹的小家伙，对吧？\n我喜欢。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Viking_Evil_Reaction"
+    },
+    {
+      "id": "dialogue.NPC_Viking_Good_Reaction",
+      "source": "Who are you?\nNo offense but\nyou seem a bit wimpy.\nHmph, oh well.",
+      "translation": "你是谁？\n别介意，不过\n你看起来有点弱不禁风。\n哼，算了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NPC_Viking_Good_Reaction"
+    },
+    {
+      "id": "dialogue.No_Weapon",
+      "source": "*You have no weapon equipped.*",
+      "translation": "*你没有装备武器。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:No_Weapon"
+    },
+    {
+      "id": "dialogue.No_Weapon_Equipped",
+      "source": "*Equip a weapon to upgrade it.*",
+      "translation": "*装备武器后才能升级。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:No_Weapon_Equipped"
+    },
+    {
+      "id": "dialogue.Nomad_Merchant_2",
+      "source": "No talk.\nOnly trade.",
+      "translation": "不说话。\n只做交易。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Nomad_Merchant_2"
+    },
+    {
+      "id": "dialogue.Nomad_Merchant_3",
+      "source": "Keep your distance.\nWe are not friends.",
+      "translation": "离我远点。\n我们不是朋友。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Nomad_Merchant_3"
+    },
+    {
+      "id": "dialogue.Nomad_Merchant_Thanks_1",
+      "source": "Yes.",
+      "translation": "是。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Nomad_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.NotAnyGold",
+      "source": "*You don't have any gold.*",
+      "translation": "*你没有金币。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NotAnyGold"
+    },
+    {
+      "id": "dialogue.NotEnoughGold",
+      "source": "*You don't have\nenough gold.*",
+      "translation": "*你没有\n足够的金币。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NotEnoughGold"
+    },
+    {
+      "id": "dialogue.NotEnoughHearts",
+      "source": "*Requires a spare\n//heart<sprite name=\"Health\"> to sacrifice.*",
+      "translation": "*需要一颗备用的\n//红心<sprite name=\"Health\">才能献祭。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NotEnoughHearts"
+    },
+    {
+      "id": "dialogue.NotEnoughSouls",
+      "source": "*You don't have\nenough souls.*",
+      "translation": "*你没有\n足够的灵魂。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NotEnoughSouls"
+    },
+    {
+      "id": "dialogue.NothingChanged",
+      "source": "*Nothing changed...*",
+      "translation": "*什么也没改变……*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NothingChanged"
+    },
+    {
+      "id": "dialogue.NothingHappened",
+      "source": "*Nothing happened...*",
+      "translation": "*什么也没发生……*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:NothingHappened"
+    },
+    {
+      "id": "dialogue.Oasis_1",
+      "source": "Take a rest?",
+      "translation": "要休息一下吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Oasis_1"
+    },
+    {
+      "id": "dialogue.Oasis_2",
+      "source": "*You feel refreshed and relaxed.*",
+      "translation": "*你感到神清气爽、放松了下来。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Oasis_2"
+    },
+    {
+      "id": "dialogue.Old_Hag_1",
+      "source": "Nye-he-he-he!\nWelcome, traveller.",
+      "translation": "咿嘻嘻嘻！\n欢迎，旅行者。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Hag_1"
+    },
+    {
+      "id": "dialogue.Old_Hag_2",
+      "source": "Want me to knit\nsomething for you?\nWhat's your favorite color,\nmy dear?",
+      "translation": "要我为你\n织点什么吗？\n你最喜欢什么颜色，\n亲爱的？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Hag_2"
+    },
+    {
+      "id": "dialogue.Old_Hag_3",
+      "source": "That's it.\nGo on, take it.\nIt's a gift.",
+      "translation": "就是这样。\n来，拿去吧。\n这是礼物。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Hag_3"
+    },
+    {
+      "id": "dialogue.Old_Hag_4",
+      "source": "Nye-he-he-he!",
+      "translation": "桀嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Hag_4"
+    },
+    {
+      "id": "dialogue.Old_Hag_Accept",
+      "source": "Ah, yes!\nThat's a nice color.\nI'll get right on it.",
+      "translation": "啊，是的！\n这个颜色不错。\n我马上开始。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Hag_Accept"
+    },
+    {
+      "id": "dialogue.Old_Hag_Answer_Nothing",
+      "source": "Eh, I'm fine. Thanks!",
+      "translation": "呃，我没事。谢谢！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Hag_Answer_Nothing"
+    },
+    {
+      "id": "dialogue.Old_Hag_Decline",
+      "source": "Are you sure?\nIt can get frosty\non an adventure!",
+      "translation": "你确定吗？\n冒险途中可能会\n冷得刺骨！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Hag_Decline"
+    },
+    {
+      "id": "dialogue.Old_Man_Event",
+      "source": "I have been expecting you,\nbrave soul.\nTake this weapon,\nit shall aid you on your journey.",
+      "translation": "我一直在等你，\n勇敢的灵魂。\n拿上这件武器，\n它会助你踏上旅程。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Old_Man_Event"
+    },
+    {
+      "id": "dialogue.On_Not_Taking_Mushroom_Text",
+      "source": "That's okay.\nCome back if you\nchange your mind.",
+      "translation": "没关系。\n改变主意的话\n随时回来。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:On_Not_Taking_Mushroom_Text"
+    },
+    {
+      "id": "dialogue.On_Take_Mushroom_Text",
+      "source": "*The friendly mushroom hands\nyou a smaller mushroom.*",
+      "translation": "*友善的蘑菇\n递给你一株小蘑菇。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:On_Take_Mushroom_Text"
+    },
+    {
+      "id": "dialogue.Option_Upgrade",
+      "source": "Upgrade (20 Gold<sprite name=\"Gold\">)",
+      "translation": "升级 (20金币<sprite name=\"Gold\">)",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Option_Upgrade"
+    },
+    {
+      "id": "dialogue.Option_Upgrade_For_Souls",
+      "source": "Upgrade (25 Souls<sprite name=\"Soul\">)",
+      "translation": "升级 (25灵魂<sprite name=\"Soul\">)",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Option_Upgrade_For_Souls"
+    },
+    {
+      "id": "dialogue.Owl_1",
+      "source": "Hoot, hoot!\nHey you!\nDo you know the secret of the moon?",
+      "translation": "咕咕！\n嘿，你！\n你知道月亮的秘密吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Owl_1"
+    },
+    {
+      "id": "dialogue.Owl_2",
+      "source": "No?\nPerhaps we can discover it on a journey.\nWould you like me to join you?",
+      "translation": "不知道？\n也许我们可以在旅途中发现它。\n想让我加入你们吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Owl_2"
+    },
+    {
+      "id": "dialogue.Owl_3",
+      "source": "Even if all the stars aligned,\nI would never party up with a squirrel.\nHoot, hoot.",
+      "translation": "即使群星全都对齐，\n我也绝不会和松鼠组队。\n咕咕。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Owl_3"
+    },
+    {
+      "id": "dialogue.Owl_4",
+      "source": "Even if all the stars aligned,\nI would never party up with a fox.\nHoot, hoot.",
+      "translation": "即使群星全都对齐，\n我也绝不会和狐狸组队。\n咕咕。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Owl_4"
+    },
+    {
+      "id": "dialogue.Owl_5",
+      "source": "Hoot. It shall remain a mystery then.",
+      "translation": "咕。那就让它继续成为谜团吧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Owl_5"
+    },
+    {
+      "id": "dialogue.Owl_6",
+      "source": "Splendid!\nWe shall soar high, wisdom and\nmoonlight guiding our path.",
+      "translation": "太好了！\n我们将展翅高飞，\n让智慧与月光指引道路。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Owl_6"
+    },
+    {
+      "id": "dialogue.Owl_On_Found_Item",
+      "source": "Hoot, hoot!\nWhat's that?",
+      "translation": "咕咕！\n那是什么？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Owl_On_Found_Item"
+    },
+    {
+      "id": "dialogue.Patches_Merchant_1",
+      "source": "Hmm, are you a cleric?",
+      "translation": "嗯，你是牧师吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Patches_Merchant_1"
+    },
+    {
+      "id": "dialogue.Patches_Merchant_2",
+      "source": "Good day.\nYou look reasonably sane!\nNeed something?",
+      "translation": "你好。\n你看起来还算神志正常！\n需要什么吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Patches_Merchant_2"
+    },
+    {
+      "id": "dialogue.Patches_Merchant_3",
+      "source": "I sell trinkets.\nYou might not be able to\nafford them though.",
+      "translation": "我卖些小饰品。\n不过你可能\n买不起。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Patches_Merchant_3"
+    },
+    {
+      "id": "dialogue.Patches_Merchant_Alert",
+      "source": "Ughh! A cleric?!",
+      "translation": "呃！牧师？！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Patches_Merchant_Alert"
+    },
+    {
+      "id": "dialogue.Patches_Merchant_Reaction_1",
+      "source": "You are not a cleric.\nI can smell that a mile away.",
+      "translation": "你不是牧师。\n隔着老远我就闻得出来。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Patches_Merchant_Reaction_1"
+    },
+    {
+      "id": "dialogue.Patches_Merchant_Reaction_2",
+      "source": "Good for you...\nI don't like their kind.",
+      "translation": "对你来说是好事……\n我不喜欢他们那种人。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Patches_Merchant_Reaction_2"
+    },
+    {
+      "id": "dialogue.Patches_Merchant_Thanks_1",
+      "source": "Wonderful choice.",
+      "translation": "绝妙的选择。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Patches_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.Patches_Merchant_Thanks_2",
+      "source": "Hopefully I won't be stripping\nthis off your dead corpse,\nlater down the line.",
+      "translation": "希望以后我不用\n从你的尸体上\n扒下它。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Patches_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Pawn_Shopkeeper_1",
+      "source": "Welcome to Lucien's Pawn Shop!\nGot any equipment or weapons\nyou're looking to sell?",
+      "translation": "欢迎来到卢西恩当铺！\n有想出售的装备\n或武器吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Pawn_Shopkeeper_1"
+    },
+    {
+      "id": "dialogue.Pawn_Shopkeeper_2",
+      "source": "As a collector, I can promise you\nthat your items will be well\ncared for in my collection.",
+      "translation": "作为收藏家，我可以保证\n你的物品会在我的收藏中\n得到妥善照料。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Pawn_Shopkeeper_2"
+    },
+    {
+      "id": "dialogue.Pawn_Shopkeeper_3",
+      "source": "I have a special appreciation for\nunique and rare items. Let me know\nif you have anything you think might interest me.",
+      "translation": "我特别欣赏\n独特而稀有的物品。要是有\n什么感兴趣的东西请告诉我。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Pawn_Shopkeeper_3"
+    },
+    {
+      "id": "dialogue.Pawn_Shopkeeper_4",
+      "source": "Drop any items you'd like me\nto take a look at on the carpet.",
+      "translation": "把你想让我看看的物品\n放到地毯上。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Pawn_Shopkeeper_4"
+    },
+    {
+      "id": "dialogue.Pawn_Shopkeeper_5",
+      "source": "Welcome to the Hero Hideout!\nYou are safe here.",
+      "translation": "欢迎来到英雄藏身处！\n这里很安全。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Pawn_Shopkeeper_5"
+    },
+    {
+      "id": "dialogue.Penguin_Dance_Battle_1",
+      "source": "*The penguin seems eager\nfor a fight.*",
+      "translation": "*企鹅似乎\n迫不及待想战斗。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Penguin_Dance_Battle_1"
+    },
+    {
+      "id": "dialogue.Penguin_Dance_Battle_2",
+      "source": "Challenge this penguin\nto a dance battle?",
+      "translation": "要向这只企鹅\n发起舞蹈对决吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Penguin_Dance_Battle_2"
+    },
+    {
+      "id": "dialogue.Penguin_Dance_Battle_3",
+      "source": "Try again?",
+      "translation": "再试一次？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Penguin_Dance_Battle_3"
+    },
+    {
+      "id": "dialogue.Penguin_Dance_Battle_Deny",
+      "source": "*The penguin shakes\nit's head.*",
+      "translation": "*企鹅摇了摇\n头。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Penguin_Dance_Battle_Deny"
+    },
+    {
+      "id": "dialogue.Penguin_Dance_Battle_Deny_On_Won",
+      "source": "*The penguin nods\nit's head approvingly.*",
+      "translation": "*企鹅赞许地点了点\n头。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Penguin_Dance_Battle_Deny_On_Won"
+    },
+    {
+      "id": "dialogue.Penguin_Dance_Battle_On_Won_1",
+      "source": "*The penguin seems\ndelighted to have\nfaced a worthy challenger.*",
+      "translation": "*企鹅似乎\n很高兴\n遇到了值得一战的对手。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Penguin_Dance_Battle_On_Won_1"
+    },
+    {
+      "id": "dialogue.Penguin_Dance_Battle_On_Won_2",
+      "source": "*The penguin hands\nyou a gift.*",
+      "translation": "*企鹅\n递给你一件礼物。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Penguin_Dance_Battle_On_Won_2"
+    },
+    {
+      "id": "dialogue.Penguin_Dance_Battle_On_Won_Idle",
+      "source": "*The penguin seems\nstill very happy.*",
+      "translation": "*企鹅似乎\n仍然非常开心。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Penguin_Dance_Battle_On_Won_Idle"
+    },
+    {
+      "id": "dialogue.Plague_Doctor_1",
+      "source": "Odd place for strangers\nto meet, isn't it?\nWhat brings you down here?",
+      "translation": "陌生人在这里见面\n真是个奇怪的地方，对吧？\n你为何来到这里？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Plague_Doctor_1"
+    },
+    {
+      "id": "dialogue.Plague_Doctor_2",
+      "source": "I think I can help you.",
+      "translation": "我想我能帮你。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Plague_Doctor_2"
+    },
+    {
+      "id": "dialogue.Plague_Doctor_3",
+      "source": "Want a little boost?",
+      "translation": "要来一点助力吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Plague_Doctor_3"
+    },
+    {
+      "id": "dialogue.Plague_Doctor_4",
+      "source": "I understand.\nCome back any time\nif you change your mind.",
+      "translation": "我明白。\n改变主意的话\n随时回来。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Plague_Doctor_4"
+    },
+    {
+      "id": "dialogue.Plague_Doctor_5",
+      "source": "This is a one-time remedy.",
+      "translation": "这是一次性的药剂。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Plague_Doctor_5"
+    },
+    {
+      "id": "dialogue.Plague_Doctor_6",
+      "source": "Take care!",
+      "translation": "保重！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Plague_Doctor_6"
+    },
+    {
+      "id": "dialogue.Plague_Doctor_7",
+      "source": "Take this.",
+      "translation": "拿着。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Plague_Doctor_7"
+    },
+    {
+      "id": "dialogue.Plague_Doctor_Dexterity_Weakness",
+      "source": "Call me crazy, but\nyou seem a bit clumsy.",
+      "translation": "叫我疯子吧，不过\n你看起来有点笨手笨脚。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Plague_Doctor_Dexterity_Weakness"
+    },
+    {
+      "id": "dialogue.Plague_Doctor_Intelligence_Weakness",
+      "source": "Call me crazy, but\nyou look a bit lost.",
+      "translation": "叫我疯子吧，不过\n你看起来有点迷茫。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Plague_Doctor_Intelligence_Weakness"
+    },
+    {
+      "id": "dialogue.Plague_Doctor_Strength_Weakness",
+      "source": "Call me crazy, but\nyou appear a bit weak.",
+      "translation": "叫我疯子吧，不过\n你看起来有点虚弱。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Plague_Doctor_Strength_Weakness"
+    },
+    {
+      "id": "dialogue.Potion_Buyer",
+      "source": "Hello, Potion Seller,\nI am going into battle and\nI want your strongest potions.",
+      "translation": "你好，药水商，\n我要上战场，\n给我你最强的药水。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Potion_Buyer"
+    },
+    {
+      "id": "dialogue.Potion_Seller",
+      "source": "My potions are too strong\nfor you, traveller.",
+      "translation": "我的药水太强了，\n你承受不了，旅行者。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Potion_Seller"
+    },
+    {
+      "id": "dialogue.Pull_The_Lever",
+      "source": "Pull the lever?",
+      "translation": "要拉动拉杆吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Pull_The_Lever"
+    },
+    {
+      "id": "dialogue.Ranger_Statue",
+      "source": "Investigate the statue of a ranger?",
+      "translation": "要调查游侠雕像吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ranger_Statue"
+    },
+    {
+      "id": "dialogue.Rat_Merchant_1",
+      "source": "I trade for gold.\nEverything's for sale!",
+      "translation": "我用金币交易。\n什么都有得卖！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Rat_Merchant_1"
+    },
+    {
+      "id": "dialogue.Rat_Merchant_2",
+      "source": "I hope you brought\nplenty of gold?",
+      "translation": "希望你带了\n足够多的金币？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Rat_Merchant_2"
+    },
+    {
+      "id": "dialogue.Rat_Merchant_3",
+      "source": "Eh? My wares?\nOf course they're stolen.\nWhat did you think?",
+      "translation": "嗯？我的货物？\n当然是偷来的。\n你以为呢？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Rat_Merchant_3"
+    },
+    {
+      "id": "dialogue.Rat_Merchant_Thanks_1",
+      "source": "Thank you kindly!\nNee hee hee hee hee!",
+      "translation": "谢谢惠顾！\n咿嘻嘻嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Rat_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.Rat_Merchant_Thanks_2",
+      "source": "Ah, thank you,\nvery much.\nNee hee hee!",
+      "translation": "啊，谢谢你，\n真的非常感谢。\n咿嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Rat_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Reached_Max_1",
+      "source": "*You cannot upgrade\nyour weapon beyond the current level\nat this type of blacksmith.*",
+      "translation": "*你无法把武器\n在这类铁匠处升级到\n当前等级以上。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Reached_Max_1"
+    },
+    {
+      "id": "dialogue.Reached_Max_2",
+      "source": "*Your weapon is\nalready at the MAX level that this\ntype of blacksmith can upgrade to.*",
+      "translation": "*你的武器\n已经达到这类铁匠\n能升级到的最高等级。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Reached_Max_2"
+    },
+    {
+      "id": "dialogue.Research_Desk_1",
+      "source": "It seems a weird item is\nplaced between the pages and used\nas a sort of bookmark.\nTake the item?",
+      "translation": "似乎有件奇怪的物品\n夹在书页之间当作书签。\n要拿走这件物品吗？\n",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Research_Desk_1"
+    },
+    {
+      "id": "dialogue.Research_Desk_2",
+      "source": "*You feel watched.*",
+      "translation": "*你感到有人在注视你。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Research_Desk_2"
+    },
+    {
+      "id": "dialogue.Royal_Bed_Room_Blue",
+      "source": "Sleep in the blue bed?",
+      "translation": "睡在蓝色的床上吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Royal_Bed_Room_Blue"
+    },
+    {
+      "id": "dialogue.Royal_Bed_Room_Done",
+      "source": "*Better not overstay\nmy welcome.*",
+      "translation": "*最好别再逗留\n以免打扰主人。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Royal_Bed_Room_Done"
+    },
+    {
+      "id": "dialogue.Royal_Bed_Room_Green",
+      "source": "Sleep in the green bed?",
+      "translation": "睡在绿色的床上吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Royal_Bed_Room_Green"
+    },
+    {
+      "id": "dialogue.Royal_Bed_Room_Red",
+      "source": "Sleep in the red bed?",
+      "translation": "睡在红色的床上吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Royal_Bed_Room_Red"
+    },
+    {
+      "id": "dialogue.Royal_Bed_Room_Result",
+      "source": "*You feel well rested.*",
+      "translation": "*你感到精神饱满。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Royal_Bed_Room_Result"
+    },
+    {
+      "id": "dialogue.Royal_Bed_Room_Result_Blue",
+      "source": "*You permanently gained\n[[+1]] maximum mana<sprite name=\"Mana\">.*",
+      "translation": "*你永久获得了\n[[+1]]最大法力<sprite name=\"Mana\">。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Royal_Bed_Room_Result_Blue"
+    },
+    {
+      "id": "dialogue.Royal_Bed_Room_Result_Green",
+      "source": "*You permanently gained\n[[+1]] stamina<sprite name=\"Stamina\">.*",
+      "translation": "*你永久获得了\n[[+1]]体力<sprite name=\"Stamina\">。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Royal_Bed_Room_Result_Green"
+    },
+    {
+      "id": "dialogue.Royal_Bed_Room_Result_Red",
+      "source": "*You permanently gained\n[[+1]] heart<sprite name=\"Heart\"> container.*",
+      "translation": "*你永久获得了\n[[+1]]红心<sprite name=\"Heart\">容器。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Royal_Bed_Room_Result_Red"
+    },
+    {
+      "id": "dialogue.Rune_Stone_1",
+      "source": "Investigate the rune stone?",
+      "translation": "要调查符文石吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Rune_Stone_1"
+    },
+    {
+      "id": "dialogue.Rune_Stone_2",
+      "source": "You cannot comprehend\nthe arcane nature of the rune stone.",
+      "translation": "你无法理解\n符文石的奥秘本质。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Rune_Stone_2"
+    },
+    {
+      "id": "dialogue.Rune_Stone_3",
+      "source": "The rune stone\nrecognizes your potency\nand enhanced your abilities.",
+      "translation": "符文石认可你的力量，\n并\n强化了你的能力。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Rune_Stone_3"
+    },
+    {
+      "id": "dialogue.Scroll_Shop_1",
+      "source": "Hello there.\nLooking for any rare\nscriptures in particular?",
+      "translation": "你好。\n在找什么特别的\n稀有典籍吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Scroll_Shop_1"
+    },
+    {
+      "id": "dialogue.Scroll_Shop_2",
+      "source": "What gives me the right\nto sell these ancient texts?",
+      "translation": "我凭什么有权\n出售这些古老文字？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Scroll_Shop_2"
+    },
+    {
+      "id": "dialogue.Scroll_Shop_3",
+      "source": "Well for one, I went\nthrough all the trouble to\nsift through ALL books\nin this forsaken library!",
+      "translation": "首先，我可是费尽力气\n翻遍了这座该死图书馆里的\n所有书！\n",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Scroll_Shop_3"
+    },
+    {
+      "id": "dialogue.Scroll_Shop_4",
+      "source": "It's not an easy task\nto find a quiet place to read\nin this library.",
+      "translation": "在这座图书馆里\n找个安静地方读书\n可不容易。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Scroll_Shop_4"
+    },
+    {
+      "id": "dialogue.Scroll_Shop_5",
+      "source": "One might think that's\nwhat a library is built for.\nSeems like this place is more like\nan amusement park for ghosts and specters!",
+      "translation": "人们也许以为\n图书馆就是为此而建。\n但这里更像\n鬼魂与幽灵的游乐园！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Scroll_Shop_5"
+    },
+    {
+      "id": "dialogue.Scroll_Shop_Thank_You_1",
+      "source": "I've read that one.",
+      "translation": "我读过那本。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Scroll_Shop_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Scroll_Shop_Thank_You_2",
+      "source": "I've read that one too.",
+      "translation": "那本我也读过。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Scroll_Shop_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Scroll_Shop_Thank_You_3",
+      "source": "And that one too.",
+      "translation": "那本也是。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Scroll_Shop_Thank_You_3"
+    },
+    {
+      "id": "dialogue.Seraphim_Angel",
+      "source": "Be not afraid.",
+      "translation": "不要害怕。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Seraphim_Angel"
+    },
+    {
+      "id": "dialogue.Shadow_Celebration_1",
+      "source": "A new master!",
+      "translation": "新的主人！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Celebration_1"
+    },
+    {
+      "id": "dialogue.Shadow_Celebration_2",
+      "source": "The new keeper of order!",
+      "translation": "新的秩序守护者！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Celebration_2"
+    },
+    {
+      "id": "dialogue.Shadow_Celebration_3",
+      "source": "Chosen by the shadows!",
+      "translation": "影子选中的人！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Celebration_3"
+    },
+    {
+      "id": "dialogue.Shadow_Celebration_4",
+      "source": "We serve your highness!",
+      "translation": "我们为您效劳，殿下！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Celebration_4"
+    },
+    {
+      "id": "dialogue.Shadow_Interact_1",
+      "source": "Take seat, your highness.",
+      "translation": "请入座，殿下。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Interact_1"
+    },
+    {
+      "id": "dialogue.Shadow_Interact_2",
+      "source": "My liege. *bows*",
+      "translation": "我的陛下。*鞠躬*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Interact_2"
+    },
+    {
+      "id": "dialogue.Shadow_Interact_3",
+      "source": "My lord. *bows*",
+      "translation": "我的主人。*鞠躬*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Interact_3"
+    },
+    {
+      "id": "dialogue.Shadow_Interact_4",
+      "source": "We welcome you.",
+      "translation": "欢迎您的到来。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Interact_4"
+    },
+    {
+      "id": "dialogue.Shadow_Rat_Merchant_1",
+      "source": "I trade for souls.\nIt's my duty.",
+      "translation": "我用灵魂交易。\n这是我的职责。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Rat_Merchant_1"
+    },
+    {
+      "id": "dialogue.Shadow_Rat_Merchant_2",
+      "source": "Not every soul finds its\nway naturally.\nIt's our job to help.",
+      "translation": "并不是每个灵魂\n都能自然地找到归宿。\n帮助它们是我们的工作。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Rat_Merchant_2"
+    },
+    {
+      "id": "dialogue.Shadow_Rat_Merchant_3",
+      "source": "The shadows whisper...\nLeading souls...",
+      "translation": "影子在低语……\n引领着灵魂……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Shadow_Rat_Merchant_3"
+    },
+    {
+      "id": "dialogue.Sifd_Knight_0",
+      "source": "I am a Knight of\nThe Order Of The Silver Flying Dragon!\nShow me your weapon, traveller!",
+      "translation": "我是银飞龙骑士团的骑士！\n让我看看\n你的武器，旅行者！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sifd_Knight_0"
+    },
+    {
+      "id": "dialogue.Sifd_Knight_Denied",
+      "source": "I doubt you'll be\nmaking it very far.",
+      "translation": "我怀疑你\n能走多远。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sifd_Knight_Denied"
+    },
+    {
+      "id": "dialogue.Sifd_Knight_Idle",
+      "source": "Into battle!",
+      "translation": "投入战斗！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sifd_Knight_Idle"
+    },
+    {
+      "id": "dialogue.Sifd_Knight_NotSatisfied",
+      "source": "Yikes!\nNot the best weapon.\nYou should really try to find something better.",
+      "translation": "哎呀！\n这武器不怎么样。\n你真的该找件更好的。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sifd_Knight_NotSatisfied"
+    },
+    {
+      "id": "dialogue.Sifd_Knight_Satisfied_Epic",
+      "source": "Magnificent!\nSuch an awesome weapon!\nLove it!",
+      "translation": "华丽！\n这武器太棒了！\n我喜欢！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sifd_Knight_Satisfied_Epic"
+    },
+    {
+      "id": "dialogue.Sifd_Knight_Satisfied_Legendary",
+      "source": "Busted!\nWhere did you even find this monstrosity of a weapon!\nSeriously impressive!",
+      "translation": "厉害！\n你到底从哪找到这件怪物般的武器？\n真是令人印象深刻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sifd_Knight_Satisfied_Legendary"
+    },
+    {
+      "id": "dialogue.Sifd_Knight_Satisfied_Rare",
+      "source": "Wow!\nCount me impressed!\nThat weapon is quite rare!",
+      "translation": "哇！\n我可真佩服你！\n这武器相当稀有！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sifd_Knight_Satisfied_Rare"
+    },
+    {
+      "id": "dialogue.Sifd_Knight_Success",
+      "source": "I have faith in you.\nTake this little token of gratitude!",
+      "translation": "我相信你。\n收下这点小小的谢意！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sifd_Knight_Success"
+    },
+    {
+      "id": "dialogue.Sin_Goddess_1",
+      "source": "Pray to the statue\nof the Goddess of Sin?",
+      "translation": "要向罪恶女神的雕像\n祈祷吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sin_Goddess_1"
+    },
+    {
+      "id": "dialogue.Sin_Goddess_2",
+      "source": "*You feel the Goddess of Sin\nwatching over you.*",
+      "translation": "*你感到罪恶女神\n正在注视着你。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sin_Goddess_2"
+    },
+    {
+      "id": "dialogue.Sin_Goddess_3",
+      "source": "*You gained [[50% reduced]] chance of\ncurse<sprite name=\"Curse\"> taking effect.*",
+      "translation": "*你获得了[[降低 50%]]\n诅咒<sprite name=\"Curse\">生效的几率。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sin_Goddess_3"
+    },
+    {
+      "id": "dialogue.Skeleton_James_1",
+      "source": "Oh, hello there!\nWe haven't had a visitor in such a long time.\nI'm James.",
+      "translation": "哦，你好！\n已经很久没有访客了。\n我叫詹姆斯。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_James_1"
+    },
+    {
+      "id": "dialogue.Skeleton_James_2",
+      "source": "So, how's it going?",
+      "translation": "最近过得怎么样？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_James_2"
+    },
+    {
+      "id": "dialogue.Skeleton_James_3",
+      "source": "Ah, yes.\nThat's the thing about\nbeing undead, isn't it?\nTime just sort of blends together.",
+      "translation": "啊，是啊。\n不死生物就是这样，对吧？\n时间总是\n不知不觉混在一起。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_James_3"
+    },
+    {
+      "id": "dialogue.Skeleton_James_4",
+      "source": "Wait a minute!\nI asked the visitor how's it going!\nNot you!",
+      "translation": "等一下！\n我问的是访客过得怎么样！\n又不是问你！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_James_4"
+    },
+    {
+      "id": "dialogue.Skeleton_James_5",
+      "source": "Man, I still remember being alive.\nGood old times.",
+      "translation": "伙计，我还记得活着的时候。\n那段日子真不错。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_James_5"
+    },
+    {
+      "id": "dialogue.Skeleton_James_6",
+      "source": "See ya around!\nOr not.",
+      "translation": "回头见！\n也可能再也不见。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_James_6"
+    },
+    {
+      "id": "dialogue.Skeleton_Lee_1",
+      "source": "Yes, it's been ages.\nNice to meet you.\nI'm Lee!",
+      "translation": "是啊，已经过了很久。\n很高兴认识你。\n我是李！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_Lee_1"
+    },
+    {
+      "id": "dialogue.Skeleton_Lee_2",
+      "source": "I'm not sure I remember\nwhat it feels like to be\nanything other than a skeleton.",
+      "translation": "我不太确定自己还记得\n除了骷髅之外\n其他形态是什么感觉。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_Lee_2"
+    },
+    {
+      "id": "dialogue.Skeleton_Lee_3",
+      "source": "Also it doesn't really make\nsense to sit at a bonfire\nthat isn't lit.",
+      "translation": "而且，坐在\n没有点燃的篝火旁\n也没什么意义。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_Lee_3"
+    },
+    {
+      "id": "dialogue.Skeleton_Lee_4",
+      "source": "I mean can't you see?\nThey are clearly doing great.",
+      "translation": "我的意思是，你没看见吗？\n他们显然过得很好。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_Lee_4"
+    },
+    {
+      "id": "dialogue.Skeleton_Lee_5",
+      "source": "Hey visitor, this is for you.\nWe got no use for it.\nThanks for sticking around.",
+      "translation": "嘿，访客，这是给你的。\n我们用不上它。\n谢谢你愿意留下来。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_Lee_5"
+    },
+    {
+      "id": "dialogue.Skeleton_Lee_6",
+      "source": "Hey James, do you remember Rachel?\nWhatever happened to her, huh!",
+      "translation": "嘿，詹姆斯，你还记得瑞秋吗？\n她后来怎么样了，嗯！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Skeleton_Lee_6"
+    },
+    {
+      "id": "dialogue.Sleeping_Bear",
+      "source": "Wake the sleeping bear?",
+      "translation": "要叫醒睡着的熊吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sleeping_Bear"
+    },
+    {
+      "id": "dialogue.Sleeping_Bear_Roar",
+      "source": "Rrroooar!",
+      "translation": "吼——嗷！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sleeping_Bear_Roar"
+    },
+    {
+      "id": "dialogue.Soul_Forge_Blacksmith_2",
+      "source": "*The forge doesn't talk.*",
+      "translation": "*这座熔炉不会说话。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Forge_Blacksmith_2"
+    },
+    {
+      "id": "dialogue.Soul_Forge_Blacksmith_3",
+      "source": "*A cold sweat rolls down your forehead.*",
+      "translation": "*一阵冷汗顺着你的额头滑下。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Forge_Blacksmith_3"
+    },
+    {
+      "id": "dialogue.Soul_Forge_Blacksmith_4",
+      "source": "*What do you want to do?*",
+      "translation": "*你想做什么？*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Forge_Blacksmith_4"
+    },
+    {
+      "id": "dialogue.Soul_Forge_Blacksmith_Full",
+      "source": "*The blue flames mock your intent.*",
+      "translation": "*蓝色火焰嘲弄着你的意图。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Forge_Blacksmith_Full"
+    },
+    {
+      "id": "dialogue.Soul_Forge_Blacksmith_Upgrade_1",
+      "source": "*The blue flames seem amused.*",
+      "translation": "*蓝色火焰似乎很开心。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Forge_Blacksmith_Upgrade_1"
+    },
+    {
+      "id": "dialogue.Soul_Forge_Blacksmith_Upgrade_2",
+      "source": "*The blue flames gleefully dance.*",
+      "translation": "*蓝色火焰欢快地舞动着。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Forge_Blacksmith_Upgrade_2"
+    },
+    {
+      "id": "dialogue.Soul_Forge_Blacksmith_Upgrade_3",
+      "source": "*The blue flames burst in heat. They seem excited.*",
+      "translation": "*蓝色火焰迸发出热量。它们似乎很兴奋。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Forge_Blacksmith_Upgrade_3"
+    },
+    {
+      "id": "dialogue.Soul_Forge_Blacksmith_Upgrade_4",
+      "source": "*The blue flames flicker with purpose.*",
+      "translation": "*蓝色火焰带着目的闪烁。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Forge_Blacksmith_Upgrade_4"
+    },
+    {
+      "id": "dialogue.Soul_Peddler_Shopkeeper_1",
+      "source": "I am the Soul Peddler.\nI trade for souls.",
+      "translation": "我是灵魂商人。\n我用灵魂交易。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Peddler_Shopkeeper_1"
+    },
+    {
+      "id": "dialogue.Soul_Peddler_Shopkeeper_2",
+      "source": "Gold is temporary!\nI have no need for it!",
+      "translation": "金币只是暂时的！\n我不需要它！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Peddler_Shopkeeper_2"
+    },
+    {
+      "id": "dialogue.Soul_Peddler_Shopkeeper_3",
+      "source": "Ever seen the flame?\nIt's magnificent.\nI'd do everything to gain its blessings.",
+      "translation": "见过那团火焰吗？\n它美得惊人。\n我愿付出一切来获得它的祝福。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Peddler_Shopkeeper_3"
+    },
+    {
+      "id": "dialogue.Soul_Peddler_Thank_You_1",
+      "source": "Thank you for the Souls!",
+      "translation": "谢谢你的灵魂！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Peddler_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Soul_Peddler_Thank_You_2",
+      "source": "More! More!\nI need more Souls!",
+      "translation": "更多！更多！\n我还需要更多灵魂！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Peddler_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Soul_Pylon_1",
+      "source": "Intruder detected.\nInitiating defense protocol I.",
+      "translation": "发现入侵者。\n启动防御协议 I。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Pylon_1"
+    },
+    {
+      "id": "dialogue.Soul_Pylon_2",
+      "source": "Intruder detected.\nInitiating defense protocol II.",
+      "translation": "发现入侵者。\n启动防御协议 II。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Pylon_2"
+    },
+    {
+      "id": "dialogue.Soul_Pylon_3",
+      "source": "Intruder detected.\nInitiating defense protocol III.",
+      "translation": "发现入侵者。\n启动防御协议 III。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Pylon_3"
+    },
+    {
+      "id": "dialogue.Soul_Pylon_Enrage",
+      "source": "Danger!\nSoul siphoning operation\nat risk.\nHeightening defensive measures.",
+      "translation": "危险！\n灵魂虹吸行动\n面临风险。\n提高防御措施。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Pylon_Enrage"
+    },
+    {
+      "id": "dialogue.Soul_Shop_1",
+      "source": "I welcome you, traveler.\nI come from the shadow planes.\nAre you interested in my wares?",
+      "translation": "欢迎你，旅行者。\n我来自影界。\n对我的货物感兴趣吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Shop_1"
+    },
+    {
+      "id": "dialogue.Soul_Shop_2",
+      "source": "The shadows have been quieter lately.\nThe essence flows differently.\nWhat's the disturbance?\nWe don't know.",
+      "translation": "最近影子安静了些。\n本质的流动也变了。\n发生了什么干扰？\n我们不知道。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Shop_2"
+    },
+    {
+      "id": "dialogue.Soul_Shop_3",
+      "source": "All souls you spend here\nwhisper directly back into the shadows.\nA curious exchange, wouldn't you think?",
+      "translation": "你在这里花费的所有灵魂\n都会直接回到影子中。\n这是一种奇妙的交换，不是吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Shop_3"
+    },
+    {
+      "id": "dialogue.Soul_Shop_4",
+      "source": "In the shadows,\nthere is solace.",
+      "translation": "在影界，\n这里便是安宁。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Shop_4"
+    },
+    {
+      "id": "dialogue.Soul_Shop_5",
+      "source": "Every decision casts\nits own shadow.",
+      "translation": "每个决定\n都会投下自己的影子。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Shop_5"
+    },
+    {
+      "id": "dialogue.Soul_Shop_6",
+      "source": "May the shadows guide thee.",
+      "translation": "愿影子引导你。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Shop_6"
+    },
+    {
+      "id": "dialogue.Soul_Shop_Thank_You_1",
+      "source": "We thank you.",
+      "translation": "感谢你。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Shop_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Soul_Shop_Thank_You_2",
+      "source": "A quiet exchange, a silent accord.",
+      "translation": "安静的交易，无声的契约。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Shop_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Soul_Shop_Thank_You_3",
+      "source": "Your patronage is kindly noted.",
+      "translation": "我们已记下你的惠顾。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Shop_Thank_You_3"
+    },
+    {
+      "id": "dialogue.Soul_Vessel_Event_1",
+      "source": "Feed ... me ... souls ...",
+      "translation": "喂……给……我……灵魂……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Vessel_Event_1"
+    },
+    {
+      "id": "dialogue.Soul_Vessel_Event_2",
+      "source": "Feed Souls? (5 Souls<sprite name=\"Soul\">)\n<color=grey>Allows exchanging trait\nfor a new one.</color>\n<color=red>Cannot be cancelled!</color>",
+      "translation": "喂食灵魂？ (5灵魂<sprite name=\"Soul\">)\n<color=grey>将特质\n替换为新的特质。</color>\n<color=red>无法取消！</color>",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Vessel_Event_2"
+    },
+    {
+      "id": "dialogue.Soul_Vessel_Event_3",
+      "source": "M-meh.\nNot interested in you.",
+      "translation": "呃呃。\n对你没兴趣。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Vessel_Event_3"
+    },
+    {
+      "id": "dialogue.Soul_Vessel_Event_4",
+      "source": "You seem to not meet\nthe Soul Vessels requirements.\n<color=grey>(Requires to have at least 2 traits and 5 Souls<sprite name=\"Soul\">.)</color>",
+      "translation": "看来你不符合\n灵魂容器的要求。\n<color=grey>（至少需要2个特质和5个灵魂<sprite name=\"Soul\">。）</color>",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Soul_Vessel_Event_4"
+    },
+    {
+      "id": "dialogue.Spice_Traders_Merchant_1",
+      "source": "Hello. I sell spice.\nYou must know, they\nare not ordinary spices though.",
+      "translation": "你好。我卖香料。\n你应该知道，它们\n可不是普通香料。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Spice_Traders_Merchant_1"
+    },
+    {
+      "id": "dialogue.Spice_Traders_Merchant_2",
+      "source": "Usual resins don't last very long.\nMy magical spices, will\nlast you a lifetime.",
+      "translation": "普通树脂的效果不会持续太久。\n我的魔法香料\n能伴你一生。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Spice_Traders_Merchant_2"
+    },
+    {
+      "id": "dialogue.Spice_Traders_Merchant_3",
+      "source": "I travel around the desert,\nto sell spices to ambitious\nadventurers like you!",
+      "translation": "我在沙漠各处旅行，\n把香料卖给\n像你这样有抱负的冒险者！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Spice_Traders_Merchant_3"
+    },
+    {
+      "id": "dialogue.Spice_Traders_Merchant_Thanks_1",
+      "source": "That's a spicy one!\nHo-ho-ho!",
+      "translation": "这香料真够劲！\n呵呵呵！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Spice_Traders_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.Spice_Traders_Merchant_Thanks_2",
+      "source": "My favorite kind!",
+      "translation": "我最喜欢这种！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Spice_Traders_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Squirrel_1",
+      "source": "Alo!\nYou don't have any\nspare nuts by any chance?",
+      "translation": "嗨！\n你碰巧有\n多余的坚果吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Squirrel_1"
+    },
+    {
+      "id": "dialogue.Squirrel_2",
+      "source": "No?\nDo you think you'll find any on your adventure?\nCan I tag along?",
+      "translation": "没有？\n你觉得冒险时会找到吗？\n我能跟你一起吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Squirrel_2"
+    },
+    {
+      "id": "dialogue.Squirrel_3",
+      "source": "Even for all the nuts of the\nforest I wouldn't team up with a fox.\nSorry!",
+      "translation": "就算森林里有所有坚果，\n我也不会和狐狸组队。\n抱歉！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Squirrel_3"
+    },
+    {
+      "id": "dialogue.Squirrel_4",
+      "source": "Even for all the nuts of the\nforest I wouldn't team up with an owl.\nSorry!",
+      "translation": "就算森林里有所有坚果，\n我也不会和猫头鹰组队。\n抱歉！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Squirrel_4"
+    },
+    {
+      "id": "dialogue.Squirrel_5",
+      "source": "Aw! That's a bummer...",
+      "translation": "啊！真扫兴……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Squirrel_5"
+    },
+    {
+      "id": "dialogue.Squirrel_6",
+      "source": "Really?\nI promise, this will be\none nutty adventure!",
+      "translation": "真的吗？\n我保证，这会是\n一场疯狂的冒险！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Squirrel_6"
+    },
+    {
+      "id": "dialogue.Squirrel_On_Found_Item",
+      "source": "Huh!\nSomething's buried here!",
+      "translation": "嗯！\n这里埋着什么东西！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Squirrel_On_Found_Item"
+    },
+    {
+      "id": "dialogue.Statue_Event_Locked",
+      "source": "*The crevice closed.*",
+      "translation": "*裂缝闭合了。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Statue_Event_Locked"
+    },
+    {
+      "id": "dialogue.Statue_Event_Question",
+      "source": "There is something hidden\nin the crevice.\nTake it?",
+      "translation": "裂缝里藏着什么东西。\n要拿走吗？\n",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Statue_Event_Question"
+    },
+    {
+      "id": "dialogue.Strength_Mushroom_1",
+      "source": "Hello, brave adventurer!",
+      "translation": "你好，勇敢的冒险者！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Strength_Mushroom_1"
+    },
+    {
+      "id": "dialogue.Strength_Mushroom_2",
+      "source": "Will you take my offspring\non a glorious adventure?",
+      "translation": "你愿意带我的孩子\n踏上荣耀的冒险吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Strength_Mushroom_2"
+    },
+    {
+      "id": "dialogue.Strength_Mushroom_3",
+      "source": "I have high hopes!\nMake me proud!",
+      "translation": "我对你抱有很高的期望！\n别让我失望！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Strength_Mushroom_3"
+    },
+    {
+      "id": "dialogue.Strength_Mushroom_4",
+      "source": "I see you've decided for another.\nThat is fine, I shall wait for an\neven stronger adventurer!",
+      "translation": "我看出你选了另一个。\n没关系，我会等待\n更强的冒险者！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Strength_Mushroom_4"
+    },
+    {
+      "id": "dialogue.Strider_1",
+      "source": "Ever got this feeling,\nthat somebody is watching you?",
+      "translation": "你是否有过这种感觉，\n好像有人正在注视你？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Strider_1"
+    },
+    {
+      "id": "dialogue.Strider_2",
+      "source": "Everything hurts so much more.",
+      "translation": "一切都疼得厉害。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Strider_2"
+    },
+    {
+      "id": "dialogue.Strider_3",
+      "source": "I feel like\nI am close to death.",
+      "translation": "我感觉自己\n离死亡不远了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Strider_3"
+    },
+    {
+      "id": "dialogue.Strider_4",
+      "source": "My final day...\nInching closer every minute...",
+      "translation": "我的最后一天……\n每分每秒都在靠近……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Strider_4"
+    },
+    {
+      "id": "dialogue.Strider_5",
+      "source": "Take this.\nI've had enough.",
+      "translation": "拿着这个。\n我受够了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Strider_5"
+    },
+    {
+      "id": "dialogue.Sunlight_Altar_1",
+      "source": "Pray at the sunlight altar?",
+      "translation": "要在阳光祭坛前祈祷吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sunlight_Altar_1"
+    },
+    {
+      "id": "dialogue.Sunlight_Altar_2",
+      "source": "*You feel the goddess of\nsunlight shining upon the\npath ahead of you.",
+      "translation": "*你感到阳光女神\n照耀着前方的\n道路。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sunlight_Altar_2"
+    },
+    {
+      "id": "dialogue.Sunlight_Altar_3",
+      "source": "*You've chosen the Sunlight's Path.*",
+      "translation": "*你选择了阳光之路。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Sunlight_Altar_3"
+    },
+    {
+      "id": "dialogue.Take_Bombs",
+      "source": "Take the bombs?",
+      "translation": "要拿走炸弹吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Take_Bombs"
+    },
+    {
+      "id": "dialogue.Take_Dynamite",
+      "source": "Take the dynamite?",
+      "translation": "要拿走炸药吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Take_Dynamite"
+    },
+    {
+      "id": "dialogue.Tavernkeep_No_More_Fishing_1",
+      "source": "Ey!\nDon't empty the tank!\nLeave some for the rest of the club.",
+      "translation": "嘿！\n别把水箱掏空！\n给俱乐部其他人留一些。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tavernkeep_No_More_Fishing_1"
+    },
+    {
+      "id": "dialogue.Tavernkeep_No_More_Fishing_2",
+      "source": "It's a small aquarium!\nWe gotta keep the population\nunder control!",
+      "translation": "这是个小水族箱！\n我们得控制\n种群数量！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tavernkeep_No_More_Fishing_2"
+    },
+    {
+      "id": "dialogue.Teleport_Circle_Prompt",
+      "source": "Which symbol to draw on the floor?",
+      "translation": "要在地上画哪个符号？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Teleport_Circle_Prompt"
+    },
+    {
+      "id": "dialogue.The_Bridge_1-0",
+      "source": "*You feel exhausted.*",
+      "translation": "*你感到精疲力竭。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:The_Bridge_1-0"
+    },
+    {
+      "id": "dialogue.The_Bridge_1-1",
+      "source": "*Cold winds try to get hold of you!*\nLet them take you?",
+      "translation": "*冷风试图侵入你的身体！*\n要让它们带走你吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:The_Bridge_1-1"
+    },
+    {
+      "id": "dialogue.The_Bridge_2-0",
+      "source": "*You feel watched.*",
+      "translation": "*你感到有人在注视你。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:The_Bridge_2-0"
+    },
+    {
+      "id": "dialogue.The_Bridge_2-1",
+      "source": "*Something is still draining your life force.*\nTry to resist?",
+      "translation": "*有什么东西还在吸取你的生命力。*\n要抵抗吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:The_Bridge_2-1"
+    },
+    {
+      "id": "dialogue.The_Bridge_3-0",
+      "source": "*Something dark is holding you back.*",
+      "translation": "*某种黑暗正阻拦着你。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:The_Bridge_3-0"
+    },
+    {
+      "id": "dialogue.The_Bridge_3-1",
+      "source": "*The material world\ncalling you.*\nLet it drag you back?",
+      "translation": "*物质世界\n在呼唤你。*\n要让它把你拖回去吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:The_Bridge_3-1"
+    },
+    {
+      "id": "dialogue.The_Bridge_4-0",
+      "source": "*You feel the lingering presence\nof death around you.*",
+      "translation": "*你感到死亡\n残留在身边的气息。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:The_Bridge_4-0"
+    },
+    {
+      "id": "dialogue.The_Bridge_4-1",
+      "source": "*The aura of death is\nas present as ever.*\nIgnore it?",
+      "translation": "*死亡的气息\n一如既往地浓烈。*\n要无视它吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:The_Bridge_4-1"
+    },
+    {
+      "id": "dialogue.Throne_Question",
+      "source": "Take seat on the throne?",
+      "translation": "要坐上王座吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Throne_Question"
+    },
+    {
+      "id": "dialogue.Tips_For_Adventurers_10",
+      "source": "Tips For Adventurers 10/10\nDid you know, that attribute points\ngrant small bonuses to stats?\nStrength grants damage. Dexterity grants attack speed\nand Intelligence grants critical hit chance.",
+      "translation": "冒险者小贴士 10/10\n你知道吗，属性点\n会为属性带来小幅加成？\n力量提高伤害。敏捷提高攻击速度，\n智力提高暴击率。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Adventurers_10"
+    },
+    {
+      "id": "dialogue.Tips_For_Adventurers_1",
+      "source": "Tips For Adventurers 1/10\nDid you know, any time a little clover or skull icon\nappears it means the outcome has been\naffected by Luck or Curse!",
+      "translation": "冒险者小贴士 1/10\n你知道吗，每当出现小三叶草或骷髅图标，\n就表示结果受到了\n幸运或诅咒的影响！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Adventurers_1"
+    },
+    {
+      "id": "dialogue.Tips_For_Adventurers_2",
+      "source": "Tips For Adventurers 2/10\nDid you know, proficiencies increase\nthe scaling of a weapon that scales\nwith that attribute type by one tier?",
+      "translation": "冒险者小贴士 2/10\n你知道吗，熟练度会让\n与该属性类型相关的武器\n获得更高一阶的属性成长？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Adventurers_2"
+    },
+    {
+      "id": "dialogue.Tips_For_Adventurers_3",
+      "source": "Tips For Adventurers 3/10\nDid you know, that it is said,\nthat machines are weak to bombs?",
+      "translation": "冒险者小贴士 3/10\n你知道吗，据说\n机械敌人怕炸弹？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Adventurers_3"
+    },
+    {
+      "id": "dialogue.Tips_For_Adventurers_4",
+      "source": "Tips For Adventurers 4/10\nDid you know, you can explode\nTreasure Chests, Shrines, Altars and\nSlot Machines with bombs?",
+      "translation": "冒险者小贴士 4/10\n你知道吗，炸弹可以引爆\n宝箱、圣坛、祭坛和\n老虎机？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Adventurers_4"
+    },
+    {
+      "id": "dialogue.Tips_For_Adventurers_5",
+      "source": "Tips For Adventurers 5/10\nDid you know, that\nall potion effects are\nunique and don't stack?",
+      "translation": "冒险者小贴士 5/10\n你知道吗，\n所有药水效果\n都各不相同且不会叠加？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Adventurers_5"
+    },
+    {
+      "id": "dialogue.Tips_For_Adventurers_6",
+      "source": "Tips For Adventurers 6/10\nDid you know, locked cellars are probably\na hidden stash of somebody?\nYou better prepare 2 keys in\ncase they were extra careful about\nlocking their stuff away!",
+      "translation": "冒险者小贴士 6/10\n你知道吗，上锁的地窖\n可能是某人的隐藏储藏室？\n最好准备2把钥匙，\n以防他们把东西锁得特别严！\n",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Adventurers_6"
+    },
+    {
+      "id": "dialogue.Tips_For_Adventurers_7",
+      "source": "Tips For Adventurers 7/10\nDid you know, purple projectiles\nwill curse you with a random curse!\nAlso, green projectiles often inflict poison.",
+      "translation": "冒险者小贴士 7/10\n你知道吗，紫色投射物\n会用随机诅咒诅咒你！\n另外，绿色投射物经常施加中毒。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Adventurers_7"
+    },
+    {
+      "id": "dialogue.Tips_For_Adventurers_8",
+      "source": "Tips For Adventurers 8/10\nDid you know, attunement\nmeans that you have to equip\nthe item for a few rooms before\nits effects start working?",
+      "translation": "冒险者小贴士 8/10\n你知道吗，调谐\n意味着你必须装备\n该物品几个房间，\n它的效果才会生效？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Adventurers_8"
+    },
+    {
+      "id": "dialogue.Tips_For_Adventurers_9",
+      "source": "Tips For Adventurers 9/10\nDid you know, most enemies and even bosses\nhave a weakness to a damage type?\nKnowing weaknesses can be\nhandy when in possession of infusion consumables!",
+      "translation": "冒险者小贴士 9/10\n你知道吗，大多数敌人甚至首领\n都对某种伤害类型有弱点？\n掌握弱点后，手中的灌注药剂\n会非常有用！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Adventurers_9"
+    },
+    {
+      "id": "dialogue.Tips_For_Drinkers",
+      "source": "\"Tips For Drinkers 1/1\"\nThe maximum amount of\n\"Tipsiness\" you can endure,\nis determined by your total\namount of hearts<sprite name=\"Heart\">!",
+      "translation": "“饮酒者小贴士 1/1”\n你能承受的最大\n“醉意”\n取决于你的红心<sprite name=\"Heart\">\n总数！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tips_For_Drinkers"
+    },
+    {
+      "id": "dialogue.Tomb_Blue",
+      "source": "Here lies: Omatuo the Sage.",
+      "translation": "这里埋葬着：智者奥马图。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tomb_Blue"
+    },
+    {
+      "id": "dialogue.Tomb_Green",
+      "source": "Here lies: Iona the Pathfinder.",
+      "translation": "这里埋葬着：探路者伊欧娜。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tomb_Green"
+    },
+    {
+      "id": "dialogue.Tomb_Locked",
+      "source": "The tomb will not open.",
+      "translation": "墓穴不会打开。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tomb_Locked"
+    },
+    {
+      "id": "dialogue.Tomb_Open_Prompt",
+      "source": "Open the tomb?",
+      "translation": "要打开墓穴吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tomb_Open_Prompt"
+    },
+    {
+      "id": "dialogue.Tomb_Red",
+      "source": "Here lies: Retra the Barbarian.",
+      "translation": "这里埋葬着：野蛮人雷特拉。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Tomb_Red"
+    },
+    {
+      "id": "dialogue.Undead_Merchant_1",
+      "source": "Do not be afraid.\nI am friendly!\nNye-he-he-he!",
+      "translation": "别害怕。\n我是友善的！\n咿嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Undead_Merchant_1"
+    },
+    {
+      "id": "dialogue.Undead_Merchant_2",
+      "source": "Have you seen my dear julia?\nOh, I miss her so much...",
+      "translation": "你见过我亲爱的朱莉娅吗？\n啊，我好想她……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Undead_Merchant_2"
+    },
+    {
+      "id": "dialogue.Undead_Merchant_3",
+      "source": "Got any spare bones for sale?\nNye-he-he-he!",
+      "translation": "有多余的骨头要卖吗？\n咿嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Undead_Merchant_3"
+    },
+    {
+      "id": "dialogue.Undead_Merchant_Thanks_1",
+      "source": "Thank you.\nCome back soon.",
+      "translation": "谢谢你。\n欢迎再来。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Undead_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.Undead_Merchant_Thanks_2",
+      "source": "Excellent!\nCome again!",
+      "translation": "太棒了！\n欢迎再来！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Undead_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Under_Construction",
+      "source": "UNDER CONSTRUCTION",
+      "translation": "施工中",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Under_Construction"
+    },
+    {
+      "id": "dialogue.Wishing_Well",
+      "source": "Throw 1 Gold<sprite name=\"Gold\"> into the well?",
+      "translation": "要往井里投入1枚金币<sprite name=\"Gold\">吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Wishing_Well"
+    },
+    {
+      "id": "dialogue.Wishing_Well_Done",
+      "source": "*You got a feeling it's\ntime to stop throwing\ngold into a random well.*",
+      "translation": "*你有种感觉，\n是时候停止\n往随机的井里扔金币了。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Wishing_Well_Done"
+    },
+    {
+      "id": "dialogue.Witch_Doctor_Merchant_1",
+      "source": "Which doctor am I?\nThe Witch Doctor am I.",
+      "translation": "我是哪位医生？\n我是女巫医生。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Witch_Doctor_Merchant_1"
+    },
+    {
+      "id": "dialogue.Witch_Doctor_Merchant_2",
+      "source": "The heart of magic is nature.\nThe nature of hearts is magic.",
+      "translation": "魔法的核心是自然。\n心灵的本质是魔法。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Witch_Doctor_Merchant_2"
+    },
+    {
+      "id": "dialogue.Witch_Doctor_Merchant_3",
+      "source": "The jungle provides materials!\nPerfect for making potions and magic!",
+      "translation": "丛林会提供材料！\n非常适合制作药水与魔法！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Witch_Doctor_Merchant_3"
+    },
+    {
+      "id": "dialogue.Witch_Doctor_Merchant_Thanks_1",
+      "source": "Stay safe,\nthis is a dangerous place.",
+      "translation": "注意安全，\n这里很危险。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Witch_Doctor_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.Witch_Doctor_Merchant_Thanks_2",
+      "source": "Thank you\nand come again.",
+      "translation": "谢谢你，\n欢迎再来。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Witch_Doctor_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Wizard_Statue",
+      "source": "Investigate the statue of a wizard?",
+      "translation": "要调查法师雕像吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Wizard_Statue"
+    }
+  ]
+}

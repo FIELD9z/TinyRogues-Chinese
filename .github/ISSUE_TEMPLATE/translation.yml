@@ -1,0 +1,23 @@
+name: 漏翻或译文问题
+description: 报告原文、语境或显示问题
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 游戏版本与汉化版本
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 完整英文原文
+      description: 请保留数值和换行；也可以附截图。
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: 出现位置、当前译文与建议
+      description: 说明对应角色、装备、技能或菜单；机制歧义请附依据。
+    validations:
+      required: true

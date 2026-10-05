@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "独立教程翻译",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "tutorial.literal.12d768554c19eb7343c9",
+      "source": " grant [[+1]] Dexterity.\n(*)",
+      "translation": " 提供 [[+1]] 敏捷。\n(*)",
+      "context": "tutorial-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量；片段需在教程组装入口接入，不允许全局子串替换。"
+    },
+    {
+      "id": "tutorial.literal.32fcc18960b308f70d83",
+      "source": " grant [[+1]] Strength.\n(*)",
+      "translation": " 提供 [[+1]] 力量。\n(*)",
+      "context": "tutorial-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量；片段需在教程组装入口接入，不允许全局子串替换。"
+    },
+    {
+      "id": "tutorial.literal.0c8a7426b271ff1c9c22",
+      "source": " grant [[+3]] Intelligence.",
+      "translation": " 提供 [[+3]] 智力。",
+      "context": "tutorial-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量；片段需在教程组装入口接入，不允许全局子串替换。"
+    },
+    {
+      "id": "tutorial.literal.c9e42cbb9bedfba694a8",
+      "source": " grant [[+3]] Strength.",
+      "translation": " 提供 [[+3]] 力量。",
+      "context": "tutorial-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量；片段需在教程组装入口接入，不允许全局子串替换。"
+    },
+    {
+      "id": "tutorial.literal.e8bc8c99d12b5d00f46a",
+      "source": " grants [[+1]] Intelligence.\n(*)",
+      "translation": " 提供 [[+1]] 智力。\n(*)",
+      "context": "tutorial-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量；片段需在教程组装入口接入，不允许全局子串替换。"
+    },
+    {
+      "id": "tutorial.literal.933036a453e4d84eabcc",
+      "source": " grants [[+3]] Dexterity.",
+      "translation": " 提供 [[+3]] 敏捷。",
+      "context": "tutorial-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量；片段需在教程组装入口接入，不允许全局子串替换。"
+    },
+    {
+      "id": "tutorial.literal.d2788aacd856b8be6150",
+      "source": " increase your ",
+      "translation": " 提高你的 ",
+      "context": "tutorial-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量；片段需在教程组装入口接入，不允许全局子串替换。"
+    },
+    {
+      "id": "tutorial.literal.51f3db26cd37771ee9a9",
+      "source": ".\nPick up Food, to gain EXP and level up!\n(e.g.: ",
+      "translation": "。\n拾取食物，获得经验值并升级！\n（例如： ",
+      "context": "tutorial-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量；片段需在教程组装入口接入，不允许全局子串替换。"
+    },
+    {
+      "id": "tutorial.literal.92f8e824204178d20cff",
+      "source": "Attributes also grant other stats\nsuch as ",
+      "translation": "属性还会提供其他数值加成，\n例如 ",
+      "context": "tutorial-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量；片段需在教程组装入口接入，不允许全局子串替换。"
+    },
+    {
+      "id": "tutorial.literal.5d07b80efab14ebe3f54",
+      "source": "Food will grant <color=yellow>EXP</color>.\nYou need <color=yellow>EXP</color> to level up\nand learn new Traits.",
+      "translation": "食物能提供<color=yellow>经验值</color>。\n积累<color=yellow>经验值</color>可以升级\n并习得新的特质。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始元数据完整句子；独立自然中文翻译。"
+    },
+    {
+      "id": "tutorial.literal.544e5844d60e1b2e49dc",
+      "source": "Increase your luck,\nfor a chance to get 4 choices.",
+      "translation": "提高幸运值，\n便有机会获得 4 个选项。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始元数据完整句子；独立自然中文翻译。"
+    },
+    {
+      "id": "tutorial.literal.d4fe0c2f1df07fdba738",
+      "source": "On your journey, you\nwill find food.",
+      "translation": "在旅途中，\n你会找到食物。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始元数据完整句子；独立自然中文翻译。"
+    },
+    {
+      "id": "tutorial.literal.7e393431be9dbcc830af",
+      "source": "Welcome young traveller!\nI am here to help you\nget going on your journey.",
+      "translation": "欢迎，年轻的旅人！\n我会帮助你\n踏上这段旅程。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始元数据完整句子；独立自然中文翻译。"
+    },
+    {
+      "id": "tutorial.food-template.1.Strength-Dexterity-Intelligence.plain",
+      "source": "{term:foodStrength} grant [[+1]] Strength.\n(*){term:foodDexterity} grant [[+1]] Dexterity.\n(*){term:foodIntelligence} grants [[+1]] Intelligence.",
+      "translation": "{term:foodStrength}提供 [[+1]] 力量。\n(*){term:foodDexterity}提供 [[+1]] 敏捷。\n(*){term:foodIntelligence}提供 [[+1]] 智力。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Strength-Dexterity-Intelligence.bullet",
+      "source": "(*){term:foodStrength} grant [[+1]] Strength.\n(*){term:foodDexterity} grant [[+1]] Dexterity.\n(*){term:foodIntelligence} grants [[+1]] Intelligence.",
+      "translation": "(*){term:foodStrength}提供 [[+1]] 力量。\n(*){term:foodDexterity}提供 [[+1]] 敏捷。\n(*){term:foodIntelligence}提供 [[+1]] 智力。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Strength-Intelligence-Dexterity.plain",
+      "source": "{term:foodStrength} grant [[+1]] Strength.\n(*){term:foodIntelligence} grants [[+1]] Intelligence.\n(*){term:foodDexterity} grant [[+1]] Dexterity.",
+      "translation": "{term:foodStrength}提供 [[+1]] 力量。\n(*){term:foodIntelligence}提供 [[+1]] 智力。\n(*){term:foodDexterity}提供 [[+1]] 敏捷。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Strength-Intelligence-Dexterity.bullet",
+      "source": "(*){term:foodStrength} grant [[+1]] Strength.\n(*){term:foodIntelligence} grants [[+1]] Intelligence.\n(*){term:foodDexterity} grant [[+1]] Dexterity.",
+      "translation": "(*){term:foodStrength}提供 [[+1]] 力量。\n(*){term:foodIntelligence}提供 [[+1]] 智力。\n(*){term:foodDexterity}提供 [[+1]] 敏捷。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Dexterity-Strength-Intelligence.plain",
+      "source": "{term:foodDexterity} grant [[+1]] Dexterity.\n(*){term:foodStrength} grant [[+1]] Strength.\n(*){term:foodIntelligence} grants [[+1]] Intelligence.",
+      "translation": "{term:foodDexterity}提供 [[+1]] 敏捷。\n(*){term:foodStrength}提供 [[+1]] 力量。\n(*){term:foodIntelligence}提供 [[+1]] 智力。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Dexterity-Strength-Intelligence.bullet",
+      "source": "(*){term:foodDexterity} grant [[+1]] Dexterity.\n(*){term:foodStrength} grant [[+1]] Strength.\n(*){term:foodIntelligence} grants [[+1]] Intelligence.",
+      "translation": "(*){term:foodDexterity}提供 [[+1]] 敏捷。\n(*){term:foodStrength}提供 [[+1]] 力量。\n(*){term:foodIntelligence}提供 [[+1]] 智力。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Dexterity-Intelligence-Strength.plain",
+      "source": "{term:foodDexterity} grant [[+1]] Dexterity.\n(*){term:foodIntelligence} grants [[+1]] Intelligence.\n(*){term:foodStrength} grant [[+1]] Strength.",
+      "translation": "{term:foodDexterity}提供 [[+1]] 敏捷。\n(*){term:foodIntelligence}提供 [[+1]] 智力。\n(*){term:foodStrength}提供 [[+1]] 力量。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Dexterity-Intelligence-Strength.bullet",
+      "source": "(*){term:foodDexterity} grant [[+1]] Dexterity.\n(*){term:foodIntelligence} grants [[+1]] Intelligence.\n(*){term:foodStrength} grant [[+1]] Strength.",
+      "translation": "(*){term:foodDexterity}提供 [[+1]] 敏捷。\n(*){term:foodIntelligence}提供 [[+1]] 智力。\n(*){term:foodStrength}提供 [[+1]] 力量。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Intelligence-Strength-Dexterity.plain",
+      "source": "{term:foodIntelligence} grants [[+1]] Intelligence.\n(*){term:foodStrength} grant [[+1]] Strength.\n(*){term:foodDexterity} grant [[+1]] Dexterity.",
+      "translation": "{term:foodIntelligence}提供 [[+1]] 智力。\n(*){term:foodStrength}提供 [[+1]] 力量。\n(*){term:foodDexterity}提供 [[+1]] 敏捷。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Intelligence-Strength-Dexterity.bullet",
+      "source": "(*){term:foodIntelligence} grants [[+1]] Intelligence.\n(*){term:foodStrength} grant [[+1]] Strength.\n(*){term:foodDexterity} grant [[+1]] Dexterity.",
+      "translation": "(*){term:foodIntelligence}提供 [[+1]] 智力。\n(*){term:foodStrength}提供 [[+1]] 力量。\n(*){term:foodDexterity}提供 [[+1]] 敏捷。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Intelligence-Dexterity-Strength.plain",
+      "source": "{term:foodIntelligence} grants [[+1]] Intelligence.\n(*){term:foodDexterity} grant [[+1]] Dexterity.\n(*){term:foodStrength} grant [[+1]] Strength.",
+      "translation": "{term:foodIntelligence}提供 [[+1]] 智力。\n(*){term:foodDexterity}提供 [[+1]] 敏捷。\n(*){term:foodStrength}提供 [[+1]] 力量。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.1.Intelligence-Dexterity-Strength.bullet",
+      "source": "(*){term:foodIntelligence} grants [[+1]] Intelligence.\n(*){term:foodDexterity} grant [[+1]] Dexterity.\n(*){term:foodStrength} grant [[+1]] Strength.",
+      "translation": "(*){term:foodIntelligence}提供 [[+1]] 智力。\n(*){term:foodDexterity}提供 [[+1]] 敏捷。\n(*){term:foodStrength}提供 [[+1]] 力量。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Strength-Dexterity-Intelligence.plain",
+      "source": "{term:foodStrength} grant [[+3]] Strength.\n(*){term:foodDexterity} grants [[+3]] Dexterity.\n(*){term:foodIntelligence} grant [[+3]] Intelligence.",
+      "translation": "{term:foodStrength}提供 [[+3]] 力量。\n(*){term:foodDexterity}提供 [[+3]] 敏捷。\n(*){term:foodIntelligence}提供 [[+3]] 智力。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Strength-Dexterity-Intelligence.bullet",
+      "source": "(*){term:foodStrength} grant [[+3]] Strength.\n(*){term:foodDexterity} grants [[+3]] Dexterity.\n(*){term:foodIntelligence} grant [[+3]] Intelligence.",
+      "translation": "(*){term:foodStrength}提供 [[+3]] 力量。\n(*){term:foodDexterity}提供 [[+3]] 敏捷。\n(*){term:foodIntelligence}提供 [[+3]] 智力。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Strength-Intelligence-Dexterity.plain",
+      "source": "{term:foodStrength} grant [[+3]] Strength.\n(*){term:foodIntelligence} grant [[+3]] Intelligence.\n(*){term:foodDexterity} grants [[+3]] Dexterity.",
+      "translation": "{term:foodStrength}提供 [[+3]] 力量。\n(*){term:foodIntelligence}提供 [[+3]] 智力。\n(*){term:foodDexterity}提供 [[+3]] 敏捷。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Strength-Intelligence-Dexterity.bullet",
+      "source": "(*){term:foodStrength} grant [[+3]] Strength.\n(*){term:foodIntelligence} grant [[+3]] Intelligence.\n(*){term:foodDexterity} grants [[+3]] Dexterity.",
+      "translation": "(*){term:foodStrength}提供 [[+3]] 力量。\n(*){term:foodIntelligence}提供 [[+3]] 智力。\n(*){term:foodDexterity}提供 [[+3]] 敏捷。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Dexterity-Strength-Intelligence.plain",
+      "source": "{term:foodDexterity} grants [[+3]] Dexterity.\n(*){term:foodStrength} grant [[+3]] Strength.\n(*){term:foodIntelligence} grant [[+3]] Intelligence.",
+      "translation": "{term:foodDexterity}提供 [[+3]] 敏捷。\n(*){term:foodStrength}提供 [[+3]] 力量。\n(*){term:foodIntelligence}提供 [[+3]] 智力。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Dexterity-Strength-Intelligence.bullet",
+      "source": "(*){term:foodDexterity} grants [[+3]] Dexterity.\n(*){term:foodStrength} grant [[+3]] Strength.\n(*){term:foodIntelligence} grant [[+3]] Intelligence.",
+      "translation": "(*){term:foodDexterity}提供 [[+3]] 敏捷。\n(*){term:foodStrength}提供 [[+3]] 力量。\n(*){term:foodIntelligence}提供 [[+3]] 智力。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Dexterity-Intelligence-Strength.plain",
+      "source": "{term:foodDexterity} grants [[+3]] Dexterity.\n(*){term:foodIntelligence} grant [[+3]] Intelligence.\n(*){term:foodStrength} grant [[+3]] Strength.",
+      "translation": "{term:foodDexterity}提供 [[+3]] 敏捷。\n(*){term:foodIntelligence}提供 [[+3]] 智力。\n(*){term:foodStrength}提供 [[+3]] 力量。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Dexterity-Intelligence-Strength.bullet",
+      "source": "(*){term:foodDexterity} grants [[+3]] Dexterity.\n(*){term:foodIntelligence} grant [[+3]] Intelligence.\n(*){term:foodStrength} grant [[+3]] Strength.",
+      "translation": "(*){term:foodDexterity}提供 [[+3]] 敏捷。\n(*){term:foodIntelligence}提供 [[+3]] 智力。\n(*){term:foodStrength}提供 [[+3]] 力量。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Intelligence-Strength-Dexterity.plain",
+      "source": "{term:foodIntelligence} grant [[+3]] Intelligence.\n(*){term:foodStrength} grant [[+3]] Strength.\n(*){term:foodDexterity} grants [[+3]] Dexterity.",
+      "translation": "{term:foodIntelligence}提供 [[+3]] 智力。\n(*){term:foodStrength}提供 [[+3]] 力量。\n(*){term:foodDexterity}提供 [[+3]] 敏捷。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Intelligence-Strength-Dexterity.bullet",
+      "source": "(*){term:foodIntelligence} grant [[+3]] Intelligence.\n(*){term:foodStrength} grant [[+3]] Strength.\n(*){term:foodDexterity} grants [[+3]] Dexterity.",
+      "translation": "(*){term:foodIntelligence}提供 [[+3]] 智力。\n(*){term:foodStrength}提供 [[+3]] 力量。\n(*){term:foodDexterity}提供 [[+3]] 敏捷。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Intelligence-Dexterity-Strength.plain",
+      "source": "{term:foodIntelligence} grant [[+3]] Intelligence.\n(*){term:foodDexterity} grants [[+3]] Dexterity.\n(*){term:foodStrength} grant [[+3]] Strength.",
+      "translation": "{term:foodIntelligence}提供 [[+3]] 智力。\n(*){term:foodDexterity}提供 [[+3]] 敏捷。\n(*){term:foodStrength}提供 [[+3]] 力量。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.food-template.3.Intelligence-Dexterity-Strength.bullet",
+      "source": "(*){term:foodIntelligence} grant [[+3]] Intelligence.\n(*){term:foodDexterity} grants [[+3]] Dexterity.\n(*){term:foodStrength} grant [[+3]] Strength.",
+      "translation": "(*){term:foodIntelligence}提供 [[+3]] 智力。\n(*){term:foodDexterity}提供 [[+3]] 敏捷。\n(*){term:foodStrength}提供 [[+3]] 力量。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    }
+  ]
+}

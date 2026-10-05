@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "动态完整行",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "dynamic.37112abd6654",
+      "source": "Damage: {number:amount}",
+      "translation": "伤害：{number:amount}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整说明行，保留当前数值"
+    },
+    {
+      "id": "dynamic.2186214f80c7",
+      "source": "Attunement: {number:current}/{number:max}",
+      "translation": "调谐：{number:current}/{number:max}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整说明行，保留当前数值"
+    },
+    {
+      "id": "dynamic.bae440a6d4bd",
+      "source": "Boss Crowns: {number:current}/{number:max}",
+      "translation": "首领王冠：{number:current}/{number:max}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整说明行，保留当前数值"
+    }
+  ]
+}

@@ -1,0 +1,4706 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "对话 A",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "dialogue.Abyss_Grate_Locked",
+      "source": "This grate seems\nlocked for good.\nWhat could warrant such\nheavy reinforcement?",
+      "translation": "这道栅门似乎\n彻底锁死了。\n究竟是什么东西，\n值得如此严密加固？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Abyss_Grate_Locked"
+    },
+    {
+      "id": "dialogue.Abyssal_Charm_Event",
+      "source": "Take the strange charm?\nIt has an aura of chaos to it.",
+      "translation": "要拿走这个奇怪的护符吗？\n它散发着混沌的气息。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Abyssal_Charm_Event"
+    },
+    {
+      "id": "dialogue.Alchemy_Station_Prompt",
+      "source": "Drop a consumable, weapon or equipment item\nto begin the transmutation process.\nYou only have supplies to transmute [[1]] item.",
+      "translation": "放入一件消耗品、武器或装备\n以开始炼金转化。\n你只有足够的材料转化 [[1]] 件物品。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Alchemy_Station_Prompt"
+    },
+    {
+      "id": "dialogue.Ancient_Tome_1",
+      "source": "There is a bookmark in the tome!\nTake the bookmark?",
+      "translation": "这本典籍里夹着一张书签！\n要拿走书签吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ancient_Tome_1"
+    },
+    {
+      "id": "dialogue.Ancient_Tome_2",
+      "source": "*Nothing but a boring,\nbig, old and dusty tome.\nYou can't even understand\nthe language it's written in.*",
+      "translation": "*除了一本无聊、\n厚重、古老又布满灰尘的典籍，\n里面什么也没有。\n你甚至看不懂它所写的语言。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Ancient_Tome_2"
+    },
+    {
+      "id": "dialogue.Angel_Celebration_1",
+      "source": "Praise the sovereign!",
+      "translation": "赞美至高者！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Celebration_1"
+    },
+    {
+      "id": "dialogue.Angel_Celebration_2",
+      "source": "Chosen by the light!",
+      "translation": "光明选中了你！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Celebration_2"
+    },
+    {
+      "id": "dialogue.Angel_Celebration_3",
+      "source": "We pray to you!",
+      "translation": "我们向你祈祷！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Celebration_3"
+    },
+    {
+      "id": "dialogue.Angel_Celebration_4",
+      "source": "A new era of purity dawns!",
+      "translation": "纯洁的新纪元即将到来！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Celebration_4"
+    },
+    {
+      "id": "dialogue.Angel_Interact_1",
+      "source": "Blessed be your light. *bows*",
+      "translation": "愿光辉与你同在。*鞠躬*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Interact_1"
+    },
+    {
+      "id": "dialogue.Angel_Interact_2",
+      "source": "Your grace. *bows*",
+      "translation": "您的恩典。*鞠躬*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Interact_2"
+    },
+    {
+      "id": "dialogue.Angel_Interact_3",
+      "source": "We are humbled\nto be in your presence.",
+      "translation": "能在您面前现身，\n是我们的荣幸。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Interact_3"
+    },
+    {
+      "id": "dialogue.Angel_Interact_4",
+      "source": "We greet you.",
+      "translation": "向您致意。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Interact_4"
+    },
+    {
+      "id": "dialogue.Angel_Shop_1",
+      "source": "Welcome, brave soul!\nI serve as a herald\nfrom the high heavens.",
+      "translation": "欢迎，勇敢的灵魂！\n我是来自至高天界的\n使者。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Shop_1"
+    },
+    {
+      "id": "dialogue.Angel_Shop_2",
+      "source": "Lately the flow of souls has ebbed.\nSomething is stirring the eternal calm.\nI wonder what could it be?",
+      "translation": "最近灵魂的流动减缓了。\n有什么东西正在搅动永恒的宁静。\n真想知道那会是什么。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Shop_2"
+    },
+    {
+      "id": "dialogue.Angel_Shop_3",
+      "source": "Your aid in these\ntrying times shines\nbrighter than ever.",
+      "translation": "在这段\n艰难的时期，\n你的援手比以往更加耀眼。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Shop_3"
+    },
+    {
+      "id": "dialogue.Angel_Shop_4",
+      "source": "Your presence honors me.",
+      "translation": "您的到来令我倍感荣幸。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Shop_4"
+    },
+    {
+      "id": "dialogue.Angel_Shop_5",
+      "source": "Blessed be the light.",
+      "translation": "愿光明赐福于你。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Shop_5"
+    },
+    {
+      "id": "dialogue.Angel_Shop_6",
+      "source": "In the light we trust.",
+      "translation": "我们信赖光明。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Shop_6"
+    },
+    {
+      "id": "dialogue.Angel_Shop_Thank_You_1",
+      "source": "Blessings to you.",
+      "translation": "祝福与你同在。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Shop_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Angel_Shop_Thank_You_2",
+      "source": "There is always hope.",
+      "translation": "希望永远存在。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Shop_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Angel_Shop_Thank_You_3",
+      "source": "The heavens smile upon you.",
+      "translation": "天界正对你展露微笑。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Angel_Shop_Thank_You_3"
+    },
+    {
+      "id": "dialogue.Animal_Companion_ReAsk",
+      "source": "Changed your mind?\nWant me to come with you?",
+      "translation": "改变主意了？\n想让我和你一起走吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Animal_Companion_ReAsk"
+    },
+    {
+      "id": "dialogue.April_1st_1",
+      "source": "Why won't you die?",
+      "translation": "你怎么还不死？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:April_1st_1"
+    },
+    {
+      "id": "dialogue.April_1st_2",
+      "source": "Nanomachines, son!",
+      "translation": "纳米机械，儿子！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:April_1st_2"
+    },
+    {
+      "id": "dialogue.April_1st_3",
+      "source": "They harden in response to physical trauma!",
+      "translation": "它们会在受到物理创伤后变得更坚硬！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:April_1st_3"
+    },
+    {
+      "id": "dialogue.April_1st_4",
+      "source": "You can't hurt me!",
+      "translation": "你伤不了我！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:April_1st_4"
+    },
+    {
+      "id": "dialogue.Architect_Vault_1",
+      "source": "*It seems to require a special key.*",
+      "translation": "*它似乎需要一把特殊的钥匙。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Architect_Vault_1"
+    },
+    {
+      "id": "dialogue.Architect_Vault_2",
+      "source": "Use the Rusty Key?",
+      "translation": "使用生锈的钥匙吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Architect_Vault_2"
+    },
+    {
+      "id": "dialogue.Architect_Vault_3",
+      "source": "*click*\n*You opened the lock.*",
+      "translation": "*咔哒*\n*你打开了锁。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Architect_Vault_3"
+    },
+    {
+      "id": "dialogue.Architect_Vault_4",
+      "source": "*But the key crumbled to dust...*",
+      "translation": "*但钥匙碎成了尘埃……*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Architect_Vault_4"
+    },
+    {
+      "id": "dialogue.Art_Critique",
+      "source": "*What do you think\nabout this painting?*",
+      "translation": "*你觉得\n这幅画怎么样？*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Art_Critique"
+    },
+    {
+      "id": "dialogue.Art_Critique_Answer_1",
+      "source": "Lovely! *sips tea*",
+      "translation": "真漂亮！*抿茶*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Art_Critique_Answer_1"
+    },
+    {
+      "id": "dialogue.Art_Critique_Answer_2",
+      "source": "Quite exquisite! *kiss*",
+      "translation": "相当精致！*亲吻*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Art_Critique_Answer_2"
+    },
+    {
+      "id": "dialogue.Art_Critique_Answer_3",
+      "source": "A bit dramatic! *gasps*",
+      "translation": "有点太戏剧化了！*倒吸一口气*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Art_Critique_Answer_3"
+    },
+    {
+      "id": "dialogue.Art_Critique_Answer_4",
+      "source": "Awful! *yuck*",
+      "translation": "糟透了！*呸*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Art_Critique_Answer_4"
+    },
+    {
+      "id": "dialogue.Art_Critique_Response_1",
+      "source": "*Everybody is entitled\nto their own opinion*",
+      "translation": "*每个人都有\n表达自己看法的权利。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Art_Critique_Response_1"
+    },
+    {
+      "id": "dialogue.Art_Critique_Response_2",
+      "source": "*If that is\nhow you truly feel.*",
+      "translation": "*如果那确实是\n你的真实感受。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Art_Critique_Response_2"
+    },
+    {
+      "id": "dialogue.Art_Critique_Response_3",
+      "source": "*I assure you\nyou aren't the only one\nthinking that.*",
+      "translation": "*我保证，\n不是只有你一个人\n这么想。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Art_Critique_Response_3"
+    },
+    {
+      "id": "dialogue.Art_Critique_Response_4",
+      "source": "*Spicy!*",
+      "translation": "*够呛！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Art_Critique_Response_4"
+    },
+    {
+      "id": "dialogue.Attunement_Bonfire",
+      "source": "Attune equipped items?",
+      "translation": "调谐已装备的物品吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Attunement_Bonfire"
+    },
+    {
+      "id": "dialogue.Automaton_Core_Emerald",
+      "source": "Emerald Core",
+      "translation": "翡翠核心",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Core_Emerald"
+    },
+    {
+      "id": "dialogue.Automaton_Core_Ruby",
+      "source": "Ruby Core",
+      "translation": "红宝石核心",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Core_Ruby"
+    },
+    {
+      "id": "dialogue.Automaton_Core_Sapphire",
+      "source": "Sapphire Core",
+      "translation": "蓝宝石核心",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Core_Sapphire"
+    },
+    {
+      "id": "dialogue.Automaton_Finished",
+      "source": "*You don't have\nanother automaton engine\nto construct another automaton.*",
+      "translation": "*你已经没有\n多余的自动机引擎，\n无法再构造一台自动机了。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Finished"
+    },
+    {
+      "id": "dialogue.Automaton_Shell_Gold",
+      "source": "Gold Shell",
+      "translation": "黄金外壳",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Shell_Gold"
+    },
+    {
+      "id": "dialogue.Automaton_Shell_Stone",
+      "source": "Stone Shell",
+      "translation": "石质外壳",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Shell_Stone"
+    },
+    {
+      "id": "dialogue.Automaton_Shell_Wood",
+      "source": "Wood Shell",
+      "translation": "木质外壳",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Shell_Wood"
+    },
+    {
+      "id": "dialogue.Automaton_Weapon_Electricity",
+      "source": "Electricity Blueprint",
+      "translation": "电击蓝图",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Weapon_Electricity"
+    },
+    {
+      "id": "dialogue.Automaton_Weapon_Fire",
+      "source": "Flamethrower Blueprint",
+      "translation": "喷火器蓝图",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Weapon_Fire"
+    },
+    {
+      "id": "dialogue.Automaton_Weapon_Laser",
+      "source": "Laser Blueprint",
+      "translation": "激光蓝图",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Weapon_Laser"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_0",
+      "source": "Attempt to construct\nan automaton?",
+      "translation": "尝试构造\n一台自动机吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_0"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_1",
+      "source": "1. Chose an automaton shell:",
+      "translation": "1. 选择自动机外壳：",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_1"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_2",
+      "source": "2. Choose an automaton core:",
+      "translation": "2. 选择自动机核心：",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_2"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_3",
+      "source": "3. Chose a weapon blueprint:",
+      "translation": "3. 选择武器蓝图：",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_3"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_Hint_Cores_0",
+      "source": "\"Automaton Cores\"",
+      "translation": "“自动机核心”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_Hint_Cores_0"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_Hint_Cores_1",
+      "source": "\"Automaton Cores provide\npower to the automaton engine.\"",
+      "translation": "“自动机核心为\n自动机引擎提供动力。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_Hint_Cores_1"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_Hint_Cores_2",
+      "source": "\"Emeralds, Rubies and Sapphires\nall provide similar levels of power.\"",
+      "translation": "“翡翠、红宝石和蓝宝石\n提供的动力等级相近。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_Hint_Cores_2"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_Hint_Cores_3",
+      "source": "\"My studies show that\nthe usage of gems\nis highly recommended.\"",
+      "translation": "“我的研究表明，\n使用宝石\n是非常明智的选择。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_Hint_Cores_3"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_Hint_Shells_0",
+      "source": "\"Automaton Shells\"",
+      "translation": "“自动机外壳”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_Hint_Shells_0"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_Hint_Shells_1",
+      "source": "\"The shell shelters\nthe automaton of\noutside influences.\"",
+      "translation": "“外壳保护自动机\n免受外界\n影响。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_Hint_Shells_1"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_Hint_Shells_2",
+      "source": "\"I have tested multiple\nmaterials for automaton shells.\"",
+      "translation": "“我测试过多种\n适合自动机外壳的材料。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_Hint_Shells_2"
+    },
+    {
+      "id": "dialogue.Automaton_Workshop_Hint_Shells_3",
+      "source": "\"Due to the magical inheritance\nof defensive properties from the construction,\nI've found shell materials\nto be secondary of importance in combat.\"",
+      "translation": "“由于构造材料会神奇地\n继承防御属性，\n我发现外壳材料\n在战斗中的重要性反而居次。”",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Automaton_Workshop_Hint_Shells_3"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_1",
+      "source": "Little hatchling.\nI see you've finally arrived.",
+      "translation": "小小的雏鸟。\n你终于来了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_1"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_2",
+      "source": "I am impressed.\nYou carve a path\nof utter devastation.",
+      "translation": "我很欣赏你。\n你杀出了一条\n彻底毁灭之路。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_2"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_3",
+      "source": "It appears even\nthe mighty Tiamat couldn't\nescape your wrath.",
+      "translation": "看来就连\n强大的提亚马特\n也逃不过你的怒火。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_3"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_4",
+      "source": "You truly are an\nunstoppable force of evil.\nEven dethroning Death!",
+      "translation": "你真是不可阻挡的\n邪恶之力。\n甚至还 dethroned Death!",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_4"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_5",
+      "source": "Wa-ha-ha-ha!\nYour bloodlust,\nit invigorates me.",
+      "translation": "哇哈哈哈！\n你的嗜血欲望\n令我精神焕发。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_5"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_6",
+      "source": "I've sensed the\ngrowing darkness\nwithin you.",
+      "translation": "我感受到了\n你体内不断增长的\n黑暗。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_6"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_7",
+      "source": "Eagerly awaiting this very moment...",
+      "translation": "我一直在热切等待这一刻……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_7"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_8",
+      "source": "At last...\nA worthy contender for\nthe infernal throne.",
+      "translation": "终于……\n一个配得上\n地狱王座的挑战者。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_8"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_9",
+      "source": "Wa-ha-ha-ha!\nShow me your strength!",
+      "translation": "哇哈哈哈！\n让我看看你的力量！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_9"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_Ability_1",
+      "source": "FACE DAMNATION!",
+      "translation": "面对你的厄运吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_Ability_1"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_Ability_2",
+      "source": "Become one\nwith evil.",
+      "translation": "与邪恶\n融为一体。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_Ability_2"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_Ability_3",
+      "source": "Eternal torment\nawaits you.",
+      "translation": "永恒的折磨\n正等待着你。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_Ability_3"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_Ability_4",
+      "source": "Ashes to ashes.\nDust to dust.",
+      "translation": "尘归尘。\n土归土。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_Ability_4"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_Ability_5",
+      "source": "Only strength matters!",
+      "translation": "力量才是一切！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_Ability_5"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_Enrage_1",
+      "source": "You've proven a formidable foe,\nbut don't presume you've bested me yet.",
+      "translation": "你确实是个难缠的对手，\n但别以为自己已经胜过我了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_Enrage_1"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_Enrage_2",
+      "source": "For eons,\nI've been ruling the burning\nhells with an iron fist.",
+      "translation": "无数个纪元以来，\n我一直以铁腕\n统治燃烧地狱。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_Enrage_2"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_Enrage_3",
+      "source": "Countless souls have\nfallen before me.\nTheir struggles? Forgotten.",
+      "translation": "无数灵魂\n倒在我面前。\n他们的挣扎？早已被遗忘。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_Enrage_3"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_Enrage_4",
+      "source": "Let me tell you,\ndefeating you will be\na pleasure unlike any other.",
+      "translation": "让我告诉你，\n击败你会是\n无与伦比的乐趣。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_Enrage_4"
+    },
+    {
+      "id": "dialogue.BOSS_Amon_Enrage_5",
+      "source": "Prepare yourself for\nyour imminent doom.\nFor I shall unleash my full might!",
+      "translation": "准备迎接\n即将到来的毁灭吧。\n因为我将释放全部力量！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_Enrage_5"
+    },
+    {
+      "id": "dialogue.BOSS_Arcane_Golem_1",
+      "source": "In my master's stead,\nI am here to protect his domain.\nPrepare for your imminent annihilation.",
+      "translation": "我奉主人的命令\n守护他的领地。\n准备迎接即将到来的湮灭。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Arcane_Golem_1"
+    },
+    {
+      "id": "dialogue.BOSS_Arcane_Golem_3",
+      "source": "ZIMmM-AWEio-MaEWOoa!",
+      "translation": "ZIMmM-AWEio-MaEWOoa!",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Arcane_Golem_3"
+    },
+    {
+      "id": "dialogue.BOSS_Arcane_Golem_Enrage",
+      "source": "No one escapes my master's domain.\nI cannot let you live to tell the\ntale of his wondrous machinations.",
+      "translation": "没有人能逃离主人的领地。\n我不能让你活着把\n他的奇妙机关告诉别人。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Arcane_Golem_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Arch_Pontiff_1",
+      "source": "Whomst disciple do we have here?\nMay the scriptures guide thee...\nor lead thee to oblivion!",
+      "translation": "不知是哪位门徒来到此处？\n愿经文指引你……\n或将你引向毁灭！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Arch_Pontiff_1"
+    },
+    {
+      "id": "dialogue.BOSS_Arch_Pontiff_2",
+      "source": "Nyi-ki-ki-ki!",
+      "translation": "妮-奇-奇-奇-奇！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Arch_Pontiff_2"
+    },
+    {
+      "id": "dialogue.BOSS_Arch_Pontiff_Burn",
+      "source": "BURN! BURN! BURN!",
+      "translation": "烧吧！烧吧！烧吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Arch_Pontiff_Burn"
+    },
+    {
+      "id": "dialogue.BOSS_Arch_Pontiff_Enrage",
+      "source": "Your resilience forces\nme to drastic measures.\nI shall merge the divine with the infernal.\nYour end is nigh!",
+      "translation": "你的顽强逼得我\n不得不采取极端手段。\n我将让神圣与地狱合而为一。\n你的末日不远了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Arch_Pontiff_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_1",
+      "source": "You've come a long way, mortal.\nAllow me a moment's introduction.",
+      "translation": "凡人，你走了很远的路。\n容我先自我介绍一番。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_1"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_2",
+      "source": "I am Bahamut, the celestial guardian,\nsentinel of the high heavens,\nand arbiter of purity.",
+      "translation": "我是巴哈姆特，天界的守护者，\n至高天界的哨兵，\n也是纯洁的裁决者。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_2"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_3",
+      "source": "I'm surprised a mortal\nlike you made it this far.",
+      "translation": "我很惊讶，像你这样的凡人\n竟然能走到这里。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_3"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_4",
+      "source": "Only those of untainted\nheart may ascend beyond.",
+      "translation": "只有心灵未被玷污者\n才能继续向上。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_4"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_5",
+      "source": "Your determination is impressive,\nbut I can't let you proceed.",
+      "translation": "你的决心令人钦佩，\n但我不能让你继续前进。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_5"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_6",
+      "source": "It is my sacred\nduty to stop you.",
+      "translation": "阻止你是我\n神圣的职责。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_6"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_7",
+      "source": "My decree is absolute.",
+      "translation": "我的敕令不容置疑。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_7"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_Ability_1",
+      "source": "A prison of light.",
+      "translation": "光之牢笼。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_Ability_1"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_Ability_2",
+      "source": "CLEANSE IMPURITY!",
+      "translation": "净化污秽！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_Ability_2"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_Ability_3",
+      "source": "May the stars guide me...",
+      "translation": "愿群星指引我……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_Ability_3"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_Ability_4",
+      "source": "Hideous aberration!",
+      "translation": "丑陋的畸变体！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_Ability_4"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_Enrage_1",
+      "source": "Have you ever wondered\nabout your true destiny?",
+      "translation": "你是否想过\n自己真正的命运？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_Enrage_1"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_Enrage_2",
+      "source": "Don't question it any longer.",
+      "translation": "别再怀疑了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_Enrage_2"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_Enrage_3",
+      "source": "I can see it.\nBright as the stars.",
+      "translation": "我看得见。\n如群星般明亮。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_Enrage_3"
+    },
+    {
+      "id": "dialogue.BOSS_Bahamut_Enrage_4",
+      "source": "You are destined to perish here.\nThat's it.",
+      "translation": "你注定要葬身于此。\n就是这样。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Bahamut_Enrage_4"
+    },
+    {
+      "id": "dialogue.BOSS_Banshee_1",
+      "source": "I am so cold and lonely...\nEmbrace me.",
+      "translation": "我好冷，也好孤独……\n拥抱我吧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Banshee_1"
+    },
+    {
+      "id": "dialogue.BOSS_Banshee_2",
+      "source": "WoOoOh-OaAa!",
+      "translation": "呜哦哦哦-啊啊啊！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Banshee_2"
+    },
+    {
+      "id": "dialogue.BOSS_Banshee_Enrage",
+      "source": "Don't be afraid\nof Death's touch!\nDeath is so kind to us...",
+      "translation": "别害怕\n死亡的触碰！\n死亡对我们来说是如此仁慈……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Banshee_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Book_Golem_1",
+      "source": "Defend library.\nProtect knowledge.\nVanquish intruders.",
+      "translation": "守卫图书馆。\n保护知识。\n消灭入侵者。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Book_Golem_1"
+    },
+    {
+      "id": "dialogue.BOSS_Book_Golem_2",
+      "source": "BZ-Z-z-AGu-rGya-gya!",
+      "translation": "BZ-Z-z-AGu-rGya-gya!",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Book_Golem_2"
+    },
+    {
+      "id": "dialogue.BOSS_Book_Golem_Enrage",
+      "source": "Knowledge is power.\nIntruder must not escape.",
+      "translation": "知识就是力量。\n入侵者不得逃脱。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Book_Golem_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Cerberus_1",
+      "source": "I have your scent.\nRun.\n...",
+      "translation": "我闻到你的气味了。\n逃吧。\n……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Cerberus_1"
+    },
+    {
+      "id": "dialogue.BOSS_Cerberus_2",
+      "source": "GrR-R-RrRAOoOOAhHhH!",
+      "translation": "GrR-R-RrRAOoOOAhHhH!",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Cerberus_2"
+    },
+    {
+      "id": "dialogue.BOSS_Cerberus_3",
+      "source": "So tiny and small,\nyet so quick...\nLittle rogue,\nthe hunt has just begun.",
+      "translation": "这么小，这么渺小，\n速度却如此之快……\n小小的盗贼，\n狩猎才刚刚开始。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Cerberus_3"
+    },
+    {
+      "id": "dialogue.BOSS_Commander_Walrus_1",
+      "source": "Well, well,\nwhat do we have here?\nA landlubber in my territory?\nPrepare for a rough sea, mate",
+      "translation": "哎呀哎呀，\n这是什么？\n一个旱鸭子闯进了我的地盘？\n准备迎接风暴吧，伙计。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Commander_Walrus_1"
+    },
+    {
+      "id": "dialogue.BOSS_Commander_Walrus_2",
+      "source": "Calling all navy seals!\nI require reinforcements!",
+      "translation": "全体海豹突击队注意！\n我需要增援！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Commander_Walrus_2"
+    },
+    {
+      "id": "dialogue.BOSS_Commander_Walrus_Enrage",
+      "source": "Oi matey!\nTime to call in the big guns.\nSeagulls, ATTACK!",
+      "translation": "嘿，伙计！\n是时候动用重火力了。\n海鸥，攻击！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Commander_Walrus_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Death_1",
+      "source": "In the end,\n all mortals bow to death.",
+      "translation": "最终，\n所有凡人都要向死亡低头。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_1"
+    },
+    {
+      "id": "dialogue.BOSS_Death_2",
+      "source": "You are no exception\nto this rule.",
+      "translation": "你也不会\n例外。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_2"
+    },
+    {
+      "id": "dialogue.BOSS_Death_3",
+      "source": "You have come very far.\nCount me impressed.",
+      "translation": "你已经走了很远。\n我印象深刻。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_3"
+    },
+    {
+      "id": "dialogue.BOSS_Death_4",
+      "source": "But nonetheless.\nYour time has come.",
+      "translation": "但无论如何。\n你的时间到了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_4"
+    },
+    {
+      "id": "dialogue.BOSS_Death_5",
+      "source": "You need to die.",
+      "translation": "你必须死。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_5"
+    },
+    {
+      "id": "dialogue.BOSS_Death_Phase_Transition",
+      "source": "ENOUGH!",
+      "translation": "够了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_Phase_Transition"
+    },
+    {
+      "id": "dialogue.BOSS_Death_Telegraph_1",
+      "source": "So easily severed...",
+      "translation": "如此轻易就被斩断……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_Telegraph_1"
+    },
+    {
+      "id": "dialogue.BOSS_Death_Telegraph_2",
+      "source": "Darkness!",
+      "translation": "黑暗！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_Telegraph_2"
+    },
+    {
+      "id": "dialogue.BOSS_Death_Telegraph_3",
+      "source": "Fool!",
+      "translation": "蠢货！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_Telegraph_3"
+    },
+    {
+      "id": "dialogue.BOSS_Death_Telegraph_4",
+      "source": "Usurper!",
+      "translation": "篡位者！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_Telegraph_4"
+    },
+    {
+      "id": "dialogue.BOSS_Death_Telegraph_5",
+      "source": "Die!",
+      "translation": "死吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Death_Telegraph_5"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_1",
+      "source": "It seems you've bested\nmy loyal guardian, Bahamut.",
+      "translation": "看来你已经击败了\n我忠诚的守护者巴哈姆特。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_1"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_2",
+      "source": "Standing before me,\nit's clear your heart\nis pure.",
+      "translation": "站在我面前，\n你的心灵显然\n纯洁无瑕。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_2"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_3",
+      "source": "Yet you keep waging\nforward on your\npath of destruction.",
+      "translation": "可你仍在\n沿着毁灭之路\n不断前行。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_3"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_4",
+      "source": "Your unending ambitions\nare evident as ever.",
+      "translation": "你那永无止境的野心\n一如既往地明显。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_4"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_5",
+      "source": "You keep defying\nthe tapestry of fate,\nagain and again.",
+      "translation": "你一次又一次地\n违抗命运的织锦，\n从未停下。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_5"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_6",
+      "source": "Even as far\nas challenging the\nvery heavens themselves.",
+      "translation": "甚至一路走到了\n挑战天界\n本身的地步。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_6"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_7",
+      "source": "Tell me, mortal.\nAre you prepared to\nface your ultimate trial?",
+      "translation": "告诉我，凡人。\n你准备好面对\n最终试炼了吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_7"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_8",
+      "source": "Justice shall prevail.",
+      "translation": "正义必将获胜。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_8"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_9",
+      "source": "AND I AM THE JUDGE!",
+      "translation": "而我就是裁判！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_9"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_Ability_1",
+      "source": "All evil\nends here.",
+      "translation": "一切邪恶\n都将在此终结。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_Ability_1"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_Ability_2",
+      "source": "I am justice itself!",
+      "translation": "我就是正义本身！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_Ability_2"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_Ability_3",
+      "source": "Kneel!",
+      "translation": "跪下！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_Ability_3"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_Ability_4",
+      "source": "TAKE CHARGE\nOF YOUR OWN DESTINY,\nMORTAL!",
+      "translation": "凡人，\n掌握你自己的命运，\n现在就做主！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_Ability_4"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_Ability_5",
+      "source": "I AM THE SUN!",
+      "translation": "我就是太阳！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_Ability_5"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_Enrage_1",
+      "source": "Exhilarating!",
+      "translation": "真是令人振奋！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_Enrage_1"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_Enrage_2",
+      "source": "I sense the profound\ngoodness within your heart.",
+      "translation": "我感受到了\n你心中深沉的善意。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_Enrage_2"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_Enrage_3",
+      "source": "It empowers you\nbeyond mortal strength!",
+      "translation": "它让你拥有了\n超越凡人的力量！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_Enrage_3"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_Enrage_4",
+      "source": "You fight with\nradiant determination!",
+      "translation": "你以\n光辉般的决心战斗！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_Enrage_4"
+    },
+    {
+      "id": "dialogue.BOSS_Eden_Enrage_5",
+      "source": "For your final gift, mortal,\nI shall stop holding back.",
+      "translation": "凡人，这是我最后的礼物：\n我将不再手下留情。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Eden_Enrage_5"
+    },
+    {
+      "id": "dialogue.BOSS_Evil_Oak_1",
+      "source": "Your presence tarnishes\nthe sanctity of the forest.\nI will be the end of this.",
+      "translation": "你的存在玷污了\n森林的神圣。\n我会终结这一切。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Evil_Oak_1"
+    },
+    {
+      "id": "dialogue.BOSS_Evil_Oak_2",
+      "source": "Gro-gro-gro-gro!",
+      "translation": "咕噜-咕噜-咕噜-咕噜！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Evil_Oak_2"
+    },
+    {
+      "id": "dialogue.BOSS_Evil_Oak_Enrage",
+      "source": "Are you prepared, to\nfeel the true wrath\nof the forest?",
+      "translation": "你准备好，\n感受森林真正的怒火，\n了吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Evil_Oak_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Gargoyles_1",
+      "source": "We defend this place\nwith all our strength.",
+      "translation": "我们会用尽全部力量\n守护这里。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Gargoyles_1"
+    },
+    {
+      "id": "dialogue.BOSS_Gargoyles_2",
+      "source": "ROAAARRR!!!",
+      "translation": "吼啊啊啊！！！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Gargoyles_2"
+    },
+    {
+      "id": "dialogue.BOSS_Gargoyles_Enrage",
+      "source": "My brother...\nI shall avenge you!",
+      "translation": "我的兄弟……\n我会为你报仇！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Gargoyles_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_1",
+      "source": "I've been awaiting you, mortal.",
+      "translation": "凡人，我等你很久了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_1"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_2",
+      "source": "I've felt your presence\ninching ever closer.",
+      "translation": "我感受着你的气息\n一点点逼近。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_2"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_3",
+      "source": "I am Geryon,\ndraconic lich,\npurveyor of souls and\nhigh magistrate of Death.",
+      "translation": "我是革律翁，\n龙裔巫妖，\n灵魂的收割者，\n也是死亡的高级审判官。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_3"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_4",
+      "source": "Mortal, your mere heartbeat is\nan anomaly in this realm of silence.\nWhy have you come?",
+      "translation": "凡人，你的心跳\n在这片寂静领域中简直是异常。\n你为何而来？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_4"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_5",
+      "source": "Many have tried to\nconquer the shadows,\nonly to become one with them.\nDo you think you're any different?",
+      "translation": "许多人都曾试图\n征服阴影，\n最后却与阴影融为一体。\n你觉得自己会有什么不同？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_5"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_6",
+      "source": "Death's embrace is inevitable,\nand this time,\nI am its harbinger.",
+      "translation": "死亡的拥抱不可避免，\n而这一次，\n我就是它的使者。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_6"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_7",
+      "source": "Your journey ends here,\nin the cold grasp of the void.",
+      "translation": "你的旅途将在此终结，\n终结于虚空冰冷的掌握之中。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_7"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_8",
+      "source": "SkRrEeEa-AaAa-AARrrRrR!",
+      "translation": "斯克里-伊-啊啊啊-啊啊！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_8"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_Ability_1",
+      "source": "Your soul is mine!",
+      "translation": "你的灵魂归我了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_Ability_1"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_Ability_2",
+      "source": "MEET OBLIVION!",
+      "translation": "迎接湮灭吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_Ability_2"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_Ability_3",
+      "source": "Arise, undead legion!",
+      "translation": "亡灵军团，起身！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_Ability_3"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_Ability_4",
+      "source": "Bow to Death!",
+      "translation": "向死亡低头！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_Ability_4"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_Enrage_1",
+      "source": "Your defiance is but\na brief spark of light\nin an endless sea of darkness.",
+      "translation": "你的反抗不过是\n无尽黑海中\n一闪而逝的微光。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_Enrage_1"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_Enrage_2",
+      "source": "You will become a mere whisper,\nforever lost in eternal silence.",
+      "translation": "你会变成一声微弱的低语，\n永远迷失在永恒的寂静中。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_Enrage_2"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_Enrage_3",
+      "source": "The shadows grow denser,\nthe chill more profound.\nI feel my power surge.",
+      "translation": "阴影变得更加浓重，\n寒意也更加深入。\n我感到力量正在涌动。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_Enrage_3"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_Enrage_4",
+      "source": "Your end is nigh.\nYield to the eternal night.",
+      "translation": "你的末日不远了。\n屈服于永恒的黑夜吧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_Enrage_4"
+    },
+    {
+      "id": "dialogue.BOSS_Geryon_Enrage_5",
+      "source": "STOP RESISTING!",
+      "translation": "别再抵抗了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Geryon_Enrage_5"
+    },
+    {
+      "id": "dialogue.BOSS_Goblin_King_1",
+      "source": "Lost in my woods, eh?\nI will show no mercy!",
+      "translation": "迷失在我的森林里了吗？\n我可不会手下留情！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Goblin_King_1"
+    },
+    {
+      "id": "dialogue.BOSS_Goblin_King_2",
+      "source": "Zi-ki-Ki-ki-Ki!",
+      "translation": "滋-奇-奇-奇-奇！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Goblin_King_2"
+    },
+    {
+      "id": "dialogue.BOSS_Goblin_King_Enrage",
+      "source": "Annoying critter!\nDon't worry, I'll squash you eventually!",
+      "translation": "烦人的小虫子！\n别担心，我迟早会把你碾碎！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Goblin_King_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Ice_Dragon_1",
+      "source": "You dare to enter my frozen domain?\nI'll freeze you solid and\nshatter you into a million pieces!",
+      "translation": "你竟敢踏入我的冰封领地？\n我会把你冻成冰块，\n再将你碎成百万片！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Ice_Dragon_1"
+    },
+    {
+      "id": "dialogue.BOSS_Ice_Dragon_2",
+      "source": "SHiRr-iRoO-ARrIiRriR!",
+      "translation": "嘶-里-洛-啊啊啊-里里里！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Ice_Dragon_2"
+    },
+    {
+      "id": "dialogue.BOSS_Ice_Dragon_Enrage",
+      "source": "Your feeble tricks are\nan insult to my kind.\nI've had enough.",
+      "translation": "你那微不足道的伎俩\n是对我们一族的侮辱。\n我受够了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Ice_Dragon_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Jousting_Champion_1",
+      "source": "Is this a joke?\nYOU dare to challenge me,\nTHE champion?\nPrepare to be trampled!",
+      "translation": "这是在开玩笑吗？\n你竟敢挑战我，\n这位冠军？\n准备被踩扁吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Jousting_Champion_1"
+    },
+    {
+      "id": "dialogue.BOSS_Jousting_Champion_2",
+      "source": "Ho-ha-ho-ha!",
+      "translation": "嚯-哈-嚯-哈！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Jousting_Champion_2"
+    },
+    {
+      "id": "dialogue.BOSS_Jousting_Champion_Enrage",
+      "source": "You're tougher than you look!\nIt's time to end this farce.\nPrepare for the final charge!",
+      "translation": "你比看起来更顽强！\n是时候结束这场闹剧了。\n准备迎接最后的冲锋！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Jousting_Champion_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Kings_Guard_1",
+      "source": "Look!\nA tiny challenger!",
+      "translation": "看！\n一个小小的挑战者！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Kings_Guard_1"
+    },
+    {
+      "id": "dialogue.BOSS_Kings_Guard_2",
+      "source": "So small indeed, but let's not\nunderestimate this ant.",
+      "translation": "确实小得可怜，\n但别小看这只蚂蚁。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Kings_Guard_2"
+    },
+    {
+      "id": "dialogue.BOSS_Kings_Guard_3",
+      "source": "Yuck! I want to crush it!",
+      "translation": "呸！我想把它踩扁！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Kings_Guard_3"
+    },
+    {
+      "id": "dialogue.BOSS_Kings_Guard_5",
+      "source": "Any last words, intruder?",
+      "translation": "入侵者，还有什么遗言？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Kings_Guard_5"
+    },
+    {
+      "id": "dialogue.BOSS_Kings_Guard_6",
+      "source": "Ho-ho-ho-ho!",
+      "translation": "嚯嚯嚯嚯！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Kings_Guard_6"
+    },
+    {
+      "id": "dialogue.BOSS_Kings_Guard_Enrage_A",
+      "source": "Fool, too feeble for your\nown hammer's sway.\nMay your demise hold more purpose\nthan your pitiful existence.",
+      "translation": "蠢货，你弱得连\n自己的锤子都挥不稳。\n愿你的死亡比你\n可悲的一生更有意义。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Kings_Guard_Enrage_A"
+    },
+    {
+      "id": "dialogue.BOSS_Kings_Guard_Enrage_B",
+      "source": "My commander!\nPlease, lend me some\nof your strength...\nI shall avenge you!",
+      "translation": "我的指挥官！\n请把您的一些力量\n借给我……\n我会为您报仇！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Kings_Guard_Enrage_B"
+    },
+    {
+      "id": "dialogue.BOSS_Kraken_1",
+      "source": "Tiny human.\nMe big.\nYou weak!\nI crush you.",
+      "translation": "小小人类。\n我很大。\n你很弱！\n我碾碎你。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Kraken_1"
+    },
+    {
+      "id": "dialogue.BOSS_Kraken_2",
+      "source": "AwoOoO-GyaAa-AaA!!!",
+      "translation": "啊呜哦哦-嘎啊啊啊！！！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Kraken_2"
+    },
+    {
+      "id": "dialogue.BOSS_Kraken_Enrage",
+      "source": "So tiny, so weak!\nMakes me angry!\nStop hiding!",
+      "translation": "这么小，这么弱！\n气死我了！\n别再躲了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Kraken_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Library_Guardian_1",
+      "source": "I am the sentinel of\nwisdom and knowledge.\nYou're not worthy of\nthe library's secrets!",
+      "translation": "我是智慧与知识的\n守护者。\n你不配知道\n图书馆的秘密！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Library_Guardian_1"
+    },
+    {
+      "id": "dialogue.BOSS_Library_Guardian_2",
+      "source": "WHhHoooOoooooOo!",
+      "translation": "呜呼哦哦哦哦哦哦！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Library_Guardian_2"
+    },
+    {
+      "id": "dialogue.BOSS_Library_Guardian_Enrage",
+      "source": "I've tolerated your\ndisrespect long enough!\nThis sacred place will be your grave,\nburied beneath the sands of time!",
+      "translation": "我容忍你的\n无礼已经够久了！\n这片圣地会成为你的坟墓，\n把你埋在时间的流沙之下！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Library_Guardian_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Lich_1",
+      "source": "Who dares to enter my lair?",
+      "translation": "谁敢闯入我的巢穴？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Lich_1"
+    },
+    {
+      "id": "dialogue.BOSS_Lich_2",
+      "source": "Ke-ke-ke-ke!",
+      "translation": "咯咯咯咯！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Lich_2"
+    },
+    {
+      "id": "dialogue.BOSS_Lich_Enrage",
+      "source": "I might have underestimated\nyou a little bit!\nGood for you!",
+      "translation": "我可能确实\n有点低估你了！\n算你厉害！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Lich_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Mandrake_1",
+      "source": "You disrupt nature's peace...\nI will stop you.",
+      "translation": "你扰乱了自然的安宁……\n我会阻止你。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Mandrake_1"
+    },
+    {
+      "id": "dialogue.BOSS_Mandrake_2",
+      "source": "AwOo-ig-gi-ig-gi-ah!",
+      "translation": "啊呜-伊格-吉-吉-吉-啊！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Mandrake_2"
+    },
+    {
+      "id": "dialogue.BOSS_Mandrake_Enrage",
+      "source": "Who cares about nature's peace!\nYou made me angry.\nThis is now personal!",
+      "translation": "谁在乎自然的安宁！\n你惹怒我了。\n现在这是私人恩怨！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Mandrake_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_MindFlayer_1",
+      "source": "What brings you down this\ndeep into the dark.\nMadness?",
+      "translation": "是什么把你带到\n这么深的黑暗中？\n疯狂吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_MindFlayer_1"
+    },
+    {
+      "id": "dialogue.BOSS_MindFlayer_2",
+      "source": "Nea-hea-ha-ha-ha!",
+      "translation": "涅啊-哈-哈-哈-哈！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_MindFlayer_2"
+    },
+    {
+      "id": "dialogue.BOSS_MindFlayer_Enrage",
+      "source": "Surrender!\nI've read your mind.\nYou've got nothing left\nto fight for!",
+      "translation": "投降吧！\n我读过你的心。\n你已经没有\n任何战斗的理由了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_MindFlayer_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Minotaur_1",
+      "source": "Nothing can stop me!",
+      "translation": "没有什么能阻止我！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Minotaur_1"
+    },
+    {
+      "id": "dialogue.BOSS_Minotaur_2",
+      "source": "ROAAAAR!!!",
+      "translation": "吼啊啊啊！！！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Minotaur_2"
+    },
+    {
+      "id": "dialogue.BOSS_Minotaur_Enrage",
+      "source": "STAND STILL!\nYOU MAKE ME ANGRY!",
+      "translation": "站住！\n你让我生气了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Minotaur_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Mole_King_1",
+      "source": "Looks like you dug\nyour way into trouble!",
+      "translation": "看来你是一路挖进\n麻烦里来了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Mole_King_1"
+    },
+    {
+      "id": "dialogue.BOSS_Mole_King_2",
+      "source": "Mu-hu-Hu-hu-Hu!",
+      "translation": "穆-呼-呼-呼-呼！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Mole_King_2"
+    },
+    {
+      "id": "dialogue.BOSS_Mole_King_Enrage",
+      "source": "Ouch! Ouch! Ouch!\nYou twerp!",
+      "translation": "哎哟！哎哟！哎哟！\n你这小鬼！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Mole_King_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Neptune_1",
+      "source": "I rule over the sea.\nI control the tides.\nI control the storms.\nFace my wrath!",
+      "translation": "我统治海洋。\n我掌控潮汐。\n我掌控风暴。\n面对我的怒火吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Neptune_1"
+    },
+    {
+      "id": "dialogue.BOSS_Neptune_2",
+      "source": "You are out of your\nelement kiddo!",
+      "translation": "小鬼，你到了\n自己不熟悉的领域！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Neptune_2"
+    },
+    {
+      "id": "dialogue.BOSS_Neptune_Enrage",
+      "source": "Pathetic little human!\nYou're nothing but a small\nfish in a big pond!",
+      "translation": "可悲的小人类！\n你不过是大池塘里\n一条小鱼！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Neptune_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Ooze_1",
+      "source": "I am king!\nI am hungry!\nI must consume everything!",
+      "translation": "我是王！\n我很饥饿！\n我必须吞噬一切！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Ooze_1"
+    },
+    {
+      "id": "dialogue.BOSS_Ooze_2",
+      "source": "Gwo-goBoBobO!",
+      "translation": "咕沃-咕啵啵啵！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Ooze_2"
+    },
+    {
+      "id": "dialogue.BOSS_Ooze_Enrage",
+      "source": "Why so mean?\nYou no have respect?\nNot fun!",
+      "translation": "为什么这么坏？\n你不懂尊重吗？\n一点都不好玩！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Ooze_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Pharaoh_1",
+      "source": "The cycle of life and\ndeath continues.\nI will live.\nYou will die.",
+      "translation": "生与死的循环\n仍在继续。\n我会活下去。\n你会死。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Pharaoh_1"
+    },
+    {
+      "id": "dialogue.BOSS_Pharaoh_2",
+      "source": "You journey ends here.",
+      "translation": "你的旅途到此为止。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Pharaoh_2"
+    },
+    {
+      "id": "dialogue.BOSS_Pharaoh_Enrage",
+      "source": "The prophecy foretold\nthat I shall be victorious.\nYour death is certain.",
+      "translation": "预言早已宣告\n我将取得胜利。\n你的死亡已成定局。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Pharaoh_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Phoenix_1",
+      "source": "The mountain's rage is my rage.\nThere is no forgiving those\nwho befoul the mountain!",
+      "translation": "山的怒火就是我的怒火。\n胆敢玷污山脉之人\n绝不值得原谅！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Phoenix_1"
+    },
+    {
+      "id": "dialogue.BOSS_Phoenix_2",
+      "source": "Gy-A-OoOo!",
+      "translation": "吉-啊-哦哦哦！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Phoenix_2"
+    },
+    {
+      "id": "dialogue.BOSS_Phoenix_Enrage",
+      "source": "Annoying little brat!\nEverything will burn!",
+      "translation": "烦人的小鬼！\n一切都将燃烧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Phoenix_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_10",
+      "source": "It seems upon me\nto stop you.\nOur little dance\nends here.",
+      "translation": "看来该由我来\n阻止你了。\n我们的小舞会\n到此结束。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_10"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_11",
+      "source": "You are insignificant.",
+      "translation": "你无足轻重。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_11"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_12",
+      "source": "You are nothing.",
+      "translation": "你什么都不是。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_12"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_13",
+      "source": "And I am ...,\nDEATH!!!",
+      "translation": "而我是……\n死亡！！！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_13"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_1",
+      "source": "Your kind...",
+      "translation": "你们这些家伙……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_1"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_2",
+      "source": "Your kind is a plague.",
+      "translation": "你们这些家伙就是瘟疫。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_2"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_3",
+      "source": "Humans...\nNever satisfied.",
+      "translation": "人类……\n永不满足。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_3"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_4",
+      "source": "You trespass sacred grounds.",
+      "translation": "你们亵渎了神圣的土地。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_4"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_5",
+      "source": "You disrupt nature's peace.",
+      "translation": "你扰乱了自然的安宁。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_5"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_6",
+      "source": "You break the cycle\nof life and death.",
+      "translation": "你打破了\n生与死的循环。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_6"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_7",
+      "source": "You serve a false god.",
+      "translation": "你侍奉着一个伪神。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_7"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_8",
+      "source": "Do you really think\nthey won't betray you?",
+      "translation": "你真的以为\n他们不会背叛你吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_8"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_9",
+      "source": "I have seen many fools,\nbut none as dangerous as you.",
+      "translation": "我见过许多蠢货，\n但没有谁像你这么危险。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_9"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Enrage_1",
+      "source": "Aren't you tired\nof playing god?",
+      "translation": "你不厌倦\n扮演上帝吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Enrage_1"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Enrage_2",
+      "source": "You are nothing\nbut a puppet!",
+      "translation": "你只不过\n是一具木偶！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Enrage_2"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Enrage_3",
+      "source": "You are infected with hunger.\nHunger for power, for treasure...\nfor knowledge.",
+      "translation": "你被欲望感染了。\n对力量、财富……\n以及知识的欲望。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Enrage_3"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Enrage_4",
+      "source": "But it must take an end.\nThe balance cannot be\ndisturbed any further.",
+      "translation": "但一切都必须结束。\n平衡不能再\n继续被扰乱。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Enrage_4"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Enrage_5",
+      "source": "It seems to be time...\nTime for one final act of mercy.",
+      "translation": "看来时间到了……\n是时候上演最后一幕仁慈了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Enrage_5"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Enrage_6",
+      "source": "I will relieve you from your quest.",
+      "translation": "我会让你从这场使命中解脱。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Enrage_6"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Enrage_7",
+      "source": "This is it.\nThis is the end.",
+      "translation": "就是现在。\n一切到此为止。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Enrage_7"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Indicator_1",
+      "source": "DIE!!!",
+      "translation": "死吧！！！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Indicator_1"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Indicator_2",
+      "source": "True Darkness...",
+      "translation": "真正的黑暗……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Indicator_2"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Indicator_3",
+      "source": "A storm of souls...",
+      "translation": "灵魂的风暴……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Indicator_3"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Indicator_4",
+      "source": "YOU CANNOT RUN FROM IT!",
+      "translation": "你逃不掉的！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Indicator_4"
+    },
+    {
+      "id": "dialogue.BOSS_Primal_Death_Indicator_5",
+      "source": "INSIGNIFICANT!",
+      "translation": "不值一提！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Primal_Death_Indicator_5"
+    },
+    {
+      "id": "dialogue.BOSS_Queen_Bee_1",
+      "source": "Those who invade my hive,\nshall be punished!",
+      "translation": "胆敢入侵我蜂巢者，\n都将受到惩罚！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Queen_Bee_1"
+    },
+    {
+      "id": "dialogue.BOSS_Queen_Bee_2",
+      "source": "BzzZZz - BzZZzz!",
+      "translation": "嗡嗡嗡-嗡嗡嗡！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Queen_Bee_2"
+    },
+    {
+      "id": "dialogue.BOSS_Queen_Bee_3",
+      "source": "BzzZZzz!",
+      "translation": "嗡嗡嗡！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Queen_Bee_3"
+    },
+    {
+      "id": "dialogue.BOSS_Queen_Bee_Enrage",
+      "source": "You should have escaped\nwhile you could.\nI am done holding back!",
+      "translation": "你本该趁还能逃时\n赶紧逃走。\n我不再留手了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Queen_Bee_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_RedDragon_1",
+      "source": "I am the king under the mountain!\nI am fire!\nI am ... death!",
+      "translation": "我是山下之王！\n我是火焰！\n我是……死亡！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_RedDragon_1"
+    },
+    {
+      "id": "dialogue.BOSS_RedDragon_2",
+      "source": "GrRr-RoO-ARrRrR!",
+      "translation": "格尔-咆哦-啊啊啊！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_RedDragon_2"
+    },
+    {
+      "id": "dialogue.BOSS_RedDragon_Enrage",
+      "source": "Your kind should bow\nbefore my greatness!\nI am done with your insolence!",
+      "translation": "你们这些家伙应该\n在我的伟大面前低头！\n我受够你的无礼了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_RedDragon_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Rock_Golem_1",
+      "source": "Noisy brat!\nYou dare to disturb my peace?\nThese caverns shall be your tomb.",
+      "translation": "吵死了，小鬼！\n你竟敢打扰我的安宁？\n这些洞窟会成为你的坟墓。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Rock_Golem_1"
+    },
+    {
+      "id": "dialogue.BOSS_Rock_Golem_2",
+      "source": "R-ROLrlRlOhHh!",
+      "translation": "R-RO尔尔尔哦啊！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Rock_Golem_2"
+    },
+    {
+      "id": "dialogue.BOSS_Rock_Golem_Enrage",
+      "source": "Your persistence rattles my stones.\nI will crush you into dust!",
+      "translation": "你的顽强让我的石头都在震颤。\n我会把你碾成尘埃！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Rock_Golem_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Shambling_Mound_1",
+      "source": "Who are you?\nYou don't belong here...",
+      "translation": "你是谁？\n你不属于这里……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Shambling_Mound_1"
+    },
+    {
+      "id": "dialogue.BOSS_Shambling_Mound_2",
+      "source": "GwoOoOooOoom!",
+      "translation": "咕哦哦哦哦哦姆！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Shambling_Mound_2"
+    },
+    {
+      "id": "dialogue.BOSS_Shambling_Mound_Enrage",
+      "source": "Nobody can know...\nWe cannot let you leave.",
+      "translation": "不能让任何人知道……\n我们不能让你离开。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Shambling_Mound_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Sphinx_1",
+      "source": "I am blessed with the\npower of the sun.\nI will use this power,\nto stop you.",
+      "translation": "我受到了\n太阳之力的祝福。\n我将用这份力量，\n阻止你。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Sphinx_1"
+    },
+    {
+      "id": "dialogue.BOSS_Sphinx_2",
+      "source": "ROAARRRRR!!!",
+      "translation": "吼啊啊啊！！！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Sphinx_2"
+    },
+    {
+      "id": "dialogue.BOSS_Sphinx_Enrage",
+      "source": "You truly are a burden\nto this world.\nI am done holding back.",
+      "translation": "你真是这个世界的\n负担。\n我不再留手了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Sphinx_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_SpiderQueen_1",
+      "source": "Time to feast!",
+      "translation": "开饭了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_SpiderQueen_1"
+    },
+    {
+      "id": "dialogue.BOSS_SpiderQueen_2",
+      "source": "HSssSssS!",
+      "translation": "嘶嘶嘶嘶！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_SpiderQueen_2"
+    },
+    {
+      "id": "dialogue.BOSS_SpiderQueen_Enrage",
+      "source": "HSsSssS!\nI'm going to feed you\nto my children!",
+      "translation": "嘶嘶嘶！\n我要把你喂给\n我的孩子们！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_SpiderQueen_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Succubus_1",
+      "source": "Oh my!\nWhat brings you to me?\nBe sure, that I will\ntake great pleasure\nin your suffering.",
+      "translation": "哎呀！\n是什么风把你吹到我这里？\n放心，\n我一定会好好享受\n你的痛苦。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Succubus_1"
+    },
+    {
+      "id": "dialogue.BOSS_Succubus_2",
+      "source": "Ki-ki-ki-ki-ki!",
+      "translation": "嘻嘻嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Succubus_2"
+    },
+    {
+      "id": "dialogue.BOSS_Succubus_Enrage",
+      "source": "We could have had\nso much fun...\nDo me a favour and don't\nbeg for mercy? Okay?",
+      "translation": "我们本来可以\n玩得很开心……\n帮我一个忙，别\n开口求饶，好吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Succubus_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Tangle-Maw_Jaw_1",
+      "source": "Mmm...\nI can smell your fear, ki-ke-ki-ke!\nFresh meat is so hard to come by!",
+      "translation": "嗯……\n我闻到了你的恐惧，嘻咔嘻咔！\n新鲜的肉可不常有！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tangle-Maw_Jaw_1"
+    },
+    {
+      "id": "dialogue.BOSS_Tangle-Maw_Jaw_2",
+      "source": "Ki-ke-ki-ke-ki!",
+      "translation": "嘻咔-嘻咔-嘻咔！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tangle-Maw_Jaw_2"
+    },
+    {
+      "id": "dialogue.BOSS_Tangle-Maw_Jaw_Enrage",
+      "source": "Argh!\nYou've got some bite to you!\nKi-ke-ki-ke!",
+      "translation": "啊！\n你还挺有两下子！\n嘻咔-嘻咔！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tangle-Maw_Jaw_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_The_Abomination_1",
+      "source": "ARGHHhHHH!\nPAIN, RAGE, PAIN, REVENGE!\nRoOAaAAARrRR!\nGO AWAY!!!!!!!!",
+      "translation": "啊啊啊啊！\n痛苦、愤怒、痛苦、复仇！\n吼啊啊啊啊！\n滚开！！！！！！！！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_The_Abomination_1"
+    },
+    {
+      "id": "dialogue.BOSS_The_Abomination_2",
+      "source": "RAaaAghH-RAaa-GrRRRr!!!!!!!",
+      "translation": "啊啊啊啊-啊啊-格尔尔尔！！！！！！！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_The_Abomination_2"
+    },
+    {
+      "id": "dialogue.BOSS_The_Abomination_Enrage",
+      "source": "No more pain!\nNo more!!!\nYou...\nYOU DIE!!!",
+      "translation": "不再痛苦！\n不再有！！！\n你……\n你去死！！！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_The_Abomination_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_The_Pied_Piper_1",
+      "source": "Seems like it is upon me,\nthe famous Pied Piper,\nto seal your fate!",
+      "translation": "看来只能由我，\n大名鼎鼎的吹笛人，\n来决定你的命运了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_The_Pied_Piper_1"
+    },
+    {
+      "id": "dialogue.BOSS_The_Pied_Piper_2",
+      "source": "I hope you aren't\nafraid of rats.",
+      "translation": "希望你不会\n害怕老鼠。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_The_Pied_Piper_2"
+    },
+    {
+      "id": "dialogue.BOSS_The_Pied_Piper_Enrage",
+      "source": "Yikes!\nI didn't expect you to\nput up such a fight!",
+      "translation": "糟糕！\n没想到你竟然能\n打得这么顽强！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_The_Pied_Piper_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_1",
+      "source": "Huuh!?\nWhat brings a mortal\ninto the depths of\nthe underworld?",
+      "translation": "嗯！？\n一个凡人为何\n会来到\n冥界深处？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_1"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_2",
+      "source": "I ponder whether you\nstand before me out of\nbravery or sheer folly.",
+      "translation": "我在思考，你站在我面前\n究竟是因为勇敢，\n还是纯粹的愚蠢。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_2"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_3",
+      "source": "I am Tiamat,\nthe infernal queen,\noverseer of the burning hells\nand tormentor of the damned.",
+      "translation": "我是提亚马特，\n地狱女王，\n燃烧地狱的统治者，\n也是亡魂的折磨者。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_3"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_4",
+      "source": "For ages, I've awaited for\na signal to\nreduce the mortal realm\nto ashes.",
+      "translation": "多年以来，我一直等待着\n一个信号，\n将凡人的世界\n化为灰烬。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_4"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_5",
+      "source": "Your demise shall herald\nthe rise of the burning hells!",
+      "translation": "你的毁灭将宣告\n燃烧地狱的崛起！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_5"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_6",
+      "source": "The rise of\nthe infernal queen!",
+      "translation": "地狱女王\n即将崛起！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_6"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_7",
+      "source": "THE RISE OF TIAMAT!",
+      "translation": "提亚马特即将崛起！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_7"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_8",
+      "source": "KrAaAa-RraAa-AARrrRrR!",
+      "translation": "克拉啊啊-拉啊啊-啊啊啊！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_8"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_Ability_1",
+      "source": "Rivers of flame\nshall descend upon you...",
+      "translation": "火焰之河\n将从天而降……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_Ability_1"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_Ability_2",
+      "source": "Feel my wrath!",
+      "translation": "感受我的怒火！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_Ability_2"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_Ability_3",
+      "source": "There is no escape.",
+      "translation": "无处可逃。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_Ability_3"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_Ability_4",
+      "source": "ACCURSED FOOL!",
+      "translation": "该死的蠢货！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_Ability_4"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_Enrage_1",
+      "source": "Do you perceive yourself as a hero?",
+      "translation": "你觉得自己是英雄吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_Enrage_1"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_Enrage_2",
+      "source": "Know this:\nyou are nobody.\nYou are lost and out of place\nin this realm.",
+      "translation": "记住：\n你什么都不是。\n你迷失了，在这片领域中\n无处容身。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_Enrage_2"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_Enrage_3",
+      "source": "You are an arrogant whelp\nthat must be humbled.",
+      "translation": "你是个傲慢的小崽子，\n必须学会谦卑。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_Enrage_3"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_Enrage_4",
+      "source": "Countless souls like\nyours have met their end\nby my fangs.",
+      "translation": "无数和你一样的灵魂\n都在我的獠牙之下\n迎来了终结。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_Enrage_4"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_Enrage_5",
+      "source": "And today shall\nbe no exception!",
+      "translation": "而今天也不会\n例外！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_Enrage_5"
+    },
+    {
+      "id": "dialogue.BOSS_Tiamat_Enrage_6",
+      "source": "KILL THEM ALL!",
+      "translation": "把他们全都杀了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Tiamat_Enrage_6"
+    },
+    {
+      "id": "dialogue.BOSS_Troll_1",
+      "source": "A foolish human lost in the swamp?\nWhat a tasty surprise!",
+      "translation": "一个迷失在沼泽里的愚蠢人类？\n真是美味的惊喜！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Troll_1"
+    },
+    {
+      "id": "dialogue.BOSS_Troll_2",
+      "source": "Nye-he-he-he!",
+      "translation": "桀嘿嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Troll_2"
+    },
+    {
+      "id": "dialogue.BOSS_Troll_Enrage",
+      "source": "Argh!\nNot as foolish as expected!",
+      "translation": "啊！\n没想到你没那么蠢！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Troll_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Vampire_1",
+      "source": "Who disturbs my slumber?\nYou shall pay for this with your life.",
+      "translation": "是谁打扰了我的长眠？\n你要用自己的性命为此付出代价。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Vampire_1"
+    },
+    {
+      "id": "dialogue.BOSS_Vampire_2",
+      "source": "Weh-he-he-he-he!",
+      "translation": "韦-嘿-嘿-嘿-嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Vampire_2"
+    },
+    {
+      "id": "dialogue.BOSS_Vampire_Enrage",
+      "source": "I am an immortal\ncreature of the night!\nYou cannot defeat me!",
+      "translation": "我是永生的\n暗夜生物！\n你不可能打败我！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Vampire_Enrage"
+    },
+    {
+      "id": "dialogue.BOSS_Vermin_King_1",
+      "source": "You dare to step into\nmy kingdom of filth?\nYou are garbage!\nAnd all garbage belongs to meee!",
+      "translation": "你竟敢踏入\n我这污秽的王国？\n你就是垃圾！\n而所有垃圾都归我——啊！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Vermin_King_1"
+    },
+    {
+      "id": "dialogue.BOSS_Vermin_King_2",
+      "source": "Squi-squi-squi-squi!",
+      "translation": "吱-吱-吱-吱！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Vermin_King_2"
+    },
+    {
+      "id": "dialogue.BOSS_Vermin_King_Enrage",
+      "source": "Persistent flea!\nYou are not strong!\nYou will drown in toxic filth!",
+      "translation": "顽强的跳蚤！\n你一点也不强！\n你会溺死在有毒的污秽里！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:BOSS_Vermin_King_Enrage"
+    },
+    {
+      "id": "dialogue.Beacon_1",
+      "source": "Examine the strange beacon?",
+      "translation": "检查这个奇怪的信标吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Beacon_1"
+    },
+    {
+      "id": "dialogue.Beacon_2",
+      "source": "*You focus.\nThe shimmer of the beacon,\ndraws you in.\nYou see a faint light in the distance.*",
+      "translation": "*你集中精神。\n信标的微光\n吸引着你。\n你看见远处有一丝微弱的光。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Beacon_2"
+    },
+    {
+      "id": "dialogue.Beacon_3",
+      "source": "Grab the light?",
+      "translation": "抓住那道光吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Beacon_3"
+    },
+    {
+      "id": "dialogue.Beacon_4",
+      "source": "*You awake from\nthe hypnosis of\nthe beacon...*",
+      "translation": "*你从\n信标的催眠中\n醒来……*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Beacon_4"
+    },
+    {
+      "id": "dialogue.Berry_Blue",
+      "source": "Pluck the strange blue berry?",
+      "translation": "摘下这颗奇怪的蓝色浆果吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Berry_Blue"
+    },
+    {
+      "id": "dialogue.Berry_Green",
+      "source": "Pluck the strange green berry?",
+      "translation": "摘下这颗奇怪的绿色浆果吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Berry_Green"
+    },
+    {
+      "id": "dialogue.Berry_Red",
+      "source": "Pluck the strange red berry?",
+      "translation": "摘下这颗奇怪的红色浆果吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Berry_Red"
+    },
+    {
+      "id": "dialogue.Black_Market_Arms_Dealer_1",
+      "source": "Yo homie, listen up.\nI got the best deals down here\nby a mile.",
+      "translation": "嘿，老兄，听好了。\n我这里的优惠\n绝对是地下最好的。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Arms_Dealer_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Arms_Dealer_2",
+      "source": "It should be obvious really,\nbut all of my wares\nare for self defense and sports\npurpose only. Duh.",
+      "translation": "这应该很明显，\n但我的所有货物\n都只用于自卫和体育用途。\n懂了吧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Arms_Dealer_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Arms_Dealer_Thank_You_1",
+      "source": "You know it!",
+      "translation": "当然！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Arms_Dealer_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Arms_Dealer_Thank_You_2",
+      "source": "Massive props!",
+      "translation": "真是太给力了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Arms_Dealer_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Fairy_Lady_1",
+      "source": "Ey kid.\nWanna buy\na Cigarette?",
+      "translation": "嘿，小鬼。\n想买\n一支香烟吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Fairy_Lady_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Fairy_Lady_2",
+      "source": "Enjoy yourself.\nHi-hi-hi-*cough cough*",
+      "translation": "好好享受吧。\n嘻嘻嘻——*咳咳*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Fairy_Lady_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Fairy_Lady_3",
+      "source": "Anyways, take it\neasy kid. *cough cough*",
+      "translation": "总之，放轻松点，\n小鬼。*咳咳*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Fairy_Lady_3"
+    },
+    {
+      "id": "dialogue.Black_Market_Fairy_Lady_4",
+      "source": "Totally get ya.\nI only smoke for\nthe social aspect of it.",
+      "translation": "完全懂你。\n我抽烟纯粹是为了\n社交而已。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Fairy_Lady_4"
+    },
+    {
+      "id": "dialogue.Black_Market_Fairy_Lady_5",
+      "source": "Sorry, I can't hand\nout any more.\nNeed them for myself, ya know?\n*cough cough*",
+      "translation": "抱歉，我不能再\n给你更多了。\n我自己还需要留着呢，懂吧？\n*咳咳*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Fairy_Lady_5"
+    },
+    {
+      "id": "dialogue.Black_Market_Kuo_Tao_1",
+      "source": "I'm far from home.\nAll for you!\nYou better buy something.",
+      "translation": "我离家很远。\n全都是给你的！\n你最好买点什么。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Kuo_Tao_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Kuo_Tao_2",
+      "source": "Strike now!\nBefore fish go bad, he-he!",
+      "translation": "现在就出手！\n不然鱼要坏了，嘿嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Kuo_Tao_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Kuo_Tao_Thank_You_1",
+      "source": "He-he!\nYummy!",
+      "translation": "嘿嘿！\n真好吃！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Kuo_Tao_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Kuo_Tao_Thank_You_2",
+      "source": "Best quality!\nYou know it.",
+      "translation": "品质最佳！\n你懂的。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Kuo_Tao_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Patches_Merchant_1",
+      "source": "Need something?\nI'm not here for chit chat,\nwe talk business or\nwe talk nothing at all.",
+      "translation": "要买什么？\n我不是来闲聊的，\n要么谈生意，\n要么什么都别谈。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Patches_Merchant_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Patches_Merchant_2",
+      "source": "My wares are unique!\nOne of a kind even.\nYou won't find goods like this,\nanywhere else.",
+      "translation": "我的货独一无二！\n真的只有这一件。\n你在别处\n找不到这样的东西。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Patches_Merchant_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Patches_Merchant_Thank_You_1",
+      "source": "That one was hard to get.\nHope you appreciate it.",
+      "translation": "那个东西很难弄到。\n希望你能珍惜。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Patches_Merchant_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Patches_Merchant_Thank_You_2",
+      "source": "Massive deal.\nProbably sold it too cheap,\nI tell ya!",
+      "translation": "真是亏本价。\n我可能卖得太便宜了，\n真的！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Patches_Merchant_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Pawn_Shopkeeper_1",
+      "source": "Welcome to the Underground Pawn Shop.\nGot any equipment or weapons\nyou're looking to get rid of?",
+      "translation": "欢迎来到地下当铺。\n有装备或武器\n想处理掉吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Pawn_Shopkeeper_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Pawn_Shopkeeper_2",
+      "source": "I assure you,\nyour items will swiftly find\ntheir way to eager new hands\nin my network.",
+      "translation": "我保证，\n你的物品很快就会\n通过我的渠道\n找到急切的新主人。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Pawn_Shopkeeper_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Pawn_Shopkeeper_3",
+      "source": "Everybody down here is\nall about unique finds, ya know?\nIf you've got anything special\ndon't keep it a secret.",
+      "translation": "这里的每个人都\n喜欢寻找独特的东西，懂吧？\n如果你有特别的货，\n可别藏着掖着。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Pawn_Shopkeeper_3"
+    },
+    {
+      "id": "dialogue.Black_Market_Pawn_Shopkeeper_4",
+      "source": "Throw anything you want\nme to broker onto the rug, pal.",
+      "translation": "想让我代售什么就\n扔到这张地毯上，伙计。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Pawn_Shopkeeper_4"
+    },
+    {
+      "id": "dialogue.Black_Market_Rat_1",
+      "source": "Ey, broski.\nBuy something or bugger off.",
+      "translation": "嘿，兄弟。\n买点东西就赶紧走。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Rat_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Rat_2",
+      "source": "You look well off.\nBuy something and help\na poor rat out.",
+      "translation": "看起来你挺有钱。\n买点东西，帮帮\n我这只穷老鼠吧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Rat_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Rat_Thank_You_1",
+      "source": "Steal of a deal.",
+      "translation": "这买卖真划算。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Rat_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Rat_Thank_You_2",
+      "source": "I knew, you'd\nlike that one.",
+      "translation": "我就知道你会\n喜欢那个。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Rat_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Shady_Wizard_1",
+      "source": "Yo, I'm Fresh D!\nRest assured, I don't\nwant any beef.",
+      "translation": "嘿，我是 Fresh D！\n放心，我不想\n跟你结仇。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Shady_Wizard_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Shady_Wizard_2",
+      "source": "I am just a humble,\npractitioner of magic in\ndire need of some real scratch!",
+      "translation": "我只是个卑微的\n魔法实践者，\n急需一些真金白银！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Shady_Wizard_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Shady_Wizard_3",
+      "source": "Yo, my goods are\ntotally snoop.\nNo need for shade, bro!",
+      "translation": "嘿，我的货\n绝对够神秘。\n不用怀疑，兄弟！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Shady_Wizard_3"
+    },
+    {
+      "id": "dialogue.Black_Market_Shady_Wizard_Thank_You_1",
+      "source": "Yo, for real, for real!\nNo cap!",
+      "translation": "嘿，真的，真的！\n绝不骗人！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Shady_Wizard_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Shady_Wizard_Thank_You_2",
+      "source": "Yo, that one pops\na punch!\nFor real, for real!",
+      "translation": "嘿，那个东西\n威力十足！\n真的，真的！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Shady_Wizard_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Smuggler_Talk_1",
+      "source": "Need anything smuggled?\nI can get you any species you want!",
+      "translation": "要走私什么吗？\n你想要哪种生物，我都能弄来！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Smuggler_Talk_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Smuggler_Talk_2",
+      "source": "All the creatures\nI sell are very well trained.\nI assure you.",
+      "translation": "我卖的所有生物\n都训练有素。\n我向你保证。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Smuggler_Talk_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Smuggler_Thank_You_1",
+      "source": "Good choice.\nGood choice.",
+      "translation": "好选择。\n好选择。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Smuggler_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Smuggler_Thank_You_2",
+      "source": "You won't regret it.\nThat's a good one.",
+      "translation": "你不会后悔的。\n这个选得好。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Smuggler_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Soul_Peddler_1",
+      "source": "I have no idea how\nI got down here.\nBut I can't complain.",
+      "translation": "我完全不知道\n自己是怎么来到这里的。\n不过我也没什么可抱怨的。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Soul_Peddler_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Soul_Peddler_2",
+      "source": "Business is great.\nSome real whales coming through here!\nSpending big, you know?",
+      "translation": "生意好极了。\n这里来了些真正的大客户！\n出手阔绰，你懂的？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Soul_Peddler_2"
+    },
+    {
+      "id": "dialogue.Black_Market_Soul_Peddler_Thank_You_1",
+      "source": "Aw yeah!\nMore souls for me!",
+      "translation": "哦耶！\n又有更多灵魂归我了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Soul_Peddler_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Black_Market_Soul_Peddler_Thank_You_2",
+      "source": "Nice nice,\nI knew that would sell...\nTotally.",
+      "translation": "不错不错，\n我就知道这个能卖出去……\n绝对的。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Black_Market_Soul_Peddler_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_0",
+      "source": "Grow...\nAdapt...\nOvercome...",
+      "translation": "成长……\n适应……\n克服……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_0"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_10",
+      "source": "Fire is strength!\nYou need my gifts...",
+      "translation": "火焰就是力量！\n你需要我的馈赠……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_10"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_11",
+      "source": "Go, go and plunder!.",
+      "translation": "去吧，去掠夺！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_11"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_12",
+      "source": "We will rule...",
+      "translation": "我们终将统治……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_12"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_1",
+      "source": "Go and defeat kings.",
+      "translation": "去击败那些王者。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_1"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_2",
+      "source": "*sizzle crackle sizzle*",
+      "translation": "*噼啪，噼啪，噼啪*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_2"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_3",
+      "source": "Together.\nTogether we shape\nthis world.",
+      "translation": "一起。\n我们共同塑造\n这个世界。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_3"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_4",
+      "source": "Oh, so hungry.\nHungry for power...",
+      "translation": "哦，我好饿。\n渴望力量……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_4"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_5",
+      "source": "Do not fail me, mortal...",
+      "translation": "别让我失望，凡人……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_5"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_6",
+      "source": "What is it, little rogue?",
+      "translation": "怎么了，小盗贼？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_6"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_7",
+      "source": "What are you\nstill waiting for?",
+      "translation": "你还在\n等什么？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_7"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_8",
+      "source": "Potential...\nSo much potential...",
+      "translation": "潜力……\n多么巨大的潜力……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_8"
+    },
+    {
+      "id": "dialogue.Bonfire_NonSpecific_9",
+      "source": "Always watching you...",
+      "translation": "我一直在注视着你……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_NonSpecific_9"
+    },
+    {
+      "id": "dialogue.Bonfire_Response_Death_Kill_#1",
+      "source": "Death seems inevitable -\nfor now.\nLet's keep going.",
+      "translation": "死亡似乎不可避免——\n至少现在如此。\n继续前进吧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_Response_Death_Kill_#1"
+    },
+    {
+      "id": "dialogue.Bonfire_Response_Death_Kill_#2",
+      "source": "A little further...\nProgress.\nDo it again.",
+      "translation": "再前进一点……\n继续进步。\n再来一次。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_Response_Death_Kill_#2"
+    },
+    {
+      "id": "dialogue.Bonfire_Response_Death_Kill_#3",
+      "source": "It seems with each victory\nyou gain new strength.\nI wonder, I wonder...",
+      "translation": "看来每次胜利\n都会让你获得新的力量。\n真奇怪，真奇怪……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_Response_Death_Kill_#3"
+    },
+    {
+      "id": "dialogue.Bonfire_Response_Death_Kill_#4",
+      "source": "Your kind...\nYour kind performs remarkably well.\nWe are so close.",
+      "translation": "你们这一族……\n表现得非同寻常。\n我们快成功了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_Response_Death_Kill_#4"
+    },
+    {
+      "id": "dialogue.Bonfire_Response_Death_Kill_#5",
+      "source": "YES!\nMy friend...\nIt seems new challenges await.",
+      "translation": "是的！\n我的朋友……\n看来新的挑战正在等待。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_Response_Death_Kill_#5"
+    },
+    {
+      "id": "dialogue.Bonfire_Select_Character",
+      "source": "Select a character class,\nyou fool!",
+      "translation": "选择一个职业，\n你这个蠢货！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Bonfire_Select_Character"
+    },
+    {
+      "id": "dialogue.Boss_Bahamut_8",
+      "source": "VRuRrRr-RroOu-AORrrRrR!",
+      "translation": "呜呜呜-啰哦-啊啊啊！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Boss_Bahamut_8"
+    },
+    {
+      "id": "dialogue.Burnt_Tree",
+      "source": "Examine the burnt tree?",
+      "translation": "检查这棵烧焦的树吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Burnt_Tree"
+    },
+    {
+      "id": "dialogue.Castle_Barracks_Nothing_Found",
+      "source": "*Oof, nothing there.*",
+      "translation": "*呃，里面什么也没有。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Castle_Barracks_Nothing_Found"
+    },
+    {
+      "id": "dialogue.Castle_Barracks_Question",
+      "source": "Search the bed?",
+      "translation": "搜索这张床吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Castle_Barracks_Question"
+    },
+    {
+      "id": "dialogue.Castle_Barracks_Something_Found",
+      "source": "*Aha!*",
+      "translation": "*啊哈！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Castle_Barracks_Something_Found"
+    },
+    {
+      "id": "dialogue.Cauldron_0",
+      "source": "Attempt to brew\na potion?",
+      "translation": "尝试\n炼制一瓶药剂吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Cauldron_0"
+    },
+    {
+      "id": "dialogue.Cauldron_1",
+      "source": "Put the Mandrake Root\nin the cauldron?",
+      "translation": "把曼德拉草根\n放进坩埚吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Cauldron_1"
+    },
+    {
+      "id": "dialogue.Cauldron_2",
+      "source": "Put the Spider Eye\nin the cauldron?",
+      "translation": "把蜘蛛眼\n放进坩埚吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Cauldron_2"
+    },
+    {
+      "id": "dialogue.Cauldron_3",
+      "source": "Put the Bat Wing\nin the cauldron?",
+      "translation": "把蝙蝠翅膀\n放进坩埚吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Cauldron_3"
+    },
+    {
+      "id": "dialogue.Cauldron_Finished",
+      "source": "You don't have the\ningredients to brew\nanother potion.",
+      "translation": "你没有足够的\n材料来炼制\n另一瓶药剂了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Cauldron_Finished"
+    },
+    {
+      "id": "dialogue.Cauldron_Skip",
+      "source": "No <color=grey>(skip ingredient)</color>",
+      "translation": "不要 <color=grey>（跳过材料）</color>",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Cauldron_Skip"
+    },
+    {
+      "id": "dialogue.Charon_Merchant_1",
+      "source": "Urrrrr-Nngghhhh?",
+      "translation": "呜呃呃-嗯嗯嗯？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Charon_Merchant_1"
+    },
+    {
+      "id": "dialogue.Charon_Merchant_2",
+      "source": "Hrrrrmm-Nghhhh-Hhhhh...",
+      "translation": "呼噜噜-嗯嗯嗯-嗯嗯……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Charon_Merchant_2"
+    },
+    {
+      "id": "dialogue.Charon_Merchant_3",
+      "source": "Hhrea - Hhrea - Hhrea!",
+      "translation": "赫雷-赫雷-赫雷！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Charon_Merchant_3"
+    },
+    {
+      "id": "dialogue.Charon_Merchant_Thanks_1",
+      "source": "Hohhh-Oh-Ho!",
+      "translation": "哦呼-哦-哦！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Charon_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.Charon_Merchant_Thanks_2",
+      "source": "Haahhhhh-Ahaa!",
+      "translation": "哈啊啊啊-啊哈！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Charon_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Chester_Merchant_1",
+      "source": "Hmmm...\nI don't recall your name...\nAre you interested in trade?",
+      "translation": "嗯……\n我不记得你的名字……\n你有兴趣做笔交易吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Chester_Merchant_1"
+    },
+    {
+      "id": "dialogue.Chester_Merchant_2",
+      "source": "Anyways, we are\nboth travelers.\nWe ought to help one another\nout, right?",
+      "translation": "总之，我们\n都是旅行者。\n我们应该互相帮忙，\n对吧？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Chester_Merchant_2"
+    },
+    {
+      "id": "dialogue.Chester_Merchant_3",
+      "source": "Hm?\nI've little to talk about, really.\nI'm kinda stuck here.",
+      "translation": "嗯？\n其实我没什么可说的。\n我有点被困在这里了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Chester_Merchant_3"
+    },
+    {
+      "id": "dialogue.Chester_Merchant_Reaction_1",
+      "source": "Splendid!",
+      "translation": "太棒了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Chester_Merchant_Reaction_1"
+    },
+    {
+      "id": "dialogue.Chester_Merchant_Reaction_2",
+      "source": "Oh well,\ngood luck on your\njourney then.",
+      "translation": "好吧，\n祝你接下来的旅途\n一切顺利。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Chester_Merchant_Reaction_2"
+    },
+    {
+      "id": "dialogue.Chester_Merchant_Thanks_1",
+      "source": "Gee-Hee-Hee!\nNice choice.",
+      "translation": "嘿嘿嘿！\n眼光不错。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Chester_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.Chester_Merchant_Thanks_2",
+      "source": "Fine stuff, eh?",
+      "translation": "不错的东西，对吧？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Chester_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Coffin",
+      "source": "Open the coffin?",
+      "translation": "打开棺材吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Coffin"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_1",
+      "source": "The council of rats will\nnow judge you!",
+      "translation": "鼠群议会\n现在将对你进行审判！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_1"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_2",
+      "source": "On behalf of the order of dexterity, we judge you as...",
+      "translation": "我们代表敏捷之序，判定你为……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_2"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_3",
+      "source": "On behalf of the order of strength, we judge you as...",
+      "translation": "我们代表力量之序，判定你为……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_3"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_4",
+      "source": "On behalf of the order of intelligence, we judge you as...",
+      "translation": "我们代表智力之序，判定你为……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_4"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_Idle",
+      "source": "The council of rats has spoken!",
+      "translation": "鼠群议会已经发话！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_Idle"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_Idle_2",
+      "source": "WE HAVE SPOKEN!",
+      "translation": "我们已经发话了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_Idle_2"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_Unworthy",
+      "source": "Unworthy!",
+      "translation": "不配！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_Unworthy"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_Unworthy_2",
+      "source": "UNWORTHY!",
+      "translation": "不配！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_Unworthy_2"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_Worthy",
+      "source": "Worthy!",
+      "translation": "配得上！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_Worthy"
+    },
+    {
+      "id": "dialogue.Council_Of_Rats_Worthy_2",
+      "source": "WORTHY!",
+      "translation": "配得上！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Council_Of_Rats_Worthy_2"
+    },
+    {
+      "id": "dialogue.Crystal_Merchant_1",
+      "source": "Aye, good day to you.\nAnything of interest?",
+      "translation": "你好，日安。\n有感兴趣的东西吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Crystal_Merchant_1"
+    },
+    {
+      "id": "dialogue.Crystal_Merchant_2",
+      "source": "Found anything special\nyourself yet?",
+      "translation": "你自己找到\n什么特别的东西了吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Crystal_Merchant_2"
+    },
+    {
+      "id": "dialogue.Crystal_Merchant_3",
+      "source": "You must understand,\nmy collection is quite\nprecious. Heh-heh.",
+      "translation": "你必须明白，\n我的收藏相当\n珍贵。嘿嘿。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Crystal_Merchant_3"
+    },
+    {
+      "id": "dialogue.Crystal_Merchant_Thank_You_1",
+      "source": "Thank you!\nThat was a fine trade.\nHeh-heh.",
+      "translation": "谢谢！\n这笔交易很不错。\n嘿嘿。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Crystal_Merchant_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Crystal_Merchant_Thank_You_2",
+      "source": "Thank you!\nThat's a good one.\nHeh-heh.",
+      "translation": "谢谢！\n这个不错。\n嘿嘿。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Crystal_Merchant_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Crystal_Tree",
+      "source": "Examine the crystal pine?",
+      "translation": "检查这棵水晶松树吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Crystal_Tree"
+    },
+    {
+      "id": "dialogue.Cultist_Altar",
+      "source": "Sacrifice 1 heart<sprite name=\"Health\">?",
+      "translation": "献祭 1 颗红心<sprite name=\"Health\">吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Cultist_Altar"
+    },
+    {
+      "id": "dialogue.Death_Wraith_Cut_Scene_1",
+      "source": "Your flesh is still bound to this world.\nYou can keep trying, but I tell you:\nYou have no choice!",
+      "translation": "你的血肉仍被这个世界束缚。\n你可以继续尝试，但我告诉你：\n你别无选择！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Death_Wraith_Cut_Scene_1"
+    },
+    {
+      "id": "dialogue.Death_Wraith_Cut_Scene_2",
+      "source": "Whether you resist or accept your fate.\nDeath is inevitable!",
+      "translation": "无论你抗拒还是接受命运，\n死亡都不可避免！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Death_Wraith_Cut_Scene_2"
+    },
+    {
+      "id": "dialogue.Death_Wraith_Cut_Scene_3",
+      "source": "No matter how often you\nyou vanquish my corporal form.\nI am still strong\nenough to stop you!",
+      "translation": "不管你多少次\n击败我的肉身，\n我仍然强大到\n足以阻止你！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Death_Wraith_Cut_Scene_3"
+    },
+    {
+      "id": "dialogue.Death_Wraith_Cut_Scene_4",
+      "source": "Nothing awaits you beyond this path!\nStop attempting to resist your fate!",
+      "translation": "这条路的尽头什么也没有！\n别再试图抗拒你的命运！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Death_Wraith_Cut_Scene_4"
+    },
+    {
+      "id": "dialogue.Default_Blacksmith_1",
+      "source": "Need anything forged?",
+      "translation": "需要锻造什么吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Default_Blacksmith_1"
+    },
+    {
+      "id": "dialogue.Default_Blacksmith_2",
+      "source": "Don't get yourself killed.\nUpgrading a weapon\nincreases its damage.",
+      "translation": "别把自己送进坟墓。\n升级武器\n会提高它的伤害。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Default_Blacksmith_2"
+    },
+    {
+      "id": "dialogue.Default_Blacksmith_3",
+      "source": "If you are in a pity,\nyou can use a blacksmith's whetstone\n to upgrade your weapon.",
+      "translation": "如果你手头拮据，\n可以用铁匠的磨刀石\n来升级武器。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Default_Blacksmith_3"
+    },
+    {
+      "id": "dialogue.Default_Blacksmith_4",
+      "source": "There is a legend about\na skillful duergar-blacksmith\nwho resides in the deep dark.",
+      "translation": "有个传说，\n深暗之处住着一位\n技艺高超的灰矮人铁匠。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Default_Blacksmith_4"
+    },
+    {
+      "id": "dialogue.Default_Blacksmith_5",
+      "source": "It is told, that he knows ways\nto upgrade weapons beyond\nthe usual limits.\nMight just be a legend...",
+      "translation": "据说他知道如何\n突破通常的限制\n升级武器。\n也许只是个传说……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Default_Blacksmith_5"
+    },
+    {
+      "id": "dialogue.Default_Blacksmith_Upgrade_1",
+      "source": "I enhanced the weapon.\nThank you for the trade.\nHo-ho-ho!",
+      "translation": "我强化了这件武器。\n谢谢惠顾。\n呵呵呵！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Default_Blacksmith_Upgrade_1"
+    },
+    {
+      "id": "dialogue.Default_Blacksmith_Upgrade_2",
+      "source": "I reinforced the weapon.\nIt shall serve you well!\nHo-ho-ho!",
+      "translation": "我加固了这件武器。\n它会好好为你效力！\n呵呵呵！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Default_Blacksmith_Upgrade_2"
+    },
+    {
+      "id": "dialogue.Default_Blacksmith_Upgrade_3",
+      "source": "Now this is a\ntruly magnificent weapon!\nInto battle!\nHo-ho-ho!",
+      "translation": "这才真是一件\n无与伦比的武器！\n上战场吧！\n呵呵呵！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Default_Blacksmith_Upgrade_3"
+    },
+    {
+      "id": "dialogue.Default_Blacksmith_Upgrade_Full",
+      "source": "I'm sorry, but\nthat's all I can do\nfor this weapon, friend.",
+      "translation": "抱歉，朋友，\n这件武器\n我只能做到这里了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Default_Blacksmith_Upgrade_Full"
+    },
+    {
+      "id": "dialogue.Demolionist_Dwarf_Thank_You_1",
+      "source": "Boom!\nAnother satisfied customer.",
+      "translation": "轰！\n又一位满意的顾客。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Demolionist_Dwarf_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Demolionist_Dwarf_Thank_You_2",
+      "source": "Explosive taste!\nThanks a lot.",
+      "translation": "爆炸般的品味！\n多谢惠顾。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Demolionist_Dwarf_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Demolitionist_Dwarf_1",
+      "source": "I am starting small\nbut I hope my business\nwill blow up soon!",
+      "translation": "我现在从小本生意做起，\n但希望生意\n很快就能爆发！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Demolitionist_Dwarf_1"
+    },
+    {
+      "id": "dialogue.Demolitionist_Dwarf_2",
+      "source": "My goods are a real boom\nfor your buck!",
+      "translation": "我的货物\n绝对物超所值！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Demolitionist_Dwarf_2"
+    },
+    {
+      "id": "dialogue.Demolitionist_Dwarf_3",
+      "source": "Explosive prices, huh?",
+      "translation": "价格很爆炸，对吧？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Demolitionist_Dwarf_3"
+    },
+    {
+      "id": "dialogue.Desert_Kobold_Merchant_1",
+      "source": "We want to trade!\nUnique Upgrade,\nonly for you!",
+      "translation": "我们要做交易！\n独特的升级，\n只为你准备！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Desert_Kobold_Merchant_1"
+    },
+    {
+      "id": "dialogue.Desert_Kobold_Merchant_2",
+      "source": "We crash here.\nIs okay.\nNobody hurt!\nWant to buy something?",
+      "translation": "我们的船坠毁在这里。\n没关系。\n没人受伤！\n想买点东西吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Desert_Kobold_Merchant_2"
+    },
+    {
+      "id": "dialogue.Desert_Kobold_Merchant_3",
+      "source": "We need to repair our ship!\nLet's make a deal!",
+      "translation": "我们需要修船！\n来做笔交易吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Desert_Kobold_Merchant_3"
+    },
+    {
+      "id": "dialogue.Desert_Kobold_Merchant_Thanks_1",
+      "source": "Friend!",
+      "translation": "朋友！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Desert_Kobold_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.Desert_Kobold_Merchant_Thanks_2",
+      "source": "Good trade! Good trade!",
+      "translation": "好交易！好交易！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Desert_Kobold_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Dev_Message_1",
+      "source": "But somebody left a note!",
+      "translation": "但有人留下了一张纸条！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dev_Message_1"
+    },
+    {
+      "id": "dialogue.Dev_Message_2",
+      "source": "Hello there!\nUnfortunately the abyss isn't done yet.\nIt will available in the next free Early Access Expansion:\nTiny Rogues: Into the Abyss",
+      "translation": "你好！\n很遗憾，深渊还没有完成。\n它将在下一次免费的抢先体验扩展中开放：\n《Tiny Rogues：深入深渊》",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dev_Message_2"
+    },
+    {
+      "id": "dialogue.Dev_Message_3",
+      "source": "I hope you are enjoying the\nBetween Heaven and Hell update.\nThank you for playing Tiny Rogues!\n-RubyDev",
+      "translation": "希望你喜欢\n“天堂与地狱之间”更新。\n感谢你游玩 Tiny Rogues！\n-RubyDev",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dev_Message_3"
+    },
+    {
+      "id": "dialogue.Devil_Celebration_1",
+      "source": "All hail the conqueror!",
+      "translation": "向征服者致敬！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Celebration_1"
+    },
+    {
+      "id": "dialogue.Devil_Celebration_2",
+      "source": "The new infernal overlord!",
+      "translation": "新的地狱霸主！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Celebration_2"
+    },
+    {
+      "id": "dialogue.Devil_Celebration_3",
+      "source": "We swear to answer to you!",
+      "translation": "我们发誓听命于你！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Celebration_3"
+    },
+    {
+      "id": "dialogue.Devil_Celebration_4",
+      "source": "May they herald in\na new age of evil!",
+      "translation": "愿他们开启\n邪恶的新纪元！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Celebration_4"
+    },
+    {
+      "id": "dialogue.Devil_Interact_1",
+      "source": "Greetings. *bows*",
+      "translation": "向您致意。*鞠躬*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Interact_1"
+    },
+    {
+      "id": "dialogue.Devil_Interact_2",
+      "source": "Your supreme evilness. *bows*",
+      "translation": "您至高无上的邪恶。*鞠躬*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Interact_2"
+    },
+    {
+      "id": "dialogue.Devil_Interact_3",
+      "source": "We serve nobody but you.\nKi-ki-ki!",
+      "translation": "除了你，我们谁也不侍奉。\n嘻嘻嘻！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Interact_3"
+    },
+    {
+      "id": "dialogue.Devil_Interact_4",
+      "source": "We will always\nstand by your side.\nKe-ke-ke!",
+      "translation": "我们永远\n站在您这边。\n咯咯咯！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Interact_4"
+    },
+    {
+      "id": "dialogue.Devil_Shop_1",
+      "source": "Greetings, young soul!\nI'm just a humble minion from\nthe burning hells.\nCare to strike a bargain?",
+      "translation": "欢迎，年轻的灵魂！\n我只是来自燃烧地狱的\n一个卑微小喽啰。\n要不要谈笔交易？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Shop_1"
+    },
+    {
+      "id": "dialogue.Devil_Shop_2",
+      "source": "Strange times in the inferno;\nsouls aren't flowing like they used to.\nMakes you wonder, doesn't it?",
+      "translation": "地狱里的形势真奇怪；\n灵魂不像过去那样涌来了。\n真是耐人寻味，对吧？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Shop_2"
+    },
+    {
+      "id": "dialogue.Devil_Shop_3",
+      "source": "Remember, every soul you spend here\nfuels directly into the infernal depths.\nA delightfully wicked deed,\nwouldn't you say?",
+      "translation": "记住，你在这里花掉的每个灵魂\n都会直接流入地狱深处。\n多么令人愉悦的邪恶行径，\n不是吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Shop_3"
+    },
+    {
+      "id": "dialogue.Devil_Shop_4",
+      "source": "Temptation is just\nopportunity in disguise.",
+      "translation": "诱惑只是\n伪装起来的机会。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Shop_4"
+    },
+    {
+      "id": "dialogue.Devil_Shop_5",
+      "source": "Every choice has its price.",
+      "translation": "每个选择都有代价。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Shop_5"
+    },
+    {
+      "id": "dialogue.Devil_Shop_6",
+      "source": "Your curiosity is intriguing.",
+      "translation": "你的好奇心很有意思。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Shop_6"
+    },
+    {
+      "id": "dialogue.Devil_Shop_Thank_You_1",
+      "source": "A pact sealed,\na destiny altered.",
+      "translation": "契约已成，\n命运已改。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Shop_Thank_You_1"
+    },
+    {
+      "id": "dialogue.Devil_Shop_Thank_You_2",
+      "source": "A fiendishly wise choice!",
+      "translation": "真是恶魔般明智的选择！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Shop_Thank_You_2"
+    },
+    {
+      "id": "dialogue.Devil_Shop_Thank_You_3",
+      "source": "Embrace your dark desires.",
+      "translation": "拥抱你黑暗的欲望吧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Devil_Shop_Thank_You_3"
+    },
+    {
+      "id": "dialogue.Dexterity_Mushroom_1",
+      "source": "Welcome, daring explorer!",
+      "translation": "欢迎，勇敢的探险者！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dexterity_Mushroom_1"
+    },
+    {
+      "id": "dialogue.Dexterity_Mushroom_2",
+      "source": "Will you take my offspring\non a marvelous adventure?",
+      "translation": "你愿意带我的孩子\n踏上奇妙的冒险吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dexterity_Mushroom_2"
+    },
+    {
+      "id": "dialogue.Dexterity_Mushroom_3",
+      "source": "To explore the world and what lies beyond!\nMy wildest dreams are coming true!",
+      "translation": "去探索世界以及世界之外的一切！\n我最疯狂的梦想成真了！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dexterity_Mushroom_3"
+    },
+    {
+      "id": "dialogue.Dexterity_Mushroom_4",
+      "source": "I see you've decided for another.\nThat is fine, I shall wait for an\neven nimbler traveler!",
+      "translation": "看来你选择了另一个。\n没关系，我会等一位\n更加敏捷的旅人！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dexterity_Mushroom_4"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Burnt_1",
+      "source": "Uhh...\nSo...\nthat didn't go to well.",
+      "translation": "呃……\n所以……\n这下没进展得太顺利。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Burnt_1"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Burnt_2",
+      "source": "What can I say?\nI am not used to poor\ncraftsmanship like that...",
+      "translation": "我能说什么？\n我可不习惯\n这种糟糕的工艺……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Burnt_2"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Success_1",
+      "source": "Wa-ha-ha!\nWhat a glorious piece!",
+      "translation": "哇哈哈！\n多么辉煌的作品！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Success_1"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Success_2",
+      "source": "Go!\nGo and rid me of\nmine captures!",
+      "translation": "去吧！\n去替我解决\n那些俘虏！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Success_2"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Trophy_1",
+      "source": "Greetings traveler.",
+      "translation": "你好，旅行者。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Trophy_1"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Trophy_2",
+      "source": "Don't be afraid.\nHave you never encountered\na talking dragon head before?",
+      "translation": "别害怕。\n你从来没见过\n会说话的龙头吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Trophy_2"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Trophy_3",
+      "source": "I was once an ancient silver dragon.\nA direct descendant of the mighty\nsilver dragon Bahamut himself.",
+      "translation": "我曾经是一条古老的银龙。\n是伟大的银龙巴哈姆特\n的直系后裔。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Trophy_3"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Trophy_4",
+      "source": "Now I serve those\nresponsible for my\nlate downfall.",
+      "translation": "如今我为那些\n造成我\n陨落的人效力。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Trophy_4"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Trophy_5",
+      "source": "But I have never sworn an oath.\nThe enemy of my enemy\nis my friend.",
+      "translation": "但我从未宣誓效忠。\n敌人的敌人\n就是朋友。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Trophy_5"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Trophy_6",
+      "source": "Have you a weapon deserving\nof a dragon's breath?",
+      "translation": "你有一件配得上\n龙之吐息的武器吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Trophy_6"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Trophy_7",
+      "source": "With a single exhale,\nI can sear into your armament\nan echo of my ancient power.",
+      "translation": "我只需吐息一次，\n就能把远古力量的回响\n烙进你的武器。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Trophy_7"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Trophy_8-Idle",
+      "source": "I'd be glad to help.",
+      "translation": "我很乐意帮忙。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Trophy_8-Idle"
+    },
+    {
+      "id": "dialogue.Dragon_Head_Trophy_8",
+      "source": "Just drop the weapon in\nfront of me and tell\nme which enchantment you desire.",
+      "translation": "只要把武器\n丢到我面前，\n再告诉我你想要哪种附魔。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dragon_Head_Trophy_8"
+    },
+    {
+      "id": "dialogue.Drinker_Guy_1",
+      "source": "Did you know the lady over\nthere is the tavernkeep's sister?",
+      "translation": "你知道那边的女士\n是酒馆老板的妹妹吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Drinker_Guy_1"
+    },
+    {
+      "id": "dialogue.Drinker_Guy_2",
+      "source": "She got unlimited access\nto the tavernkeep's secret special ale.",
+      "translation": "她可以无限畅饮\n酒馆老板的秘制特调。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Drinker_Guy_2"
+    },
+    {
+      "id": "dialogue.Drinker_Guy_3",
+      "source": "That stuff slaps!\nAnd she tells some really funny jokes!",
+      "translation": "那玩意儿真带劲！\n而且她讲的笑话特别好笑！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Drinker_Guy_3"
+    },
+    {
+      "id": "dialogue.Drinker_Guy_4",
+      "source": "No headache either.\nSomehow it's really refreshing!",
+      "translation": "还不会头疼。\n不知道为什么，喝起来特别清爽！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Drinker_Guy_4"
+    },
+    {
+      "id": "dialogue.Duergar_Blacksmith_2",
+      "source": "Go away.\nYou spoil my focus.",
+      "translation": "走开。\n你打扰到我的专注了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Duergar_Blacksmith_2"
+    },
+    {
+      "id": "dialogue.Duergar_Blacksmith_3",
+      "source": "I am not here to chat.\nI have work to do.",
+      "translation": "我不是来聊天的。\n我有工作要做。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Duergar_Blacksmith_3"
+    },
+    {
+      "id": "dialogue.Duergar_Blacksmith_4",
+      "source": "Need something?",
+      "translation": "需要什么吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Duergar_Blacksmith_4"
+    },
+    {
+      "id": "dialogue.Duergar_Blacksmith_Upgrade_1",
+      "source": "I enhanced the weapon.\nIt's still not very good.",
+      "translation": "我强化了这件武器。\n它还是不怎么样。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Duergar_Blacksmith_Upgrade_1"
+    },
+    {
+      "id": "dialogue.Duergar_Blacksmith_Upgrade_2",
+      "source": "I reinforced the weapon.\nIt's getting there...",
+      "translation": "我加固了这件武器。\n已经有点样子了……",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Duergar_Blacksmith_Upgrade_2"
+    },
+    {
+      "id": "dialogue.Duergar_Blacksmith_Upgrade_3",
+      "source": "Hmm. Not my finest piece yet.",
+      "translation": "嗯，还不是我最得意的作品。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Duergar_Blacksmith_Upgrade_3"
+    },
+    {
+      "id": "dialogue.Duergar_Blacksmith_Upgrade_4",
+      "source": "Ahh! Now this is a sight to behold!\nEven gods would look upon this with jealousy!",
+      "translation": "啊！这才叫赏心悦目！\n就连神明看到都会嫉妒！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Duergar_Blacksmith_Upgrade_4"
+    },
+    {
+      "id": "dialogue.Duergar_Blacksmith_Upgrade_Full",
+      "source": "Still not satisfied?\nLeave now, there is\nnothing else I can do for your.",
+      "translation": "还不满意？\n现在离开吧，\n我没什么能为你做的了。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Duergar_Blacksmith_Upgrade_Full"
+    },
+    {
+      "id": "dialogue.Dwarf_Merchant_1",
+      "source": "Good day!\nNeed some equipment?",
+      "translation": "日安！\n需要一些装备吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dwarf_Merchant_1"
+    },
+    {
+      "id": "dialogue.Dwarf_Merchant_2",
+      "source": "Come and take\na closer look!",
+      "translation": "过来仔细\n看看吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dwarf_Merchant_2"
+    },
+    {
+      "id": "dialogue.Dwarf_Merchant_3",
+      "source": "I sell the best\narmor and weapons!",
+      "translation": "我卖的可是最好的\n护甲和武器！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dwarf_Merchant_3"
+    },
+    {
+      "id": "dialogue.Dwarf_Merchant_Thanks_1",
+      "source": "Thank you!",
+      "translation": "谢谢你！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dwarf_Merchant_Thanks_1"
+    },
+    {
+      "id": "dialogue.Dwarf_Merchant_Thanks_2",
+      "source": "Good choice!",
+      "translation": "好选择！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dwarf_Merchant_Thanks_2"
+    },
+    {
+      "id": "dialogue.Dwarf_Shrine",
+      "source": "*A statue of a mighty dwarven blacksmith!\nOr is it a duergar?*",
+      "translation": "*一尊强大的矮人铁匠雕像！\n还是灰矮人？*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Dwarf_Shrine"
+    },
+    {
+      "id": "dialogue.Empty_Ichor",
+      "source": "*The bowl is empty.*",
+      "translation": "*碗是空的。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Empty_Ichor"
+    },
+    {
+      "id": "dialogue.Enchantress_1",
+      "source": "Welcome, Darling.\nWant me to enchant your weapon?",
+      "translation": "欢迎，亲爱的。\n想让我给你的武器附魔吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Enchantress_1"
+    },
+    {
+      "id": "dialogue.Enchantress_2",
+      "source": "Nobody can influence the\nresult of enchanting.\nI can only guide the arcane mist\nto flow through your weapon.",
+      "translation": "没有人能影响\n附魔的结果。\n我只能引导奥术薄雾\n流过你的武器。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Enchantress_2"
+    },
+    {
+      "id": "dialogue.Enchantress_3",
+      "source": "That's alright, darling.\nMaybe at some other time.",
+      "translation": "没关系，亲爱的。\n下次再来吧。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Enchantress_3"
+    },
+    {
+      "id": "dialogue.Enchantress_No_Weapon",
+      "source": "Greetings, Darling.\nI can enchant your weapon.\nCome to me if you require my service.",
+      "translation": "你好，亲爱的。\n我可以为你的武器附魔。\n需要我的服务时就来找我。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Enchantress_No_Weapon"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_0_Heaven",
+      "source": "Only a being of pure good\ncan ascend further!",
+      "translation": "只有纯粹的善之存在\n才能继续上行！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_0_Heaven"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_0_Hell",
+      "source": "Only a being of pure evil\ncan go deeper!",
+      "translation": "只有纯粹的恶之存在\n才能继续深入！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_0_Hell"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_0_Shadow_Plane",
+      "source": "Only a truly lawful being\ncan continue onwards!",
+      "translation": "只有真正守序的存在\n才能继续前进！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_0_Shadow_Plane"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_1_Heaven",
+      "source": "Where does the allegiance\nof your soul lie, mortal?",
+      "translation": "凡人，你的灵魂\n效忠于何方？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_1_Heaven"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_1_Hell",
+      "source": "Where does the allegiance\nof your soul lie, mortal?",
+      "translation": "凡人，你的灵魂\n效忠于何方？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_1_Hell"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_1_Shadow_Plane",
+      "source": "Where does the allegiance\nof your soul lie, mortal?",
+      "translation": "凡人，你的灵魂\n效忠于何方？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_1_Shadow_Plane"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_2_Heaven",
+      "source": "The scale of purity\nwill be the judge of it.",
+      "translation": "纯洁的天平\n将对此作出裁决。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_2_Heaven"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_2_Hell",
+      "source": "The scale of evil\nwill be the judge of it.",
+      "translation": "邪恶的天平\n将对此作出裁决。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_2_Hell"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_2_Shadow_Plane",
+      "source": "The scale of death\nwill be the judge of it.",
+      "translation": "死亡的天平\n将对此作出裁决。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_2_Shadow_Plane"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_4_Heaven_Worthy",
+      "source": "Worthy.\nThe light has spoken.",
+      "translation": "配得上。\n光明已经发话。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_4_Heaven_Worthy"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_4_Hell_Worthy",
+      "source": "Worthy!\nNye-he-he!",
+      "translation": "配得上！\n奈-嘿-嘿！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_4_Hell_Worthy"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_4_Shadow_Plane_Worthy",
+      "source": "Worthy.\nYou may proceed.",
+      "translation": "配得上。\n你可以继续前进。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_4_Shadow_Plane_Worthy"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_5_Heaven_Unworthy",
+      "source": "Unworthy.\nYou've been judged.",
+      "translation": "不配。\n你已经受到了审判。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_5_Heaven_Unworthy"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_5_Hell_Unworthy",
+      "source": "Unworthy!\nNya-ha-ha!",
+      "translation": "不配！\n呀-哈-哈！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_5_Hell_Unworthy"
+    },
+    {
+      "id": "dialogue.Endgame_Stairs_5_Shadow_Plane_Unworthy",
+      "source": "Unworthy.\nYou may not proceed.",
+      "translation": "不配。\n你不能继续前进。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Stairs_5_Shadow_Plane_Unworthy"
+    },
+    {
+      "id": "dialogue.Endgame_Story_0",
+      "source": "You have accomplished the impossible.",
+      "translation": "你完成了不可能完成的事。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Story_0"
+    },
+    {
+      "id": "dialogue.Endgame_Story_1_1",
+      "source": "You've become the embodiment of death.",
+      "translation": "你已成为死亡的化身。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Story_1_1"
+    },
+    {
+      "id": "dialogue.Endgame_Story_1_2",
+      "source": "You've become the embodiment of evil.",
+      "translation": "你已成为邪恶的化身。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Story_1_2"
+    },
+    {
+      "id": "dialogue.Endgame_Story_1_3",
+      "source": "You've become the embodiment of purity.",
+      "translation": "你已成为纯洁的化身。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Story_1_3"
+    },
+    {
+      "id": "dialogue.Endgame_Story_2",
+      "source": "A mortal no longer.",
+      "translation": "你已不再是凡人。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Story_2"
+    },
+    {
+      "id": "dialogue.Endgame_Story_2_1",
+      "source": "Now ruling the shadow planes.",
+      "translation": "如今统治着暗影位面。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Story_2_1"
+    },
+    {
+      "id": "dialogue.Endgame_Story_2_2",
+      "source": "Now ruling the burning hells.",
+      "translation": "如今统治着燃烧地狱。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Story_2_2"
+    },
+    {
+      "id": "dialogue.Endgame_Story_2_3",
+      "source": "Now ruling the high heavens.",
+      "translation": "如今统治着至高天界。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Story_2_3"
+    },
+    {
+      "id": "dialogue.Endgame_Story_3",
+      "source": "But even the glory of becoming a god.",
+      "translation": "但即使成为神明的荣耀，",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Story_3"
+    },
+    {
+      "id": "dialogue.Endgame_Story_4",
+      "source": "Eventually fades into eternity.",
+      "translation": "最终也会在永恒中消逝。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Endgame_Story_4"
+    },
+    {
+      "id": "dialogue.Evil_Urn_Prompt_1",
+      "source": "Touch the evil urn?\n<color=grey>[Adds +1 Evil<sprite name=\"Evil\">]</color>",
+      "translation": "触碰邪恶之瓮吗？\n<color=grey>[增加 +1 邪恶<sprite name=\"Evil\">]</color>",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Evil_Urn_Prompt_1"
+    },
+    {
+      "id": "dialogue.Evil_Urn_Prompt_2",
+      "source": "*You touch the evil urn.*",
+      "translation": "*你触碰了邪恶之瓮。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Evil_Urn_Prompt_2"
+    },
+    {
+      "id": "dialogue.Excalibur_1",
+      "source": "Only a pure soul may\nwield the might of Excalibur.",
+      "translation": "只有纯洁的灵魂\n才能挥舞 Excalibur 的力量。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Excalibur_1"
+    },
+    {
+      "id": "dialogue.Excalibur_2",
+      "source": "Attempt do pull out the sword?",
+      "translation": "尝试拔出这把剑吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Excalibur_2"
+    },
+    {
+      "id": "dialogue.Excalibur_Fail",
+      "source": "*It won't budge.\nSeems like you are not worthy!\nBut if you want, you can try again!*",
+      "translation": "*它纹丝不动。\n看来你还不够资格！\n但如果你愿意，可以再试一次！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Excalibur_Fail"
+    },
+    {
+      "id": "dialogue.Fairy_Spring_Event_1",
+      "source": "Take a sip?",
+      "translation": "喝一口吗？",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fairy_Spring_Event_1"
+    },
+    {
+      "id": "dialogue.Fairy_Spring_Event_2",
+      "source": "*You have been blessed\nby the Fairy Spring.*",
+      "translation": "*你受到了\n仙女之泉的祝福。*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fairy_Spring_Event_2"
+    },
+    {
+      "id": "dialogue.Fishing_On_Bite",
+      "source": "*A bite!*",
+      "translation": "*上钩了！*",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原文来源 Dialogue_EN:Fishing_On_Bite"
+    }
+  ]
+}

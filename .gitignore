@@ -1,0 +1,18 @@
+# Build outputs
+**/bin/
+**/obj/
+.vs/
+*.user
+
+# Local extraction, runtime captures and personal overrides
+/work/
+/captures/
+/overrides/
+/releases/
+*.log
+steam_appid.txt
+
+# Python environments
+.venv/
+__pycache__/
+*.pyc

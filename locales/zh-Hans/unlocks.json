@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "独立解锁条件翻译",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "unlock.literal.3eea33fd51cc733e52a6",
+      "source": " to unlock Tier 2 Cinder modifiers.",
+      "translation": " 即可解锁第 2 阶余烬修正。",
+      "context": "unlock-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量。动态片段必须在解锁条件生成入口/完整生成结果处理，不允许全局子串替换。"
+    },
+    {
+      "id": "unlock.literal.4b3c5602bebc088102c7",
+      "source": " to unlock Tier 3 Cinder modifiers.",
+      "translation": " 即可解锁第 3 阶余烬修正。",
+      "context": "unlock-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量。动态片段必须在解锁条件生成入口/完整生成结果处理，不允许全局子串替换。"
+    },
+    {
+      "id": "unlock.literal.8a53e6704309cd56ec8a",
+      "source": " to unlock Tier 4 Cinder modifiers.",
+      "translation": " 即可解锁第 4 阶余烬修正。",
+      "context": "unlock-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量。动态片段必须在解锁条件生成入口/完整生成结果处理，不允许全局子串替换。"
+    },
+    {
+      "id": "unlock.literal.b03843958f77b1a4dde2",
+      "source": " to unlock.",
+      "translation": " 即可解锁。",
+      "context": "unlock-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量。动态片段必须在解锁条件生成入口/完整生成结果处理，不允许全局子串替换。"
+    },
+    {
+      "id": "unlock.literal.06c63533516822386b7b",
+      "source": "Cinder",
+      "translation": "余烬",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始英文完整标签/消息独立翻译。"
+    },
+    {
+      "id": "unlock.literal.5b658cab77856c51b2aa",
+      "source": "Cinder 3",
+      "translation": "余烬 3",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始英文完整标签/消息独立翻译。"
+    },
+    {
+      "id": "unlock.literal.c99e466fa557bcac8c25",
+      "source": "Cinder 6",
+      "translation": "余烬 6",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始英文完整标签/消息独立翻译。"
+    },
+    {
+      "id": "unlock.literal.87c7e3b54acfe5bf1647",
+      "source": "Cinder 9",
+      "translation": "余烬 9",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始英文完整标签/消息独立翻译。"
+    },
+    {
+      "id": "unlock.literal.5b82e7b2d551ca94d9e3",
+      "source": "Cinder Modifiers",
+      "translation": "余烬修正",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始英文完整标签/消息独立翻译。"
+    },
+    {
+      "id": "unlock.literal.3ff08b174437ae71e557",
+      "source": "Cinder {0}",
+      "translation": "余烬 {0}",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始英文完整标签/消息独立翻译。"
+    },
+    {
+      "id": "unlock.literal.9662c5609b0e599b9822",
+      "source": "Complete previous world objectives to reveal this objective.",
+      "translation": "完成此前的世界目标，以揭示这个目标。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始英文完整标签/消息独立翻译。"
+    },
+    {
+      "id": "unlock.literal.0a6ce86b6eb1a061e59e",
+      "source": "Defeat Death once at ",
+      "translation": "在以下条件下击败一次死神： ",
+      "context": "unlock-fragment",
+      "kind": "exact",
+      "status": "needs-review",
+      "note": "原始元数据字面量。动态片段必须在解锁条件生成入口/完整生成结果处理，不允许全局子串替换。"
+    },
+    {
+      "id": "unlock.literal.534ecc6fbeb60708895f",
+      "source": "Defeat Death once to unlock Tier 1 Cinder modifiers.",
+      "translation": "击败一次死神，解锁第 1 阶余烬修正。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始英文完整标签/消息独立翻译。"
+    },
+    {
+      "id": "unlock.literal.4b1d373769d0ccd7e719",
+      "source": "Enemy ##Health From Cinder",
+      "translation": "余烬提供的敌人##生命",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始英文完整标签/消息独立翻译。"
+    },
+    {
+      "id": "unlock.literal.412d9d9b0022d105f13f",
+      "source": "Try Cinder!",
+      "translation": "试试余烬模式！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原始英文完整标签/消息独立翻译。"
+    },
+    {
+      "id": "unlock.native.cinder-tier",
+      "source": "Defeat Death once at <color=#DE6B1C>Cinder {number:level}</color> to unlock Tier {number:tier} Cinder modifiers.",
+      "translation": "在<color=#DE6B1C>余烬 {number:level}</color>下击败死神一次，即可解锁第 {number:tier} 阶余烬修正。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "原版元数据拼接片段和 CinderModifier.Description 原生输出共同确认；整句匹配，等级与阶数原样回填。"
+    }
+  ]
+}

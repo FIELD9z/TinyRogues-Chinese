@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "独立成长翻译：cinder",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "progression.asset.365d1ba3085669a75955",
+      "source": "Double-Edged Sword",
+      "translation": "双刃剑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54844"
+    },
+    {
+      "id": "progression.asset.638fc142447bf9be26a6",
+      "source": "Bosses have <color=#00E317>x0.75</color> Health<Heart> and Armor<Armor> in the first phase but <color=red>x1.25</color> in the second phase.",
+      "translation": "首领第一阶段的生命<Heart>与护甲<Armor>为<color=#00E317>x0.75</color>，第二阶段则为<color=red>x1.25</color>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54844"
+    },
+    {
+      "id": "progression.asset.1d8c1a04680089b05aef",
+      "source": "Inferior Arms",
+      "translation": "劣质武装",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54845"
+    },
+    {
+      "id": "progression.asset.710b82c02f1121a802a4",
+      "source": "Your starting Weapon has a Negative Enchantment.\n",
+      "translation": "初始武器带有负面附魔。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54845"
+    },
+    {
+      "id": "progression.asset.5756589bcee7300c0b30",
+      "source": "Occult Grounds",
+      "translation": "秘术之地",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54846"
+    },
+    {
+      "id": "progression.asset.2e19b51818847211253e",
+      "source": "Floors contain up to ((x3.00)) times more packs of Enchanted Enemies.",
+      "translation": "各楼层的附魔敌人群数量最多增至 ((x3.00)) 倍。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54846",
+      "protectedTokens": [
+        "(x3.00)"
+      ]
+    },
+    {
+      "id": "progression.asset.1abdb2debee09ee76974",
+      "source": "Warming Up",
+      "translation": "热身",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54847"
+    },
+    {
+      "id": "progression.asset.e9bba6a4e73950035381",
+      "source": "Stamina Recovery Speed<sprite name=\"Stamina\"> is delayed by ((+3)) seconds on Floor 1, ((+2)) seconds on Floor 2 and ((+1)) second on Floor 3.",
+      "translation": "第 1 层的耐力恢复<sprite name=\"Stamina\">延迟 ((+3)) 秒，第 2 层延迟 ((+2)) 秒，第 3 层延迟 ((+1)) 秒。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54847",
+      "protectedTokens": [
+        "(+1)",
+        "(+2)",
+        "(+3)"
+      ]
+    },
+    {
+      "id": "progression.asset.ccd5c88f2dcb5b264321",
+      "source": "Afterlife Express",
+      "translation": "来世特快",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54848"
+    },
+    {
+      "id": "progression.asset.2f8b529186286b5df6c6",
+      "source": "Reapers can now spawn regardless of how Cursed<Curse> you are.\nReapers gain Armor<Armor> and an additional ##Attack.",
+      "translation": "无论你有多少诅咒<Curse>，收割者都可能出现。\n收割者获得护甲<Armor>，并多出一种##攻击。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54848"
+    },
+    {
+      "id": "progression.asset.5038ef86b6bda80365e2",
+      "source": "Monster Jam",
+      "translation": "怪物狂欢",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54849"
+    },
+    {
+      "id": "progression.asset.30edfc37e8f79e8b5a7d",
+      "source": "You sometimes encounter Rooms filled to the brink with Enemies.",
+      "translation": "你有时会遇到挤满敌人的房间。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54849"
+    },
+    {
+      "id": "progression.asset.3b5c2ce2b4f2e6b18bd3",
+      "source": "Remote Guardians",
+      "translation": "远程守卫",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54850"
+    },
+    {
+      "id": "progression.asset.fa1392b403c799c2885e",
+      "source": "Bosses are accompanied by ((2)) random Guardian Automatons.",
+      "translation": "首领会有 ((2)) 个随机守卫自动机随行。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54850",
+      "protectedTokens": [
+        "(2)"
+      ]
+    },
+    {
+      "id": "progression.asset.99aefafe3970dbee2129",
+      "source": "Unjust Incentive",
+      "translation": "不公的诱惑",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54851"
+    },
+    {
+      "id": "progression.asset.e29d2ed13e957dfdf3d9",
+      "source": "Some Doors require sacrificing\n((1)) Heart<sprite name=\"Heart\"> to open them.",
+      "translation": "某些门需要牺牲\n((1)) 颗红心<sprite name=\"Heart\">才能打开。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54851",
+      "protectedTokens": [
+        "(1)"
+      ]
+    },
+    {
+      "id": "progression.asset.d8c777750fa5fec52cf1",
+      "source": "Archnemesis",
+      "translation": "宿敌",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54852"
+    },
+    {
+      "id": "progression.asset.7226c534eff3bfc513a8",
+      "source": "Bosses, Mimics and Basilisks are Enchanted.\n<color=grey>(Bosses don't receive any Health<sprite name=Heart> or Armor<sprite name=Armor> bonus from being enchanted.)</color>",
+      "translation": "首领、宝箱怪与蛇怪都带有附魔。\n<color=grey>（首领不会因附魔而额外获得生命<sprite name=Heart>或护甲<sprite name=Armor>加成。）</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54852"
+    },
+    {
+      "id": "progression.asset.217e65df7a557efa1a05",
+      "source": "Calamitous Visions",
+      "translation": "灾厄幻象",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54853"
+    },
+    {
+      "id": "progression.asset.b7898c519d63ce0808d5",
+      "source": "New oppressive Enemy Enchantments can appear.",
+      "translation": "可能出现新的强力敌人附魔。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54853"
+    },
+    {
+      "id": "progression.asset.57e2c1f0e520d8d92d93",
+      "source": "Defensive Measures",
+      "translation": "防御措施",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54854"
+    },
+    {
+      "id": "progression.asset.84a0fc29c72b5d04f619",
+      "source": "Enchanted Enemies have a ((20%)) chance to gain an additional Defensive Modifier.",
+      "translation": "附魔敌人有 ((20%)) 几率获得额外的防御词缀。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54854",
+      "protectedTokens": [
+        "(20%)"
+      ]
+    },
+    {
+      "id": "progression.asset.d7608cf469ed48eb4441",
+      "source": "Ebb and Flow",
+      "translation": "潮起潮落",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54855"
+    },
+    {
+      "id": "progression.asset.9a8bb1d563317f367682",
+      "source": "Floor 1 has 3 fewer rooms.\nFloor 2 has 2 fewer rooms.\nFloor 3 has 1 fewer room.\nFloor 8 has 1 more room.\nFloor 9 has 2 more rooms.\nFloor 10 has 3 more rooms.",
+      "translation": "第 1 层减少 3 个房间。\n第 2 层减少 2 个房间。\n第 3 层减少 1 个房间。\n第 8 层增加 1 个房间。\n第 9 层增加 2 个房间。\n第 10 层增加 3 个房间。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54855"
+    },
+    {
+      "id": "progression.asset.69abdfd7f5553612af9b",
+      "source": "Centurion Hunter",
+      "translation": "百夫长猎手",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54856"
+    },
+    {
+      "id": "progression.asset.8281345cce633fa7cf9f",
+      "source": "A Centurion Hunter Automaton will sometimes invade combat encounters and ##attack you.",
+      "translation": "百夫长猎手自动机有时会闯入战斗并##攻击你。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54856"
+    },
+    {
+      "id": "progression.asset.38025cd4d6f97493a9d3",
+      "source": "Conquerors Will",
+      "translation": "征服者意志",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54857"
+    },
+    {
+      "id": "progression.asset.a4364f78fc400a9918a0",
+      "source": "You and your Companions<Companion> deal ((x0.50)) Damage when entering Phase 1 and Phase 2 of Boss Encounters.\nThis penalty decays over 20 seconds, in steps of ((x0.05)).",
+      "translation": "进入首领战第 1、第 2 阶段时，你与同伴<Companion>造成的伤害为 ((x0.50))。\n该惩罚会在 20 秒内以 ((x0.05)) 为步长逐渐消退。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54857",
+      "protectedTokens": [
+        "(x0.05)",
+        "(x0.50)"
+      ]
+    },
+    {
+      "id": "progression.asset.1f4ada312b2642988588",
+      "source": "Pestilence",
+      "translation": "瘟疫",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54858"
+    },
+    {
+      "id": "progression.asset.0c9506159b5dae100788",
+      "source": "Rooms have a chance to contain an Infested Enemy.\nInfested Enemies explode on Death, spreading the Infestation to other Enemies.",
+      "translation": "房间有几率出现感染敌人。\n感染敌人死亡时会爆炸，将感染传播给其他敌人。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54858"
+    },
+    {
+      "id": "progression.asset.d0529bc361e68d050561",
+      "source": "Twice Enchanted",
+      "translation": "双重附魔",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54859"
+    },
+    {
+      "id": "progression.asset.ad0386465a7f3429fed3",
+      "source": "Enchanted Enemies have a ((50%)) chance to gain an additional Secondary Modifier.",
+      "translation": "附魔敌人有 ((50%)) 几率获得额外的次级词缀。",
+      "context": "description-template",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版英文独立翻译；Cinder_System.CinderModifier / resources.assets / 54859",
+      "protectedTokens": [
+        "(50%)"
+      ]
+    }
+  ]
+}
