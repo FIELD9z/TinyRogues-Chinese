@@ -336,6 +336,105 @@
       "kind": "template",
       "status": "translated",
       "note": "根据原版属性教程拼接字面量建立整段模板；只匹配完整三行消息。食物名须有独立译文，颜色和数值原样保留。顺序变体待实际教程流程核验。"
+    },
+    {
+      "id": "tutorial.opening.3950ea7de68e286b",
+      "source": "Splendid!\nI ask you to take a step back.",
+      "translation": "很好！\n请先后退一步。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.dcc6af68b7289469",
+      "source": "Haha!\nYou're a natural.\nLet's meet in the next room.",
+      "translation": "哈哈！\n你很有天赋。\n下个房间见。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.f37b8deb04c7cf16",
+      "source": "Time for a real battle.\nWe shall meet again\nin the next room!",
+      "translation": "该来场真正的战斗了。\n我们在\n下个房间再见！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.89927ec38f8a10de",
+      "source": "To defeat stronger foes, you\nwill have to arm yourself.",
+      "translation": "要击败更强的敌人，\n你得先准备好装备。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.b651e53bef6e5e22",
+      "source": "Well done!\nNow bear with me for a moment.",
+      "translation": "干得好！\n请再听我说几句。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.b399c4c0bc719de2",
+      "source": "That is all I can teach you for now.\nThe rest you will figure\nout on your own.",
+      "translation": "目前我能教你的就这些了。\n剩下的要靠你\n自己摸索。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.262a7ecbfad4fdf4",
+      "source": "Now you are good to go!\nGo get em tiger!",
+      "translation": "现在你已经准备好了！\n大展身手吧！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.23e5be6348766039",
+      "source": "Move with <color=#A61FFF>{key:up}</color>, <color=#A61FFF>{key:left}</color>,\n<color=#A61FFF>{key:down}</color> and <color=#A61FFF>{key:right}</color>.",
+      "translation": "使用 <color=#A61FFF>{key:up}</color>、<color=#A61FFF>{key:left}</color>、\n<color=#A61FFF>{key:down}</color> 和 <color=#A61FFF>{key:right}</color> 移动。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.5f82457a873c0f9f",
+      "source": "You can dash, with <color=#A61FFF>{key:dash}</color>.\nWhile dashing, you are\ninvincible.\nDashing costs 1 <color=#6BBD30>Stamina</color><sprite index=3 > !",
+      "translation": "按 <color=#A61FFF>{key:dash}</color> 可以冲刺。\n冲刺期间，\n你处于无敌状态。\n冲刺消耗 1 点<color=#6BBD30>耐力</color><sprite index=3 >！",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.fda780b4002aef47",
+      "source": "You can use Bombs<sprite name=Bomb>, with <color=#A61FFF>{key:bomb}</color>.\nHere are some for later!",
+      "translation": "按 <color=#A61FFF>{key:bomb}</color> 可以使用炸弹<sprite name=Bomb>。\n这些留给你，之后会用得上！",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
+    },
+    {
+      "id": "tutorial.opening.6900e8da100fb358",
+      "source": "Splendid!\nNow attack the target dummy\nwith <color=#A61FFF>{key:attack}</color>!\nShow it who's boss!",
+      "translation": "很好！\n现在按 <color=#A61FFF>{key:attack}</color>\n攻击训练假人！\n让它见识你的厉害！",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "开局教程；完整静态句来自原版元数据，按键模板根据实际游戏完整对话记录建立。按键原样回填。"
     }
   ]
 }

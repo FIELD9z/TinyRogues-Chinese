@@ -20,6 +20,7 @@ public sealed class RuntimeVerification : MonoBehaviour
     private int _largest;
     private bool _sawChinese;
     private int _phase;
+    private string[] _keyWords = Array.Empty<string>();
     private Il2CppSystem.Action? _choiceCallback;
     private Il2CppSystem.Collections.Generic.List<UI.Text.Tag_Boxes.ITooltip>? _choiceTooltips;
     public RuntimeVerification(IntPtr pointer) : base(pointer) { }
@@ -42,7 +43,9 @@ public sealed class RuntimeVerification : MonoBehaviour
                 _started = true;
             }
             var visible = Regex.Replace(controller.text.text ?? "", "<[^>]*>", "");
-            if (Regex.IsMatch(visible, "[A-Za-z]{2,}")) throw new InvalidOperationException("English appeared during translated typewriter.");
+            foreach (Match word in Regex.Matches(visible, "[A-Za-z]{2,}"))
+                if (!_keyWords.Any(key => key.StartsWith(word.Value, StringComparison.Ordinal)))
+                    throw new InvalidOperationException("Unexpected English appeared during translated typewriter: " + word.Value);
             _sawChinese |= Regex.IsMatch(visible, "[\u4e00-\u9fff]");
             _largest = Math.Max(_largest, controller.currentLetterCount);
             _samples++;
@@ -50,11 +53,11 @@ public sealed class RuntimeVerification : MonoBehaviour
             if (!_sawChinese || _largest < 2) throw new InvalidOperationException("Native Chinese typewriter did not advance.");
             var font = controller.text.font;
             if (font == null || !font.HasCharacter('谁', true, true)) throw new InvalidOperationException("Independent Chinese fallback font failed glyph coverage.");
-            if (_phase == 3)
+            if (_phase == 9)
             {
                 controller.text.ForceMeshUpdate(true, true);
                 if (controller.text.textInfo.characterCount < 4 || controller.text.mesh.vertexCount < 4) throw new InvalidOperationException("Native Chinese dialogue mesh was not generated.");
-                Plugin.Current.Info($"INDEPENDENT SELFTEST PASS: native UI exact/template/styling, Chinese font, three dialogue entrances and choice metadata, descriptions, whole food tutorial and native typewriter ({_samples} frames). No legacy translator loaded.");
+                Plugin.Current.Info($"INDEPENDENT SELFTEST PASS: native UI exact/template/styling, Chinese font, three dialogue entrances and choice metadata, descriptions, whole food tutorial, six captured opening tutorial messages and native typewriter ({_samples} frames). No legacy translator loaded.");
                 _finished = true;
                 _exitAt = Time.unscaledTime + 1;
                 return;
@@ -73,10 +76,22 @@ public sealed class RuntimeVerification : MonoBehaviour
     }
     private void StartMessage(DialogueSystemController controller)
     {
-        var source = _phase == 3 ? "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence." : "Nothing can stop me!";
+        var opening = new[] {
+            "Move with <color=#A61FFF>W</color>, <color=#A61FFF>A</color>,\n<color=#A61FFF>S</color> and <color=#A61FFF>D</color>.",
+            "You can dash, with <color=#A61FFF>Space</color>.\nWhile dashing, you are\ninvincible.\nDashing costs 1 <color=#6BBD30>Stamina</color><sprite index=3 > !",
+            "You can use Bombs<sprite name=Bomb>, with <color=#A61FFF>Q</color>.\nHere are some for later!",
+            "Splendid!\nNow attack the target dummy\nwith <color=#A61FFF>Mouse Left</color>!\nShow it who's boss!",
+            "Haha!\nYou're a natural.\nLet's meet in the next room.",
+            "To defeat stronger foes, you\nwill have to arm yourself."
+        };
+        var source = _phase >= 4 ? opening[_phase - 4] : _phase == 3 ? "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence." : "Nothing can stop me!";
         var expected = Plugin.Current.Translate(source, "dialogue", false);
+        // Binding names intentionally remain unchanged (Space, Mouse Left, etc.).
+        // Native typewriting may currently show only a prefix of that binding.
+        _keyWords = Regex.Matches(source, "<color=#A61FFF>([^<]+)</color>").Cast<Match>()
+            .SelectMany(binding => Regex.Matches(binding.Groups[1].Value, "[A-Za-z]+").Cast<Match>().Select(word => word.Value)).ToArray();
         if (!Regex.IsMatch(expected, "[\u4e00-\u9fff]")) throw new InvalidOperationException("Diagnostic dialogue absent from independent catalog.");
-        if (_phase == 0 || _phase == 3) controller.ShowMessage(source, Vector2.zero, 20f, null, null, false);
+        if (_phase == 0 || _phase >= 3) controller.ShowMessage(source, Vector2.zero, 20f, null, null, false);
         else if (_phase == 1) controller.PromptMessage(source, Vector2.zero, (Il2CppSystem.Action?)null, null, false);
         else
         {
