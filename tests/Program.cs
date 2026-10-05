@@ -127,6 +127,20 @@ foreach (var soulSource in new[] {
     Check(soulTarget.Contains("37") && soulTarget.Contains("灵魂") && !soulTarget.Contains("Grants"), "Soul reward missed a raw/partially styled/fully styled stage or depended on amount 5");
     Check(System.Text.RegularExpressions.Regex.Matches(soulSource, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(soulTarget, "<[^>]*>").Select(m => m.Value)), "Soul reward changed a color or icon tag");
 }
+var cinderStats = Tr(catalog, "Highest Cinder Win Ever: 17\nCinder Sum High Score: 38\nAverage: 4.5\nAverage Of Last 5: NaN", "ui:Canvas/Cinder Menu/Panel/Cinder Modifier Description");
+Check(cinderStats == "获胜时的最高余烬等级：17\n余烬总和最高纪录：38\n平均值：4.5\n最近 5 局平均值：NaN", "Cinder statistics confused values or retained a fixed zero-state translation");
+Check(Tr(catalog, "<color=#ABCDEF>37</color>/<color=#123456>81</color> Points", "styled-ui") == "<color=#ABCDEF>37</color>/<color=#123456>81</color> 点", "Progress points depended on one color or changed counters");
+Check(Tr(catalog, "Progress beyond floor 7.\nHigh Score: Floor 11", "ui:Canvas/World Objective/Description Text") == "推进至第 7 层之后。\n最高纪录：第 11 层", "Objective and high score were interchanged");
+Check(Tr(catalog, "<color=#A1B2C3>Cinder 19</color>", "styled-input") == "<color=#A1B2C3>余烬 19</color>", "Cinder label required an unrelated context or a fixed style color");
+Check(!catalog.TryTranslateLabel("Have 7 unknown future objects equipped at the same time.\nHigh Score: 2/7 Objects Equipped", "styled-ui", out _), "Unknown objective was silently translated by a broad fragment rule");
+var flaskHint = "Oh, and if you run into any trouble,\ndon't forget you can use your Flask<sprite name=Flask>\nwith holding <color=#A61FFF>Mouse 5</color> to recover a <color=#FF3326>Heart</color><sprite name=\"Heart\">.";
+var flaskHintTarget = Tr(catalog, flaskHint, "dialogue");
+Check(flaskHintTarget.Contains("Mouse 5") && flaskHintTarget.Contains("回复一颗") && !flaskHintTarget.Contains("recover"), "Flask tutorial lost its complete message or actual key binding");
+Check(System.Text.RegularExpressions.Regex.Matches(flaskHint, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(flaskHintTarget, "<[^>]*>").Select(m => m.Value)), "Flask tutorial changed icon/color order");
+var decoratedTitle = string.Concat("BACKUP ARMORY".Select((letter, index) => $"<color={(index % 2 == 0 ? "#FF0000" : "#00FF00")}>{letter}</color>"));
+Check(catalog.TryTranslateLabel(decoratedTitle, "ui:Canvas/Main Header", out var decoratedTarget) && System.Text.RegularExpressions.Regex.Replace(decoratedTarget, "<[^>]*>", "") == "备用军械库", "A complete title with individually colored glyphs missed its translation");
+Check(System.Text.RegularExpressions.Regex.Matches(decoratedTitle, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(decoratedTarget, "<[^>]*>").Select(m => m.Value)), "Decorated title adapter discarded or reordered color tags");
+Check(!catalog.TryTranslateLabel(string.Concat("UNKNOWN FUTURE TITLE".Select(letter => $"<color=#FF0000>{letter}</color>")), "ui:Canvas/Main Header", out _), "Decorated unknown title was translated by fragments");
 Console.WriteLine($"PASS: {checks} behavioral checks; {catalog.EntryCount} independently authored active entries across {files.Length} packs.");
 return 0;
 }

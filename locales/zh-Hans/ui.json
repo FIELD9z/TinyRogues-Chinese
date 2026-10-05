@@ -889,7 +889,7 @@
     {
       "id": "ui.asset.67beb7c8f5cda84f65d6",
       "source": "Highest Cinder Win Ever: 0\nCinder Sum High Score: 0\nAverage: NaN\nAverage Of Last 5: NaN",
-      "translation": "历史最高灰烬胜利：0\n灰烬总分最高：0\n平均值：NaN\n最近 5 次平均值：NaN",
+      "translation": "获胜时的最高余烬等级：0\n余烬总和最高纪录：0\n平均值：NaN\n最近 5 局平均值：NaN",
       "context": "*",
       "kind": "exact",
       "status": "translated",

@@ -1,0 +1,755 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "动态进度与奖励界面",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "parity.ui.2ccbf322ea06f527",
+      "source": "Wins: {number:wins}",
+      "translation": "胜场：{number:wins}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:3。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.14a7d8ae769a0576",
+      "source": "Wins:{number:wins}",
+      "translation": "胜场：{number:wins}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:3。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.9695d4d93b9ea822",
+      "source": "WINS: <color={key:color}>{number:wins}</color>",
+      "translation": "胜场：<color={key:color}>{number:wins}</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:10。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.b2937e30004705de",
+      "source": "{number:current}/{number:max} Points",
+      "translation": "{number:current}/{number:max} 点",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:5。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.50f6c96dfbe231c4",
+      "source": "{number:current}/{number:max} EXP",
+      "translation": "{number:current}/{number:max} 经验",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:6。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.c8a153e4a8837f11",
+      "source": "<color={key:a}>{number:current}</color>/<color={key:b}>{number:max}</color> Points",
+      "translation": "<color={key:a}>{number:current}</color>/<color={key:b}>{number:max}</color> 点",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:7。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.712d5ad66d714443",
+      "source": "{number:current}/{number:max} <color={key:color}>EXP</color>",
+      "translation": "{number:current}/{number:max} <color={key:color}>经验</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:9。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.65f0379872ae01cf",
+      "source": "<color={key:color}>Cinder {number:level}</color>",
+      "translation": "<color={key:color}>余烬 {number:level}</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:11。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.3cfe3cdd09faa71e",
+      "source": "<color={key:color}>+{number:amount}% MASTERY EXP</color>",
+      "translation": "<color={key:color}>+{number:amount}% 精通经验</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:12。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.d81cf11bb6691b58",
+      "source": "Defeat Death once at <color={key:color}>Cinder {number:level}</color> to unlock Tier {number:tier} Cinder modifiers.",
+      "translation": "在<color={key:color}>余烬 {number:level}</color>下击败一次死神，即可解锁第 {number:tier} 阶余烬修正。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:13。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.c87213a05e593aa5",
+      "source": "Highest Cinder Win Ever: {number:best}\nCinder Sum High Score: {number:sum}\nAverage: {key:average}\nAverage Of Last 5: {key:recent}",
+      "translation": "获胜时的最高余烬等级：{number:best}\n余烬总和最高纪录：{number:sum}\n平均值：{key:average}\n最近 5 局平均值：{key:recent}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:14。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.46fde5df42eb2c0f",
+      "source": "Progress beyond floor {number:floor}.\nHigh Score: Floor {number:best}",
+      "translation": "推进至第 {number:floor} 层之后。\n最高纪录：第 {number:best} 层",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:15。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.d4245e043340f642",
+      "source": "High Score: Floor {number:floor}",
+      "translation": "最高纪录：第 {number:floor} 层",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:17。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.cbb0a7e0b9ef16fb",
+      "source": "Have {number:count} charms equipped at the same time.\nHigh Score: {number:best}/{number:goal} Charms Equipped",
+      "translation": "同时装备 {number:count} 个护符。\n最高纪录：已装备 {number:best}/{number:goal} 个护符",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:18。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.2b4195248a40a0d7",
+      "source": "High Score: {number:best}/{number:goal} Charms Equipped",
+      "translation": "最高纪录：已装备 {number:best}/{number:goal} 个护符",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:20。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.1339f1872afd9a3a",
+      "source": "Use {number:count} keys.\nProgress: {number:current}/{number:goal} Keys Used",
+      "translation": "使用 {number:count} 把钥匙。\n进度：已使用 {number:current}/{number:goal} 把钥匙",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:21。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.5c941c6249a6423c",
+      "source": "Progress: {number:current}/{number:goal} Keys Used",
+      "translation": "进度：已使用 {number:current}/{number:goal} 把钥匙",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:23。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.16366b5d0bdc96dd",
+      "source": "Have at least {number:count} intelligence.\nHigh Score: {number:best}/{number:goal} Intelligence",
+      "translation": "智力至少达到 {number:count} 点。\n最高纪录：{number:best}/{number:goal} 点智力",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:24。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.b5f2bcbfbcc9eb26",
+      "source": "High Score: {number:best}/{number:goal} Intelligence",
+      "translation": "最高纪录：{number:best}/{number:goal} 点智力",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:26。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.fd91d198d97a89e8",
+      "source": "This gift unlocks at mastery level {number:level}.",
+      "translation": "精通等级达到 {number:level} 时解锁此赠礼。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:27。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.0287225c2cab638c",
+      "source": "Spend {number:amount} gold.\nProgress: {number:current}/{number:goal} Gold Spent",
+      "translation": "花费 {number:amount} 金币。\n进度：已花费 {number:current}/{number:goal} 金币",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:29。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.788bf06e4ac24f9b",
+      "source": "Defeat Death with {number:classes} different classes.\nProgress: {number:current}/{number:goal}",
+      "translation": "使用 {number:classes} 个不同职业击败死神。\n进度：{number:current}/{number:goal}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:30。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.a7baa2509357f097",
+      "source": "Upgrade a polearm or spear to level {number:level} without help from equipment items.\nHigh Score: Upgrade Level {number:best}",
+      "translation": "不借助装备物品，将长柄武器或长矛升级至 {number:level} 级。\n最高纪录：升级等级 {number:best}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:31。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.b7d6313351bd9672",
+      "source": "Upgrade a cannon or gun to level {number:level} without help from equipment items.\nHigh Score: Upgrade Level {number:best}",
+      "translation": "不借助装备物品，将火炮或枪械升级至 {number:level} 级。\n最高纪录：升级等级 {number:best}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:32。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.c1d84100ba32e9ac",
+      "source": "Defeat Death.\nProgress: {number:current}/{number:goal}",
+      "translation": "击败死神。\n进度：{number:current}/{number:goal}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:33。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.4b5bd1cc8ea6d2b5",
+      "source": "Lvl {number:level} - The Hero",
+      "translation": "等级 {number:level} - 英雄",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:34。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.33ab11392d6372c5",
+      "source": "Current Win Streak: <color=#DE6B1C>{key:wins}</color>\nCurrent Cinder Sum: <color=#DE6B1C>{key:sum}</color>\nCurrent Cinder Average: <color=#DE6B1C>{key:average}</color>\nCurrent Cinder Average Last 5: <color=#DE6B1C>{key:recent}</color>",
+      "translation": "当前连胜：<color=#DE6B1C>{key:wins}</color>\n当前余烬总和：<color=#DE6B1C>{key:sum}</color>\n当前余烬平均值：<color=#DE6B1C>{key:average}</color>\n最近 5 局余烬平均值：<color=#DE6B1C>{key:recent}</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:40。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.8e169c60388dc9a2",
+      "source": "Visit the tavern {number:count} times.\nProgress: {number:current}/{number:goal} Tavern Visits",
+      "translation": "前往酒馆 {number:count} 次。\n进度：已前往 {number:current}/{number:goal} 次",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:41。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.1a14fbaa666a63aa",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:count}</color> Accessory.",
+      "translation": "奖励选项中\n<color=#00E317>至少</color>包含\n<color=#00E317>{number:count}</color> 件饰品。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:55。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.75593d68a03bca63",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:count}</color> Charm.",
+      "translation": "奖励选项中\n<color=#00E317>至少</color>包含\n<color=#00E317>{number:count}</color> 个护符。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:58。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.b2a7af537a6ad426",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:count}</color> Offhand.",
+      "translation": "奖励选项中\n<color=#00E317>至少</color>包含\n<color=#00E317>{number:count}</color> 件副手物品。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:59。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.a75a8aa7fa22ec04",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:count}</color> Body Armor.",
+      "translation": "奖励选项中\n<color=#00E317>至少</color>包含\n<color=#00E317>{number:count}</color> 件胸甲。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:71。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.ed496cec167dcee8",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:count}</color> pair of Gloves.",
+      "translation": "奖励选项中\n<color=#00E317>至少</color>包含\n<color=#00E317>{number:count}</color> 双手套。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:72。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.9b71fb1e4eb334a3",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:count}</color> pair of Boots.",
+      "translation": "奖励选项中\n<color=#00E317>至少</color>包含\n<color=#00E317>{number:count}</color> 双靴子。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:92。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.22edd4c2af1b1a16",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:count}</color> Helmet.",
+      "translation": "奖励选项中\n<color=#00E317>至少</color>包含\n<color=#00E317>{number:count}</color> 件头盔。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:94。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.21d3ddae485305bc",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:count}</color> <color=#FFDB59>Rare</color> Item.",
+      "translation": "奖励选项中\n<color=#00E317>至少</color>包含\n<color=#00E317>{number:count}</color> 件<color=#FFDB59>稀有</color>物品。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:53。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.2edc13244a8c2559",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:count}</color> <color=#4CC2FF>Uncommon</color> Item.",
+      "translation": "奖励选项中\n<color=#00E317>至少</color>包含\n<color=#00E317>{number:count}</color> 件<color=#4CC2FF>优秀</color>物品。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:54。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.a219fc8e9c76d008",
+      "source": "Grants\n<color=#00E317>{number:min}</color> to <color=#00E317>{number:max}</color>\nDice.",
+      "translation": "获得\n<color=#00E317>{number:min}</color> 至 <color=#00E317>{number:max}</color> 个\n骰子。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:91。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.41a0d15dc4921c2a",
+      "source": "Floor {number:floor}",
+      "translation": "第 {number:floor} 层",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:60。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.e6313743bfb403fe",
+      "source": "Mastery\nLevel {number:level}",
+      "translation": "精通\n等级 {number:level}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:61。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.d60b7b88d8f26a03",
+      "source": "+{number:amount} EXP",
+      "translation": "+{number:amount} 经验",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:62。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.6e8694b758c06c2d",
+      "source": "You gain {number:luck} Luck at Level {number:a}, {number:b} and {number:c}.",
+      "translation": "在 {number:a}、{number:b} 和 {number:c} 级时，你各获得 {number:luck} 点幸运。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:4。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.edbde1959f927cfb",
+      "source": "You gain {number:luck} Luck<sprite name=\"Luck\"> at Level {number:a}, {number:b} and {number:c}.",
+      "translation": "在 {number:a}、{number:b} 和 {number:c} 级时，你各获得 {number:luck} 点幸运<sprite name=\"Luck\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:4。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.470865194ad8b905",
+      "source": "{number:speed} Tiles per second",
+      "translation": "{number:speed} 格/秒",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:45。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.f43d6410a5c993ab",
+      "source": "{number:duration} seconds",
+      "translation": "{number:duration} 秒",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:46。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.baa22edffe84053c",
+      "source": "{number:a}/{number:b} seconds",
+      "translation": "{number:a}/{number:b} 秒",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:46。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.038b06611f2c21bc",
+      "source": "<color=#00FF00>{number:a}/{number:b} seconds</color>",
+      "translation": "<color=#00FF00>{number:a}/{number:b} 秒</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:47。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.f13592f4e341d00b",
+      "source": "<color=#00E61A>{number:damage}</color> Top End Damage",
+      "translation": "<color=#00E61A>{number:damage}</color> 伤害上限",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:48。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.461ef64405967078",
+      "source": "Guaranteed Body Armor",
+      "translation": "保底胸甲",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:69。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.9cb14aad3a00cee2",
+      "source": "Elemental Focus",
+      "translation": "元素专注",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:67。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.fa43054851fcf72c",
+      "source": "<color=#A61FFF>Potion</color> <color=#A61FFF>Buffs</color> are <color=#00E317>permanent</color>.",
+      "translation": "<color=#A61FFF>药水</color><color=#A61FFF>增益</color>变为<color=#00E317>永久</color>效果。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:77。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.49ba3429bfddbaee",
+      "source": "Grants <color=#00E61A>+40%</color> <color=#FFFFFF>Attack Speed </color>with <color=#A61FFF>Weapons</color> that scale with <color=#26FF66>Dexterity</color>.",
+      "translation": "使用受<color=#26FF66>敏捷</color>补正的<color=#A61FFF>武器</color>时，获得<color=#00E61A>+40%</color><color=#FFFFFF>攻击速度。</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:78。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.1f465bb756430a96",
+      "source": "<color=#00E61A>+1</color> EXP\n<color=#00E61A>+1%</color> <color=#FFFFFF>Attack Speed</color>\n<color=#00E61A>+0.5%</color> Movement Speed\n",
+      "translation": "<color=#00E61A>+1</color> 经验\n<color=#00E61A>+1%</color> <color=#FFFFFF>攻击速度</color>\n<color=#00E61A>+0.5%</color> 移动速度\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:56。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.8886bf5db59c64c1",
+      "source": "Gain a new <color=#A61FFF>Trait</color>, at Level <color=#A61FFF>{number:level}</color>.\nPick up Food, to gain EXP and level up!\n(e.g.: <color=#FF2666>Steaks</color>, <color=#26FF66>Pears</color>, <color=#26B0FF><color=#26B0FF>Candy</color></color>, ...)\nGiven <color=#A61FFF>trait</color> choices are affected by your <color=#FF2666><color=#FF2666>Strength</color></color>, <color=#26FF66><color=#26FF66>Dexterity</color></color> and <color=#26B0FF><color=#26B0FF>Intelligence</color></color>.",
+      "translation": "达到 <color=#A61FFF>{number:level}</color> 级时，获得一个新的<color=#A61FFF>特质</color>。\n拾取食物可获得经验并升级！\n（例如：<color=#FF2666>牛排</color>、<color=#26FF66>梨</color>、<color=#26B0FF><color=#26B0FF>糖果</color></color>等）\n可选的<color=#A61FFF>特质</color>会受你的<color=#FF2666><color=#FF2666>力量</color></color>、<color=#26FF66><color=#26FF66>敏捷</color></color>和<color=#26B0FF><color=#26B0FF>智力</color></color>影响。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:49。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.70677f3c0405e166",
+      "source": "LUCKY START",
+      "translation": "幸运开局",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:42。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.a1daeb31e4773a05",
+      "source": "LUCKY  START",
+      "translation": "幸运开局",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:42。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.2b89306151822c1f",
+      "source": "LUCKY\nSTART",
+      "translation": "幸\n运开局",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:42。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.c7c955e536a44a9a",
+      "source": "BACKUP ARMORY",
+      "translation": "备用军械库",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:43。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.9bd314c4ffcb1515",
+      "source": "BACKUP  ARMORY",
+      "translation": "备用军械库",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:43。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.2afd02d709665c38",
+      "source": "BACKUP\nARMORY",
+      "translation": "备\n用军械库",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:43。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.ea1b984328a40077",
+      "source": "IN THE ELEVENTH HOUR",
+      "translation": "最后关头",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:44。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.b5e16712a1b17cc1",
+      "source": "IN  THE  ELEVENTH  HOUR",
+      "translation": "最后关头",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:44。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.b7a952f1357ac9c8",
+      "source": "IN\nTHE\nELEVENTH\nHOUR",
+      "translation": "最\n后\n关\n头",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:44。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.e2e77894f8638628",
+      "source": "Mastery Level{number:level}",
+      "translation": "精通等级 {number:level}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:2。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.62fa98d46f9d99e2",
+      "source": "•<indent=7px>Your damage rolls <color=red>twice</color> and takes the <color=red>lower</color> value.</indent>\n•<color=#00E61A>+1</color> Companion Capacity<sprite name=\"Companion\">",
+      "translation": "•<indent=7px>伤害数值会判定<color=red>两次</color>，并取其中<color=red>较低</color>的值。</indent>\n•<color=#00E61A>+1</color> 伙伴容量<sprite name=\"Companion\">",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:79。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.dc1489a659c56b62",
+      "source": "<color=#3B3B7A>Cursed Hits</color><sprite name=\"Curse\"> have <color=red>x0.50</color> chance\nfor <color=#A61FFF>Hit</color> Effects to happen.\n<color=#3B3B7A>Cursed Hit Chance</color><sprite name=\"Curse\">: {number:chance}%",
+      "translation": "<color=#3B3B7A>诅咒命中</color><sprite name=\"Curse\">触发\n<color=#A61FFF>命中</color>效果的几率为 <color=red>x0.50</color>。\n<color=#3B3B7A>诅咒命中几率</color><sprite name=\"Curse\">：{number:chance}%",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:83。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.2954c9d681dec8fc",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:count}</color> Set Item.",
+      "translation": "奖励选项中\n<color=#00E317>至少</color>包含\n<color=#00E317>{number:count}</color> 件套装物品。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:92。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.03eb012ed87a976a",
+      "source": "<color=#FCC926>Price:</color> <color=#FFFFFF>{number:price}</color> <color=#FCC926>Gold<sprite name=\"Gold\"></color>",
+      "translation": "<color=#FCC926>价格：</color> <color=#FFFFFF>{number:price}</color> <color=#FCC926>金币<sprite name=\"Gold\"></color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:99。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.6437f6ecd59b09a3",
+      "source": "{key:key}<sprite name=\"Arrow_Right\">Use <color=#FCC926>Key<sprite name=\"Key\"></color>\nto open.",
+      "translation": "{key:key}<sprite name=\"Arrow_Right\">使用<color=#FCC926>钥匙<sprite name=\"Key\"></color>\n开门。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:100。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.1f112bf831b3438e",
+      "source": "Refills <color=#00E317>{number:count}</color> Flask.",
+      "translation": "补充 <color=#00E317>{number:count}</color> 次药瓶使用次数。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:106。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.036f288ab4d5df89",
+      "source": "Any interaction in\nthe Black Market\nwill add <color=#00E317>+1</color> <color=#FF0000>Evil</color><sprite name=\"Evil\">\nonce per run.",
+      "translation": "每局首次在\n黑市进行任何互动\n都会增加 <color=#00E317>+1</color> <color=#FF0000>邪恶</color><sprite name=\"Evil\">\n每局仅触发一次。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:111。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.9b36f8f53a9aa9d0",
+      "source": "Highest Cinder Level Win Ever: <color={key:a}>{number:best}</color>\nHighest Win Streak: <color={key:b}>{number:wins}</color>\nHighest Cinder Sum: <color={key:c}>{number:sum}</color>\nAverage Cinder: <color={key:d}>{key:average}</color>\nAverage Cinder Of Last {number:count}: <color={key:e}>{key:recent}</color>",
+      "translation": "获胜时的最高余烬等级：<color={key:a}>{number:best}</color>\n最高连胜：<color={key:b}>{number:wins}</color>\n余烬总和最高纪录：<color={key:c}>{number:sum}</color>\n余烬平均值：<color={key:d}>{key:average}</color>\n最近 {number:count} 局余烬平均值：<color={key:e}>{key:recent}</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:124。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.76eb4eb8a5f83304",
+      "source": "<color=#6BBD30>Stam. Rec. Time</color>: <color=#00E317>{number:duration} seconds</color>",
+      "translation": "<color=#6BBD30>耐力恢复时间</color>：<color=#00E317>{number:duration} 秒</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:131。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.2777d4c3f69da0b1",
+      "source": "Upgrade Weapons\nand repair\n<color=#406E7D>Armor</color><sprite name=\"Armor\">.",
+      "translation": "升级武器\n并修复\n<color=#406E7D>护甲</color><sprite name=\"Armor\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:136。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.d9c2b1a717a342f2",
+      "source": "Your Power: <color=#00E317>{number:power}</color>\n<sprite name=\"SubArrow\"><color=#00E317>{number:damage}</color> Damage\n<sprite name=\"SubArrow\"><color=#00E317>{number:radius}</color> Area Radius",
+      "translation": "你的威力：<color=#00E317>{number:power}</color>\n<sprite name=\"SubArrow\"><color=#00E317>{number:damage}</color> 伤害\n<sprite name=\"SubArrow\"><color=#00E317>{number:radius}</color> 范围半径",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:137。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.20a694b916645683",
+      "source": "<color=#3B3B7A>Curses</color><sprite name=\"Curse\"> you.",
+      "translation": "对你施加<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:149。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.67257a1b4dfb2da5",
+      "source": "Oh, and if you run into any trouble,\ndon't forget you can use your Flask<sprite name=Flask>\nwith holding <color=#A61FFF>{key:flask}</color> to recover a <color=#FF3326>Heart</color><sprite name=\"Heart\">.",
+      "translation": "如果遇到麻烦，\n别忘了使用药瓶<sprite name=Flask>\n按住 <color=#A61FFF>{key:flask}</color> 可回复一颗<color=#FF3326>红心</color><sprite name=\"Heart\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:171。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.87ea77ef30f38fd4",
+      "source": "> <color=#FFEB04>Red</color>",
+      "translation": "> <color=#FFEB04>红色</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:144。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.5af35e0d65c35032",
+      "source": "<color=#808080>Red</color>",
+      "translation": "<color=#808080>红色</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:145。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.a9f39750becc39d7",
+      "source": "> <color=#FFEB04>Green</color>",
+      "translation": "> <color=#FFEB04>绿色</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:144。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.0a606c9195057406",
+      "source": "<color=#808080>Green</color>",
+      "translation": "<color=#808080>绿色</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:145。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.c19bf91989f989e9",
+      "source": "> <color=#FFEB04>Blue</color>",
+      "translation": "> <color=#FFEB04>蓝色</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:144。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "parity.ui.6a615144024fc4b1",
+      "source": "<color=#808080>Blue</color>",
+      "translation": "<color=#808080>蓝色</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:145。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    }
+  ]
+}

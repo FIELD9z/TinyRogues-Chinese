@@ -294,6 +294,13 @@ public sealed class Catalog
         if (TryTranslate(source, context, out target)) return true;
         if (string.IsNullOrEmpty(source) || source.Length > 12000) return false;
         if (WeaponCards.TryTranslate(this, source, out target)) return true;
+        // Some titles color each Latin glyph separately. Resolve only a known
+        // complete label; keep the original tag sequence and reject unknown prose.
+        if (Regex.Matches(source, @"<color=[^<>]+>[A-Za-z ]</color>", RegexOptions.CultureInvariant).Count >= 4)
+        {
+            if (TryTranslateRichLine(source, context, out target)) return true;
+            if (context != "*" && TryTranslateRichLine(source, "*", out target)) return true;
+        }
         var wrapped = Label.Match(source);
         if (!wrapped.Success) return false;
         var prefix = wrapped.Groups["prefix"].Value;
