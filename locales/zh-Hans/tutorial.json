@@ -462,6 +462,132 @@
       "kind": "exact",
       "status": "translated",
       "note": "默认键鼠提示使用中文按键名称；其他改键和手柄仍通过完整句模板保留实际按键。"
+    },
+    {
+      "id": "tutorial.actual-gap.tutorial.json.0",
+      "source": "<color=#26FF66>Pears</color> increase your <color=#26FF66>Dexterity</color>,\n<color=#FF2666>Meat</color> increases your <color=#FF2666>Strength</color>\nand <color=#26B0FF>Candy</color> increases your <color=#26B0FF>Intelligence</color>.",
+      "translation": "<color=#26FF66>梨</color>提高<color=#26FF66>敏捷</color>，\n<color=#FF2666>肉</color>提高<color=#FF2666>力量</color>，\n<color=#26B0FF>糖果</color>提高<color=#26B0FF>智力</color>。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-05 实际游戏完整输出漏翻回归；保留原始颜色、图标、数值和换行，独立撰写中文。"
+    },
+    {
+      "id": "tutorial.actual-gap.tutorial.json.1",
+      "source": "<color=#FF2666>Strength</color>, <color=#26FF66>Dexterity</color> and <color=#26B0FF>Intelligence</color>\nscale your damage.",
+      "translation": "<color=#FF2666>力量</color>、<color=#26FF66>敏捷</color>和<color=#26B0FF>智力</color>\n会提升你的伤害。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-05 实际游戏完整输出漏翻回归；保留原始颜色、图标、数值和换行，独立撰写中文。"
+    },
+    {
+      "id": "tutorial.actual-gap.tutorial.json.2",
+      "source": "The grading letters in the colors of\n<color=#FF2666>Strength</color>, <color=#26FF66>Dexterity</color> and <color=#26B0FF>Intelligence</color>\ndecide how high you can scale the damage.",
+      "translation": "颜色分别对应\n<color=#FF2666>力量</color>、<color=#26FF66>敏捷</color>和<color=#26B0FF>智力</color>的字母评级，\n决定各项属性对伤害的补正强度。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-05 实际游戏完整输出漏翻回归；保留原始颜色、图标、数值和换行，独立撰写中文。"
+    },
+    {
+      "id": "tutorial.skill-followup.0",
+      "source": "Long time no see!\nI just remembered, I forgot to\nteach you about <color=#A61FFF>Skills</color>.",
+      "translation": "好久不见！\n我刚想起来，还没教你\n怎么使用<color=#A61FFF>技能</color>。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "旧英文规则及原始教程语境交叉检查补齐；独立撰写中文，尚未取得本次实际游玩输出。"
+    },
+    {
+      "id": "tutorial.skill-followup.1",
+      "source": "If you haven't figured it out yet,\nyou can use your <color=#A61FFF>Skill</color> with <color=#FCC926>Mouse Right</color>.",
+      "translation": "如果你还不知道，\n使用<color=#A61FFF>技能</color>可以按<color=#FCC926>鼠标右键</color>。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "旧英文规则及原始教程语境交叉检查补齐；独立撰写中文，尚未取得本次实际游玩输出。"
+    },
+    {
+      "id": "tutorial.skill-followup.2",
+      "source": "You can inspect your <color=#A61FFF>Skill</color>\nin the <color=#FCC926>Character Panel</color>.\nRemember, you can open it with <color=#FCC926>[C]</color>.",
+      "translation": "你可以查看自己的<color=#A61FFF>技能</color>，\n它显示在<color=#FCC926>角色面板</color>中。\n记住，按<color=#FCC926>[C]</color>就能打开面板。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "旧英文规则及原始教程语境交叉检查补齐；独立撰写中文，尚未取得本次实际游玩输出。"
+    },
+    {
+      "id": "tutorial.skill-followup.3",
+      "source": "While <color=#26B0FF>Per Room</color> and <color=#26B0FF>Per Second</color>\nare quite self explanatory,\n<color=#26B0FF>Per Enemy</color> generates <color=#26B0FF>Mana<sprite name=Mana></color> as you\ninflict damage to an Enemy.",
+      "translation": "<color=#26B0FF>每个房间</color>和<color=#26B0FF>每秒</color>恢复的方式\n都很直观；\n<color=#26B0FF>每个敌人</color>恢复会产生<color=#26B0FF>法力<sprite name=Mana></color>，\n条件是对敌人造成伤害。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "旧英文规则及原始教程语境交叉检查补齐；独立撰写中文，尚未取得本次实际游玩输出。"
+    },
+    {
+      "id": "tutorial.skill-followup.4",
+      "source": "If you ever wonder what aspects of your <color=#A61FFF>Skill</color>\nare influenced by the <color=#A61FFF>Skill Effect</color> Stat,\nmake sure to check if the <sprite name=\"Skill\"> <color=#00E61A>Icon</color>\nis next to the value.",
+      "translation": "如果想知道<color=#A61FFF>技能</color>的哪些数值\n会受<color=#A61FFF>技能效果</color>属性影响，\n请留意数值旁边\n是否有 <sprite name=\"Skill\"> <color=#00E61A>图标</color>。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "旧英文规则及原始教程语境交叉检查补齐；独立撰写中文，尚未取得本次实际游玩输出。"
+    },
+    {
+      "id": "tutorial.skill-followup.5",
+      "source": "Bosses count as multiple Enemies,\nso you can generate more <color=#26B0FF>Mana<sprite name=Mana></color>\nwhen fighting against them.",
+      "translation": "首领会被计作多个敌人，\n因此与首领战斗时\n能产生更多<color=#26B0FF>法力<sprite name=Mana></color>。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "旧英文规则及原始教程语境交叉检查补齐；独立撰写中文，尚未取得本次实际游玩输出。"
+    },
+    {
+      "id": "tutorial.skill-followup.6",
+      "source": "Every class has a different <color=#A61FFF>Skill</color> and\n<color=#A61FFF>Skills</color> come in a variety of\nshapes and forms.",
+      "translation": "每个职业都有不同的<color=#A61FFF>技能</color>，\n这些<color=#A61FFF>技能</color>\n各具特色。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "旧英文规则及原始教程语境交叉检查补齐；独立撰写中文，尚未取得本次实际游玩输出。"
+    },
+    {
+      "id": "tutorial.skill-followup.7",
+      "source": "For example:\n<color=#A61FFF>Skills</color> can have 3 different kinds\nof <color=#26B0FF>Mana Recovery<sprite name=Mana></color>.",
+      "translation": "例如：\n<color=#A61FFF>技能</color>有 3 种不同的\n<color=#26B0FF>法力恢复<sprite name=Mana></color>方式。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "旧英文规则及原始教程语境交叉检查补齐；独立撰写中文，尚未取得本次实际游玩输出。"
+    },
+    {
+      "id": "tutorial.skill-followup.8",
+      "source": "But be careful!\n<color=#A61FFF>Skills</color> cost <color=#26B0FF>Mana<sprite name=Mana></color>!",
+      "translation": "但要注意！\n使用<color=#A61FFF>技能</color>需要消耗<color=#26B0FF>法力<sprite name=Mana></color>！",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "旧英文规则及原始教程语境交叉检查补齐；独立撰写中文，尚未取得本次实际游玩输出。"
+    },
+    {
+      "id": "tutorial.skill-followup.binding.1",
+      "source": "If you haven't figured it out yet,\nyou can use your <color=#A61FFF>Skill</color> with <color=#FCC926>{key:binding}</color>.",
+      "translation": "如果你还不知道，\n使用<color=#A61FFF>技能</color>可以按<color=#FCC926>{key:binding}</color>。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整技能教学句的改键版本，保留实际按键。"
+    },
+    {
+      "id": "tutorial.skill-followup.binding.2",
+      "source": "You can inspect your <color=#A61FFF>Skill</color>\nin the <color=#FCC926>Character Panel</color>.\nRemember, you can open it with <color=#FCC926>{key:binding}</color>.",
+      "translation": "你可以查看自己的<color=#A61FFF>技能</color>，\n它显示在<color=#FCC926>角色面板</color>中。\n记住，按<color=#FCC926>{key:binding}</color>就能打开面板。",
+      "context": "dialogue",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整技能教学句的改键版本，保留实际按键。"
     }
   ]
 }

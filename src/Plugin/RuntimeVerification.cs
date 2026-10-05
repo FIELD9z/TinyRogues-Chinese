@@ -20,6 +20,7 @@ public sealed class RuntimeVerification : MonoBehaviour
     private int _largest;
     private bool _sawChinese;
     private int _phase;
+    private string[] _opening = Array.Empty<string>();
     private string[] _keyWords = Array.Empty<string>();
     private Il2CppSystem.Action? _choiceCallback;
     private Il2CppSystem.Collections.Generic.List<UI.Text.Tag_Boxes.ITooltip>? _choiceTooltips;
@@ -31,7 +32,7 @@ public sealed class RuntimeVerification : MonoBehaviour
         if (_finished) return;
         try
         {
-            if (Time.unscaledTime - _begin > 40) throw new InvalidOperationException("Native diagnostic timed out.");
+            if (Time.unscaledTime - _begin > 35 + 2 * Math.Max(_opening.Length + 4, 15)) throw new InvalidOperationException("Native diagnostic timed out.");
             if (Time.unscaledTime - _begin < 5) return;
             var controller = DialogueSystemController.Instance;
             if (controller == null || controller.text == null) return;
@@ -53,11 +54,11 @@ public sealed class RuntimeVerification : MonoBehaviour
             if (!_sawChinese || _largest < 2) throw new InvalidOperationException("Native Chinese typewriter did not advance.");
             var font = controller.text.font;
             if (font == null || !font.HasCharacter('谁', true, true)) throw new InvalidOperationException("Independent Chinese fallback font failed glyph coverage.");
-            if (_phase == 11)
+            if (_phase == _opening.Length + 3)
             {
                 controller.text.ForceMeshUpdate(true, true);
                 if (controller.text.textInfo.characterCount < 4 || controller.text.mesh.vertexCount < 4) throw new InvalidOperationException("Native Chinese dialogue mesh was not generated.");
-                Plugin.Current.Info($"INDEPENDENT SELFTEST PASS: native UI exact/template/styling, Chinese font, three dialogue entrances and choice metadata, descriptions, whole food tutorial, eight captured opening tutorial messages and native typewriter ({_samples} frames). No legacy translator loaded.");
+                Plugin.Current.Info($"INDEPENDENT SELFTEST PASS: native UI exact/template/styling, Chinese font, three dialogue entrances and choice metadata, descriptions, assembled food sample, {_opening.Length} complete tutorial samples and native typewriter ({_samples} frames). No legacy translator loaded.");
                 _finished = true;
                 _exitAt = Time.unscaledTime + 1;
                 return;
@@ -76,17 +77,17 @@ public sealed class RuntimeVerification : MonoBehaviour
     }
     private void StartMessage(DialogueSystemController controller)
     {
-        var opening = new[] {
-            "Move with <color=#A61FFF>W</color>, <color=#A61FFF>A</color>,\n<color=#A61FFF>S</color> and <color=#A61FFF>D</color>.",
-            "You can dash, with <color=#A61FFF>Space</color>.\nWhile dashing, you are\ninvincible.\nDashing costs 1 <color=#6BBD30>Stamina</color><sprite index=3 > !",
-            "You can use Bombs<sprite name=Bomb>, with <color=#A61FFF>Q</color>.\nHere are some for later!",
-            "Splendid!\nNow attack the target dummy\nwith <color=#A61FFF>Mouse Left</color>!\nShow it who's boss!",
-            "Haha!\nYou're a natural.\nLet's meet in the next room.",
-            "To defeat stronger foes, you\nwill have to arm yourself.",
-            "Pick up items with <color=#FCC926>[E]</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>[F]</color>.\n<color=#A61FFF>Drag and drop, or right-click</color> the\nweapon to <color=#FCC926>equip</color> it.",
-            "If you want to know even\nmore about yourself, you can\nopen the Character Panel with <color=#FCC926>[C]</color>."
-        };
-        var source = _phase >= 4 ? opening[_phase - 4] : _phase == 3 ? "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence." : "Nothing can stop me!";
+        if (_opening.Length == 0)
+        {
+            var path = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "opening-tutorial.json");
+            using (var stream = File.OpenRead(path))
+                _opening = (string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!;
+            var followupPath = Path.Combine(Path.GetDirectoryName(path)!, "followup-tutorial.json");
+            using (var stream = File.OpenRead(followupPath))
+                _opening = _opening.Concat((string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!).ToArray();
+            if (_opening.Length == 0) throw new InvalidDataException("Opening tutorial fixtures empty.");
+        }
+        var source = _phase >= 4 ? _opening[_phase - 4] : _phase == 3 ? "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence." : "Nothing can stop me!";
         var expected = Plugin.Current.Translate(source, "dialogue", false);
         // Binding names intentionally remain unchanged (Space, Mouse Left, etc.).
         // Native typewriting may currently show only a prefix of that binding.

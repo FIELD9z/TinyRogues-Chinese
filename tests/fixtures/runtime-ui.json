@@ -11,5 +11,14 @@
   "Floor 1 - 2 <mspace=1em>00:27:41",
   "Attack<color=#00E61A>*</color>",
   "Toggle Character Panel<color=#00E61A>*</color>",
-  "Use Item In Slot8<color=#00E61A>*</color>"
+  "Use Item In Slot8<color=#00E61A>*</color>",
+  "Grants <color=#00E317>5</color>\n<color=#5ECCE3>Souls</color><sprite name=\"Soul\">.",
+  "Grants\n<color=#00E317>7</color> <color=#FCC926>Gold</color>.",
+  "Grants <color=#00E317>7</color>\n<color=#FCC926>Key</color>.",
+  "Grants <color=#00E317>7</color>\n<color=#3B3B7A>Bombs</color>.",
+  "Grants <color=#00E317>2</color> to <color=#00E317>4</color>\n<color=#3B3B7A>Bombs</color>.",
+  "Grants <color=#00E317>2</color> to <color=#00E317>4</color>\nrandom Consumables.",
+  "Grants <color=#00E317>7</color>\n<color=#A61FFF>Potion</color>.",
+  "Consume 7 Heart\nto open.",
+  "Consume 7 Heart<sprite name=\"Heart\">\nto open."
 ]

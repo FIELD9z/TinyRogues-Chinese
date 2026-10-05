@@ -5,7 +5,9 @@
   "Splendid!\nNow attack the target dummy\nwith <color=#A61FFF>Mouse Left</color>!\nShow it who's boss!",
   "Haha!\nYou're a natural.\nLet's meet in the next room.",
   "To defeat stronger foes, you\nwill have to arm yourself.",
-  "Pick up items with <color=#FCC926>[E]</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>[F]</color>.\n<color=#A61FFF>Drag and drop, or right-click</color> the\nweapon to <color=#FCC926>equip</color> it."
-,
-  "If you want to know even\nmore about yourself, you can\nopen the Character Panel with <color=#FCC926>[C]</color>."
+  "Pick up items with <color=#FCC926>[E]</color>, open\nyour <color=#FCC926>Inventory</color> with <color=#FCC926>[F]</color>.\n<color=#A61FFF>Drag and drop, or right-click</color> the\nweapon to <color=#FCC926>equip</color> it.",
+  "If you want to know even\nmore about yourself, you can\nopen the Character Panel with <color=#FCC926>[C]</color>.",
+  "<color=#26FF66>Pears</color> increase your <color=#26FF66>Dexterity</color>,\n<color=#FF2666>Meat</color> increases your <color=#FF2666>Strength</color>\nand <color=#26B0FF>Candy</color> increases your <color=#26B0FF>Intelligence</color>.",
+  "<color=#FF2666>Strength</color>, <color=#26FF66>Dexterity</color> and <color=#26B0FF>Intelligence</color>\nscale your damage.",
+  "The grading letters in the colors of\n<color=#FF2666>Strength</color>, <color=#26FF66>Dexterity</color> and <color=#26B0FF>Intelligence</color>\ndecide how high you can scale the damage."
 ]

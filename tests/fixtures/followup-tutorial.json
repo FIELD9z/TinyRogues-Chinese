@@ -1,0 +1,11 @@
+[
+  "Long time no see!\nI just remembered, I forgot to\nteach you about <color=#A61FFF>Skills</color>.",
+  "If you haven't figured it out yet,\nyou can use your <color=#A61FFF>Skill</color> with <color=#FCC926>Mouse Right</color>.",
+  "You can inspect your <color=#A61FFF>Skill</color>\nin the <color=#FCC926>Character Panel</color>.\nRemember, you can open it with <color=#FCC926>[C]</color>.",
+  "While <color=#26B0FF>Per Room</color> and <color=#26B0FF>Per Second</color>\nare quite self explanatory,\n<color=#26B0FF>Per Enemy</color> generates <color=#26B0FF>Mana<sprite name=Mana></color> as you\ninflict damage to an Enemy.",
+  "If you ever wonder what aspects of your <color=#A61FFF>Skill</color>\nare influenced by the <color=#A61FFF>Skill Effect</color> Stat,\nmake sure to check if the <sprite name=\"Skill\"> <color=#00E61A>Icon</color>\nis next to the value.",
+  "Bosses count as multiple Enemies,\nso you can generate more <color=#26B0FF>Mana<sprite name=Mana></color>\nwhen fighting against them.",
+  "Every class has a different <color=#A61FFF>Skill</color> and\n<color=#A61FFF>Skills</color> come in a variety of\nshapes and forms.",
+  "For example:\n<color=#A61FFF>Skills</color> can have 3 different kinds\nof <color=#26B0FF>Mana Recovery<sprite name=Mana></color>.",
+  "But be careful!\n<color=#A61FFF>Skills</color> cost <color=#26B0FF>Mana<sprite name=Mana></color>!"
+]

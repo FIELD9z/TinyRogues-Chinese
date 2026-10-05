@@ -66,6 +66,10 @@ Check(catalog.EntryCount > 0, "Repository catalog empty");
 const string foodTutorial = "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence.";
 Check(Tr(catalog, foodTutorial, "dialogue") == "(*)<color=red>肉</color>提供 [[+1]] 力量。\n(*)<color=green>糖果</color>提供 [[+1]] 敏捷。\n(*)<color=blue>糖果</color>提供 [[+1]] 智力。", "Complete food tutorial template did not translate before display");
 var opening = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "opening-tutorial.json")))!;
+var followup = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "followup-tutorial.json")))!;
+foreach (var source in followup)
+    Check(Tr(catalog, source, "dialogue") != source && !System.Text.RegularExpressions.Regex.IsMatch(System.Text.RegularExpressions.Regex.Replace(Tr(catalog, source, "dialogue"), "<[^>]*>", ""), "[A-Za-z]{2,}"), "Later skill tutorial missing: " + source);
+Check(Tr(catalog, followup[1].Replace("Mouse Right", "RT"), "dialogue").Contains("<color=#FCC926>RT</color>"), "Later skill tutorial lost rebound binding");
 var panelTutorial = "If you want to know even\nmore about yourself, you can\nopen the Character Panel with <color=#FCC926>[C]</color>.";
 Check(Tr(catalog, panelTutorial, "dialogue") == "想进一步了解\n自己的属性，可以按\n<color=#FCC926>[C]</color> 打开角色面板。", "Character-panel tutorial missed the captured complete sentence");
 Check(Tr(catalog, panelTutorial.Replace("[C]", "[RB]"), "dialogue").Contains("<color=#FCC926>[RB]</color> 打开角色面板。"), "Character-panel tutorial lost a rebound gamepad key");
@@ -114,6 +118,15 @@ Check(catalog.TryTranslateRichLine("•On hit, 35% chance to trigger a Chain Lig
 Check(!catalog.TryTranslateRichLine("•On hit, 35% chance to trigger a Future Unknown Action that deals 123 to 456 Lightning Damage.", "weapon-effect", out _), "A future unknown action silently counted as translated");
 Check(catalog.TryTranslateRichLine("•Gains +9 Upgrade Level per Aura you have. ", "weapon-effect", out var auraLevel) && auraLevel.Contains("+9"), "Upgrade level gain lost its positive sign");
 Check(catalog.TryTranslateRichLine("7-Set: Angel Disguise", "weapon-effect", out var setLine) && setLine.Contains("7") && setLine.Contains("天使伪装"), "Dynamic set piece count depends on a captured value");
+foreach (var soulSource in new[] {
+    "Grants [[37]]\nSouls<sprite name=\"Soul\">.",
+    "Grants <color=#00E317>37</color>\nSouls<sprite name=\"Soul\">.",
+    "Grants <color=#00E317>37</color>\n<color=#5ECCE3>Souls</color><sprite name=\"Soul\">." })
+{
+    var soulTarget = Tr(catalog, soulSource, "styled-input");
+    Check(soulTarget.Contains("37") && soulTarget.Contains("灵魂") && !soulTarget.Contains("Grants"), "Soul reward missed a raw/partially styled/fully styled stage or depended on amount 5");
+    Check(System.Text.RegularExpressions.Regex.Matches(soulSource, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(soulTarget, "<[^>]*>").Select(m => m.Value)), "Soul reward changed a color or icon tag");
+}
 Console.WriteLine($"PASS: {checks} behavioral checks; {catalog.EntryCount} independently authored active entries across {files.Length} packs.");
 return 0;
 }

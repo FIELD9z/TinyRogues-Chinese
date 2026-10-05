@@ -876,6 +876,105 @@
       "kind": "template",
       "status": "translated",
       "note": "根据实际燃烧悬浮提示的完整渲染文本建立；八个数值独立捕获，保留全部原生标签，不拆词匹配。其他状态的布局与标签需另行确认。"
+    },
+    {
+      "id": "tutorial.actual-gap.runtime-ui.json.0",
+      "source": "Grants [[{number:amount}]]\nSouls<sprite name=\"Soul\">.",
+      "translation": "获得 [[{number:amount}]] 个\n灵魂<sprite name=\"Soul\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "2026-10-05 实际游戏完整输出漏翻回归；保留原始颜色、图标、数值和换行，独立撰写中文。"
+    },
+    {
+      "id": "tutorial.actual-gap.runtime-ui.json.1",
+      "source": "Grants <color=#00E317>{number:amount}</color>\nSouls<sprite name=\"Soul\">.",
+      "translation": "获得 <color=#00E317>{number:amount}</color> 个\n灵魂<sprite name=\"Soul\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "2026-10-05 实际游戏完整输出漏翻回归；保留原始颜色、图标、数值和换行，独立撰写中文。"
+    },
+    {
+      "id": "tutorial.actual-gap.runtime-ui.json.2",
+      "source": "Grants <color=#00E317>{number:amount}</color>\n<color=#5ECCE3>Souls</color><sprite name=\"Soul\">.",
+      "translation": "获得 <color=#00E317>{number:amount}</color> 个\n<color=#5ECCE3>灵魂</color><sprite name=\"Soul\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "2026-10-05 实际游戏完整输出漏翻回归；保留原始颜色、图标、数值和换行，独立撰写中文。"
+    },
+    {
+      "id": "door.reward.crosscheck.0",
+      "source": "Grants\n<color=#00E317>{number:amount}</color> <color=#FCC926>Gold</color>.",
+      "translation": "获得\n<color=#00E317>{number:amount}</color> 枚<color=#FCC926>金币</color>。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "旧英文动态规则交叉检查；按完整门牌文本匹配，保持数值及图标。"
+    },
+    {
+      "id": "door.reward.crosscheck.1",
+      "source": "Grants <color=#00E317>{number:amount}</color>\n<color=#FCC926>Key</color>.",
+      "translation": "获得 <color=#00E317>{number:amount}</color> 把\n<color=#FCC926>钥匙</color>。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "旧英文动态规则交叉检查；按完整门牌文本匹配，保持数值及图标。"
+    },
+    {
+      "id": "door.reward.crosscheck.2",
+      "source": "Grants <color=#00E317>{number:amount}</color>\n<color=#3B3B7A>Bombs</color>.",
+      "translation": "获得 <color=#00E317>{number:amount}</color> 枚\n<color=#3B3B7A>炸弹</color>。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "旧英文动态规则交叉检查；按完整门牌文本匹配，保持数值及图标。"
+    },
+    {
+      "id": "door.reward.crosscheck.3",
+      "source": "Grants <color=#00E317>{number:low}</color> to <color=#00E317>{number:high}</color>\n<color=#3B3B7A>Bombs</color>.",
+      "translation": "获得 <color=#00E317>{number:low}</color> 至 <color=#00E317>{number:high}</color> 枚\n<color=#3B3B7A>炸弹</color>。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "旧英文动态规则交叉检查；按完整门牌文本匹配，保持数值及图标。"
+    },
+    {
+      "id": "door.reward.crosscheck.4",
+      "source": "Grants <color=#00E317>{number:low}</color> to <color=#00E317>{number:high}</color>\nrandom Consumables.",
+      "translation": "获得 <color=#00E317>{number:low}</color> 至 <color=#00E317>{number:high}</color> 件\n随机消耗品。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "旧英文动态规则交叉检查；按完整门牌文本匹配，保持数值及图标。"
+    },
+    {
+      "id": "door.reward.crosscheck.5",
+      "source": "Grants <color=#00E317>{number:amount}</color>\n<color=#A61FFF>Potion</color>.",
+      "translation": "获得 <color=#00E317>{number:amount}</color> 瓶\n<color=#A61FFF>药剂</color>。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "旧英文动态规则交叉检查；按完整门牌文本匹配，保持数值及图标。"
+    },
+    {
+      "id": "door.reward.crosscheck.6",
+      "source": "Consume {number:amount} Heart\nto open.",
+      "translation": "消耗 {number:amount} 颗红心\n即可开门。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "旧英文动态规则交叉检查；按完整门牌文本匹配，保持数值及图标。"
+    },
+    {
+      "id": "door.reward.crosscheck.7",
+      "source": "Consume {number:amount} Heart<sprite name=\"Heart\">\nto open.",
+      "translation": "消耗 {number:amount} 颗红心<sprite name=\"Heart\">\n即可开门。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "旧英文动态规则交叉检查；按完整门牌文本匹配，保持数值及图标。"
     }
   ]
 }
