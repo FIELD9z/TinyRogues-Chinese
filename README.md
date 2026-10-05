@@ -2,7 +2,7 @@
 
 Tiny Rogues 简体中文汉化，基于 BepInEx 6。支持对话、物品和技能说明、特质、职业、精通天赋及部分界面文本。
 
-目前处于 alpha 阶段，适配 Windows 版 **0.2.8.6**。仍有漏翻和未经游玩确认的内容，详见[已知问题与测试记录](docs/coverage.md)。
+目前处于 alpha 阶段，适配 Windows 版 **0.2.8.6**。仍有漏翻和未经游玩确认的内容，详见[已知问题与测试记录](docs/coverage.md)和[文本系统核查](docs/systematic-audit.md)。
 
 ## 安装
 
@@ -30,7 +30,7 @@ BepInEx/plugins/TinyRogues.Chinese/
 
 译文存放在 `locales/zh-Hans/*.json`。插件会自动重载通过校验的修改；重新打开对应界面即可检查。个人译法放在 `overrides/`，优先于内置译文。
 
-格式、覆盖示例和更新工具见[译文维护指南](docs/translations.md)。未翻译及部分翻译后仍含英文的完整文本会记录到 `captures/missing.jsonl`，包含时间、原文和显示结果。对话逐字前缀不会单独收集。
+格式、覆盖示例和更新工具见[译文维护指南](docs/translations.md)。`captures/missing.jsonl` 记录含英文的候选文本、时间和显示结果，可能包含按键名、界面占位文本和逐字显示中间态。捕获日志不能代替完整的游戏源文核查。
 
 ## 反馈与贡献
 
