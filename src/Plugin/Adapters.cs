@@ -41,6 +41,7 @@ internal static class Adapters
                 .Where(method => method.Name == "Description" && !method.IsAbstract && method.ReturnType == typeof(string)))
                 PatchScoped(method, nameof(PrepareSkill));
         PatchScoped(AccessTools.Method(typeof(Traits.Trait), "Description"), nameof(PrepareTrait));
+        Patch(AccessTools.Method(typeof(Traits.Trait), "Description"), nameof(AfterTraitDescription), true);
         PatchScoped(AccessTools.PropertyGetter(typeof(Cinder_System.CinderModifier), "Description"), nameof(PrepareCinder));
         PatchScoped(AccessTools.PropertyGetter(typeof(World_Progression.WorldObjective), "Description"), nameof(PrepareObjective));
         Patch(AccessTools.PropertyGetter(typeof(World_Progression.WorldObjective), "Description"), nameof(AfterObjectiveDescription), true);
@@ -91,7 +92,6 @@ internal static class Adapters
     private sealed class DescriptionState
     {
         public Skill_System.SkillBehaviour? Skill;
-        public Traits.Trait? Trait;
         public string Original = "";
         public Action? Restore;
     }
@@ -116,8 +116,13 @@ internal static class Adapters
     }
     private static void PrepareTrait(Traits.Trait __instance, out DescriptionState __state)
     {
-        __state = new DescriptionState { Trait = __instance, Original = __instance.description };
-        try { __instance.description = Plugin.Current.Translate(__state.Original, "description-template"); }
+        var scope = new DescriptionScope();
+        __state = new DescriptionState { Restore = scope.Restore };
+        try
+        {
+            scope.Text(() => __instance.description, value => __instance.description = value);
+            scope.Effects(__instance.effects);
+        }
         catch (Exception error) { Plugin.Current.Error($"Trait description adapter failed: {error.Message}"); }
     }
     private static void RestoreDescription(DescriptionState? __state)
@@ -127,7 +132,6 @@ internal static class Adapters
         {
             __state.Restore?.Invoke();
             if (__state.Skill != null) __state.Skill.description = __state.Original;
-            if (__state.Trait != null) __state.Trait.description = __state.Original;
         }
         catch (Exception error) { Plugin.Current.Error($"Description restoration failed: {error.Message}"); }
     }
@@ -139,6 +143,13 @@ internal static class Adapters
         var original = __instance.description;
         __state = new DescriptionState { Restore = () => __instance.description = original };
         __instance.description = Plugin.Current.Translate(original, "description-template");
+    }
+
+    private static void AfterTraitDescription(ref string __result)
+    {
+        var catalog = Plugin.Current.Catalog;
+        if (catalog == null || string.IsNullOrEmpty(__result)) return;
+        __result = Core.TraitDescriptions.Translate(catalog, __result);
     }
     private static void PrepareObjective(World_Progression.WorldObjective __instance, out DescriptionState __state)
     {

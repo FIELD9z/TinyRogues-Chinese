@@ -384,5 +384,8 @@
   "17% <color=#123ABC>Strength</color>",
   "17% <color=#123ABC>Dexterity</color>",
   "<color=#00E61A>17%</color><sprite name=\"Skill\"> 攻击速度和 <color=#00E61A>17%</color><sprite name=\"Skill\"> 同伴攻击速度<sprite name=\"Companion\"><color=#808080>\n[<color=#00E61A>17%</color> effect]</color><color=#808080>[<color=#A61FFF><color=#A61FFF>Skill</color></color>] </color><color=#808080>[<color=#A61FFF><color=#A61FFF>Buff</color></color>] </color>",
-  "Bombs"
+  "Bombs",
+  "<color=#00D608>Lucky Hits</color><sprite name=\"Luck\"> have <color=#00E317>x2.00</color> chance\nfor <color=#A61FFF>Hit</color> Effects to happen.<color=#FFFFFF>\n<color=#00D608>Lucky Hit Chance</color><sprite name=\"Luck\">: 0%</color>",
+  "<color=#00D608>Luck</color><sprite name=\"Luck\">\nChance for:\n<sprite name=\"SubArrow\">Upgrading Room Reward\n<sprite name=\"SubArrow\">Win in Arcade\n<sprite name=\"SubArrow\">Extra <color=#A61FFF>Trait</color> offered\n<sprite name=\"SubArrow\">Roll lowest price in Shop\nGrants <color=#00D608>Lucky Hit Chance</color><sprite name=\"Luck\">.",
+  "<color=#00E61A>4 <color=#FF2666>Strength</color> <sprite name=\"Arrow_Right_White\">36%\n</color><color=#00E61A>4 <color=#26FF66>Dexterity</color> <sprite name=\"Arrow_Right_White\">36%\n</color><color=#00E61A>3 <color=#26B0FF>Intelligence</color> <sprite name=\"Arrow_Right_White\">27%\n</color><color=#00E61A>1 <color=#00D608>Luck</color><sprite name=\"Luck\"> <sprite name=\"Arrow_Right_White\">10%\n</color><color=#00E61A>0 <color=#3B3B7A>Curse</color><sprite name=\"Curse\"> <sprite name=\"Arrow_Right_White\">0%</color>"
 ]

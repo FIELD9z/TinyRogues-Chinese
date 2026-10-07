@@ -175,6 +175,19 @@ var decoratedTitle = string.Concat("BACKUP ARMORY".Select((letter, index) => $"<
 Check(catalog.TryTranslateLabel(decoratedTitle, "ui:Canvas/Main Header", out var decoratedTarget) && System.Text.RegularExpressions.Regex.Replace(decoratedTarget, "<[^>]*>", "") == "备用军械库", "A complete title with individually colored glyphs missed its translation");
 Check(System.Text.RegularExpressions.Regex.Matches(decoratedTitle, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(decoratedTarget, "<[^>]*>").Select(m => m.Value)), "Decorated title adapter discarded or reordered color tags");
 Check(!catalog.TryTranslateLabel(string.Concat("UNKNOWN FUTURE TITLE".Select(letter => $"<color=#FF0000>{letter}</color>")), "ui:Canvas/Main Header", out _), "Decorated unknown title was translated by fragments");
+var traitTrigger = "Your Attacks gain a 17% chance to trigger a Chain Lightning on Hit that deals 123 to 456 Lightning Damage.";
+var traitTranslated = TraitDescriptions.Translate(catalog, traitTrigger);
+Check(traitTranslated.Contains("17%") && traitTranslated.Contains("123至456") && !traitTranslated.Contains("Attacks") && traitTranslated.Contains("连锁闪电"), "Trait trigger failed with independent values");
+Check(TraitDescriptions.Translate(catalog, traitTrigger.Replace("Chain Lightning", "Unknown Future Action")) == traitTrigger.Replace("Chain Lightning", "Unknown Future Action"), "Unknown trait action was silently accepted");
+Check(TraitDescriptions.Translate(catalog, "Grants 7 Ancestral Spirit Companions.").Contains("7 个祖灵"), "Companion template depends on two companions");
+var rollTemplate = "(*)<i>Your damage rolls ((twice)) and takes the ((lower)) value.</i>\n";
+Check(catalog.TryTranslate(rollTemplate, "description-template", out var rollTranslation) && rollTranslation.Contains("((两次))") && rollTranslation.Contains("((较低))") && !rollTranslation.Contains("twice"), "Red prose was protected as a numeric placeholder");
+Check(TraitDescriptions.Translate(catalog, "你的技能造成+97[[至]]  冰冷伤害113。") == "你的技能造成+97[[至]]113冰冷伤害。", "Trait skill damage range split by damage label");
+Check(TraitDescriptions.Translate(catalog, "+83[[至]]  爆炸伤害附加147火焰伤害。") == "你的爆炸伤害附加+83[[至]]147火焰伤害。", "Trait added damage bound assigned to wrong phrase");
+var nestedTrait = "•<i><i><color=#808080>Every 7 seconds </color> inflict Fatigue to the Enemy with lowest Health.</i> <color=#808080>[<color=#A61FFF>Tick</color>]</color></i>";
+var nestedTraitTarget = TraitDescriptions.Translate(catalog, nestedTrait);
+Check(nestedTraitTarget.Contains("疲劳") && nestedTraitTarget.Contains("周期") && !nestedTraitTarget.Contains("Every"), "Nested trait formatting blocked complete effect or category chip");
+Check(System.Text.RegularExpressions.Regex.Matches(nestedTrait, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(nestedTraitTarget, "<[^>]*>").Select(m => m.Value)), "Trait formatting changed tag sequence");
 Console.WriteLine($"PASS: {checks} behavioral checks; {catalog.EntryCount} independently authored active entries across {files.Length} packs.");
 return 0;
 }

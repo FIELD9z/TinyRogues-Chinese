@@ -4797,7 +4797,7 @@
     {
       "id": "mechanic.4aad675516a166187bef",
       "source": "(*)<i>Gain (xx0) maximum Good<Good>, Evil<Evil>, Lawful<Lawful> and Chaotic<Chaos>.</i>(br)",
-      "translation": "(*)<i>善良<Good>、邪恶<Evil>、守序<Lawful>与混乱<Chaos>的上限各增加(xx0)。</i>(br)",
+      "translation": "(*)<i>善良<Good>、邪恶<Evil>、守序<Lawful>与混乱<Chaos>的上限各变为原来的(xx0)。</i>(br)",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",

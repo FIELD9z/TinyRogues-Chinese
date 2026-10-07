@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "特质与幸运提示",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "trait.ui.04d1510aea2440d7",
+      "source": "<color=#00D608>Lucky Hits</color><sprite name=\"Luck\"> have <color=#00E317>x{number:v1}</color> chance\nfor <color=#A61FFF>Hit</color> Effects to happen.<color=#FFFFFF>\n<color=#00D608>Lucky Hit Chance</color><sprite name=\"Luck\">: {number:v2}</color>",
+      "translation": "<color=#00D608>幸运命中</color><sprite name=\"Luck\">：触发几率 <color=#00E317>x{number:v1}</color>\n（适用于<color=#A61FFF>命中</color>效果）。<color=#FFFFFF>\n<color=#00D608>幸运命中率</color><sprite name=\"Luck\">: {number:v2}</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "trait.ui.77c7a7e2569a010c",
+      "source": "<color=#00D608>Luck</color><sprite name=\"Luck\">\nChance for:\n<sprite name=\"SubArrow\">Upgrading Room Reward\n<sprite name=\"SubArrow\">Win in Arcade\n<sprite name=\"SubArrow\">Extra <color=#A61FFF>Trait</color> offered\n<sprite name=\"SubArrow\">Roll lowest price in Shop\nGrants <color=#00D608>Lucky Hit Chance</color><sprite name=\"Luck\">.",
+      "translation": "<color=#00D608>幸运</color><sprite name=\"Luck\">\n影响以下事件的几率：\n<sprite name=\"SubArrow\">房间奖励升级\n<sprite name=\"SubArrow\">在游艺厅获胜\n<sprite name=\"SubArrow\">额外提供<color=#A61FFF>特质</color>\n<sprite name=\"SubArrow\">商店出现最低价格\n提供<color=#00D608>幸运命中率</color><sprite name=\"Luck\">.",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "trait.ui.6551a4d2823d0719",
+      "source": "<color=#00E61A>{number:v1} <color=#FF2666>Strength</color> <sprite name=\"Arrow_Right_White\">{number:v2}\n</color><color=#00E61A>{number:v3} <color=#26FF66>Dexterity</color> <sprite name=\"Arrow_Right_White\">{number:v4}\n</color><color=#00E61A>{number:v5} <color=#26B0FF>Intelligence</color> <sprite name=\"Arrow_Right_White\">{number:v6}\n</color><color=#00E61A>{number:v7} <color=#00D608>Luck</color><sprite name=\"Luck\"> <sprite name=\"Arrow_Right_White\">{number:v8}\n</color><color=#00E61A>{number:v9} <color=#3B3B7A>Curse</color><sprite name=\"Curse\"> <sprite name=\"Arrow_Right_White\">{number:v10}</color>",
+      "translation": "<color=#00E61A>{number:v1} <color=#FF2666>力量</color> <sprite name=\"Arrow_Right_White\">{number:v2}\n</color><color=#00E61A>{number:v3} <color=#26FF66>敏捷</color> <sprite name=\"Arrow_Right_White\">{number:v4}\n</color><color=#00E61A>{number:v5} <color=#26B0FF>智力</color> <sprite name=\"Arrow_Right_White\">{number:v6}\n</color><color=#00E61A>{number:v7} <color=#00D608>幸运</color><sprite name=\"Luck\"> <sprite name=\"Arrow_Right_White\">{number:v8}\n</color><color=#00E61A>{number:v9} <color=#3B3B7A>诅咒</color><sprite name=\"Curse\"> <sprite name=\"Arrow_Right_White\">{number:v10}</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    }
+  ]
+}

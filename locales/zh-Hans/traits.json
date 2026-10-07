@@ -1274,14 +1274,12 @@
     {
       "id": "trait.asset.6c0b97017cce69879fdb",
       "source": "(*)<i>Your damage rolls ((twice)) and takes the ((lower)) value.</i>\n",
-      "translation": "(*)<i>你的伤害掷骰((twice))，并取((lower))的数值。</i>\n",
+      "translation": "(*)<i>你的伤害掷骰((两次))，并取((较低))的数值。</i>\n",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
       "note": "原始资源来源 resources.assets:56392",
       "protectedTokens": [
-        "((lower))",
-        "((twice))",
         "(*)",
         "</i>",
         "<i>"

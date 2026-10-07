@@ -188,6 +188,7 @@ public sealed class RuntimeVerification : MonoBehaviour
         }
         if (mastery < 3 || classes < 3 || cinders < 3) throw new InvalidOperationException($"Insufficient progression samples: mastery={mastery}, classes={classes}, cinders={cinders}.");
         Plugin.Current.Info($"NATIVE PROGRESSION PASS: {mastery} mastery perks/titles, {classes} classes, {cinders} cinder modifiers; original fields and rendered numbers preserved.");
+        VerifyTraitModule();
         var traits = 0;
         foreach (var trait in Resources.FindObjectsOfTypeAll<Traits.Trait>())
         {
@@ -310,6 +311,48 @@ public sealed class RuntimeVerification : MonoBehaviour
     }
     private static string NativeFixture(string kind, string name, string source) =>
         "{\"id\":" + Core.PackJson.Quote(kind + ":" + name) + ",\"context\":\"native-card\",\"objectName\":\"Text\",\"nativeKind\":" + Core.PackJson.Quote(kind) + ",\"nativeName\":" + Core.PackJson.Quote(name) + ",\"source\":" + Core.PackJson.Quote(source) + "}";
+
+    private static void VerifyTraitModule()
+    {
+        // Explicitly load this module; an empty title-scene sample is not coverage.
+        var all = Resources.LoadAll<Traits.Trait>("");
+        if (all.Length == 0) throw new InvalidOperationException("Trait module has no loaded resources; cannot verify coverage.");
+        var catalog = Plugin.Current.Catalog;
+        var records = new System.Collections.Generic.List<string>();
+        var failures = 0;
+        var display = new GameObject("Trait module diagnostic");
+        try
+        {
+            var label = display.AddComponent<TextMeshProUGUI>();
+            foreach (var trait in all)
+            foreach (var details in new[] { false, true })
+            {
+                string before = "", prepared = "", after = "", error = "";
+                var original = trait.description;
+                try
+                {
+                    try { Plugin.Current.Catalog = null; before = trait.Description(details, true); }
+                    finally { Plugin.Current.Catalog = catalog; }
+                    prepared = trait.Description(details, true);
+                    label.text = UI.Text.TextMeshProxy.ApplyColorToText(prepared, true, label);
+                    after = label.text;
+                    if (trait.description != original) throw new InvalidOperationException("Trait field was not restored");
+                    if (!string.IsNullOrEmpty(before)) VerifyRenderedValues(before, after, trait.name);
+                    var plain = Regex.Replace(after, "<[^>]*>", "");
+                    plain = Regex.Replace(plain, @"(?<![A-Za-z])x\d+(?:\.\d+)?", "");
+                    if (Regex.IsMatch(plain, "[A-Za-z]")) error = "remaining-English";
+                }
+                catch (Exception e) { error = e.GetType().Name + ": " + e.Message; }
+                if (error.Length > 0) failures++;
+                records.Add("{\"name\":" + Core.PackJson.Quote(trait.name) + ",\"details\":" + (details ? "true" : "false") + ",\"source\":" + Core.PackJson.Quote(before) + ",\"prepared\":" + Core.PackJson.Quote(prepared) + ",\"target\":" + Core.PackJson.Quote(after) + ",\"error\":" + Core.PackJson.Quote(error) + "}");
+            }
+        }
+        finally { Plugin.Current.Catalog = catalog; UnityEngine.Object.Destroy(display); }
+        var path = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "trait-module-audit.json");
+        File.WriteAllText(path, "[" + string.Join(",", records) + "]");
+        Plugin.Current.Info($"TRAIT MODULE AUDIT: {all.Length} resources, {records.Count} variants, {failures} unresolved. This audit is separate from SELFTEST PASS.");
+        if (failures > 0) throw new InvalidOperationException($"Trait module has {failures} unresolved variants; see trait-module-audit.json.");
+    }
 
     private static void VerifyGetter(Func<string> getter, string name)
     {
