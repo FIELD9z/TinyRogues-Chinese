@@ -1,0 +1,2006 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "房间奖励",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "reward.52ab3d37e5b0645e",
+      "source": "Golden Meat Shank",
+      "translation": "黄金肉腿",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.fc5d54cb02f3ae6f",
+      "source": "[[+15]] Equip Load\nCapacity",
+      "translation": "负重上限\n[[+15]]",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.2b2bb24f3e78181a",
+      "source": "Mage Stash",
+      "translation": "法师秘藏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.a6b927c119da2d13",
+      "source": "Contains a\nMagic Weapon.",
+      "translation": "内含\n一把魔法武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5faf360bfd83b9df",
+      "source": "Lollipop",
+      "translation": "棒棒糖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.bf70552eb765992c",
+      "source": "Pear",
+      "translation": "梨",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.bc9c8dde8b1c208e",
+      "source": "Consumable that \nenchants your Weapon.",
+      "translation": "为武器附魔的\n消耗品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b65228dd3d7fde95",
+      "source": "Grants [[+5]] EXP.",
+      "translation": "获得[[+5]]经验。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.6340011331804dec",
+      "source": "Guaranteed\nLegendary Item",
+      "translation": "必含\n传奇物品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5a31b38e57132725",
+      "source": "Reward choices\ninclude [[at least]]\n[[1]] Legendary Item.",
+      "translation": "奖励选项\n[[至少]]包含\n[[1]]件传奇物品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.4a29e05c9bcdc3ec",
+      "source": "Heatflex",
+      "translation": "炽热合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.616cb218a65b982f",
+      "source": "Material",
+      "translation": "材料",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.1839783ca233c590",
+      "source": "Random Set Item",
+      "translation": "随机套装装备",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.4c218f2726b5382a",
+      "source": "Grants an Equipment\nItem with Set Bonus.",
+      "translation": "获得一件\n带有套装加成的装备。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b9542c4672eebdb9",
+      "source": "Dragonslayer Stash",
+      "translation": "屠龙者秘藏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.85b7daba65ea11c1",
+      "source": "Contains\na weapon.",
+      "translation": "内含\n一把武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.fc0e7e157f8cf283",
+      "source": "Big Soul",
+      "translation": "大灵魂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.1d949c8126bcb913",
+      "source": "Tiny Soul",
+      "translation": "小灵魂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.4f1c26848a9729a3",
+      "source": "Grants [[2]] to [[3]]\nSouls<sprite name=\"Soul\">.",
+      "translation": "获得[[2]]至[[3]]\n个灵魂<sprite name=\"Soul\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.fc76775b8e33f094",
+      "source": "Health Fountain",
+      "translation": "生命泉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.8bf1ed7ace867856",
+      "source": "Blood Chest",
+      "translation": "鲜血宝箱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.fb9f8125ca354eaf",
+      "source": "Guaranteed\nAccessory",
+      "translation": "必含\n饰品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.a516e98a3e799c06",
+      "source": "Guaranteed Helmet",
+      "translation": "必含头盔",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.06859bce7691fea9",
+      "source": "Guaranteed Offhand",
+      "translation": "必含副手装备",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.689d0996c79cd4f0",
+      "source": "Guaranteed Charm",
+      "translation": "必含护符",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.3a87d3270e8ae186",
+      "source": "Guaranteed\nEpic Item",
+      "translation": "必含\n史诗物品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.46d466c615e19e8b",
+      "source": "Reward choices\ninclude [[at least]]\n[[1]] Epic Item.",
+      "translation": "奖励选项\n[[至少]]包含\n[[1]]件史诗物品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f7b056724e714024",
+      "source": "Guaranteed\nRare Item",
+      "translation": "必含\n稀有物品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5b256ecbd96d4e4f",
+      "source": "Guaranteed\nSet Item",
+      "translation": "必含\n套装装备",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5f752260d3600b24",
+      "source": "Random Companion",
+      "translation": "随机伙伴",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.c4b706454f4560bd",
+      "source": "Reward choices\nare [[all]] Companion\nSummon Items.",
+      "translation": "奖励选项\n[[全部]]为\n伙伴召唤物品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.4437b9c4d4adc8d0",
+      "source": "Guaranteed\nMagic Weapon",
+      "translation": "必含\n魔法武器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.3d9aa31ccd6731b4",
+      "source": "Reward choices\ninclude [[at least]]\n[[1]] Magic //Weapon.",
+      "translation": "奖励选项\n[[至少]]包含\n[[1]]件魔法武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.fdd276d48be9d9d5",
+      "source": "Guaranteed\nMelee Weapon",
+      "translation": "必含\n近战武器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.bb04c9844cf7e888",
+      "source": "Guaranteed\nRanged Weapon",
+      "translation": "必含\n远程武器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.0bba3d5f607962e4",
+      "source": "Golden Pear",
+      "translation": "黄金梨",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.3612870a3dd88f21",
+      "source": "[[+2.5%]] Attack Speed",
+      "translation": "攻击速度[[+2.5%]]",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.dab1a0a1e7b126f8",
+      "source": "The Throne",
+      "translation": "王座",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.ca6b593840969693",
+      "source": "Overcome one\nfinal obstacle\nand ascend\nthe throne.",
+      "translation": "突破\n最后一道阻碍，\n登上\n王座。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b029b32af908a7fc",
+      "source": "Soul Hearts",
+      "translation": "灵魂红心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.05a232099842c4e5",
+      "source": "Grants\n[[+1]] Soul Heart<Soul_Heart>.",
+      "translation": "获得\n[[+1]]颗灵魂红心<Soul_Heart>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.2c04fe121e3c09da",
+      "source": "Wooden Chest",
+      "translation": "木制宝箱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.755ad3ef12cd934c",
+      "source": "Not locked.",
+      "translation": "未上锁。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.83aea23cf01c1584",
+      "source": "Random Booze or Cheese",
+      "translation": "随机酒水或奶酪",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.d28bfc6528f20833",
+      "source": "Grants [[1]] bottle\nof Booze or Cheese.",
+      "translation": "获得[[1]]瓶\n酒水或奶酪。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.488a46e72d78df03",
+      "source": "Dispels 1 stack Curse<Curse>.",
+      "translation": "移除1层诅咒<Curse>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.1b15b14f3047784b",
+      "source": "Random Potions",
+      "translation": "随机药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f4e46badbc0ce348",
+      "source": "Grants Potions.",
+      "translation": "获得药剂。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.9444216b8e67f22f",
+      "source": "Heart Container",
+      "translation": "红心容器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.c26ec2be17aae23a",
+      "source": "+1 Heart Container<sprite name=\"Heart\">",
+      "translation": "红心容器<sprite name=\"Heart\">+1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5038201f3b985559",
+      "source": "Grants 1 Gift Boxes.",
+      "translation": "获得1个礼盒。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.d6e2a3a6cd1665c4",
+      "source": "Obsidian Chest",
+      "translation": "黑曜石宝箱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.cbd794d9de51cfe8",
+      "source": "Contains\nEquipment.",
+      "translation": "内含\n装备。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.8e79f920ec1804a8",
+      "source": "Voltflex",
+      "translation": "雷电合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.78a4b2ca21e60b52",
+      "source": "Fish and Chips",
+      "translation": "炸鱼薯条",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.a071344ec2ed654d",
+      "source": "+1 Intelligence,\n+1 Strength",
+      "translation": "智力+1，\n力量+1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.126dbe4b7a37de6a",
+      "source": "Random Equipment",
+      "translation": "随机装备",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.3c22ec2671c290ca",
+      "source": "Grants a random Equipment Item.",
+      "translation": "获得一件随机装备。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.8dfb51baf0ea9450",
+      "source": "Golden Broccoli",
+      "translation": "黄金西兰花",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.dff683b664f5b7dd",
+      "source": "[[+15%]] Critical Hit Damage<Crit>",
+      "translation": "暴击伤害<Crit>[[+15%]]",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.2c52b5aaaaa2fca4",
+      "source": "Meat Shank",
+      "translation": "肉腿",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.7e91bb8562f040f2",
+      "source": "Random Dice",
+      "translation": "随机骰子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.608d788ba7f1826d",
+      "source": "Random Accessory",
+      "translation": "随机饰品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.26c59c5800174dbe",
+      "source": "Grants a random Accessory.",
+      "translation": "获得一个随机饰品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.c505047a895bcaae",
+      "source": "Ambrosia x3",
+      "translation": "仙馔×3",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.1081b12918078477",
+      "source": "NOT AVAILABLE\n(Tell dev?)",
+      "translation": "暂不可用\n（请告知开发者）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.489e6564dc09bbbb",
+      "source": "Grants a Crystalized Soul Heart.",
+      "translation": "获得一颗结晶灵魂红心。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.4550b733d65c4254",
+      "source": "Random Booze",
+      "translation": "随机酒水",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.ae3aefa1099758eb",
+      "source": "Grants 2\nbottles of Booze.",
+      "translation": "获得\n2瓶酒水。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.735f3d73334bf567",
+      "source": "Random Consumable",
+      "translation": "随机消耗品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.7163fa0a3317c395",
+      "source": "Grants a\nConsumable.",
+      "translation": "获得\n一个消耗品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.44b6d5c30881b8f3",
+      "source": "Jackpot",
+      "translation": "头奖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.35c39258ec752a78",
+      "source": "Jackpot!",
+      "translation": "头奖！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.0d5fde073b6ff5a6",
+      "source": "Random Melee Weapon",
+      "translation": "随机近战武器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.091a332f34ec5148",
+      "source": "Grants a\nMelee Weapon.",
+      "translation": "获得\n一把近战武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.e8f4b08a79b6b3b1",
+      "source": "Grants you the Pearl Ring.",
+      "translation": "获得珍珠戒指。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.706978bcb5544843",
+      "source": "Set Item Stash",
+      "translation": "套装秘藏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.a5a8e391c17b7c7e",
+      "source": "Grants a\nBlessing.",
+      "translation": "获得\n一项祝福。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.429ca9dd66e76f69",
+      "source": "Golden Chest",
+      "translation": "黄金宝箱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.04f0f36f7416d7b5",
+      "source": "Contains\nRewards.",
+      "translation": "内含\n奖励。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.0252137a08f5eca0",
+      "source": "Ranger Stash",
+      "translation": "游侠秘藏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.680c33d79b54df5e",
+      "source": "Contains a\nRanged Weapon.",
+      "translation": "内含\n一把远程武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.7ed2e5b218ed12b8",
+      "source": "Warrior Stash",
+      "translation": "战士秘藏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.4d9f29f432d854a2",
+      "source": "Contains a\nMelee Weapon.",
+      "translation": "内含\n一把近战武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f16b81c281fb6bab",
+      "source": "Alchemy Stash",
+      "translation": "炼金秘藏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.d9f15d6027082723",
+      "source": "Contains Potions.",
+      "translation": "内含药剂。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.bae3c5b8f167e9c1",
+      "source": "Flask Refill",
+      "translation": "补充药瓶",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.08ea85c584aef7ca",
+      "source": "Refills [[1]]\nFlask.",
+      "translation": "补充\n[[1]]次药瓶使用次数。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.fb00c4fc99ad5356",
+      "source": "Blood Altar",
+      "translation": "鲜血祭坛",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.473a89ae0975e216",
+      "source": "Broccoli",
+      "translation": "西兰花",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.1fb422b0eb21704e",
+      "source": "Random Resin",
+      "translation": "随机树脂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.c5528502c480dd05",
+      "source": "Grants [[1]]\nInfusion.",
+      "translation": "获得\n[[1]]个灌注物品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.06517a59acd2f7be",
+      "source": "Random Potion",
+      "translation": "随机药剂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f48d0557c9b540de",
+      "source": "Petrified Armor",
+      "translation": "石化护甲",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.700a422155d34551",
+      "source": "Grants \n[[+1]] Armor Container<sprite name=\"Armor\">\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n获得\n[[+1]]个护甲容器<sprite name=\"Armor\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f52e07513ee76164",
+      "source": "Petrified Hoard",
+      "translation": "石化财宝",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b146c07c4afa4c01",
+      "source": "Grants\n[[15]] to [[20]] Gold\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n获得\n[[15]]至[[20]]枚金币。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.19889037fd3577bd",
+      "source": "Petrified Heart",
+      "translation": "石化红心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5ede47c390d03cd1",
+      "source": "Grants \n[[+1]] Heart Container<sprite name=\"Heart\">\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n获得\n[[+1]]个红心容器<sprite name=\"Heart\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.2fa2fc8912a414aa",
+      "source": "Petrified Mana",
+      "translation": "石化法力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f9e1d4ffc86b74af",
+      "source": "Grants \n[[+1]] Mana Container<sprite name=\"Mana\">\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n获得\n[[+1]]个法力容器<sprite name=\"Mana\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.6958a0cc905e1ac7",
+      "source": "Petrified Soul Heart",
+      "translation": "石化灵魂红心",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5f64ff12015d3f87",
+      "source": "Grants \n[[+2]] Soul Hearts<sprite name=\"Soul_Heart\">\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n获得\n[[+2]]颗灵魂红心<sprite name=\"Soul_Heart\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b4595dff119289bf",
+      "source": "Treasure Rock",
+      "translation": "宝藏岩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.143532bf9f49a28e",
+      "source": "Drops Rewards\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n掉落奖励。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5567f560c784aee1",
+      "source": "Grants [[1]] to [[2]]\nbottles of Booze.",
+      "translation": "获得[[1]]至[[2]]\n瓶酒水。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.0993a16c1cb38aec",
+      "source": "Giant Treasure Chest",
+      "translation": "巨型宝箱",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.16c1e134fc95e629",
+      "source": "An enourmous Chest,\nbursting with\nrich Rewards.\n",
+      "translation": "巨大的宝箱，\n装满了\n丰厚的奖励。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.56e1f235f429e013",
+      "source": "Burger",
+      "translation": "汉堡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.dd1477ce6a951400",
+      "source": "+1 Strength,\n+1 Dexterity",
+      "translation": "力量+1，\n敏捷+1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.2211e439b012b331",
+      "source": "Bratwurst",
+      "translation": "德式香肠",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.e58e03d326c6b81f",
+      "source": "+2 Strength,\n-1 Intelligence",
+      "translation": "力量+2，\n智力-1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.a61c254e6f4e5fe8",
+      "source": "Chocolate",
+      "translation": "巧克力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.55f482a4d79da027",
+      "source": "+2 Intelligence,\n-1 Dexterity",
+      "translation": "智力+2，\n敏捷-1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.2012071b609629ca",
+      "source": "Cake",
+      "translation": "蛋糕",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.68bbefaa8f6708cd",
+      "source": "+1 Dexterity,\n+1 Intelligence",
+      "translation": "敏捷+1，\n智力+1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.e209d05dba2181f6",
+      "source": "Salad",
+      "translation": "沙拉",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.0021eff9e75973e2",
+      "source": "+2 Dexterity,\n-1 Strength",
+      "translation": "敏捷+2，\n力量-1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.070c923069f75775",
+      "source": "Iceflex",
+      "translation": "寒冰合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.2a3237b6440ab8a6",
+      "source": "Toxiflex",
+      "translation": "剧毒合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5f3ba3734c1ba6bc",
+      "source": "Random Tomes",
+      "translation": "随机典籍",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.296c866818210811",
+      "source": "Grants [[2]]\nTrait Tomes.",
+      "translation": "获得\n[[2]]本特质典籍。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.8f31b0ce97c6b433",
+      "source": "Random Dice x1 (N/A)",
+      "translation": "随机骰子×1（暂不可用）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.403575376b435beb",
+      "source": "N/A \n(tell dev)",
+      "translation": "暂不可用\n（请告知开发者）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f91b735e18c83ba3",
+      "source": "Grants a random\nEquipment Item.",
+      "translation": "获得\n一件随机装备。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.e9785f2e1078085e",
+      "source": "Golden Steak",
+      "translation": "黄金牛排",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.8ab20659bc85c445",
+      "source": "[[+10%]] Damage\nwith Non Critical Hits",
+      "translation": "非暴击伤害\n[[+10%]]",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.417b6d3503451f1f",
+      "source": "Vitamin Items",
+      "translation": "维生素物品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.97b6832911a7d7f4",
+      "source": "Grants 2 random vitamin items.",
+      "translation": "获得2个随机维生素物品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.4f2c7f6de9c554a2",
+      "source": "Golden Lollipop",
+      "translation": "黄金棒棒糖",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.6ac2c7f62f4cadc2",
+      "source": "[[+3%]] Mana Recovery<Mana>",
+      "translation": "法力恢复<Mana>[[+3%]]",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f0d66a79c138e951",
+      "source": "Keys",
+      "translation": "钥匙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.9cdb701bb8ae5005",
+      "source": "Grants [[2]]\nKeys.",
+      "translation": "获得\n[[2]]把钥匙。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b88c3777702e30b7",
+      "source": "Ambrosia",
+      "translation": "仙馔",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.950308a25a276bbf",
+      "source": "[[+1]] to\nhighest\nAttribute",
+      "translation": "最高的\n属性\n[[+1]]",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.64e53c209aba79ff",
+      "source": "Mana Crystal",
+      "translation": "法力水晶",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.af53a81e9e559855",
+      "source": "+1 Mana Container<sprite name=\"Mana\">",
+      "translation": "法力容器<sprite name=\"Mana\">+1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.997c544f1be0a2dd",
+      "source": "Special",
+      "translation": "特殊奖励",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.4905636538b73d75",
+      "source": "Something special.",
+      "translation": "一份特殊奖励。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.7a661b4e595c16e9",
+      "source": "Random Dice (N/A)",
+      "translation": "随机骰子（暂不可用）",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.903109f43d722f19",
+      "source": "Many Bombs",
+      "translation": "大量炸弹",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.d99d962f463a9af3",
+      "source": "Random Weapon",
+      "translation": "随机武器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.83d4239817067f30",
+      "source": "Grants a Weapon.",
+      "translation": "获得一把武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.a740edd9c1a1745f",
+      "source": "Clover",
+      "translation": "四叶草",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b12d41336b7d9e50",
+      "source": "+1 Luck",
+      "translation": "幸运+1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.880457afdd754dbf",
+      "source": "Grants [[+1]] EXP.",
+      "translation": "获得[[+1]]经验。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.64b00feb54953c8e",
+      "source": "Grants a\nrare Consumable.",
+      "translation": "获得\n一个稀有消耗品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.6a90f855d672e95b",
+      "source": "Valuable treasure that sells\nfor a lot of gold.",
+      "translation": "价值不菲的财宝，\n可以卖出大量金币。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.7374a7878127a3b1",
+      "source": "Darkflex",
+      "translation": "黑暗合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.0159b2682d4ed50f",
+      "source": "Golden Candy",
+      "translation": "黄金糖果",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f50a55c16929f0b2",
+      "source": "[[+2.5%]] Critical Hit Chance<Crit>",
+      "translation": "暴击率<Crit>[[+2.5%]]",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.705354e7b59acf02",
+      "source": "Golden Croissant",
+      "translation": "黄金牛角包",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f36789b6a3ccf068",
+      "source": "[[+10%]] Companion<Companion>\nDamage",
+      "translation": "伙伴<Companion>伤害\n[[+10%]]",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.2c7b61069e2b5a5a",
+      "source": "Brightflex",
+      "translation": "光辉合金",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.92d6598cd587256f",
+      "source": "Grants a random Weapon.",
+      "translation": "获得一把随机武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.01a70def31623b85",
+      "source": "Random Mage Weapon",
+      "translation": "随机魔法武器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.3c2fb2e45af32a55",
+      "source": "Grants a\nMagic Weapon.",
+      "translation": "获得\n一把魔法武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.8ce5cc547f019e5e",
+      "source": "Golden Clover",
+      "translation": "黄金四叶草",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.92550500436b8893",
+      "source": "[[+5%]] Lucky Hit Chance<Luck>",
+      "translation": "幸运命中率<Luck>[[+5%]]",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.cfa07708aba71b02",
+      "source": "Golden Cherries",
+      "translation": "黄金樱桃",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.95ec57b60bad6b3d",
+      "source": "[[+10%]] Trigger Damage",
+      "translation": "触发伤害[[+10%]]",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.c4829c728e0eef0c",
+      "source": "Guaranteed\nUncommon Item",
+      "translation": "必含\n精良物品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.19dd68ab8886a745",
+      "source": "Health Crystal",
+      "translation": "生命水晶",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.543ae88e26d8debc",
+      "source": "Grants \n+2 Soul Hearts<sprite name=\"Soul_Heart\">.",
+      "translation": "获得\n+2颗灵魂红心<sprite name=\"Soul_Heart\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.a6fa14dfd60e54aa",
+      "source": "Random Item",
+      "translation": "随机物品",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.870204ff6f8b1389",
+      "source": "Grants a random Weapon\nor Equipment Item.",
+      "translation": "获得一把随机武器\n或一件随机装备。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.972c6bf847fc2aa7",
+      "source": "Random Ranged Weapon",
+      "translation": "随机远程武器",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.1ad589829ff59f0d",
+      "source": "Grants a\nRanged Weapon.",
+      "translation": "获得\n一把远程武器。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.1f3d7ec12582f4ec",
+      "source": "Random Charm",
+      "translation": "随机护符",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.9287a6ffcc70d17b",
+      "source": "Grants a random ##Charm.",
+      "translation": "获得一个随机##护符。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.0e619c0f64d8e8ce",
+      "source": "Armor Up",
+      "translation": "护甲提升",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.52d01930f4d6909b",
+      "source": "+1 Armor Container",
+      "translation": "护甲容器+1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.fc5d54cb02f3ae6f.values",
+      "source": "[[{number:v1}]] Equip Load\nCapacity",
+      "translation": "负重上限\n[[{number:v1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b65228dd3d7fde95.values",
+      "source": "Grants [[{number:v1}]] EXP.",
+      "translation": "获得[[{number:v1}]]经验。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5a31b38e57132725.values",
+      "source": "Reward choices\ninclude [[at least]]\n[[{number:v1}]] Legendary Item.",
+      "translation": "奖励选项\n[[至少]]包含\n[[{number:v1}]]件传奇物品。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.4f1c26848a9729a3.values",
+      "source": "Grants [[{number:v1}]] to [[{number:v2}]]\nSouls<sprite name=\"Soul\">.",
+      "translation": "获得[[{number:v1}]]至[[{number:v2}]]\n个灵魂<sprite name=\"Soul\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.46d466c615e19e8b.values",
+      "source": "Reward choices\ninclude [[at least]]\n[[{number:v1}]] Epic Item.",
+      "translation": "奖励选项\n[[至少]]包含\n[[{number:v1}]]件史诗物品。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.3d9aa31ccd6731b4.values",
+      "source": "Reward choices\ninclude [[at least]]\n[[{number:v1}]] Magic //Weapon.",
+      "translation": "奖励选项\n[[至少]]包含\n[[{number:v1}]]件魔法武器。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.3612870a3dd88f21.values",
+      "source": "[[{number:v1}]] Attack Speed",
+      "translation": "攻击速度[[{number:v1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.05a232099842c4e5.values",
+      "source": "Grants\n[[{number:v1}]] Soul Heart<Soul_Heart>.",
+      "translation": "获得\n[[{number:v1}]]颗灵魂红心<Soul_Heart>。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.d28bfc6528f20833.values",
+      "source": "Grants [[{number:v1}]] bottle\nof Booze or Cheese.",
+      "translation": "获得[[{number:v1}]]瓶\n酒水或奶酪。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.488a46e72d78df03.values",
+      "source": "Dispels {number:v1} stack Curse<Curse>.",
+      "translation": "移除{number:v1}层诅咒<Curse>。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.c26ec2be17aae23a.values",
+      "source": "{number:v1} Heart Container<sprite name=\"Heart\">",
+      "translation": "红心容器<sprite name=\"Heart\">{number:v1}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5038201f3b985559.values",
+      "source": "Grants {number:v1} Gift Boxes.",
+      "translation": "获得{number:v1}个礼盒。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.a071344ec2ed654d.values",
+      "source": "{number:v1} Intelligence,\n{number:v2} Strength",
+      "translation": "智力{number:v1}，\n力量{number:v2}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.dff683b664f5b7dd.values",
+      "source": "[[{number:v1}]] Critical Hit Damage<Crit>",
+      "translation": "暴击伤害<Crit>[[{number:v1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.c505047a895bcaae.values",
+      "source": "Ambrosia x{number:v1}",
+      "translation": "仙馔×{number:v1}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.ae3aefa1099758eb.values",
+      "source": "Grants {number:v1}\nbottles of Booze.",
+      "translation": "获得\n{number:v1}瓶酒水。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.08ea85c584aef7ca.values",
+      "source": "Refills [[{number:v1}]]\nFlask.",
+      "translation": "补充\n[[{number:v1}]]次药瓶使用次数。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.c5528502c480dd05.values",
+      "source": "Grants [[{number:v1}]]\nInfusion.",
+      "translation": "获得\n[[{number:v1}]]个灌注物品。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.700a422155d34551.values",
+      "source": "Grants \n[[{number:v1}]] Armor Container<sprite name=\"Armor\">\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n获得\n[[{number:v1}]]个护甲容器<sprite name=\"Armor\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.700a422155d34551.icon",
+      "source": "Grants \n[[+1]] Armor Container<sprite name=\"Armor\">\nwhen bombed<sprite name=\"Bomb\">.",
+      "translation": "炸开<sprite name=\"Bomb\">后\n获得\n[[+1]]个护甲容器<sprite name=\"Armor\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b146c07c4afa4c01.values",
+      "source": "Grants\n[[{number:v1}]] to [[{number:v2}]] Gold\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n获得\n[[{number:v1}]]至[[{number:v2}]]枚金币。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b146c07c4afa4c01.icon",
+      "source": "Grants\n[[15]] to [[20]] Gold\nwhen bombed<sprite name=\"Bomb\">.",
+      "translation": "炸开<sprite name=\"Bomb\">后\n获得\n[[15]]至[[20]]枚金币。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5ede47c390d03cd1.values",
+      "source": "Grants \n[[{number:v1}]] Heart Container<sprite name=\"Heart\">\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n获得\n[[{number:v1}]]个红心容器<sprite name=\"Heart\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5ede47c390d03cd1.icon",
+      "source": "Grants \n[[+1]] Heart Container<sprite name=\"Heart\">\nwhen bombed<sprite name=\"Bomb\">.",
+      "translation": "炸开<sprite name=\"Bomb\">后\n获得\n[[+1]]个红心容器<sprite name=\"Heart\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f9e1d4ffc86b74af.values",
+      "source": "Grants \n[[{number:v1}]] Mana Container<sprite name=\"Mana\">\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n获得\n[[{number:v1}]]个法力容器<sprite name=\"Mana\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f9e1d4ffc86b74af.icon",
+      "source": "Grants \n[[+1]] Mana Container<sprite name=\"Mana\">\nwhen bombed<sprite name=\"Bomb\">.",
+      "translation": "炸开<sprite name=\"Bomb\">后\n获得\n[[+1]]个法力容器<sprite name=\"Mana\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5f64ff12015d3f87.values",
+      "source": "Grants \n[[{number:v1}]] Soul Hearts<sprite name=\"Soul_Heart\">\nwhen bombed<Bomb>.",
+      "translation": "炸开<Bomb>后\n获得\n[[{number:v1}]]颗灵魂红心<sprite name=\"Soul_Heart\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5f64ff12015d3f87.icon",
+      "source": "Grants \n[[+2]] Soul Hearts<sprite name=\"Soul_Heart\">\nwhen bombed<sprite name=\"Bomb\">.",
+      "translation": "炸开<sprite name=\"Bomb\">后\n获得\n[[+2]]颗灵魂红心<sprite name=\"Soul_Heart\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.143532bf9f49a28e.icon",
+      "source": "Drops Rewards\nwhen bombed<sprite name=\"Bomb\">.",
+      "translation": "炸开<sprite name=\"Bomb\">后\n掉落奖励。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.5567f560c784aee1.values",
+      "source": "Grants [[{number:v1}]] to [[{number:v2}]]\nbottles of Booze.",
+      "translation": "获得[[{number:v1}]]至[[{number:v2}]]\n瓶酒水。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.dd1477ce6a951400.values",
+      "source": "{number:v1} Strength,\n{number:v2} Dexterity",
+      "translation": "力量{number:v1}，\n敏捷{number:v2}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.e58e03d326c6b81f.values",
+      "source": "{number:v1} Strength,\n{number:v2} Intelligence",
+      "translation": "力量{number:v1}，\n智力{number:v2}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.55f482a4d79da027.values",
+      "source": "{number:v1} Intelligence,\n{number:v2} Dexterity",
+      "translation": "智力{number:v1}，\n敏捷{number:v2}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.68bbefaa8f6708cd.values",
+      "source": "{number:v1} Dexterity,\n{number:v2} Intelligence",
+      "translation": "敏捷{number:v1}，\n智力{number:v2}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.0021eff9e75973e2.values",
+      "source": "{number:v1} Dexterity,\n{number:v2} Strength",
+      "translation": "敏捷{number:v1}，\n力量{number:v2}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.296c866818210811.values",
+      "source": "Grants [[{number:v1}]]\nTrait Tomes.",
+      "translation": "获得\n[[{number:v1}]]本特质典籍。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.8f31b0ce97c6b433.values",
+      "source": "Random Dice x{number:v1} (N/A)",
+      "translation": "随机骰子×{number:v1}（暂不可用）",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.8ab20659bc85c445.values",
+      "source": "[[{number:v1}]] Damage\nwith Non Critical Hits",
+      "translation": "非暴击伤害\n[[{number:v1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.97b6832911a7d7f4.values",
+      "source": "Grants {number:v1} random vitamin items.",
+      "translation": "获得{number:v1}个随机维生素物品。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.6ac2c7f62f4cadc2.values",
+      "source": "[[{number:v1}]] Mana Recovery<Mana>",
+      "translation": "法力恢复<Mana>[[{number:v1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.9cdb701bb8ae5005.values",
+      "source": "Grants [[{number:v1}]]\nKeys.",
+      "translation": "获得\n[[{number:v1}]]把钥匙。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.950308a25a276bbf.values",
+      "source": "[[{number:v1}]] to\nhighest\nAttribute",
+      "translation": "最高的\n属性\n[[{number:v1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.af53a81e9e559855.values",
+      "source": "{number:v1} Mana Container<sprite name=\"Mana\">",
+      "translation": "法力容器<sprite name=\"Mana\">{number:v1}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.b12d41336b7d9e50.values",
+      "source": "{number:v1} Luck",
+      "translation": "幸运{number:v1}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f50a55c16929f0b2.values",
+      "source": "[[{number:v1}]] Critical Hit Chance<Crit>",
+      "translation": "暴击率<Crit>[[{number:v1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.f36789b6a3ccf068.values",
+      "source": "[[{number:v1}]] Companion<Companion>\nDamage",
+      "translation": "伙伴<Companion>伤害\n[[{number:v1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.92550500436b8893.values",
+      "source": "[[{number:v1}]] Lucky Hit Chance<Luck>",
+      "translation": "幸运命中率<Luck>[[{number:v1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.95ec57b60bad6b3d.values",
+      "source": "[[{number:v1}]] Trigger Damage",
+      "translation": "触发伤害[[{number:v1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.543ae88e26d8debc.values",
+      "source": "Grants \n{number:v1} Soul Hearts<sprite name=\"Soul_Heart\">.",
+      "translation": "获得\n{number:v1}颗灵魂红心<sprite name=\"Soul_Heart\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    },
+    {
+      "id": "reward.52d01930f4d6909b.values",
+      "source": "{number:v1} Armor Container",
+      "translation": "护甲容器{number:v1}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "奖励资源字段；0.2.8.6。专名采用工作译名，不代表典故已考证。"
+    }
+  ]
+}

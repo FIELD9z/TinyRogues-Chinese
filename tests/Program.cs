@@ -188,6 +188,10 @@ var nestedTrait = "•<i><i><color=#808080>Every 7 seconds </color> inflict Fati
 var nestedTraitTarget = TraitDescriptions.Translate(catalog, nestedTrait);
 Check(nestedTraitTarget.Contains("疲劳") && nestedTraitTarget.Contains("周期") && !nestedTraitTarget.Contains("Every"), "Nested trait formatting blocked complete effect or category chip");
 Check(System.Text.RegularExpressions.Regex.Matches(nestedTrait, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(nestedTraitTarget, "<[^>]*>").Select(m => m.Value)), "Trait formatting changed tag sequence");
+Check(Tr(catalog, "Grants\n[[21]] to [[34]] Gold\nwhen bombed<Bomb>.").Contains("[[21]]至[[34]]"), "Petrified gold reward only handled original values");
+Check(Tr(catalog, "Grants [[7]] to [[9]]\nSouls<sprite name=\"Soul\">.").Contains("[[7]]至[[9]]"), "Soul reward range only handled original values");
+Check(Tr(catalog, "Drops Rewards\nwhen bombed<sprite name=\"Bomb\">.").Contains("掉落奖励"), "Treasure rock missed expanded icon stage");
+Check(Tr(catalog, "Drops Unknown Future Rewards\nwhen bombed<Bomb>.") == "Drops Unknown Future Rewards\nwhen bombed<Bomb>.", "Reward rule guessed unknown prose");
 Console.WriteLine($"PASS: {checks} behavioral checks; {catalog.EntryCount} independently authored active entries across {files.Length} packs.");
 return 0;
 }

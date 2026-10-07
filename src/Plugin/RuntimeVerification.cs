@@ -40,6 +40,7 @@ public sealed class RuntimeVerification : MonoBehaviour
             {
                 VerifyUI();
                 VerifyDescriptions();
+                VerifyRewardModule();
                 StartMessage(controller);
                 _started = true;
             }
@@ -311,6 +312,68 @@ public sealed class RuntimeVerification : MonoBehaviour
     }
     private static string NativeFixture(string kind, string name, string source) =>
         "{\"id\":" + Core.PackJson.Quote(kind + ":" + name) + ",\"context\":\"native-card\",\"objectName\":\"Text\",\"nativeKind\":" + Core.PackJson.Quote(kind) + ",\"nativeName\":" + Core.PackJson.Quote(name) + ",\"source\":" + Core.PackJson.Quote(source) + "}";
+
+    private static void VerifyRewardModule()
+    {
+        Resources.LoadAll<Rewards.RewardPool>("");
+        Resources.LoadAll<Rewards.Reward>("");
+        var rewards = Resources.FindObjectsOfTypeAll<Rewards.Reward>();
+        if (rewards.Length == 0) throw new InvalidOperationException("No reward resources loaded.");
+        var records = new System.Collections.Generic.List<string>();
+        var failures = 0;
+        var display = new GameObject("Reward module diagnostic");
+        var catalog = Plugin.Current.Catalog;
+        try
+        {
+            var label = display.AddComponent<TextMeshProUGUI>();
+            foreach (var reward in rewards)
+            foreach (var field in new[] { "title", "description" })
+            {
+                string source = "", target = "", error = "";
+                try
+                {
+                    try { Plugin.Current.Catalog = null; source = field == "title" ? reward.Title : reward.Description; }
+                    finally { Plugin.Current.Catalog = catalog; }
+                    if (!string.IsNullOrEmpty(source))
+                    {
+                        label.text = UI.Text.TextMeshProxy.ApplyColorToText(source, true, label);
+                        target = label.text;
+                        VerifyRenderedValues(source, target, reward.name + ":" + field);
+                        if (Regex.IsMatch(Regex.Replace(target, "<[^>]*>", ""), "[A-Za-z]")) error = "remaining-English";
+                    }
+                }
+                catch (Exception e) { error = e.GetType().Name + ": " + e.Message; }
+                if (error.Length > 0) failures++;
+                records.Add("{\"name\":" + Core.PackJson.Quote(reward.name) + ",\"field\":" + Core.PackJson.Quote(field) + ",\"source\":" + Core.PackJson.Quote(source) + ",\"target\":" + Core.PackJson.Quote(target) + ",\"error\":" + Core.PackJson.Quote(error) + "}");
+            }
+            var fixtures = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "reward-ui.json");
+            string[] sources;
+            using (var stream = File.OpenRead(fixtures))
+                sources = (string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!;
+            foreach (var source in sources)
+            {
+                label.text = UI.Text.TextMeshProxy.ApplyColorToText(source, true, label);
+                VerifyRenderedValues(source, label.text, "reward UI fixture");
+                if (Regex.IsMatch(Regex.Replace(label.text, "<[^>]*>", ""), "[A-Za-z]"))
+                    throw new InvalidOperationException("English remains in reward UI fixture: " + label.text);
+            }
+            Plugin.Current.Info($"REWARD UI PASS: {sources.Length} complete source samples.");
+        }
+        finally { Plugin.Current.Catalog = catalog; UnityEngine.Object.Destroy(display); }
+        File.WriteAllText(Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "reward-module-audit.json"), "[" + string.Join(",", records) + "]");
+        Plugin.Current.Info($"REWARD MODULE AUDIT: {rewards.Length} resources, {records.Count} fields, {failures} unresolved.");
+        if (failures > 0) throw new InvalidOperationException($"Reward module has {failures} unresolved fields; see reward-module-audit.json.");
+        var manifest = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "reward-resources.json");
+        if (!File.Exists(manifest)) throw new FileNotFoundException("Reward resource manifest required", manifest);
+        string[] expected;
+        using (var stream = File.OpenRead(manifest))
+            expected = (string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!;
+        var actual = rewards.Select(r => r.name).OrderBy(n => n).ToArray();
+        // This scene-only resource is separately covered by captured tutorial text.
+        var expectedLoaded = expected.Where(n => n != "Soul Pickup Tutorial Reward").OrderBy(n => n).ToArray();
+        if (!actual.SequenceEqual(expectedLoaded)) throw new InvalidOperationException("Loaded rewards differ from the source asset manifest.");
+        Plugin.Current.Info($"REWARD SOURCE CROSS-CHECK PASS: {expected.Length} asset resources; {actual.Length} loaded; tutorial-only reward covered by text fixture.");
+    }
 
     private static void VerifyTraitModule()
     {
