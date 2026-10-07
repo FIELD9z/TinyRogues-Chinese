@@ -136,6 +136,14 @@ foreach (var soulSource in new[] {
     Check(soulTarget.Contains("37") && soulTarget.Contains("灵魂") && !soulTarget.Contains("Grants"), "Soul reward missed a raw/partially styled/fully styled stage or depended on amount 5");
     Check(System.Text.RegularExpressions.Regex.Matches(soulSource, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(soulTarget, "<[^>]*>").Select(m => m.Value)), "Soul reward changed a color or icon tag");
 }
+var masteryHelp = runtimeUI.Single(s => s.StartsWith("After each run you gain mastery"));
+foreach (var context in new[] { "styled-input", "styled-ui", "ui:Meta Tree Canvas/Tooltip Box/Tooltip Text (TMP)" })
+{
+    var helpTarget = Tr(catalog, masteryHelp, context);
+    Check(helpTarget.Contains("精通") && helpTarget.Contains("并非通关必需") && helpTarget.Contains("余烬") && !System.Text.RegularExpressions.Regex.IsMatch(System.Text.RegularExpressions.Regex.Replace(helpTarget, "<[^>]*>", ""), "[A-Za-z]"), "Mastery help missed a recorded runtime context");
+    Check(System.Text.RegularExpressions.Regex.Matches(masteryHelp, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(helpTarget, "<[^>]*>").Select(m => m.Value)), "Mastery help changed highlight tags");
+}
+Check(Tr(catalog, "<color=#123ABC>MASTERY SYSTEM</color>", "styled-input") == "<color=#123ABC>精通系统</color>", "Mastery title depended on one color or only worked after styling");
 var cinderStats = Tr(catalog, "Highest Cinder Win Ever: 17\nCinder Sum High Score: 38\nAverage: 4.5\nAverage Of Last 5: NaN", "ui:Canvas/Cinder Menu/Panel/Cinder Modifier Description");
 Check(cinderStats == "获胜时的最高余烬等级：17\n余烬总和最高纪录：38\n平均值：4.5\n最近 5 局平均值：NaN", "Cinder statistics confused values or retained a fixed zero-state translation");
 Check(Tr(catalog, "<color=#ABCDEF>37</color>/<color=#123456>81</color> Points", "styled-ui") == "<color=#ABCDEF>37</color>/<color=#123456>81</color> 点", "Progress points depended on one color or changed counters");

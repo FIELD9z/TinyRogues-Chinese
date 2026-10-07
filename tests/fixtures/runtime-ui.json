@@ -20,5 +20,8 @@
   "Grants <color=#00E317>2</color> to <color=#00E317>4</color>\nrandom Consumables.",
   "Grants <color=#00E317>7</color>\n<color=#A61FFF>Potion</color>.",
   "Consume 7 Heart\nto open.",
-  "Consume 7 Heart<sprite name=\"Heart\">\nto open."
+  "Consume 7 Heart<sprite name=\"Heart\">\nto open.",
+  "Mastery\n0/30",
+  "<color=#FFEB04>MASTERY SYSTEM</color>",
+  "After each run you gain mastery <color=yellow>EXP</color> depending on how many bosses you have defeated.\nPer level you can allocate one perk.\nThese perks are <color=#00E61A>not required</color> to succeed on your journey but they surely help.\nUnlock and activate <color=#DE6B1C>Cinder</color> modifiers to level up faster."
 ]

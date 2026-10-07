@@ -750,6 +750,31 @@
       "kind": "exact",
       "status": "translated",
       "note": "独立译文；英文结构交叉核对旧 RuntimeRegex_zh.txt:145。完整文本匹配，数值和样式变量原样保留；合成样本不代表正常游玩覆盖。"
+    },
+    {
+      "id": "mastery.help.title",
+      "source": "MASTERY SYSTEM",
+      "translation": "精通系统",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "mastery.help.colored-title",
+      "source": "<color={key:color}>MASTERY SYSTEM</color>",
+      "translation": "<color={key:color}>精通系统</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "mastery.help.complete-description",
+      "source": "After each run you gain mastery <color=yellow>EXP</color> depending on how many bosses you have defeated.\nPer level you can allocate one perk.\nThese perks are <color=#00E61A>not required</color> to succeed on your journey but they surely help.\nUnlock and activate <color=#DE6B1C>Cinder</color> modifiers to level up faster.",
+      "translation": "每次冒险结束后，根据击败的首领数量获得精通<color=yellow>经验</color>。\n每升一级，可选择一项天赋。\n这些天赋<color=#00E61A>并非通关必需</color>，但能提供帮助。\n解锁并启用<color=#DE6B1C>余烬</color>修正，可以更快升级。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际精通界面完整说明；系统核查记录 ebbdd8aa3c5099b93bf9b7587d87d6a4bc9c7a3ea6253d6cdccfeed400a9341c。"
     }
   ]
 }
