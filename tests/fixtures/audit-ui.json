@@ -1,0 +1,1202 @@
+[
+  {
+    "source": "Just one more run!",
+    "expected": "再来一局！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Now with 100% less text!",
+    "expected": "现在，文字减少了 100%！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Don't take candy from strangers!",
+    "expected": "别吃陌生人给的糖！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "You're pretty cool!",
+    "expected": "你还挺酷！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Wouldn't want you to see you go hollow!",
+    "expected": "可别变成活尸啊！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "There is no escape!",
+    "expected": "无路可逃！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Try using shields!",
+    "expected": "试试盾牌吧！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Wow these rogues are tiny!",
+    "expected": "这些盗贼可真小！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Now with cheats!",
+    "expected": "现在支持作弊了！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Don't get too tipsy!",
+    "expected": "别喝得太醉！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Don't drink and drive!",
+    "expected": "喝酒不开车！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Music by MiguelAngell960!",
+    "expected": "音乐：MiguelAngell960！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Xbox Controller connected.",
+    "expected": "Xbox 手柄已连接。",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A place to keep all your dice.",
+    "expected": "存放你所有骰子的地方。",
+    "context": "styled-ui"
+  },
+  {
+    "source": "\"Oooh!",
+    "expected": "“哇！",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Shinies!\"",
+    "expected": "亮闪闪的！”",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Bandit Class",
+    "expected": "强盗职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A ruthless bandit involved in organized raids on towns and travelers.\n",
+    "expected": "一个冷酷的强盗，参与有组织地劫掠城镇和旅人。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Bard Class",
+    "expected": "吟游诗人职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A bard whose music carries them on a journey of adventure, seeking out new stories to tell and new melodies to play.\n",
+    "expected": "一位循着乐声踏上冒险旅程的吟游诗人，寻觅新的故事与新的旋律。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Cleric Class",
+    "expected": "牧师职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A faithful cleric who wields divine magic in service of a higher power.\n",
+    "expected": "虔诚的牧师，以神圣魔法侍奉更高的力量。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Deprived Class",
+    "expected": "一无所有者职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A barbaric hobo who abandoned civilization to seek a home surrounded by nature.\n",
+    "expected": "野蛮的流浪汉，抛弃文明，寻找被自然环绕的栖身之处。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Doppelganger Class",
+    "expected": "变形怪职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "An infamous creature with the ability to transform its appearance to look like any other human. It likes to use its shapeshifting abilities to blend in and deceive enemies.\n",
+    "expected": "声名狼藉的生物，能变成任何人的模样。它善用变形能力混入人群，欺骗敌人。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Gunslinger Class",
+    "expected": "神枪手职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "The Gunslinger is a master of firearms, and a deadly shot with any weapon.\n",
+    "expected": "神枪手精通枪械，无论使用何种武器都能打出致命一击。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Knight Class",
+    "expected": "骑士职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A proud knight in plate armor who trained all life long to become a master of all weapons.\n",
+    "expected": "身披板甲的骄傲骑士，终其一生磨炼技艺，志在精通所有武器。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Mystic Class",
+    "expected": "秘法使职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A mysterious and nimble duelist who uses elemental magic to strike with speed and precision.\n",
+    "expected": "神秘而灵巧的决斗者，运用元素魔法迅速而精准地出击。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A sage that has mastered the art of fire, burning any and all who dare cross their path.\n",
+    "expected": "精通火焰之道的贤者，将所有胆敢阻挡其脚步的人烧成灰烬。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A nimble ranger that favours to take down enemies from range.\n",
+    "expected": "灵巧的游侠，偏爱从远处击倒敌人。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Santa Class",
+    "expected": "圣诞老人职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A legendary figure with a sack full of surprises, spreading joy and chaos wherever he appears.\n",
+    "expected": "传说中的人物，背着装满惊喜的袋子，所到之处皆留下欢乐与混乱。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Soldier Class",
+    "expected": "士兵职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "The soldier faces even the most daunting foes with determination and courage to protect the innocent.\n",
+    "expected": "为了保护无辜者，士兵以决心和勇气面对最可怕的敌人。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Sorcerer Class",
+    "expected": "术士职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A sorcerer with innate arcane abilities and unnaturally high intelligence.\n",
+    "expected": "拥有天生奥术能力与超凡智力的术士。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "The Hero Class",
+    "expected": "勇者职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A hot blooded young hero on a quest to vanquish humanity's\nbiggest adversary. \nCan they defeat Death?\n\n",
+    "expected": "热血的年轻勇者，立志击败人类\n最强大的敌人。 \n他们能战胜死神吗？\n\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Thief Class",
+    "expected": "盗贼职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A cloaked scoundrel who uses stealth and trickery to assassinate enemies out of the shadows.\n",
+    "expected": "披着斗篷的恶棍，运用潜行与诡计从阴影中刺杀敌人。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Wanderer Class",
+    "expected": "漫游者职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "An aimless and mysterious wanderer who seeks adventure and treasure in forgotten lands.\n",
+    "expected": "漫无目的的神秘旅人，在被遗忘的土地上追寻冒险与宝藏。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Warrior Class",
+    "expected": "战士职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A fearless and ruthless warrior with incredible strength and martial prowess in all types of combat.\n",
+    "expected": "无畏而冷酷的战士，拥有惊人的力量，精通各种战斗技艺。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Wizard Class",
+    "expected": "法师职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A scholarly wizard who knows how to harness the power of mind and body to cast powerful spells.\n",
+    "expected": "学识渊博的法师，懂得调动身心的力量施展强大的法术。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Alchemist Class",
+    "expected": "炼金术师职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A master of material transformation, the Alchemist harnesses the ancient art of transmutation, turning the ordinary into the extraordinary.\n",
+    "expected": "精通物质转化的大师。炼金术师运用古老的嬗变之术，将平凡化为非凡。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Barbarian Class",
+    "expected": "野蛮人职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A fierce warrior who channels primal rage into devastating blows. They thrive in the chaos of close combat, overpowering foes with brute strength.\n",
+    "expected": "凶猛的战士，将原始怒火化为毁灭性的重击。他们在混乱的近身战中如鱼得水，用蛮力压倒敌人。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Chaos Class",
+    "expected": "混沌职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A being born from the heart of disorder. In their wake, reality shifts, weaving the unpredictable forces of the universe into an arsenal as random as fate itself.\n",
+    "expected": "生于无序中心的存在。他们经过之处，现实随之扭曲，将宇宙中不可预测的力量织成如命运般随机的武装。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Cyborg Class",
+    "expected": "改造人职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A blend of human and machine, the Cyborg uses their cybernetic enhancements in battle, merging intellect with advanced technology.\n",
+    "expected": "人与机器的结合体。改造人运用机械增强装置作战，将才智与先进技术融为一体。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Dancer Class",
+    "expected": "舞者职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "The Dancer moves to the rhythm of battle, their blades an extension of their rhythmic steps, striking with swift elegance.\n",
+    "expected": "舞者踏着战斗的节拍起舞，刀刃随步伐延伸，以迅捷而优雅的动作出击。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Demon Hunter Class",
+    "expected": "恶魔猎手职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Fueled by vengeance, the Demon Hunter stalks the night, relentlessly pursuing all evil and striking fear into the hearts of demons and undead plaguing the lands.\n",
+    "expected": "复仇之火驱使恶魔猎手游走于黑夜，穷追一切邪恶，让荼毒这片土地的恶魔与亡灵心生恐惧。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Dragoon Class",
+    "expected": "龙骑士职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "An expert in dragon hunting, venturing across lands with their mighty spear, safeguarding realms from draconic threats.\n",
+    "expected": "猎龙专家，手持强大的长矛行遍各地，保护诸国免受巨龙威胁。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Druid Class",
+    "expected": "德鲁伊职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "The Druid calls forth spirit animals and taps into earth's magic, standing as a mighty guardian of nature.\n",
+    "expected": "德鲁伊召唤灵兽，借助大地魔法，成为自然强大的守护者。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Esper Class",
+    "expected": "超能力者职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Abducted for their psychic talents, this child escaped, using newfound powers to navigate a perilous journey trying to find it's way back to family.\n",
+    "expected": "这个孩子因超能力天赋被绑架，随后逃出生天，运用新觉醒的力量踏上危险的返乡之路。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Jester Class",
+    "expected": "小丑职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A deceptive assassin, the Jester uses jest and juggle to distract, then strikes with precision, their humor as sharp as their blade.\n",
+    "expected": "擅长欺骗的刺客。小丑用玩笑与杂耍分散敌人的注意，再精准出击；他们的幽默与刀刃一样锋利。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Monk Class",
+    "expected": "武僧职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A serene monk who has mastered martial arts, using their body as a weapon and their mind as a fortress.\n",
+    "expected": "平静的武僧，精通武艺，以身体为兵器，以心神为堡垒。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Necromancer Class",
+    "expected": "死灵法师职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Cloaked in dark robes, they command the dead, using skeletal minions to do their bidding and drawing power from the souls they harvest.\n",
+    "expected": "身披黑袍，统御死者，驱使骷髅仆从执行命令，并从收割的灵魂中汲取力量。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Ninja Class",
+    "expected": "忍者职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Trained in the ancient arts of espionage, this Ninja moves unseen, striking from the darkness with lethal precision.\n",
+    "expected": "修习古老谍报技艺的忍者，行踪难觅，从黑暗中精准地发动致命一击。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Paladin Class",
+    "expected": "圣骑士职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A valiant paladin, armored in faith and steel, sworn to uphold justice and smite evil with holy wrath.\n",
+    "expected": "勇敢的圣骑士，以信仰与钢铁为甲，立誓维护正义，以神圣怒火惩击邪恶。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Pirate Class",
+    "expected": "海盗职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A ruthless Pirate, sailing the high seas to plunder ships and coastal towns, building a reputation as feared as their growing bounty.\n",
+    "expected": "冷酷的海盗，航行于大洋之上，劫掠船只与沿海城镇；随着赏金攀升，其恶名也越发令人畏惧。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Samurai Class",
+    "expected": "武士职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A masterless samurai wandering the lands, seeking redemption and a new purpose with every slash of their blade.\n",
+    "expected": "失去主君的武士游历四方，每一次挥刀都在追寻救赎与新的使命。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Super Hero Class",
+    "expected": "超级英雄职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A daring Super Hero, gifted with extraordinary powers, dedicated to safeguarding the world from villainous threats.\n",
+    "expected": "勇敢的超级英雄，拥有非凡的能力，致力于保护世界免受恶徒威胁。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Transmutation Guild Class",
+    "expected": "嬗变公会职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Find locked entrances to alchemy labs that allow you to transmute items.\n",
+    "expected": "你会发现炼金实验室上锁的入口，可在其中转化物品。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Organized Crime Class",
+    "expected": "有组织犯罪职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "You encounter more Shops and in every Shop you can take [[1]] Item for [[Free]].\n",
+    "expected": "你会遇到更多商店，每家商店都可[[免费]]拿走 [[1]] 件物品。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Berserker Strength Class",
+    "expected": "狂战士之力职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Party Time Class",
+    "expected": "派对时间职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Chimera Class",
+    "expected": "奇美拉职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Gets random Ability, Equipment, Weapon, Stats and Skill from other classes.\n",
+    "expected": "从其他职业随机获取能力、装备、武器、属性与技能。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Blessed Class",
+    "expected": "祝福职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Cybernetic Growth Class",
+    "expected": "机械成长职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Points of Strength, Dexterity or Intelligence\nadditionally grant Weapon Upgrade Level.\n",
+    "expected": "力量、敏捷或智力点数\n还会提高武器升级等级。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Double Flourish Class",
+    "expected": "双重舞步职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "When you dash, you can immediately dash again without it costing any Stamina<Stamina>.\n",
+    "expected": "冲刺后可立即再次冲刺，且不消耗体力<Stamina>。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Path Of Vengeance Class",
+    "expected": "复仇之路职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Rooms can appear <color=red>Tainted</color>, adding additional Enemies but also [[x2.00]] the Reward.\n",
+    "expected": "房间可能受到<color=red>污染</color>，增加额外敌人，奖励也变为 [[x2.00]]。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Something is in the darkness...\n",
+    "expected": "黑暗中有什么东西……\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Smolders of brimstone...\n",
+    "expected": "硫磺余烬……\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Traces of devilish beasts.\n",
+    "expected": "恶魔野兽留下的痕迹。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Gluttonous sins.\n",
+    "expected": "暴食之罪。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A stench of raw meat...\n",
+    "expected": "生肉的恶臭……\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "The air reeks of decay...\n",
+    "expected": "空气中弥漫着腐败气息……\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "I sense a fiendish presence ahead.\n",
+    "expected": "我感觉前方有恶魔。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A slithering in the dark.\n",
+    "expected": "黑暗中传来爬行声。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Traces of a rampaging beast.\n",
+    "expected": "狂暴野兽留下的痕迹。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "A hint of iron in the air...\n",
+    "expected": "空气中隐约有铁锈味……\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "The air whispers of malice.\n",
+    "expected": "空气中低语着恶意。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Cursed Might Class",
+    "expected": "诅咒之力职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Gain [[+10%]] Stats from Strength, Dexterity and Intelligence per Curse<sprite name=\"Curse\"> on you.\n",
+    "expected": "每有一层诅咒<sprite name=\"Curse\">，力量、敏捷与智力提供的属性加成提高 [[+10%]]。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Shapechanger Class",
+    "expected": "变形者职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Choose a form and gain a unique class ability at the mirror in the spawn room on each floor.\n",
+    "expected": "每层起始房间的镜子都可让你选择形态，获得独特的职业能力。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Shields [[don't]] weigh Equip Load.\n",
+    "expected": "盾牌[[不会]]占用装备负重。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "While having exactly one active Infusion Buff, that Infusion Buff won't expire.\n",
+    "expected": "恰好拥有一种灌注增益时，该灌注增益不会到期。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "You count as having [[x2.00]] Soul Hearts<sprite name=\"Soul_Heart\"> than you actually have.\n",
+    "expected": "灵魂之心<sprite name=\"Soul_Heart\">的数量按实际拥有数量的 [[x2.00]] 计算。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Lancer Class",
+    "expected": "长枪手职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "You always count as being at Close Range<Close> and at Far Range<Far>.\n",
+    "expected": "你始终同时视为处于近距离<Close>与远距离<Far>。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Druidic Rite Class",
+    "expected": "德鲁伊仪式职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Summon and level up spirit animal Companions at Druid Shrines.\n",
+    "expected": "在德鲁伊祭坛召唤并升级灵兽同伴。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Psychokinesis Class",
+    "expected": "念动力职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "At Level 1 you get to choose a Psychic Ability Trait.\n",
+    "expected": "在 1 级时可选择一个超能力特质。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Lucky Draw Class",
+    "expected": "幸运拔枪职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Lucky Hits<sprite name=\"Luck\"> with Attacks or Skills make you repeat your next Attack.\n",
+    "expected": "攻击或技能造成幸运一击<sprite name=\"Luck\">后，你的下一次攻击会重复一次。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Lucky Star Class",
+    "expected": "幸运星职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Deception Class",
+    "expected": "欺诈职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "On Dash, your next [[3]] Attacks deal a guaranteed Critical Hit<Crit>.\n",
+    "expected": "冲刺后，接下来 [[3]] 次攻击必定暴击<Crit>。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Defiance Class",
+    "expected": "抗争职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Master of Ki Class",
+    "expected": "气之大师职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Your Fist Attacks grant you a Ki-Charge on Hit.\n",
+    "expected": "拳击攻击命中时获得一层聚气。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Enchanter Class",
+    "expected": "附魔师职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Soul Reaper Class",
+    "expected": "灵魂收割者职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Shadow Jutsu Class",
+    "expected": "影之术职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "On Dash, summon a Shadow Clone Companion<Companion> for [[8 seconds]].\n",
+    "expected": "冲刺时，召唤影分身同伴<Companion>，持续 [[8 秒]]。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Crusader Class",
+    "expected": "十字军职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Infamy Class",
+    "expected": "恶名职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Piratey deeds increase your bounty. Rise up through the ranks of piracy and gain powerful effects.\n",
+    "expected": "海盗行径会提高你的悬赏。提升海盗等级，获得强大的效果。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Bilge Rat Class",
+    "expected": "舱底鼠职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Scallywag Class",
+    "expected": "海上无赖职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Powder Monkey Class",
+    "expected": "火药猴职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Booty Snatcher Class",
+    "expected": "财宝掠夺者职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Captain Class",
+    "expected": "船长职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Sea Devil Class",
+    "expected": "海魔职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Jolly Roger Class",
+    "expected": "骷髅旗职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Supernova Class",
+    "expected": "超新星职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Pirate King Class",
+    "expected": "海盗王职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Inner Flame Class",
+    "expected": "内在火焰职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Farsight Class",
+    "expected": "远视职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Ronin Class",
+    "expected": "浪人职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Your Weapons inflict a stack of Retribution.\n",
+    "expected": "你的武器会施加一层惩戒。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Holiday Surprise Class",
+    "expected": "节日惊喜职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Whenever you open a Gift Box, gain either\n<SubArrow> [[+1]] Luck<Luck>, \n<SubArrow> [[+1]] Treasure Find<Treasure> or \n<SubArrow> [[+1]] Magic Find<Magic_Find>.\n",
+    "expected": "每次打开礼物盒，随机获得以下一种：\n<SubArrow> [[+1]] 幸运<Luck>， \n<SubArrow> [[+1]] 宝藏发现率<Treasure>，或 \n<SubArrow> [[+1]] 魔法发现率<Magic_Find>。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Preparation Class",
+    "expected": "准备就绪职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Ele##mental Affinity\n",
+    "expected": "元##素亲和\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Super Power Class",
+    "expected": "超能力职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "At Level 1 you get to choose a Super Power Trait.\n",
+    "expected": "在 1 级时可选择一个超能力特质。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Reliable Talent Class",
+    "expected": "可靠天赋职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Sightseer Class",
+    "expected": "观光客职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "You will encounter an Event Room on every Floor.\n",
+    "expected": "每个楼层都会遇到一个事件房间。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Steadfast Class",
+    "expected": "坚守职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Wisdom Class",
+    "expected": "智慧职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#00E61A>Not Encumbered</color>",
+    "expected": "<color=#00E61A>未超重</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#00E61A>Skill Effect <sprite name=\"Skill\"></color>:",
+    "expected": "<color=#00E61A>技能效果 <sprite name=\"Skill\"></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26B0FF><color=#26B0FF>Intelligence</color></color>:",
+    "expected": "<color=#26B0FF><color=#26B0FF>智力</color></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26B0FF><color=#26B0FF>Mana Recovery</color></color>:",
+    "expected": "<color=#26B0FF><color=#26B0FF>魔力恢复</color></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26B0FF><color=#26B0FF>Mana</color></color>:",
+    "expected": "<color=#26B0FF><color=#26B0FF>魔力</color></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26B0FF>From <color=#26B0FF>Int</color>.</color>:",
+    "expected": "<color=#26B0FF>来自<color=#26B0FF>智力</color>。</color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26B0FF>Intelligence</color>:",
+    "expected": "<color=#26B0FF>智力</color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26B0FF>MANA</color>",
+    "expected": "<color=#26B0FF>魔力</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26B0FF>Mana Recovery</color>:",
+    "expected": "<color=#26B0FF>魔力恢复</color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26B0FF>Mana</color>:",
+    "expected": "<color=#26B0FF>魔力</color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26FF66><color=#26FF66>Dexterity</color></color>:",
+    "expected": "<color=#26FF66><color=#26FF66>敏捷</color></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26FF66>Dexterity</color>:",
+    "expected": "<color=#26FF66>敏捷</color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#26FF66>From <color=#26FF66>Dex</color>.</color>:",
+    "expected": "<color=#26FF66>来自<color=#26FF66>敏捷</color>。</color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#3B3B7A><color=#3B3B7A>Chaotic</color><sprite name=\"Chaos\"></color>:",
+    "expected": "<color=#3B3B7A><color=#3B3B7A>混乱</color><sprite name=\"Chaos\"></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#3B3B7A>Chaotic<Chaos></color>:",
+    "expected": "<color=#3B3B7A>混乱<Chaos></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#5ECCE3><color=#5ECCE3>Lawful</color><sprite name=\"Lawful\"></color>:",
+    "expected": "<color=#5ECCE3><color=#5ECCE3>守序</color><sprite name=\"Lawful\"></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#5ECCE3>Lawful<Lawful></color>:",
+    "expected": "<color=#5ECCE3>守序<Lawful></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#808080>//Consumable</color>\nFully absolves you from Curse<sprite name=\"Curse\">.",
+    "expected": "<color=#808080>//消耗品</color>\n彻底解除你的诅咒<sprite name=\"Curse\">。",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#808080>A place to keep all your dice.\n<i>\"Oooh!\nShinies!\"</i></color>",
+    "expected": "<color=#808080>存放你所有骰子的地方。\n<i>“哇！\n亮闪闪的！”</i></color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#808080>A place to keep all your dice.\n<indent=7px>\"Oooh!\nShinies!\"</indent></color>",
+    "expected": "<color=#808080>存放你所有骰子的地方。\n<indent=7px>“哇！\n亮闪闪的！”</indent></color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#808080>Consumable</color>\nFully absolves you from <color=#3B3B7A>Curse</color><sprite name=\"Curse\">.",
+    "expected": "<color=#808080>消耗品</color>\n彻底解除你的<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">。",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FCC926><color=#FCC926>Good</color><sprite name=\"Good\"></color>:",
+    "expected": "<color=#FCC926><color=#FCC926>善良</color><sprite name=\"Good\"></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FCC926>Good<Good></color>:",
+    "expected": "<color=#FCC926>善良<Good></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FF0000><color=#FF0000>Evil</color><sprite name=\"Evil\"></color>:",
+    "expected": "<color=#FF0000><color=#FF0000>邪恶</color><sprite name=\"Evil\"></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FF0000>Evil<Evil></color>:",
+    "expected": "<color=#FF0000>邪恶<Evil></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FF2666><color=#FF2666>Strength</color></color>:",
+    "expected": "<color=#FF2666><color=#FF2666>力量</color></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FF2666>From <color=#FF2666>Str</color>.</color>:",
+    "expected": "<color=#FF2666>来自<color=#FF2666>力量</color>。</color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FF2666>Str</color>",
+    "expected": "<color=#FF2666>力量</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FF2666>Strength</color>",
+    "expected": "<color=#FF2666>力量</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FF2666>Strength</color>:",
+    "expected": "<color=#FF2666>力量</color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FFEB04>Mastery EXP Bonus</color>",
+    "expected": "<color=#FFEB04>精通经验加成</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FFFFFF><color=#26B0FF><color=#26B0FF>Mana</color> Rec. Penalty</color></color>:",
+    "expected": "<color=#FFFFFF><color=#26B0FF><color=#26B0FF>魔力</color>恢复惩罚</color></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FFFFFF><color=#6BBD30><color=#6BBD30>Stamina</color> Rec. Penalty</color></color>:",
+    "expected": "<color=#FFFFFF><color=#6BBD30><color=#6BBD30>耐力</color>恢复惩罚</color></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FFFFFF><color=#8CFFFA>Dash Length Penalty</color></color>:",
+    "expected": "<color=#FFFFFF><color=#8CFFFA>冲刺距离惩罚</color></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FFFFFF><color=#8CFFFA>Move. Speed Penalty</color></color>:",
+    "expected": "<color=#FFFFFF><color=#8CFFFA>移动速度惩罚</color></color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FFFFFF>Alignment Requirement</color>:",
+    "expected": "<color=#FFFFFF>阵营要求</color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "<color=#FFFFFF>Current</color>:",
+    "expected": "<color=#FFFFFF>当前</color>：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Activate <color=#DE6B1C>Cinder</color> modifiers to gain more <color=#FFEB04>Mastery EXP</color>.\n<SubArrow><i>Enemies gain <color=#FF0000>+0.25%</color> Health<sprite name=Heart> and Armor<sprite name=Armor> per Cinder Modifier per Floor.</i>\n<SubArrow><i>Reapers and Automatons are [[not affected]] by this.</i>",
+    "expected": "启用<color=#DE6B1C>余烬</color>修正，可获得更多<color=#FFEB04>精通经验</color>。\n<SubArrow><i>敌人每深入一层，每项余烬修正都会使其增加 <color=#FF0000>+0.25%</color> 生命值<sprite name=Heart>和护甲<sprite name=Armor>。</i>\n<SubArrow><i>收割者和自动机兵[[不受影响]]。</i>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Activate <color=#DE6B1C>Cinder</color> modifiers to gain more <color=#FFEB04>Mastery EXP</color>.\n<SubArrow><indent=14px>Enemies gain <color=#FF0000>+0.25%</color> Health<sprite name=Heart> and Armor<sprite name=Armor> per Cinder Modifier per Floor.</indent>\n<SubArrow><indent=14px>Reapers and Automatons are <color=#00E317>not affected</color> by this.</indent>",
+    "expected": "启用<color=#DE6B1C>余烬</color>修正，可获得更多<color=#FFEB04>精通经验</color>。\n<SubArrow><indent=14px>敌人每深入一层，每项余烬修正都会使其增加 <color=#FF0000>+0.25%</color> 生命值<sprite name=Heart>和护甲<sprite name=Armor>。</indent>\n<SubArrow><indent=14px>收割者和自动机兵<color=#00E317>不受影响</color>。</indent>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Activate <color=#DE6B1C>Cinder</color> modifiers to gain more <color=#FFEB04>Mastery EXP</color>.\n<sprite name=\"SubArrow\"><indent=14px>Enemies gain <color=#FF0000>+0.25%</color> <color=#FF3326>Health</color><sprite name=Heart> and <color=#406E7D>Armor</color><sprite name=Armor> per Cinder Modifier per Floor.</indent>\n<sprite name=\"SubArrow\"><indent=14px><color=#8000FF>Reapers</color> and <color=#8000FF>Automatons</color> are <color=#00E317>not affected</color> by this.</indent>",
+    "expected": "启用<color=#DE6B1C>余烬</color>修正，可获得更多<color=#FFEB04>精通经验</color>。\n<sprite name=\"SubArrow\"><indent=14px>敌人每深入一层，每项余烬修正都会使其增加 <color=#FF0000>+0.25%</color> <color=#FF3326>生命值</color><sprite name=Heart>和<color=#406E7D>护甲</color><sprite name=Armor>。</indent>\n<sprite name=\"SubArrow\"><indent=14px><color=#8000FF>收割者</color>和<color=#8000FF>自动机兵</color><color=#00E317>不受影响</color>。</indent>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Alignment Requirement",
+    "expected": "阵营要求",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Compare",
+    "expected": "比较",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Current",
+    "expected": "当前",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Dash Length Penalty",
+    "expected": "冲刺距离惩罚",
+    "context": "styled-ui"
+  },
+  {
+    "source": "EQUIP LOAD",
+    "expected": "装备负重",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Fully absolves you from <color=#3B3B7A>Curse</color><sprite name=\"Curse\">. <color=#7F7F7FFF>[Consumable]</color>",
+    "expected": "彻底解除你的<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">。 <color=#7F7F7FFF>[消耗品]</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Fully absolves you from Curse<Curse>. <color=#7F7F7FFF>[##Consumable]</color>",
+    "expected": "彻底解除你的诅咒<Curse>。 <color=#7F7F7FFF>[##消耗品]</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Fully absolves you from Curse<Curse>. <g>[##Consumable]</g>",
+    "expected": "彻底解除你的诅咒<Curse>。 <g>[##消耗品]</g>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Increase the difficulty and gain more <color=#FFEB04>EXP</color> for each active Cinder modifier.\nThe <color=#FFEB04>EXP</color> bonus per modifier <color=red>diminishes</color> the more modifiers you activate.",
+    "expected": "提高难度，每启用一项余烬修正，就能获得更多<color=#FFEB04>经验</color>。\n<color=#FFEB04>经验</color>的每项修正加成会随启用修正数量的增加而<color=red>递减</color>。",
+    "context": "styled-ui"
+  },
+  {
+    "source": "MANA",
+    "expected": "魔力",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Mana Recovery<sprite name=Mana>",
+    "expected": "魔力恢复<sprite name=Mana>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Mana<sprite name=Mana>",
+    "expected": "魔力<sprite name=Mana>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Mastery EXP Bonus",
+    "expected": "精通经验加成",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Move. Speed Penalty",
+    "expected": "移动速度惩罚",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Not Encumbered",
+    "expected": "未超重",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Stamina<Stamina>",
+    "expected": "耐力<Stamina>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Start with 3 <color=#FCC926>Keys</color><sprite name=\"Key\">. <color=#7F7F7FFF>[Resource]</color>",
+    "expected": "开局获得 3 <color=#FCC926>钥匙</color><sprite name=\"Key\">。 <color=#7F7F7FFF>[资源]</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Start with 3 Keys<Key>. <color=#7F7F7FFF>[##Resource]</color>",
+    "expected": "开局获得 3 钥匙<Key>。 <color=#7F7F7FFF>[##资源]</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Start with 3 Keys<Key>. <g>[##Resource]</g>",
+    "expected": "开局获得 3 钥匙<Key>。 <g>[##资源]</g>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Start with 30 <color=#FCC926>Gold</color><sprite name=\"Gold\">. <color=#7F7F7FFF>[Resource]</color>",
+    "expected": "开局获得 30 <color=#FCC926>金币</color><sprite name=\"Gold\">。 <color=#7F7F7FFF>[资源]</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Start with 30 Gold<Gold>. <color=#7F7F7FFF>[##Resource]</color>",
+    "expected": "开局获得 30 金币<Gold>。 <color=#7F7F7FFF>[##资源]</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Start with 30 Gold<Gold>. <g>[##Resource]</g>",
+    "expected": "开局获得 30 金币<Gold>。 <g>[##资源]</g>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Start with 5 <color=#3B3B7A>Bombs</color><sprite name=\"Bomb\">. <color=#7F7F7FFF>[Resource]</color>",
+    "expected": "开局获得 5 <color=#3B3B7A>炸弹</color><sprite name=\"Bomb\">。 <color=#7F7F7FFF>[资源]</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Start with 5 Bombs<Bomb>. <color=#7F7F7FFF>[##Resource]</color>",
+    "expected": "开局获得 5 炸弹<Bomb>。 <color=#7F7F7FFF>[##资源]</color>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Start with 5 Bombs<Bomb>. <g>[##Resource]</g>",
+    "expected": "开局获得 5 炸弹<Bomb>。 <g>[##资源]</g>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Start with an assortment of 6 Dice. <g>[##Resource]</g>",
+    "expected": "开局获得各式骰子，共 6 枚。 <g>[##资源]</g>",
+    "context": "styled-ui"
+  },
+  {
+    "source": "The Bonfire beckons you on a journey to vanquish the darkness that plagues this world.\n\nObjective:\nBegin your adventure. \n\nResult:\nA new set of enemies may appear on each floor.",
+    "expected": "篝火召唤你踏上旅程，扫除荼毒这个世界的黑暗。\n\n目标：\n开始冒险。 \n\n效果：\n每个楼层都可能出现一批新的敌人。",
+    "context": "styled-ui"
+  },
+  {
+    "source": "You are the chosen one, no pressure.",
+    "expected": "你就是天选之人，别有压力。",
+    "context": "styled-ui"
+  },
+  {
+    "source": "You are the chosen one, no pressure.\n",
+    "expected": "你就是天选之人，别有压力。\n",
+    "context": "styled-ui"
+  },
+  {
+    "source": "篝火召唤你踏上旅程，扫除荼毒这个世界的黑暗。\n\nObjective:\n开始冒险。 \n\nResult:\n每个楼层都可能出现一批新的敌人。",
+    "expected": "篝火召唤你踏上旅程，扫除荼毒这个世界的黑暗。\n\n目标：\n开始冒险。 \n\n效果：\n每个楼层都可能出现一批新的敌人。",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Objective:",
+    "expected": "目标：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Result:",
+    "expected": "效果：",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Bomb Pouch",
+    "expected": "炸弹袋",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Coin Bag",
+    "expected": "钱袋",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Key Ring",
+    "expected": "钥匙环",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Locked",
+    "expected": "未解锁",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Hero Class",
+    "expected": "勇者职业",
+    "context": "styled-ui"
+  },
+  {
+    "source": "Bombs",
+    "expected": "炸弹",
+    "context": "styled-ui"
+  }
+]

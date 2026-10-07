@@ -43,6 +43,7 @@ internal static class Adapters
         PatchScoped(AccessTools.Method(typeof(Traits.Trait), "Description"), nameof(PrepareTrait));
         PatchScoped(AccessTools.PropertyGetter(typeof(Cinder_System.CinderModifier), "Description"), nameof(PrepareCinder));
         PatchScoped(AccessTools.PropertyGetter(typeof(World_Progression.WorldObjective), "Description"), nameof(PrepareObjective));
+        Patch(AccessTools.PropertyGetter(typeof(World_Progression.WorldObjective), "Description"), nameof(AfterObjectiveDescription), true);
         Patch(AccessTools.PropertyGetter(typeof(Meta_Perk_Tree.System.MetaPerk), "Title"), nameof(AfterMetaTitle), true);
         Patch(AccessTools.PropertyGetter(typeof(Player.PlayerClass), "Name"), nameof(AfterClassName), true);
         Patch(typeof(TMP_Text).GetProperty("text")!.SetMethod!, nameof(AssignText));
@@ -156,6 +157,16 @@ internal static class Adapters
     {
         try { __0 = Plugin.Current.Translate(__0, "description-template"); }
         catch (Exception error) { Plugin.Current.Error($"Description template adapter failed: {error.Message}"); }
+    }
+
+    private static void AfterObjectiveDescription(Il2CppSystem.Object __instance, ref string __result)
+    {
+        if (!IsNative<World_Progression.WorldObjective>(__instance) || string.IsNullOrEmpty(__result)) return;
+        __result = Plugin.Current.Translate(__result, "world-objective-description");
+        // These two headings are inserted by the getter, outside its translated
+        // descriptive fields. Restrict replacement to this getter's complete lines.
+        foreach (var heading in new[] { "Objective:", "Result:" })
+            __result = __result.Replace("\n" + heading + "\n", "\n" + Plugin.Current.Translate(heading, "world-objective-heading") + "\n");
     }
 
     private static void PrepareWeapon(Weapons.Weapon __instance, out DescriptionState __state)

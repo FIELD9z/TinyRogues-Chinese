@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "门牌与交互说明核查修正",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "audit.description.6851a9d632b38620523f",
+      "source": "Grants\n<color=#00E317>{number:v1}</color> to <color=#00E317>{number:v2}</color>\n<color=#3B3B7A>Bombs</color>.",
+      "translation": "获得\n<color=#00E317>{number:v1}</color>至<color=#00E317>{number:v2}</color>\n<color=#3B3B7A>炸弹</color>。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.dbb937b3ed0cef648cda",
+      "source": "Grants\n<color=#00E317>{number:v1}</color> to <color=#00E317>{number:v2}</color>\n<color=#FCC926>Gold</color>.",
+      "translation": "获得\n<color=#00E317>{number:v1}</color>至<color=#00E317>{number:v2}</color>\n<color=#FCC926>金币</color>。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.d8b73a03f2f053644141",
+      "source": "Cursed\nKey",
+      "translation": "诅咒\n钥匙",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.fa3730fe56d08d9ff2ff",
+      "source": "Grants a\n<color=#3B3B7A>Cursed</color><sprite name=\"Curse\">\nBlessing.",
+      "translation": "获得一个\n<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">\n祝福。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.5a46475702afbef35aa1",
+      "source": "Refills all\n<color=#FF3326>Hearts</color><sprite name=\"Heart\">\nand Flasks<sprite name=\"Flask\">.",
+      "translation": "完全补满\n<color=#FF3326>红心</color><sprite name=\"Heart\">\n和药瓶<sprite name=\"Flask\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.cca95e5ffb23633111e0",
+      "source": "Roll for an item\nof a chosen type\nfor the cost of {number:v1} <color=#FF3326>Heart</color><sprite name=\"Health\">.",
+      "translation": "随机获得一件物品\n类型由你选择\n需要消耗 {number:v1} <color=#FF3326>红心</color><sprite name=\"Health\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.3eb666bb88a12b4b8302",
+      "source": "Buy Equipment\nfor <color=#FCC926>Gold</color><sprite name=\"Gold\">.",
+      "translation": "购买装备\n使用<color=#FCC926>金币</color><sprite name=\"Gold\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.643a6e6985621d2469ab",
+      "source": "{number:v1} <color=#FF0000>EVIL</color><sprite name=\"Evil\">\n<color=grey>[once per run]</color>",
+      "translation": "{number:v1} <color=#FF0000>邪恶</color><sprite name=\"Evil\">\n<color=grey>[每局一次]</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.76cca74d070e2bf656d2",
+      "source": "Cigarette\n<color=#808080>Consumable</color>\nRefreshes the Duration of <color=#A61FFF>Potion</color>, \n<color=#A61FFF>Infusion</color> and <color=#A61FFF>Booze</color> Effects.",
+      "translation": "香烟\n<color=#808080>消耗品</color>\n刷新以下效果的持续时间：<color=#A61FFF>药水</color>, \n<color=#A61FFF>附魔</color>和<color=#A61FFF>酒</color>效果。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.d282f27c3d36da584723",
+      "source": "<color=#00E61A>{number:v1}</color> <color=#FFFFFF>Attack Speed</color><color=#808080>[<color=#A61FFF><color=#A61FFF>Booze</color></color>] </color><color=#808080>[<color=#A61FFF><color=#A61FFF>Buff</color></color>] </color>",
+      "translation": "<color=#00E61A>{number:v1}</color> <color=#FFFFFF>攻击速度</color><color=#808080>[<color=#A61FFF><color=#A61FFF>酒</color></color>] </color><color=#808080>[<color=#A61FFF><color=#A61FFF>增益</color></color>] </color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.0f330d9e02b4552c1db9",
+      "source": "<color=#00E61A>{number:v1}</color> Chain Lightning Chains",
+      "translation": "<color=#00E61A>{number:v1}</color> 连锁闪电弹射次数",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.02d2c71610c5512d9cfe",
+      "source": "<color=#00E61A>{number:v1}</color> <color=#A61FFF>Potion</color> Effect",
+      "translation": "<color=#00E61A>{number:v1}</color> <color=#A61FFF>药水</color>效果",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.a07d38934b4831b82436",
+      "source": "<color=#FF3326>Critical Hit Chance</color><sprite name=\"Critical_Hit\">: <color=#00E317>{number:v1}</color>\n<color=#FF3326>Critical Hit Damage</color><sprite name=\"Critical_Hit\">: <color=#00E317>{number:v2}</color>",
+      "translation": "<color=#FF3326>暴击率</color><sprite name=\"Critical_Hit\">: <color=#00E317>{number:v1}</color>\n<color=#FF3326>暴击伤害</color><sprite name=\"Critical_Hit\">: <color=#00E317>{number:v2}</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.1dc644050f5692983c64",
+      "source": "Costs {number:v1} <color=#FF3326>Heart</color><sprite name=\"Health\">\nto open.",
+      "translation": "消耗 {number:v1} <color=#FF3326>红心</color><sprite name=\"Health\">\n即可打开。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.1a69b780aab393f23efd",
+      "source": "Buy Charms\nfor <color=#FCC926>Gold</color><sprite name=\"Gold\">.",
+      "translation": "购买护符\n使用<color=#FCC926>金币</color><sprite name=\"Gold\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.d4fa919ec6e59ae48426",
+      "source": "Sell weapons\nand equipment.",
+      "translation": "出售武器\n和装备。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.5aa44797c2eed2453f5f",
+      "source": "<color=#8000FF><color=#8000FF>Slow</color>: </color><color=#FF0000>{number:v1}</color> <color=#FFFFFF>Attack Speed</color>",
+      "translation": "<color=#8000FF><color=#8000FF>迟缓</color>: </color><color=#FF0000>{number:v1}</color> <color=#FFFFFF>攻击速度</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.ccf9785e5b7fbabce009",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:v1}</color> <color=#FF2666>Melee</color> Weapon.",
+      "translation": "奖励选项\n中包含<color=#00E317>至少</color>\n<color=#00E317>{number:v1}</color> <color=#FF2666>近战</color>武器。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.c589993fc1eb4d490add",
+      "source": "<color=#FCC926>Price:</color> <color=#FFFFFF>{number:v1}</color> <color=#FCC926><color=#FCC926>Gold</color><sprite name=\"Gold\"></color><sprite name=\"2\">",
+      "translation": "<color=#FCC926>价格：</color> <color=#FFFFFF>{number:v1}</color> <color=#FCC926><color=#FCC926>金币</color><sprite name=\"Gold\"></color><sprite name=\"2\">",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.b8bc1524648d20300464",
+      "source": "Reward choices\ninclude <color=#00E317>at least</color>\n<color=#00E317>{number:v1}</color> <color=#26FF66>Ranged</color> Weapon.",
+      "translation": "奖励选项\n中包含<color=#00E317>至少</color>\n<color=#00E317>{number:v1}</color> <color=#26FF66>远程</color>武器。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    },
+    {
+      "id": "audit.description.f233f0f30cce02333777",
+      "source": "<color=#5ECCE3>Price:</color> <color=#FFFFFF>{number:v1}</color> <color=#00FFFF><color=#5ECCE3>Souls</color><sprite name=\"Soul\"></color>",
+      "translation": "<color=#5ECCE3>价格：</color> <color=#FFFFFF>{number:v1}</color> <color=#00FFFF><color=#5ECCE3>灵魂</color><sprite name=\"Soul\"></color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "完整门牌、交互或状态说明；基于英文核查样本独立翻译，数值为独立变量。"
+    }
+  ]
+}

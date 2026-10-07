@@ -205,6 +205,9 @@ public sealed class RuntimeVerification : MonoBehaviour
             var effect = objective.effectDescription;
             if (!catalog.TryTranslate(main, "description-template", out _) && !catalog.TryTranslate(condition, "description-template", out _) && !catalog.TryTranslate(effect, "description-template", out _)) continue;
             VerifyGetter(() => objective.Description, "objective " + objective.name);
+            var completeObjective = objective.Description;
+            if (Regex.IsMatch(Regex.Replace(completeObjective, "<[^>]*>", ""), "[A-Za-z]"))
+                throw new InvalidOperationException("English remains in generated world objective " + objective.name + ": " + completeObjective);
             if (objective.mainDescription != main || objective.conditionDescription != condition || objective.effectDescription != effect)
                 throw new InvalidOperationException("World objective description fields were not restored.");
             objectives++;
@@ -361,8 +364,15 @@ public sealed class RuntimeVerification : MonoBehaviour
                 {
                     label.text = UI.Text.TextMeshProxy.ApplyColorToText(source, true, label);
                     VerifyRenderedValues(source, label.text, "captured complete UI");
+                    var remaining = Regex.Replace(label.text, "<[^>]*>", "");
+                    // Multiplication notation is a numeric value, not prose. Only allow
+                    // the identical x-number token when it was present in this input.
+                    var multipliers = Regex.Matches(Regex.Replace(source, "<[^>]*>", ""), @"(?<![A-Za-z])x\d+(?:\.\d+)?").Cast<Match>().Select(m => m.Value).ToArray();
+                    remaining = Regex.Replace(remaining, @"(?<![A-Za-z])x\d+(?:\.\d+)?", m => multipliers.Contains(m.Value) ? "" : m.Value);
+                    if (Regex.IsMatch(remaining, "[A-Za-z]"))
+                        throw new InvalidOperationException("English remains in captured complete UI: " + label.text);
                 }
-                Plugin.Current.Info($"NATIVE CAPTURED UI PASS: {sources.Length} complete runtime samples; numeric values preserved.");
+                Plugin.Current.Info($"NATIVE CAPTURED UI PASS: {sources.Length} complete samples; numeric values preserved; no English prose (identical source x-number multipliers retained).");
             }
             var cards = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "weapon-cards.json");
             if (!File.Exists(cards)) throw new FileNotFoundException("Starter weapon card fixtures are required for the native self-test.", cards);

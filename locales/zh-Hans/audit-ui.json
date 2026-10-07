@@ -1,0 +1,2987 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "菜单与角色界面核查修正",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "audit.ui.4f088c9ba5171da925b2",
+      "source": "Just one more run!",
+      "translation": "再来一局！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.534bcb2e5ec92373d048",
+      "source": "Now with 100% less text!",
+      "translation": "现在，文字减少了 100%！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.23246bc2cd0255b59c0b",
+      "source": "Don't take candy from strangers!",
+      "translation": "别吃陌生人给的糖！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2c9d6cd3cecb1ab98544",
+      "source": "You're pretty cool!",
+      "translation": "你还挺酷！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e4fd797961a0228aba73",
+      "source": "Wouldn't want you to see you go hollow!",
+      "translation": "可别变成活尸啊！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.263a36339e4614c6d628",
+      "source": "There is no escape!",
+      "translation": "无路可逃！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.86f110e38db0b2e3a5d9",
+      "source": "Try using shields!",
+      "translation": "试试盾牌吧！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.dcdc7ddb6c92dd468880",
+      "source": "Wow these rogues are tiny!",
+      "translation": "这些盗贼可真小！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.3d2565d7e3eab60192e7",
+      "source": "Now with cheats!",
+      "translation": "现在支持作弊了！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b8a32174d6a28ad3714b",
+      "source": "Don't get too tipsy!",
+      "translation": "别喝得太醉！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.fad534bddf264c20c2c3",
+      "source": "Don't drink and drive!",
+      "translation": "喝酒不开车！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.006ed63d73e75a94c4c4",
+      "source": "Music by MiguelAngell960!",
+      "translation": "音乐：MiguelAngell960！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0b0403fe7d090dfe250a",
+      "source": "Xbox Controller connected.",
+      "translation": "Xbox 手柄已连接。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.895024eae7c1f1e3e395",
+      "source": "A place to keep all your dice.",
+      "translation": "存放你所有骰子的地方。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b7d278d680e811afe8e2",
+      "source": "\"Oooh!",
+      "translation": "“哇！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.474de992308d5bf419fa",
+      "source": "Shinies!\"",
+      "translation": "亮闪闪的！”",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f38d6da296cc987d2a16",
+      "source": "Bandit Class",
+      "translation": "强盗职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.27df3d39c5bdd5ff8621",
+      "source": "<color={key:color}>Bandit Class</color>",
+      "translation": "<color={key:color}>强盗职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.37f5c5e0190aec694972",
+      "source": "A ruthless bandit involved in organized raids on towns and travelers.\n",
+      "translation": "一个冷酷的强盗，参与有组织地劫掠城镇和旅人。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2dd4d27be8502e601768",
+      "source": "Bard Class",
+      "translation": "吟游诗人职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.9da144d7f01a614115d8",
+      "source": "<color={key:color}>Bard Class</color>",
+      "translation": "<color={key:color}>吟游诗人职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.cfedaa657b890cca5e5a",
+      "source": "A bard whose music carries them on a journey of adventure, seeking out new stories to tell and new melodies to play.\n",
+      "translation": "一位循着乐声踏上冒险旅程的吟游诗人，寻觅新的故事与新的旋律。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.5da8f1f16d5c582af2f5",
+      "source": "Cleric Class",
+      "translation": "牧师职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.03bf8202517f71062d1c",
+      "source": "<color={key:color}>Cleric Class</color>",
+      "translation": "<color={key:color}>牧师职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.384041ffc2dc247bec81",
+      "source": "A faithful cleric who wields divine magic in service of a higher power.\n",
+      "translation": "虔诚的牧师，以神圣魔法侍奉更高的力量。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.00cead826ad993427d9b",
+      "source": "Deprived Class",
+      "translation": "一无所有者职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0f3b1d70ea4cfbe744f5",
+      "source": "<color={key:color}>Deprived Class</color>",
+      "translation": "<color={key:color}>一无所有者职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.4aaf16e7782241287bcf",
+      "source": "A barbaric hobo who abandoned civilization to seek a home surrounded by nature.\n",
+      "translation": "野蛮的流浪汉，抛弃文明，寻找被自然环绕的栖身之处。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0c27ec79fe608480ecf1",
+      "source": "Doppelganger Class",
+      "translation": "变形怪职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a2111a0f1d548f4d20b4",
+      "source": "<color={key:color}>Doppelganger Class</color>",
+      "translation": "<color={key:color}>变形怪职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2ee277a20d8180272ba0",
+      "source": "An infamous creature with the ability to transform its appearance to look like any other human. It likes to use its shapeshifting abilities to blend in and deceive enemies.\n",
+      "translation": "声名狼藉的生物，能变成任何人的模样。它善用变形能力混入人群，欺骗敌人。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.cadf6719c85e91a0a5ed",
+      "source": "Gunslinger Class",
+      "translation": "神枪手职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.342dbf483abc6753cd43",
+      "source": "<color={key:color}>Gunslinger Class</color>",
+      "translation": "<color={key:color}>神枪手职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a95ab7c58d9fd3236bf1",
+      "source": "The Gunslinger is a master of firearms, and a deadly shot with any weapon.\n",
+      "translation": "神枪手精通枪械，无论使用何种武器都能打出致命一击。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.1c052c6af98e3aceed38",
+      "source": "Knight Class",
+      "translation": "骑士职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b441ddd66be0db392b4f",
+      "source": "<color={key:color}>Knight Class</color>",
+      "translation": "<color={key:color}>骑士职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.45baafe45d8d3b807a70",
+      "source": "A proud knight in plate armor who trained all life long to become a master of all weapons.\n",
+      "translation": "身披板甲的骄傲骑士，终其一生磨炼技艺，志在精通所有武器。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.004d6f83d9f4fa9cd3e3",
+      "source": "Mystic Class",
+      "translation": "秘法使职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.eea994e404f5bad62b59",
+      "source": "<color={key:color}>Mystic Class</color>",
+      "translation": "<color={key:color}>秘法使职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.24e2a376fe365aaea20d",
+      "source": "A mysterious and nimble duelist who uses elemental magic to strike with speed and precision.\n",
+      "translation": "神秘而灵巧的决斗者，运用元素魔法迅速而精准地出击。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.156996b1a833b1810a4d",
+      "source": "A sage that has mastered the art of fire, burning any and all who dare cross their path.\n",
+      "translation": "精通火焰之道的贤者，将所有胆敢阻挡其脚步的人烧成灰烬。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.07e5732a12ef7f4a8b05",
+      "source": "A nimble ranger that favours to take down enemies from range.\n",
+      "translation": "灵巧的游侠，偏爱从远处击倒敌人。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.6bc779c162338fa29cf6",
+      "source": "Santa Class",
+      "translation": "圣诞老人职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.11a8d0122775e6b5d8c0",
+      "source": "<color={key:color}>Santa Class</color>",
+      "translation": "<color={key:color}>圣诞老人职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c1a4aacadab430e83805",
+      "source": "A legendary figure with a sack full of surprises, spreading joy and chaos wherever he appears.\n",
+      "translation": "传说中的人物，背着装满惊喜的袋子，所到之处皆留下欢乐与混乱。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.63b5e3865da60bdebe06",
+      "source": "Soldier Class",
+      "translation": "士兵职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b8869c8546b5a02997a4",
+      "source": "<color={key:color}>Soldier Class</color>",
+      "translation": "<color={key:color}>士兵职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.89b3c43fdb2d8ed4f384",
+      "source": "The soldier faces even the most daunting foes with determination and courage to protect the innocent.\n",
+      "translation": "为了保护无辜者，士兵以决心和勇气面对最可怕的敌人。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a948fc50d0832b2fbce7",
+      "source": "Sorcerer Class",
+      "translation": "术士职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.38a347cb5866e1cfeec7",
+      "source": "<color={key:color}>Sorcerer Class</color>",
+      "translation": "<color={key:color}>术士职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.eacf405857f0518dfea7",
+      "source": "A sorcerer with innate arcane abilities and unnaturally high intelligence.\n",
+      "translation": "拥有天生奥术能力与超凡智力的术士。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.8c5e6a84c99fb66be897",
+      "source": "The Hero Class",
+      "translation": "勇者职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.97d66e578692e2a546c9",
+      "source": "<color={key:color}>The Hero Class</color>",
+      "translation": "<color={key:color}>勇者职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.7547f8326dc19c1c9c9d",
+      "source": "A hot blooded young hero on a quest to vanquish humanity's\nbiggest adversary. \nCan they defeat Death?\n\n",
+      "translation": "热血的年轻勇者，立志击败人类\n最强大的敌人。 \n他们能战胜死神吗？\n\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0930f859da8a0f3c7080",
+      "source": "Thief Class",
+      "translation": "盗贼职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b8c62e1db84ec71778d5",
+      "source": "<color={key:color}>Thief Class</color>",
+      "translation": "<color={key:color}>盗贼职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.3a525d75cc1b5866d09a",
+      "source": "A cloaked scoundrel who uses stealth and trickery to assassinate enemies out of the shadows.\n",
+      "translation": "披着斗篷的恶棍，运用潜行与诡计从阴影中刺杀敌人。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ff32d917b2bc338d6ce3",
+      "source": "Wanderer Class",
+      "translation": "漫游者职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.701147e399d5a6c23faa",
+      "source": "<color={key:color}>Wanderer Class</color>",
+      "translation": "<color={key:color}>漫游者职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.fb8315737dca3e807bf3",
+      "source": "An aimless and mysterious wanderer who seeks adventure and treasure in forgotten lands.\n",
+      "translation": "漫无目的的神秘旅人，在被遗忘的土地上追寻冒险与宝藏。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c0e619e0563a6bf6d572",
+      "source": "Warrior Class",
+      "translation": "战士职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.6915fb7623e24be9ee08",
+      "source": "<color={key:color}>Warrior Class</color>",
+      "translation": "<color={key:color}>战士职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.63a68df8cad56f3d71b5",
+      "source": "A fearless and ruthless warrior with incredible strength and martial prowess in all types of combat.\n",
+      "translation": "无畏而冷酷的战士，拥有惊人的力量，精通各种战斗技艺。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.23be1b1f1393dde40d95",
+      "source": "Wizard Class",
+      "translation": "法师职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.186720d750a1333fbee6",
+      "source": "<color={key:color}>Wizard Class</color>",
+      "translation": "<color={key:color}>法师职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.834217913eda98be52fa",
+      "source": "A scholarly wizard who knows how to harness the power of mind and body to cast powerful spells.\n",
+      "translation": "学识渊博的法师，懂得调动身心的力量施展强大的法术。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0ea7d22abbe6809b7568",
+      "source": "Alchemist Class",
+      "translation": "炼金术师职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.6494cf61e8b114b2b5a6",
+      "source": "<color={key:color}>Alchemist Class</color>",
+      "translation": "<color={key:color}>炼金术师职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a8f3db06b0f0bc4b8cf7",
+      "source": "A master of material transformation, the Alchemist harnesses the ancient art of transmutation, turning the ordinary into the extraordinary.\n",
+      "translation": "精通物质转化的大师。炼金术师运用古老的嬗变之术，将平凡化为非凡。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.fb7118408bb0d62c17c4",
+      "source": "Barbarian Class",
+      "translation": "野蛮人职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a3959868248647527474",
+      "source": "<color={key:color}>Barbarian Class</color>",
+      "translation": "<color={key:color}>野蛮人职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2ad5da94a8d04201a02d",
+      "source": "A fierce warrior who channels primal rage into devastating blows. They thrive in the chaos of close combat, overpowering foes with brute strength.\n",
+      "translation": "凶猛的战士，将原始怒火化为毁灭性的重击。他们在混乱的近身战中如鱼得水，用蛮力压倒敌人。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.43fcb581c09c0b8b2288",
+      "source": "Chaos Class",
+      "translation": "混沌职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.11acb7935d1b65769f98",
+      "source": "<color={key:color}>Chaos Class</color>",
+      "translation": "<color={key:color}>混沌职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.fc4f118afe387c5f8fb2",
+      "source": "A being born from the heart of disorder. In their wake, reality shifts, weaving the unpredictable forces of the universe into an arsenal as random as fate itself.\n",
+      "translation": "生于无序中心的存在。他们经过之处，现实随之扭曲，将宇宙中不可预测的力量织成如命运般随机的武装。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.300661f467faa763dd5a",
+      "source": "Cyborg Class",
+      "translation": "改造人职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a95f01beee47a56c9082",
+      "source": "<color={key:color}>Cyborg Class</color>",
+      "translation": "<color={key:color}>改造人职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e200e0772fa3a162e624",
+      "source": "A blend of human and machine, the Cyborg uses their cybernetic enhancements in battle, merging intellect with advanced technology.\n",
+      "translation": "人与机器的结合体。改造人运用机械增强装置作战，将才智与先进技术融为一体。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f116ec924dd47a99fae2",
+      "source": "Dancer Class",
+      "translation": "舞者职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0727e309fbc8ec8166db",
+      "source": "<color={key:color}>Dancer Class</color>",
+      "translation": "<color={key:color}>舞者职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0cbf589f40f163b02ab7",
+      "source": "The Dancer moves to the rhythm of battle, their blades an extension of their rhythmic steps, striking with swift elegance.\n",
+      "translation": "舞者踏着战斗的节拍起舞，刀刃随步伐延伸，以迅捷而优雅的动作出击。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.347f60dacce7b6a7f0f4",
+      "source": "Demon Hunter Class",
+      "translation": "恶魔猎手职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.5c6b83224ba04d945b4b",
+      "source": "<color={key:color}>Demon Hunter Class</color>",
+      "translation": "<color={key:color}>恶魔猎手职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2dbb004209798c990200",
+      "source": "Fueled by vengeance, the Demon Hunter stalks the night, relentlessly pursuing all evil and striking fear into the hearts of demons and undead plaguing the lands.\n",
+      "translation": "复仇之火驱使恶魔猎手游走于黑夜，穷追一切邪恶，让荼毒这片土地的恶魔与亡灵心生恐惧。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.fa2ea1ad50af7fed3ab6",
+      "source": "Dragoon Class",
+      "translation": "龙骑士职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.475e9da6b765bae3fee2",
+      "source": "<color={key:color}>Dragoon Class</color>",
+      "translation": "<color={key:color}>龙骑士职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c3ab1709fa2ad68e2e29",
+      "source": "An expert in dragon hunting, venturing across lands with their mighty spear, safeguarding realms from draconic threats.\n",
+      "translation": "猎龙专家，手持强大的长矛行遍各地，保护诸国免受巨龙威胁。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.832fcd2ff0536828ad18",
+      "source": "Druid Class",
+      "translation": "德鲁伊职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ad8463b940764f08ca49",
+      "source": "<color={key:color}>Druid Class</color>",
+      "translation": "<color={key:color}>德鲁伊职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.954c6925e05333bc12d9",
+      "source": "The Druid calls forth spirit animals and taps into earth's magic, standing as a mighty guardian of nature.\n",
+      "translation": "德鲁伊召唤灵兽，借助大地魔法，成为自然强大的守护者。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.83a6ff1f731d4a77ffe1",
+      "source": "Esper Class",
+      "translation": "超能力者职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.d3c0da00e19fcd3834d5",
+      "source": "<color={key:color}>Esper Class</color>",
+      "translation": "<color={key:color}>超能力者职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.89c9779d113e889d045d",
+      "source": "Abducted for their psychic talents, this child escaped, using newfound powers to navigate a perilous journey trying to find it's way back to family.\n",
+      "translation": "这个孩子因超能力天赋被绑架，随后逃出生天，运用新觉醒的力量踏上危险的返乡之路。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.948855ec4ca5fbb06f35",
+      "source": "Jester Class",
+      "translation": "小丑职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.1ee1f59c4e075464ce0a",
+      "source": "<color={key:color}>Jester Class</color>",
+      "translation": "<color={key:color}>小丑职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.cdf14070f8db69690b21",
+      "source": "A deceptive assassin, the Jester uses jest and juggle to distract, then strikes with precision, their humor as sharp as their blade.\n",
+      "translation": "擅长欺骗的刺客。小丑用玩笑与杂耍分散敌人的注意，再精准出击；他们的幽默与刀刃一样锋利。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.dfcb99a5302a6ca72ad7",
+      "source": "Monk Class",
+      "translation": "武僧职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.7f4e99e7317d2410cbd9",
+      "source": "<color={key:color}>Monk Class</color>",
+      "translation": "<color={key:color}>武僧职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.81fab167a8ba4c143eeb",
+      "source": "A serene monk who has mastered martial arts, using their body as a weapon and their mind as a fortress.\n",
+      "translation": "平静的武僧，精通武艺，以身体为兵器，以心神为堡垒。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.18d6a8ca3c33d09102ca",
+      "source": "Necromancer Class",
+      "translation": "死灵法师职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.4595dc27f82f68002a0d",
+      "source": "<color={key:color}>Necromancer Class</color>",
+      "translation": "<color={key:color}>死灵法师职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.5fb665f1c0383e6270c1",
+      "source": "Cloaked in dark robes, they command the dead, using skeletal minions to do their bidding and drawing power from the souls they harvest.\n",
+      "translation": "身披黑袍，统御死者，驱使骷髅仆从执行命令，并从收割的灵魂中汲取力量。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a9f91995055e35577795",
+      "source": "Ninja Class",
+      "translation": "忍者职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.4eb1478e585046f50d24",
+      "source": "<color={key:color}>Ninja Class</color>",
+      "translation": "<color={key:color}>忍者职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.00787c85da3933ef8882",
+      "source": "Trained in the ancient arts of espionage, this Ninja moves unseen, striking from the darkness with lethal precision.\n",
+      "translation": "修习古老谍报技艺的忍者，行踪难觅，从黑暗中精准地发动致命一击。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0bb35717e0a69cf3d084",
+      "source": "Paladin Class",
+      "translation": "圣骑士职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.5dabaea26c9801f27db0",
+      "source": "<color={key:color}>Paladin Class</color>",
+      "translation": "<color={key:color}>圣骑士职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.d2bcf5c25e7b9c4f1d4a",
+      "source": "A valiant paladin, armored in faith and steel, sworn to uphold justice and smite evil with holy wrath.\n",
+      "translation": "勇敢的圣骑士，以信仰与钢铁为甲，立誓维护正义，以神圣怒火惩击邪恶。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.7fe5f1ffae67a79b2ecb",
+      "source": "Pirate Class",
+      "translation": "海盗职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c15ef02becbbda75fdf8",
+      "source": "<color={key:color}>Pirate Class</color>",
+      "translation": "<color={key:color}>海盗职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.19ac79fb0d7d4e1abe05",
+      "source": "A ruthless Pirate, sailing the high seas to plunder ships and coastal towns, building a reputation as feared as their growing bounty.\n",
+      "translation": "冷酷的海盗，航行于大洋之上，劫掠船只与沿海城镇；随着赏金攀升，其恶名也越发令人畏惧。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e5007b56016c8e71b46a",
+      "source": "Samurai Class",
+      "translation": "武士职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f84011c60d4ca084eddc",
+      "source": "<color={key:color}>Samurai Class</color>",
+      "translation": "<color={key:color}>武士职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c9e59a19f4f709c8ad1f",
+      "source": "A masterless samurai wandering the lands, seeking redemption and a new purpose with every slash of their blade.\n",
+      "translation": "失去主君的武士游历四方，每一次挥刀都在追寻救赎与新的使命。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.aa1a0d0074d672588fa4",
+      "source": "Super Hero Class",
+      "translation": "超级英雄职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c8c1dbf197a62e976a3e",
+      "source": "<color={key:color}>Super Hero Class</color>",
+      "translation": "<color={key:color}>超级英雄职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.cfa441684d156286966b",
+      "source": "A daring Super Hero, gifted with extraordinary powers, dedicated to safeguarding the world from villainous threats.\n",
+      "translation": "勇敢的超级英雄，拥有非凡的能力，致力于保护世界免受恶徒威胁。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a3276af7db84375c812b",
+      "source": "Transmutation Guild Class",
+      "translation": "嬗变公会职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.30b1bdc27ed61a40a4f9",
+      "source": "<color={key:color}>Transmutation Guild Class</color>",
+      "translation": "<color={key:color}>嬗变公会职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.cc505550c6976d279425",
+      "source": "Find locked entrances to alchemy labs that allow you to transmute items.\n",
+      "translation": "你会发现炼金实验室上锁的入口，可在其中转化物品。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b100cbbf1e1279b4fce0",
+      "source": "Organized Crime Class",
+      "translation": "有组织犯罪职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ba9c731ca36bc47c592e",
+      "source": "<color={key:color}>Organized Crime Class</color>",
+      "translation": "<color={key:color}>有组织犯罪职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2e1dda59f1016642c68a",
+      "source": "You encounter more Shops and in every Shop you can take [[1]] Item for [[Free]].\n",
+      "translation": "你会遇到更多商店，每家商店都可[[免费]]拿走 [[1]] 件物品。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a984c41755ed64c819b0",
+      "source": "Berserker Strength Class",
+      "translation": "狂战士之力职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b017571613ca073a172d",
+      "source": "<color={key:color}>Berserker Strength Class</color>",
+      "translation": "<color={key:color}>狂战士之力职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.886b0ac21bc5e0d9235a",
+      "source": "Party Time Class",
+      "translation": "派对时间职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.996c1cc79d7433c2fc5e",
+      "source": "<color={key:color}>Party Time Class</color>",
+      "translation": "<color={key:color}>派对时间职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.6e8768402998064957bf",
+      "source": "Chimera Class",
+      "translation": "奇美拉职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.693303355323ced8c4de",
+      "source": "<color={key:color}>Chimera Class</color>",
+      "translation": "<color={key:color}>奇美拉职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.8d4f034107d0f72cc7f0",
+      "source": "Gets random Ability, Equipment, Weapon, Stats and Skill from other classes.\n",
+      "translation": "从其他职业随机获取能力、装备、武器、属性与技能。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.9cb0fd89d22d67129466",
+      "source": "Blessed Class",
+      "translation": "祝福职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.75374cdc75d54e666a17",
+      "source": "<color={key:color}>Blessed Class</color>",
+      "translation": "<color={key:color}>祝福职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.be56c87c10fad9dd8f13",
+      "source": "Cybernetic Growth Class",
+      "translation": "机械成长职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.33f5d8d91f8031e83715",
+      "source": "<color={key:color}>Cybernetic Growth Class</color>",
+      "translation": "<color={key:color}>机械成长职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.31265e75a33c8af871a0",
+      "source": "Points of Strength, Dexterity or Intelligence\nadditionally grant Weapon Upgrade Level.\n",
+      "translation": "力量、敏捷或智力点数\n还会提高武器升级等级。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.85476ad6dd17218aaa67",
+      "source": "Double Flourish Class",
+      "translation": "双重舞步职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.3f65d4c3af662a76379b",
+      "source": "<color={key:color}>Double Flourish Class</color>",
+      "translation": "<color={key:color}>双重舞步职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0b72b531245267bd3def",
+      "source": "When you dash, you can immediately dash again without it costing any Stamina<Stamina>.\n",
+      "translation": "冲刺后可立即再次冲刺，且不消耗体力<Stamina>。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.24183cc198998491355d",
+      "source": "Path Of Vengeance Class",
+      "translation": "复仇之路职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f84dea3f5696e9191cf4",
+      "source": "<color={key:color}>Path Of Vengeance Class</color>",
+      "translation": "<color={key:color}>复仇之路职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.7b57ffc1442881b4525c",
+      "source": "Rooms can appear <color=red>Tainted</color>, adding additional Enemies but also [[x2.00]] the Reward.\n",
+      "translation": "房间可能受到<color=red>污染</color>，增加额外敌人，奖励也变为 [[x2.00]]。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.df528fca5db72d6c358c",
+      "source": "Something is in the darkness...\n",
+      "translation": "黑暗中有什么东西……\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ee2c7c1b1b8383bc5c00",
+      "source": "Smolders of brimstone...\n",
+      "translation": "硫磺余烬……\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.4476dec4042d0ff48539",
+      "source": "Traces of devilish beasts.\n",
+      "translation": "恶魔野兽留下的痕迹。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.63a7ecc375f6087c6494",
+      "source": "Gluttonous sins.\n",
+      "translation": "暴食之罪。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0f7eb526d8e591fc6b7d",
+      "source": "A stench of raw meat...\n",
+      "translation": "生肉的恶臭……\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.029a051dfc39758d02e4",
+      "source": "The air reeks of decay...\n",
+      "translation": "空气中弥漫着腐败气息……\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f64275a1492ba55219da",
+      "source": "I sense a fiendish presence ahead.\n",
+      "translation": "我感觉前方有恶魔。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.358583c8406c970b3de2",
+      "source": "A slithering in the dark.\n",
+      "translation": "黑暗中传来爬行声。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c303fc6e7c8c6fedabf7",
+      "source": "Traces of a rampaging beast.\n",
+      "translation": "狂暴野兽留下的痕迹。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f7fa6f20600035390224",
+      "source": "A hint of iron in the air...\n",
+      "translation": "空气中隐约有铁锈味……\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.d601f78b7e645126a3bf",
+      "source": "The air whispers of malice.\n",
+      "translation": "空气中低语着恶意。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.28c32cadc2595572db51",
+      "source": "Cursed Might Class",
+      "translation": "诅咒之力职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2200267000ff9d6d17ec",
+      "source": "<color={key:color}>Cursed Might Class</color>",
+      "translation": "<color={key:color}>诅咒之力职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.1064faf0262c782d0351",
+      "source": "Gain [[+10%]] Stats from Strength, Dexterity and Intelligence per Curse<sprite name=\"Curse\"> on you.\n",
+      "translation": "每有一层诅咒<sprite name=\"Curse\">，力量、敏捷与智力提供的属性加成提高 [[+10%]]。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.6e91e59ac4c1dd8fc039",
+      "source": "Shapechanger Class",
+      "translation": "变形者职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.15b477a7514985f0faad",
+      "source": "<color={key:color}>Shapechanger Class</color>",
+      "translation": "<color={key:color}>变形者职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.948948e12e948708a59b",
+      "source": "Choose a form and gain a unique class ability at the mirror in the spawn room on each floor.\n",
+      "translation": "每层起始房间的镜子都可让你选择形态，获得独特的职业能力。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.4fa2b5221c51736396fb",
+      "source": "Shields [[don't]] weigh Equip Load.\n",
+      "translation": "盾牌[[不会]]占用装备负重。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.d96badfbf8bc1d181f08",
+      "source": "While having exactly one active Infusion Buff, that Infusion Buff won't expire.\n",
+      "translation": "恰好拥有一种灌注增益时，该灌注增益不会到期。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.1ae5f69983ac60eb0223",
+      "source": "You count as having [[x2.00]] Soul Hearts<sprite name=\"Soul_Heart\"> than you actually have.\n",
+      "translation": "灵魂之心<sprite name=\"Soul_Heart\">的数量按实际拥有数量的 [[x2.00]] 计算。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a2f10bc0ab94d14947b6",
+      "source": "Lancer Class",
+      "translation": "长枪手职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.54bb9964a529f252480d",
+      "source": "<color={key:color}>Lancer Class</color>",
+      "translation": "<color={key:color}>长枪手职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.1046f1b77960ccee7be4",
+      "source": "You always count as being at Close Range<Close> and at Far Range<Far>.\n",
+      "translation": "你始终同时视为处于近距离<Close>与远距离<Far>。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.72eb86725292455eb395",
+      "source": "Druidic Rite Class",
+      "translation": "德鲁伊仪式职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b726786ab8896febb826",
+      "source": "<color={key:color}>Druidic Rite Class</color>",
+      "translation": "<color={key:color}>德鲁伊仪式职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.58fea1fbc8d4bbd5db34",
+      "source": "Summon and level up spirit animal Companions at Druid Shrines.\n",
+      "translation": "在德鲁伊祭坛召唤并升级灵兽同伴。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b336f60165ddc78cd333",
+      "source": "Psychokinesis Class",
+      "translation": "念动力职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.318fabef962e50346b95",
+      "source": "<color={key:color}>Psychokinesis Class</color>",
+      "translation": "<color={key:color}>念动力职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c5b1642419c3449f1ae7",
+      "source": "At Level 1 you get to choose a Psychic Ability Trait.\n",
+      "translation": "在 1 级时可选择一个超能力特质。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.6c4858f78c73d67108b3",
+      "source": "Lucky Draw Class",
+      "translation": "幸运拔枪职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f76687c00fcf2795a5a2",
+      "source": "<color={key:color}>Lucky Draw Class</color>",
+      "translation": "<color={key:color}>幸运拔枪职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.235378f7094939b34af3",
+      "source": "Lucky Hits<sprite name=\"Luck\"> with Attacks or Skills make you repeat your next Attack.\n",
+      "translation": "攻击或技能造成幸运一击<sprite name=\"Luck\">后，你的下一次攻击会重复一次。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.cb31adcc059086f1f277",
+      "source": "Lucky Star Class",
+      "translation": "幸运星职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.86fca37409bfa503cbc5",
+      "source": "<color={key:color}>Lucky Star Class</color>",
+      "translation": "<color={key:color}>幸运星职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.6a32bd80646bb4a2d1f8",
+      "source": "Deception Class",
+      "translation": "欺诈职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.dffec19aaac12bc8caaf",
+      "source": "<color={key:color}>Deception Class</color>",
+      "translation": "<color={key:color}>欺诈职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.03822742d9a164cfed49",
+      "source": "On Dash, your next [[3]] Attacks deal a guaranteed Critical Hit<Crit>.\n",
+      "translation": "冲刺后，接下来 [[3]] 次攻击必定暴击<Crit>。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.97d675ea29bfefa0e420",
+      "source": "Defiance Class",
+      "translation": "抗争职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.d545a3a68acd2cb23125",
+      "source": "<color={key:color}>Defiance Class</color>",
+      "translation": "<color={key:color}>抗争职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.95b48ae753e75da77ce4",
+      "source": "Master of Ki Class",
+      "translation": "气之大师职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0bef22690d9b11e2898a",
+      "source": "<color={key:color}>Master of Ki Class</color>",
+      "translation": "<color={key:color}>气之大师职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.eb386e8ae7c3eebb08ae",
+      "source": "Your Fist Attacks grant you a Ki-Charge on Hit.\n",
+      "translation": "拳击攻击命中时获得一层聚气。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.74b3077c16c30a9555df",
+      "source": "Enchanter Class",
+      "translation": "附魔师职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0c6aec00d8c1856ffa40",
+      "source": "<color={key:color}>Enchanter Class</color>",
+      "translation": "<color={key:color}>附魔师职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.6d74f122a60cdfa6ded6",
+      "source": "Soul Reaper Class",
+      "translation": "灵魂收割者职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.261a2016576ec3fd223b",
+      "source": "<color={key:color}>Soul Reaper Class</color>",
+      "translation": "<color={key:color}>灵魂收割者职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f46cf8d9bf46120d2338",
+      "source": "Shadow Jutsu Class",
+      "translation": "影之术职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.06d6f7ff1a45c8d7db15",
+      "source": "<color={key:color}>Shadow Jutsu Class</color>",
+      "translation": "<color={key:color}>影之术职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c138919c079220d16fd1",
+      "source": "On Dash, summon a Shadow Clone Companion<Companion> for [[8 seconds]].\n",
+      "translation": "冲刺时，召唤影分身同伴<Companion>，持续 [[8 秒]]。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2aa81410a918e9f2317e",
+      "source": "Crusader Class",
+      "translation": "十字军职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c7d3143de34f1c345373",
+      "source": "<color={key:color}>Crusader Class</color>",
+      "translation": "<color={key:color}>十字军职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.31dcebdb7275caf9b1f5",
+      "source": "Infamy Class",
+      "translation": "恶名职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.023dd52d9af638309e9d",
+      "source": "<color={key:color}>Infamy Class</color>",
+      "translation": "<color={key:color}>恶名职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.530dc95d8fd14f07e9df",
+      "source": "Piratey deeds increase your bounty. Rise up through the ranks of piracy and gain powerful effects.\n",
+      "translation": "海盗行径会提高你的悬赏。提升海盗等级，获得强大的效果。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2629d4e51c7ebe124f5f",
+      "source": "Bilge Rat Class",
+      "translation": "舱底鼠职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e37d03eac16dbb1624af",
+      "source": "<color={key:color}>Bilge Rat Class</color>",
+      "translation": "<color={key:color}>舱底鼠职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.8137c48aad13632e0dd6",
+      "source": "Scallywag Class",
+      "translation": "海上无赖职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.db3c37f924e19a73eb0f",
+      "source": "<color={key:color}>Scallywag Class</color>",
+      "translation": "<color={key:color}>海上无赖职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ab88780ea313d942d829",
+      "source": "Powder Monkey Class",
+      "translation": "火药猴职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.fef0584fed9c743ac015",
+      "source": "<color={key:color}>Powder Monkey Class</color>",
+      "translation": "<color={key:color}>火药猴职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.8c8b6d51b6959309812d",
+      "source": "Booty Snatcher Class",
+      "translation": "财宝掠夺者职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.06a669ad5e0f98e6a2e3",
+      "source": "<color={key:color}>Booty Snatcher Class</color>",
+      "translation": "<color={key:color}>财宝掠夺者职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.24f9f4d8e644c04859bd",
+      "source": "Captain Class",
+      "translation": "船长职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2d89f79d1ff98ffad52b",
+      "source": "<color={key:color}>Captain Class</color>",
+      "translation": "<color={key:color}>船长职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.20051a7d56ccc7ddebce",
+      "source": "Sea Devil Class",
+      "translation": "海魔职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.8d89546af2cc54ac3992",
+      "source": "<color={key:color}>Sea Devil Class</color>",
+      "translation": "<color={key:color}>海魔职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f3a488075cd02e8cc4bf",
+      "source": "Jolly Roger Class",
+      "translation": "骷髅旗职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.373d836b5385d8720829",
+      "source": "<color={key:color}>Jolly Roger Class</color>",
+      "translation": "<color={key:color}>骷髅旗职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ec10ed2ccabf474d9ebb",
+      "source": "Supernova Class",
+      "translation": "超新星职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c0172a67a357f582144c",
+      "source": "<color={key:color}>Supernova Class</color>",
+      "translation": "<color={key:color}>超新星职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c059a99f761ce5d2b7ef",
+      "source": "Pirate King Class",
+      "translation": "海盗王职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.3ab158a3d5dc8da3a6d2",
+      "source": "<color={key:color}>Pirate King Class</color>",
+      "translation": "<color={key:color}>海盗王职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0f0716626630001ff220",
+      "source": "Inner Flame Class",
+      "translation": "内在火焰职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.62bd0a8dfe0f372517eb",
+      "source": "<color={key:color}>Inner Flame Class</color>",
+      "translation": "<color={key:color}>内在火焰职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.4005aa231a891fdf53aa",
+      "source": "Farsight Class",
+      "translation": "远视职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.449255a11a84cb671666",
+      "source": "<color={key:color}>Farsight Class</color>",
+      "translation": "<color={key:color}>远视职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e19bf384ebbf728afc8e",
+      "source": "Ronin Class",
+      "translation": "浪人职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.09eb6c926dd4111633a9",
+      "source": "<color={key:color}>Ronin Class</color>",
+      "translation": "<color={key:color}>浪人职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.3e4e63eea453ab09de54",
+      "source": "Your Weapons inflict a stack of Retribution.\n",
+      "translation": "你的武器会施加一层惩戒。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.13b137979db3670c8be2",
+      "source": "Holiday Surprise Class",
+      "translation": "节日惊喜职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.9d09ab251bd0dd4f6197",
+      "source": "<color={key:color}>Holiday Surprise Class</color>",
+      "translation": "<color={key:color}>节日惊喜职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e9462761ed0cf61c1f95",
+      "source": "Whenever you open a Gift Box, gain either\n<SubArrow> [[+1]] Luck<Luck>, \n<SubArrow> [[+1]] Treasure Find<Treasure> or \n<SubArrow> [[+1]] Magic Find<Magic_Find>.\n",
+      "translation": "每次打开礼物盒，随机获得以下一种：\n<SubArrow> [[+1]] 幸运<Luck>， \n<SubArrow> [[+1]] 宝藏发现率<Treasure>，或 \n<SubArrow> [[+1]] 魔法发现率<Magic_Find>。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f3a0a8a9cdb8311f578e",
+      "source": "Preparation Class",
+      "translation": "准备就绪职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.3b465698885556ce9797",
+      "source": "<color={key:color}>Preparation Class</color>",
+      "translation": "<color={key:color}>准备就绪职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c01435afd1da64034ca0",
+      "source": "Ele##mental Affinity\n",
+      "translation": "元##素亲和\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.bc3af8949458ca3b94e9",
+      "source": "Super Power Class",
+      "translation": "超能力职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.53eb594a9541585c5370",
+      "source": "<color={key:color}>Super Power Class</color>",
+      "translation": "<color={key:color}>超能力职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.fa10c835d3d130e102e9",
+      "source": "At Level 1 you get to choose a Super Power Trait.\n",
+      "translation": "在 1 级时可选择一个超能力特质。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ab0909128106869bb549",
+      "source": "Reliable Talent Class",
+      "translation": "可靠天赋职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.5ebf19a67c60380016f6",
+      "source": "<color={key:color}>Reliable Talent Class</color>",
+      "translation": "<color={key:color}>可靠天赋职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2b4485e5fcae07b68572",
+      "source": "Sightseer Class",
+      "translation": "观光客职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.9185ca40610ba6c969b4",
+      "source": "<color={key:color}>Sightseer Class</color>",
+      "translation": "<color={key:color}>观光客职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c55b77a115c126ca1e62",
+      "source": "You will encounter an Event Room on every Floor.\n",
+      "translation": "每个楼层都会遇到一个事件房间。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c83bead17e295b508af4",
+      "source": "Steadfast Class",
+      "translation": "坚守职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a6f908c93f29f5336129",
+      "source": "<color={key:color}>Steadfast Class</color>",
+      "translation": "<color={key:color}>坚守职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.49c4ba9370086d41896c",
+      "source": "Wisdom Class",
+      "translation": "智慧职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.6d39ce4e96de694909b0",
+      "source": "<color={key:color}>Wisdom Class</color>",
+      "translation": "<color={key:color}>智慧职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a4bebc627f262b7e94b0",
+      "source": "<color=#00E61A>Not Encumbered</color>",
+      "translation": "<color=#00E61A>未超重</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.9fe59906b26fe120bb8b",
+      "source": "<color=#00E61A>Skill Effect <sprite name=\"Skill\"></color>:",
+      "translation": "<color=#00E61A>技能效果 <sprite name=\"Skill\"></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.9235ac1d81f957939091",
+      "source": "<color=#26B0FF><color=#26B0FF>Intelligence</color></color>:",
+      "translation": "<color=#26B0FF><color=#26B0FF>智力</color></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e491aa86108754434f4c",
+      "source": "<color=#26B0FF><color=#26B0FF>Mana Recovery</color></color>:",
+      "translation": "<color=#26B0FF><color=#26B0FF>魔力恢复</color></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.866b768c1588103968a6",
+      "source": "<color=#26B0FF><color=#26B0FF>Mana</color></color>:",
+      "translation": "<color=#26B0FF><color=#26B0FF>魔力</color></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2c3c54e0f0daa91b2cd3",
+      "source": "<color=#26B0FF>From <color=#26B0FF>Int</color>.</color>:",
+      "translation": "<color=#26B0FF>来自<color=#26B0FF>智力</color>。</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a12638d7e24f08198616",
+      "source": "<color=#26B0FF>Intelligence</color>:",
+      "translation": "<color=#26B0FF>智力</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.96c7af81c6af42253776",
+      "source": "<color=#26B0FF>MANA</color>",
+      "translation": "<color=#26B0FF>魔力</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.180d3f3569154246e3a9",
+      "source": "<color=#26B0FF>Mana Recovery</color>:",
+      "translation": "<color=#26B0FF>魔力恢复</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.d8ebdfe98e48f1e627f5",
+      "source": "<color=#26B0FF>Mana</color>:",
+      "translation": "<color=#26B0FF>魔力</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.7b919cbc1b3c2b86af89",
+      "source": "<color=#26FF66><color=#26FF66>Dexterity</color></color>:",
+      "translation": "<color=#26FF66><color=#26FF66>敏捷</color></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.499338e3429091f9c3db",
+      "source": "<color=#26FF66>Dexterity</color>:",
+      "translation": "<color=#26FF66>敏捷</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e4ad50093b71cc6c6dab",
+      "source": "<color=#26FF66>From <color=#26FF66>Dex</color>.</color>:",
+      "translation": "<color=#26FF66>来自<color=#26FF66>敏捷</color>。</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b6c38c32d96bbbe8a693",
+      "source": "<color=#3B3B7A><color=#3B3B7A>Chaotic</color><sprite name=\"Chaos\"></color>:",
+      "translation": "<color=#3B3B7A><color=#3B3B7A>混乱</color><sprite name=\"Chaos\"></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c42d8c2ee884081b3e9f",
+      "source": "<color=#3B3B7A>Chaotic<Chaos></color>:",
+      "translation": "<color=#3B3B7A>混乱<Chaos></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.6216d584d72a57406e96",
+      "source": "<color=#5ECCE3><color=#5ECCE3>Lawful</color><sprite name=\"Lawful\"></color>:",
+      "translation": "<color=#5ECCE3><color=#5ECCE3>守序</color><sprite name=\"Lawful\"></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ac9a0ed7ed298a097926",
+      "source": "<color=#5ECCE3>Lawful<Lawful></color>:",
+      "translation": "<color=#5ECCE3>守序<Lawful></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.d7ee6c79783029ed31ef",
+      "source": "<color=#808080>//Consumable</color>\nFully absolves you from Curse<sprite name=\"Curse\">.",
+      "translation": "<color=#808080>//消耗品</color>\n彻底解除你的诅咒<sprite name=\"Curse\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ef09c6b8b9a383df20d6",
+      "source": "<color=#808080>A place to keep all your dice.\n<i>\"Oooh!\nShinies!\"</i></color>",
+      "translation": "<color=#808080>存放你所有骰子的地方。\n<i>“哇！\n亮闪闪的！”</i></color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b956d1e4c454cde2fecf",
+      "source": "<color=#808080>A place to keep all your dice.\n<indent=7px>\"Oooh!\nShinies!\"</indent></color>",
+      "translation": "<color=#808080>存放你所有骰子的地方。\n<indent=7px>“哇！\n亮闪闪的！”</indent></color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.1bd6df315250b7ca3e72",
+      "source": "<color=#808080>Consumable</color>\nFully absolves you from <color=#3B3B7A>Curse</color><sprite name=\"Curse\">.",
+      "translation": "<color=#808080>消耗品</color>\n彻底解除你的<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e40f428c13f7e8e3f38a",
+      "source": "<color=#FCC926><color=#FCC926>Good</color><sprite name=\"Good\"></color>:",
+      "translation": "<color=#FCC926><color=#FCC926>善良</color><sprite name=\"Good\"></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.3449ec81036528958ff0",
+      "source": "<color=#FCC926>Good<Good></color>:",
+      "translation": "<color=#FCC926>善良<Good></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.bd587e447c45fdd30a99",
+      "source": "<color=#FF0000><color=#FF0000>Evil</color><sprite name=\"Evil\"></color>:",
+      "translation": "<color=#FF0000><color=#FF0000>邪恶</color><sprite name=\"Evil\"></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.666400f798b61e3619a7",
+      "source": "<color=#FF0000>Evil<Evil></color>:",
+      "translation": "<color=#FF0000>邪恶<Evil></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.56e1bf5aabe3d54a9585",
+      "source": "<color=#FF2666><color=#FF2666>Strength</color></color>:",
+      "translation": "<color=#FF2666><color=#FF2666>力量</color></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.555ea21d5caf318d0f8b",
+      "source": "<color=#FF2666>From <color=#FF2666>Str</color>.</color>:",
+      "translation": "<color=#FF2666>来自<color=#FF2666>力量</color>。</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a97bb10e06eada5570d0",
+      "source": "<color=#FF2666>Str</color>",
+      "translation": "<color=#FF2666>力量</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.df63d8adb51d8d5401d7",
+      "source": "<color=#FF2666>Strength</color>",
+      "translation": "<color=#FF2666>力量</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.292f88c35daf506a8466",
+      "source": "<color=#FF2666>Strength</color>:",
+      "translation": "<color=#FF2666>力量</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c620105b37c37700a8d2",
+      "source": "<color=#FFEB04>Mastery EXP Bonus</color>",
+      "translation": "<color=#FFEB04>精通经验加成</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.348335b7bac831926790",
+      "source": "<color=#FFFFFF><color=#26B0FF><color=#26B0FF>Mana</color> Rec. Penalty</color></color>:",
+      "translation": "<color=#FFFFFF><color=#26B0FF><color=#26B0FF>魔力</color>恢复惩罚</color></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.863bdd124408985cf1bc",
+      "source": "<color=#FFFFFF><color=#6BBD30><color=#6BBD30>Stamina</color> Rec. Penalty</color></color>:",
+      "translation": "<color=#FFFFFF><color=#6BBD30><color=#6BBD30>耐力</color>恢复惩罚</color></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.8b57b7fdb543a8340ea0",
+      "source": "<color=#FFFFFF><color=#8CFFFA>Dash Length Penalty</color></color>:",
+      "translation": "<color=#FFFFFF><color=#8CFFFA>冲刺距离惩罚</color></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.adcca87257dd617b1d93",
+      "source": "<color=#FFFFFF><color=#8CFFFA>Move. Speed Penalty</color></color>:",
+      "translation": "<color=#FFFFFF><color=#8CFFFA>移动速度惩罚</color></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b42f03d63fc7f87e930c",
+      "source": "<color=#FFFFFF>Alignment Requirement</color>:",
+      "translation": "<color=#FFFFFF>阵营要求</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e4fe6a3a69a7de56ae30",
+      "source": "<color=#FFFFFF>Current</color>:",
+      "translation": "<color=#FFFFFF>当前</color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.d0c0db4537cdcd06dfbd",
+      "source": "Activate <color=#DE6B1C>Cinder</color> modifiers to gain more <color=#FFEB04>Mastery EXP</color>.\n<SubArrow><i>Enemies gain <color=#FF0000>+0.25%</color> Health<sprite name=Heart> and Armor<sprite name=Armor> per Cinder Modifier per Floor.</i>\n<SubArrow><i>Reapers and Automatons are [[not affected]] by this.</i>",
+      "translation": "启用<color=#DE6B1C>余烬</color>修正，可获得更多<color=#FFEB04>精通经验</color>。\n<SubArrow><i>敌人每深入一层，每项余烬修正都会使其增加 <color=#FF0000>+0.25%</color> 生命值<sprite name=Heart>和护甲<sprite name=Armor>。</i>\n<SubArrow><i>收割者和自动机兵[[不受影响]]。</i>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e7542aa06ec63ddaecfd",
+      "source": "Activate <color=#DE6B1C>Cinder</color> modifiers to gain more <color=#FFEB04>Mastery EXP</color>.\n<SubArrow><indent=14px>Enemies gain <color=#FF0000>+0.25%</color> Health<sprite name=Heart> and Armor<sprite name=Armor> per Cinder Modifier per Floor.</indent>\n<SubArrow><indent=14px>Reapers and Automatons are <color=#00E317>not affected</color> by this.</indent>",
+      "translation": "启用<color=#DE6B1C>余烬</color>修正，可获得更多<color=#FFEB04>精通经验</color>。\n<SubArrow><indent=14px>敌人每深入一层，每项余烬修正都会使其增加 <color=#FF0000>+0.25%</color> 生命值<sprite name=Heart>和护甲<sprite name=Armor>。</indent>\n<SubArrow><indent=14px>收割者和自动机兵<color=#00E317>不受影响</color>。</indent>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e7f5e80f9a370778224e",
+      "source": "Activate <color=#DE6B1C>Cinder</color> modifiers to gain more <color=#FFEB04>Mastery EXP</color>.\n<sprite name=\"SubArrow\"><indent=14px>Enemies gain <color=#FF0000>+0.25%</color> <color=#FF3326>Health</color><sprite name=Heart> and <color=#406E7D>Armor</color><sprite name=Armor> per Cinder Modifier per Floor.</indent>\n<sprite name=\"SubArrow\"><indent=14px><color=#8000FF>Reapers</color> and <color=#8000FF>Automatons</color> are <color=#00E317>not affected</color> by this.</indent>",
+      "translation": "启用<color=#DE6B1C>余烬</color>修正，可获得更多<color=#FFEB04>精通经验</color>。\n<sprite name=\"SubArrow\"><indent=14px>敌人每深入一层，每项余烬修正都会使其增加 <color=#FF0000>+0.25%</color> <color=#FF3326>生命值</color><sprite name=Heart>和<color=#406E7D>护甲</color><sprite name=Armor>。</indent>\n<sprite name=\"SubArrow\"><indent=14px><color=#8000FF>收割者</color>和<color=#8000FF>自动机兵</color><color=#00E317>不受影响</color>。</indent>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ad4d2cc3e54f2108a157",
+      "source": "Alignment Requirement",
+      "translation": "阵营要求",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e888155d8c7d2e3c3f9e",
+      "source": "Compare",
+      "translation": "比较",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e0d1b68224bf0b31ef16",
+      "source": "Current",
+      "translation": "当前",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.9b7e488d6d44c06fad26",
+      "source": "Dash Length Penalty",
+      "translation": "冲刺距离惩罚",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.08a8dc0af2d056e961ee",
+      "source": "EQUIP LOAD",
+      "translation": "装备负重",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e12cb4c72277d2a53c14",
+      "source": "Fully absolves you from <color=#3B3B7A>Curse</color><sprite name=\"Curse\">. <color=#7F7F7FFF>[Consumable]</color>",
+      "translation": "彻底解除你的<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">。 <color=#7F7F7FFF>[消耗品]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.badf6ebdde6a831dbf70",
+      "source": "Fully absolves you from Curse<Curse>. <color=#7F7F7FFF>[##Consumable]</color>",
+      "translation": "彻底解除你的诅咒<Curse>。 <color=#7F7F7FFF>[##消耗品]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.13b0b99efac24b5f7150",
+      "source": "Fully absolves you from Curse<Curse>. <g>[##Consumable]</g>",
+      "translation": "彻底解除你的诅咒<Curse>。 <g>[##消耗品]</g>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a58483b9522ea0779fb0",
+      "source": "Increase the difficulty and gain more <color=#FFEB04>EXP</color> for each active Cinder modifier.\nThe <color=#FFEB04>EXP</color> bonus per modifier <color=red>diminishes</color> the more modifiers you activate.",
+      "translation": "提高难度，每启用一项余烬修正，就能获得更多<color=#FFEB04>经验</color>。\n<color=#FFEB04>经验</color>的每项修正加成会随启用修正数量的增加而<color=red>递减</color>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.7c06cf48e1366067bd4a",
+      "source": "MANA",
+      "translation": "魔力",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b45c753235577be65015",
+      "source": "Mana Recovery<sprite name=Mana>",
+      "translation": "魔力恢复<sprite name=Mana>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.aa0f40905dca3d5302ab",
+      "source": "Mana<sprite name=Mana>",
+      "translation": "魔力<sprite name=Mana>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.c537911b7b016e76d61b",
+      "source": "Mastery EXP Bonus",
+      "translation": "精通经验加成",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.2fe2e29e97e8ac6b7451",
+      "source": "Move. Speed Penalty",
+      "translation": "移动速度惩罚",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.56dbd9a3648201772730",
+      "source": "Not Encumbered",
+      "translation": "未超重",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.d1ee5670938e92e35dd6",
+      "source": "Stamina<Stamina>",
+      "translation": "耐力<Stamina>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.db81ba07d8775f118dab",
+      "source": "Start with 3 <color=#FCC926>Keys</color><sprite name=\"Key\">. <color=#7F7F7FFF>[Resource]</color>",
+      "translation": "开局获得 3 <color=#FCC926>钥匙</color><sprite name=\"Key\">。 <color=#7F7F7FFF>[资源]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e73f7b1decab4ab54b7c",
+      "source": "Start with 3 Keys<Key>. <color=#7F7F7FFF>[##Resource]</color>",
+      "translation": "开局获得 3 钥匙<Key>。 <color=#7F7F7FFF>[##资源]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.878facbee5d9f7be66e2",
+      "source": "Start with 3 Keys<Key>. <g>[##Resource]</g>",
+      "translation": "开局获得 3 钥匙<Key>。 <g>[##资源]</g>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0c9676f88fbb18470906",
+      "source": "Start with 30 <color=#FCC926>Gold</color><sprite name=\"Gold\">. <color=#7F7F7FFF>[Resource]</color>",
+      "translation": "开局获得 30 <color=#FCC926>金币</color><sprite name=\"Gold\">。 <color=#7F7F7FFF>[资源]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.3039a63ef687a1410401",
+      "source": "Start with 30 Gold<Gold>. <color=#7F7F7FFF>[##Resource]</color>",
+      "translation": "开局获得 30 金币<Gold>。 <color=#7F7F7FFF>[##资源]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.59a570af385a3697b7fa",
+      "source": "Start with 30 Gold<Gold>. <g>[##Resource]</g>",
+      "translation": "开局获得 30 金币<Gold>。 <g>[##资源]</g>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.4b744849efe98ebd0d49",
+      "source": "Start with 5 <color=#3B3B7A>Bombs</color><sprite name=\"Bomb\">. <color=#7F7F7FFF>[Resource]</color>",
+      "translation": "开局获得 5 <color=#3B3B7A>炸弹</color><sprite name=\"Bomb\">。 <color=#7F7F7FFF>[资源]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.09739c53fda8a88ef06b",
+      "source": "Start with 5 Bombs<Bomb>. <color=#7F7F7FFF>[##Resource]</color>",
+      "translation": "开局获得 5 炸弹<Bomb>。 <color=#7F7F7FFF>[##资源]</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.8fc2056272d3e291a7fe",
+      "source": "Start with 5 Bombs<Bomb>. <g>[##Resource]</g>",
+      "translation": "开局获得 5 炸弹<Bomb>。 <g>[##资源]</g>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b931c06772a3312f178d",
+      "source": "Start with an assortment of 6 Dice. <g>[##Resource]</g>",
+      "translation": "开局获得各式骰子，共 6 枚。 <g>[##资源]</g>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.091125ff99fe2f431e2d",
+      "source": "The Bonfire beckons you on a journey to vanquish the darkness that plagues this world.\n\nObjective:\nBegin your adventure. \n\nResult:\nA new set of enemies may appear on each floor.",
+      "translation": "篝火召唤你踏上旅程，扫除荼毒这个世界的黑暗。\n\n目标：\n开始冒险。 \n\n效果：\n每个楼层都可能出现一批新的敌人。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.1a622fbe1502502d35b0",
+      "source": "You are the chosen one, no pressure.",
+      "translation": "你就是天选之人，别有压力。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.94db0d1566b7c925a0b7",
+      "source": "You are the chosen one, no pressure.\n",
+      "translation": "你就是天选之人，别有压力。\n",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.07afb4ef0f6a397e3620",
+      "source": "篝火召唤你踏上旅程，扫除荼毒这个世界的黑暗。\n\nObjective:\n开始冒险。 \n\nResult:\n每个楼层都可能出现一批新的敌人。",
+      "translation": "篝火召唤你踏上旅程，扫除荼毒这个世界的黑暗。\n\n目标：\n开始冒险。 \n\n效果：\n每个楼层都可能出现一批新的敌人。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.7105f87df272b0bb8ef5",
+      "source": "Objective:",
+      "translation": "目标：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ccfbca6507781cd9ee56",
+      "source": "Result:",
+      "translation": "效果：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.4fb728fa8d2cf1a1b18f",
+      "source": "Bomb Pouch",
+      "translation": "炸弹袋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.bf0716b2755820c1dda0",
+      "source": "Coin Bag",
+      "translation": "钱袋",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.7fcf1f3aa7b9bc9ef9f7",
+      "source": "Key Ring",
+      "translation": "钥匙环",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.a424e33d90931d1ed22f",
+      "source": "Locked",
+      "translation": "未解锁",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.78947aa26635169e8e55",
+      "source": "Hero Class",
+      "translation": "勇者职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.1ea2686dfeac7b4e9865",
+      "source": "<color={key:color}>Hero Class</color>",
+      "translation": "<color={key:color}>勇者职业</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b639fe1ccfdb26474b4e",
+      "source": "<color={key:color}>Mastery EXP Bonus</color>",
+      "translation": "<color={key:color}>精通经验加成</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.b129885ea0c76a058098",
+      "source": "<color={key:color}>Bomb Pouch</color>",
+      "translation": "<color={key:color}>炸弹袋</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.404ab7ffea0ee321464f",
+      "source": "<color={key:color}>Coin Bag</color>",
+      "translation": "<color={key:color}>钱袋</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.3606b15b4d5a287387f0",
+      "source": "<color={key:color}>Key Ring</color>",
+      "translation": "<color={key:color}>钥匙环</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.80993ec0cfe4f0a1814c",
+      "source": "<color={key:color}>Locked</color>",
+      "translation": "<color={key:color}>未解锁</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ad8e6bd0c3f230b2b7c1",
+      "source": "Tier {number:tier} Gift",
+      "translation": "第 {number:tier} 阶赠礼",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.88c1fe98b06656bc1093",
+      "source": "Lvl {number:level} - {term:class}",
+      "translation": "等级 {number:level} - {term:class}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0c081f92ac10a3f45e91",
+      "source": "Bombs",
+      "translation": "炸弹",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.53f339500b6c99eb1b73",
+      "source": "{number:value} <color={key:color}>INT</color>",
+      "translation": "{number:value} <color={key:color}>智力</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.0d12db4edd4863d127b0",
+      "source": "{number:value} <color={key:color}>STR</color>",
+      "translation": "{number:value} <color={key:color}>力量</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.d7404b0fbc07e36eaa59",
+      "source": "{number:value} <color={key:color}>DEX</color>",
+      "translation": "{number:value} <color={key:color}>敏捷</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.ce774dcc6a3ca7ff920f",
+      "source": "{number:value} <color={key:color}>Intelligence</color>",
+      "translation": "{number:value} <color={key:color}>智力</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.f8364c64fd0120ab7c58",
+      "source": "{number:value} <color={key:color}>Strength</color>",
+      "translation": "{number:value} <color={key:color}>力量</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.efa732fa20d90756c546",
+      "source": "{number:value} <color={key:color}>Dexterity</color>",
+      "translation": "{number:value} <color={key:color}>敏捷</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    },
+    {
+      "id": "audit.ui.e36f311e71d94f26dd37",
+      "source": "<color=#00E61A>{number:attack}</color><sprite name=\"Skill\"> 攻击速度和 <color=#00E61A>{number:companion}</color><sprite name=\"Skill\"> 同伴攻击速度<sprite name=\"Companion\"><color=#808080>\n[<color=#00E61A>{number:effect}</color> effect]</color><color=#808080>[<color=#A61FFF><color=#A61FFF>Skill</color></color>] </color><color=#808080>[<color=#A61FFF><color=#A61FFF>Buff</color></color>] </color>",
+      "translation": "<color=#00E61A>{number:attack}</color><sprite name=\"Skill\"> 攻击速度和 <color=#00E61A>{number:companion}</color><sprite name=\"Skill\"> 同伴攻击速度<sprite name=\"Companion\"><color=#808080>\n[<color=#00E61A>{number:effect}</color> 效果]</color><color=#808080>[<color=#A61FFF><color=#A61FFF>技能</color></color>] </color><color=#808080>[<color=#A61FFF><color=#A61FFF>增益</color></color>] </color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际界面与旧英文清单交叉核查；独立译文，完整输入匹配。"
+    }
+  ]
+}

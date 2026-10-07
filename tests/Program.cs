@@ -119,7 +119,24 @@ Check(!catalog.TryTranslate(controllerPickup[..^1], "dialogue", out _), "Incompl
 var reboundPickup = Tr(catalog, pickup.Replace("[E]", "[RB]").Replace("[F]", "[Y]"), "dialogue");
 Check(reboundPickup.Contains("[RB]") && reboundPickup.Contains("[Y]") && !reboundPickup.Contains("Pick up"), "Pickup tutorial lost rebound keys");
 foreach (var source in runtimeUI)
-    Check(catalog.TryTranslateLabel(source, "styled-ui", out var translated) && translated != source && System.Text.RegularExpressions.Regex.IsMatch(translated, "[\\u4e00-\\u9fff]"), "Captured complete UI missing: " + source);
+{
+    var matched = catalog.TryTranslateLabel(source, "styled-ui", out var translated);
+    var plain = System.Text.RegularExpressions.Regex.Replace(translated, "<[^>]*>", "");
+    var multipliers = System.Text.RegularExpressions.Regex.Matches(System.Text.RegularExpressions.Regex.Replace(source, "<[^>]*>", ""), @"(?<![A-Za-z])x\d+(?:\.\d+)?").Select(m => m.Value).ToArray();
+    plain = System.Text.RegularExpressions.Regex.Replace(plain, @"(?<![A-Za-z])x\d+(?:\.\d+)?", m => multipliers.Contains(m.Value) ? "" : m.Value);
+    Check(matched && translated != source && System.Text.RegularExpressions.Regex.IsMatch(translated, "[\\u4e00-\\u9fff]") && !System.Text.RegularExpressions.Regex.IsMatch(plain, "[A-Za-z]"), "Captured complete UI missing or partially translated: " + source);
+}
+foreach (var fixtureFile in new[] { "audit-ui.json", "audit-descriptions.json" })
+using (var auditFixtures = System.Text.Json.JsonDocument.Parse(File.ReadAllText(Path.Combine(root, "tests", "fixtures", fixtureFile))))
+    foreach (var fixture in auditFixtures.RootElement.EnumerateArray())
+    {
+        var input = fixture.GetProperty("source").GetString()!;
+        var expected = fixture.GetProperty("expected").GetString()!;
+        var context = fixture.GetProperty("context").GetString()!;
+        Check(catalog.TryTranslateLabel(input, context, out var actual) && actual == expected, "Audited UI output differs from reviewed translation: " + input);
+    }
+Check(Tr(catalog, "Costs 7.5 <color=#FF3326>Heart</color><sprite name=\"Health\">\nto open.", "styled-ui") == "消耗 7.5 <color=#FF3326>红心</color><sprite name=\"Health\">\n即可打开。", "Door cost template changed a nonzero fractional value");
+Check(!catalog.TryTranslateLabel("Costs 7 FutureResource\nto open.", "styled-ui", out _), "Unknown door cost silently matched a known resource");
 Check(catalog.TryTranslateLabel("Floor 10 - 3 <mspace=1em>12:34:56", "styled-ui", out var timed) && timed == "第 10 层 - 3 <mspace=1em>12:34:56", "Progress time or room values changed");
 Check(catalog.TryTranslateRichLine("•Each point of 智力 grants this 武器 +2.5% 暴击伤害.", "weapon-effect", out var attrDebug), "Mixed attribute card failed");
 Check(catalog.TryTranslateRichLine("•Attacks trigger a <color=red>Chain </color><color=blue>Lightning</color> 7.5 times per second. [Tick]", "weapon-effect", out var chain) && !chain.Contains("Chain") && !chain.Contains("Lightning") && chain.Contains("7.5") && chain.Contains("<color=red>") && chain.Contains("<color=blue>"), "A multiword action split across color tags did not translate");
