@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "原生侧边机制说明",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "tooltip.native.001",
+      "source": "All Cold Damage\ninflicts Chill.",
+      "translation": "所有冰冷伤害\n都会施加寒冷。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Damage Ailment Tooltip Cold"
+    },
+    {
+      "id": "tooltip.native.002",
+      "source": "All Fire Damage\ninflicts Burn.",
+      "translation": "所有火焰伤害\n都会施加燃烧。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Damage Ailment Tooltip Fire"
+    },
+    {
+      "id": "tooltip.native.003",
+      "source": "All Lightning Damage\ninflicts Shock.",
+      "translation": "所有闪电伤害\n都会施加感电。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Damage Ailment Tooltip Lightning"
+    },
+    {
+      "id": "tooltip.native.004",
+      "source": "All Nature Damage\ninflicts Nettles.",
+      "translation": "所有自然伤害\n都会施加荨麻。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Damage Ailment Tooltip Nature"
+    },
+    {
+      "id": "tooltip.native.005",
+      "source": "All Poison Damage\ninflicts Poison.",
+      "translation": "所有毒素伤害\n都会施加中毒。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Damage Ailment Tooltip Poison"
+    },
+    {
+      "id": "tooltip.native.006",
+      "source": "Avoid taking damage by\nmaking use of Evade<sprite name=\"Evade\">, Block<sprite name=\"Block\">\nand Suppression<sprite name=\"Suppression\">.",
+      "translation": "利用闪避<sprite name=\"Evade\">、\n格挡<sprite name=\"Block\">\n和压制<sprite name=\"Suppression\">来避免受到伤害。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Avoid Taking Damage Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.007",
+      "source": "Emotions are Status Effects\nthat can be Buffs or Debuffs.\nAny Status Effect with an <color=#808080>[</color><color=#A61FFF>Emotion</color><color=#808080>]</color>\nTag is considered an Emotion.\nInspect Status Effects by holding <g>[<color=#FCC926>{key:inspect}</color>]</g>.",
+      "translation": "情绪是一类状态效果，\n可以是增益或减益。\n任何带有<color=#808080>[</color><color=#A61FFF>情绪</color><color=#808080>]</color>\n标签的状态效果都属于情绪。\n按住<g>[<color=#FCC926>{key:inspect}</color>]</g>查看状态效果。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Bard - Emotion Tooltip"
+    },
+    {
+      "id": "tooltip.native.008",
+      "source": "Companion<Companion> Critical Hit Chance<Crit>: [[{number:n0}]]\nCompanion<Companion> Critical Hit Damage<Crit>: [[{number:n1}]]",
+      "translation": "随从<Companion>暴击率<Crit>：[[{number:n0}]]\n随从<Companion>暴击伤害<Crit>：[[{number:n1}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Companion Crit Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.009",
+      "source": "Death Defies<sprite name=\"Defy_Death\"> refresh every Floor.",
+      "translation": "死里逃生<sprite name=\"Defy_Death\">会在每层刷新。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Death Defy Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.010",
+      "source": "(*)<color=#26FF66>Pears</color> grant [[+1]] Dexterity.\n(*)<color=#26FF66>Broccoli</color> grants [[+3]] Dexterity.",
+      "translation": "(*)<color=#26FF66>梨</color>提供[[+1]]敏捷。\n(*)<color=#26FF66>西兰花</color>提供[[+3]]敏捷。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Dexterity Pickup Tooltip"
+    },
+    {
+      "id": "tooltip.native.011",
+      "source": "Evades<sprite name=\"Evade\"> refresh after [[{number:n0}]]\ncombat encounters without\ntaking damage or evading.",
+      "translation": "在连续[[{number:n0}]]场战斗中\n未受到伤害或触发闪避后，\n闪避<sprite name=\"Evade\">次数会刷新。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Evade Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.012",
+      "source": "(*)Flask Drink Time: [[{number:n0} seconds]]\n(*)Flask Recovery: {number:n1}Heart<sprite name=\"Heart\">.\n<color=#FCC926>[Hold {key:flask}]<Arrow></color>Use Flask",
+      "translation": "(*)药瓶饮用时间：[[{number:n0}秒]]\n(*)药瓶恢复量：{number:n1}颗心<sprite name=\"Heart\">。\n<color=#FCC926>[按住 {key:flask}]<Arrow></color>使用药瓶",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Flask Explanation Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.013",
+      "source": "(*)<color=#26B0FF>Candy</color> grants [[+1]] Intelligence.\n(*)<color=#26B0FF>Lollipops</color> grant [[+3]] Intelligence.",
+      "translation": "(*)<color=#26B0FF>糖果</color>提供[[+1]]智力。\n(*)<color=#26B0FF>棒棒糖</color>提供[[+3]]智力。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Intelligence Pickup Tooltip"
+    },
+    {
+      "id": "tooltip.native.014",
+      "source": "Magic Find<Magic_Find>\nChance for:\n<SubArrow>Upgrading Item Rarity\n<SubArrow>Completing <color=#00B824>Sets</color>\n<SubArrow>Weapons to be Pre-Enchanted\nMakes you find more Rare,\nEpic and Legendary items.",
+      "translation": "魔法寻宝<Magic_Find>\n影响以下事件的几率：\n<SubArrow>提升物品稀有度\n<SubArrow>集齐<color=#00B824>套装</color>\n<SubArrow>武器自带附魔\n使你更容易找到稀有、\n史诗和传说物品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Magic Find Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.015",
+      "source": "{number:n0} Evil<sprite name=\"Evil\">",
+      "translation": "{number:n0}邪恶<sprite name=\"Evil\">",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Makes You Evil Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.016",
+      "source": "Mana Pickups<sprite name=\"Mana\"> spawn after using [[{number:n0}]] Mana<Mana> in a room.",
+      "translation": "在一个房间内消耗[[{number:n0}]]法力<Mana>后，会生成法力拾取物<sprite name=\"Mana\">。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Mana Star Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.017",
+      "source": "Most enemies have a damage type <color=red>resistance</color>.\nNot Very Effective<sprite name=\"Not_Very_Effective\"> hits deal <color=red>50% less</color> damage.",
+      "translation": "大多数敌人对某种伤害类型具有<color=red>抗性</color>。\n效果不佳<sprite name=\"Not_Very_Effective\">的命中造成的伤害<color=red>减少50%</color>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Not Very Effective Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.018",
+      "source": "Some examples of <Tick> Effects\ninclude Auras and\nDamage Over Time Effects.",
+      "translation": "<Tick>效果的例子\n包括光环\n和持续伤害效果。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Pyromancer - Tick Speed Tooltip"
+    },
+    {
+      "id": "tooltip.native.019",
+      "source": "(*)<i>Recover [[{number:n0}]] Hearts<sprite name=\"Heart\"> on Revive<Revive>.</i>\n(*)<i>Revive<Revive> refreshes every Floor.",
+      "translation": "(*)<i>复活<Revive>时恢复[[{number:n0}]]颗心<sprite name=\"Heart\">。</i>\n(*)<i>复活<Revive>会在每层刷新。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Revive Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.020",
+      "source": "Debuffs are Status Effects\nthat weaken Enemies.\nAny Status Effect with a <color=#808080>[</color><color=#A61FFF>Debuff</color><color=#808080>]</color>\nTag is considered a Debuff.\nInspect Status Effects by holding <g>[<color=#FCC926>{key:inspect}</color>]</g>.",
+      "translation": "减益是一类\n削弱敌人的状态效果。\n任何带有<color=#808080>[</color><color=#A61FFF>减益</color><color=#808080>]</color>\n标签的状态效果都属于减益。\n按住<g>[<color=#FCC926>{key:inspect}</color>]</g>查看状态效果。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Soldier - Debuff Tooltip"
+    },
+    {
+      "id": "tooltip.native.021",
+      "source": "Ailments are Status Effects\napplied by certain Damage Types.\nFor example, Chill from Cold Damage.\nIf the Ailment deals Damage, such as\nBurn, increasing the Effect will also\nincrease the Damage.\nAny Status Effect with an <color=#808080>[</color><color=#A61FFF>Ailment</color><color=#808080>]</color>\nTag is considered an Ailment.\nInspect Status Effects by holding <g>[<color=#FCC926>{key:inspect}</color>]</g>.",
+      "translation": "异常是一类由\n特定伤害类型施加的状态效果。\n例如冰冷伤害造成的寒冷。\n如果异常会造成伤害，例如\n燃烧，提高其效果也会\n提高伤害。\n任何带有<color=#808080>[</color><color=#A61FFF>异常</color><color=#808080>]</color>\n标签的状态效果都属于异常。\n按住<g>[<color=#FCC926>{key:inspect}</color>]</g>查看状态效果。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Sorcerer - Ailment Tooltip"
+    },
+    {
+      "id": "tooltip.native.022",
+      "source": "Crushing Hits<sprite name=\"Crushing_Hit\"> deal\nguaranteed Top End Damage.\nCrushing Hit Chance<Crushing>: [[{number:n0}]]",
+      "translation": "粉碎命中<sprite name=\"Crushing_Hit\">必定\n造成伤害上限值。\n粉碎命中率<Crushing>：[[{number:n0}]]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Crushing Hit Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.023",
+      "source": "Lethal Hits<Lethal> deal\n[[x{number:n0}]] Damage per 1% Health<Heart>\nthe target is missing.",
+      "translation": "致命命中<Lethal>对目标每损失的\n1%生命<Heart>，造成\n[[x{number:n0}]]伤害。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Lethal Hit Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.024",
+      "source": "Sneaky Hits<Cunning> have\n[[x{number:n0}]] Critical Hit Damage<Crit>.",
+      "translation": "狡诈命中<Cunning>拥有\n[[x{number:n0}]]暴击伤害<Crit>。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Sneaky Hit Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.025",
+      "source": "(*)<color=#FF2666>Steaks</color> grant [[+1]] Strength.\n(*)<color=#FF2666>Meat Shanks</color> grant [[+3]] Strength.",
+      "translation": "(*)<color=#FF2666>牛排</color>提供[[+1]]力量。\n(*)<color=#FF2666>肉腿</color>提供[[+3]]力量。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Strength Pickup Tooltip"
+    },
+    {
+      "id": "tooltip.native.026",
+      "source": "Most enemies have a damage type [[weakness]].\nSuper Effective<sprite name=\"Super_Effective\"> hits deal 50% more damage.",
+      "translation": "大多数敌人对某种伤害类型具有[[弱点]]。\n效果拔群<sprite name=\"Super_Effective\">的命中造成的伤害提高50%。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Super Effective Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.027",
+      "source": "This effect modifies\nother effects such as, e.g.:\n<g>\"per Intelligence Trait\nyou have, gain ...\"</g>.",
+      "translation": "此效果会修正\n其他效果，例如：\n<g>“每拥有一个智力特质，\n就获得……”</g>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Trait Stacking Tooltip"
+    },
+    {
+      "id": "tooltip.native.028",
+      "source": "Treasure Find<Treasure>\nChance for:\n<SubArrow>+1 Boss Reward\n<SubArrow>+1 Item in Chests\n<SubArrow>Maximum Reward Amount",
+      "translation": "财宝寻获<Treasure>\n影响以下事件的几率：\n<SubArrow>+1首领奖励\n<SubArrow>宝箱内+1物品\n<SubArrow>获得最大数量的奖励",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Treasure Find Tag Box Definition"
+    },
+    {
+      "id": "tooltip.native.029",
+      "source": "All Two-Handed Weapons\ndeal[[x{number:n0}]] damage.",
+      "translation": "所有双手武器\n造成[[x{number:n0}]]伤害。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "TooltipDefinition.GetTooltipText 四种参数的原生输出：Two-Handed Tooltip Definition"
+    },
+    {
+      "id": "tooltip.native.tick-rendered",
+      "source": "<color=#808080>[<color=#A61FFF>Tick</color>]</color>效果的例子\n包括光环\n和持续伤害效果。",
+      "translation": "<color=#808080>[<color=#A61FFF>周期</color>]</color>效果的例子\n包括光环\n和持续伤害效果。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生 <Tick> 宏展开后的完整说明，保留样式结构。"
+    }
+  ]
+}

@@ -211,6 +211,7 @@ public sealed class Catalog
     private static readonly Regex LabelTags = new(@"</?(color|size|b|i|u)(?:=[^<>]+)?>", RegexOptions.CultureInvariant);
     private readonly Layer[] _layers;
     private readonly HashSet<string> _knownValues = new(StringComparer.Ordinal);
+    private readonly HashSet<string> _weaponNames = new(StringComparer.Ordinal);
     internal bool IsTranslatedValue(string source) => _knownValues.Contains(source);
     public int EntryCount { get; }
     public Catalog(IEnumerable<(TranslationPack Pack, bool User, string Path)> packs)
@@ -236,6 +237,8 @@ public sealed class Catalog
                 }
                 unique.Add(key, entry.Translation);
                 entries.Add(compiled);
+                if (entry.Kind == "exact" && entry.Context == "*" && entry.Id.StartsWith("weapon.asset.", StringComparison.Ordinal))
+                    _weaponNames.Add(entry.Source);
                 if (entry.Kind == "exact" && (entry.Context == "*" || entry.Context == "display-value" || entry.Context == "weapon-action-name" || entry.Context == "companion-name"))
                     _knownValues.Add(entry.Translation.Replace('\u00a0', ' '));
             }
@@ -293,6 +296,7 @@ public sealed class Catalog
     {
         if (TryTranslate(source, context, out target)) return true;
         if (string.IsNullOrEmpty(source) || source.Length > 12000) return false;
+        if (TryTranslateWeaponTitle(source, context, out target)) return true;
         if ((context == "enemy-name" || context == "floor-name") && HasBalancedStyles(source) && TryTranslateRichLine(source, context, out target)) return true;
         if (TryTranslateRichLine(source, "shop-generated", out target)) return true;
         if (source.Length <= 512 && source.IndexOf('\n') < 0 && source.IndexOf('<') >= 0 && HasBalancedStyles(source) && TryTranslateRichLine(source, "*", out target)) return true;
@@ -321,6 +325,28 @@ public sealed class Catalog
         if (!opens.SequenceEqual(closes)) return false;
         if (!TryTranslateLabel(wrapped.Groups["label"].Value, context, out var label)) return false;
         target = prefix + label + suffix;
+        return true;
+    }
+
+    private bool TryTranslateWeaponTitle(string source, string context, out string target)
+    {
+        target = source;
+        if (source.Length > 512 || source.IndexOf('\n') >= 0 || !HasBalancedStyles(source)) return false;
+        var plain = Regex.Replace(source, "<[^>]*>", "");
+        var title = Regex.Match(plain, @"\A(?<action>Equip )?(?<name>.+?)(?<level> \+\d+(?:\+\d+)?)?\z");
+        if (!title.Success || !_weaponNames.Contains(title.Groups["name"].Value)
+            || (!title.Groups["action"].Success && !title.Groups["level"].Success)
+            || !TryTranslateAtom(title.Groups["name"].Value, "*", out var name)) return false;
+        // Native titles put the complete weapon name and upgrades in one run.
+        // Preserve rarity colors and both native upgrade values verbatim.
+        var original = title.Groups["name"].Value + title.Groups["level"].Value;
+        if (!source.Contains(original)) return false;
+        target = source.Replace(original, name + title.Groups["level"].Value);
+        if (title.Groups["action"].Success)
+        {
+            if (!target.Contains("Equip ") || !TryTranslateAtom("Equip", "*", out var action)) { target = source; return false; }
+            target = target.Replace("Equip ", action + " ");
+        }
         return true;
     }
 

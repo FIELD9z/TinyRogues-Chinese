@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-12",
+  "reason": "Four actual-play screenshots: shop offer, code-defined NPC line, side tooltips, upgraded weapon names",
+  "coreChecks": 1970,
+  "nativeFixtureCount": 43,
+  "nativeDefinitionCount": 59,
+  "nativeDefinitionVariants": 236,
+  "nonemptyVariants": 152,
+  "emptyVariants": 72,
+  "unavailableVariants": 12,
+  "unavailableDefinitions": [
+    "Black Market Alignment Tag Box Definition",
+    "Exp Tag Box Definition",
+    "Power Tag Box Definition"
+  ],
+  "unresolvedLatinVariants": 0,
+  "activeEntries": 8523,
+  "packCount": 45,
+  "installed": {
+    "files": [
+      {
+        "sha256": "80A8507E6F1243769DFC5A1397B3AC3704E9FC5C4BE7509CA8B599A0D5BBF0BA",
+        "path": "TinyRogues.Chinese.dll"
+      },
+      {
+        "sha256": "0FDDEB737D327AD41042590A1751122157F1344F24FCA63CBBEA91CA491703BD",
+        "path": "locales/zh-Hans/playtest-gaps.json"
+      },
+      {
+        "sha256": "1559B30B686E6DED1B2F2CF1D32AAD66AC10558BA55FD4DA79CD2EE77D2CAA4E",
+        "path": "locales/zh-Hans/tooltip-definitions.json"
+      },
+      {
+        "sha256": "99116D2466FE444C62B339FF8BEB920BB15AB4A3AEB15A77CF43F2969CD6B6C1",
+        "path": "diagnostics/playtest-20261012.json"
+      },
+      {
+        "sha256": "F88F2DFEC5507C2F0FA322974904FB3A76944B31C267627BB7F138057FD8C29C",
+        "path": "diagnostics/tooltip-definitions.json"
+      }
+    ],
+    "installedAt": "2026-10-12T21:04:25.238652+08:00"
+  },
+  "fullRegressionLogSha256": "681BE1B159BE05400B17255E6EBBF10EE13EC45E04FC6E948C1EDD38D8AFD914",
+  "focusedRegressionLogSha256": "1D07614A05B6E0F3763FA13E0EE1D93F3D04BF1A7F65BF8EE6443BA359469251",
+  "tooltipInventorySha256": "4224BA8E213678FDA67AA48ACA9136F810AFA7CAFF98DAFCE473C5BD7B176937"
+}

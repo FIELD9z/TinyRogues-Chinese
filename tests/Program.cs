@@ -63,6 +63,25 @@ var root = Path.GetFullPath(args.Length > 0 ? args[0] : ".");
 var files = Directory.GetFiles(Path.Combine(root, "locales", "zh-Hans"), "*.json", SearchOption.AllDirectories);
 catalog = new Catalog(files.Select(file => (PackJson.Read(file), false, file)));
 Check(catalog.EntryCount > 0, "Repository catalog empty");
+foreach (var source in System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "playtest-20261012.json")))!)
+{
+    Check(catalog.TryTranslateLabel(source, "styled-input", out var actual), "Playtest gap unresolved: " + source);
+    var visible = System.Text.RegularExpressions.Regex.Replace(actual, "<[^>]*>", "");
+    Check(!System.Text.RegularExpressions.Regex.IsMatch(visible.Replace("x2.00", ""), "[A-Za-z]{2,}"), "Playtest output retains English: " + actual);
+}
+foreach (var suffix in new[] { " +0", " +1", " +4", " +2+0", " +4+3" })
+    Check(catalog.TryTranslateLabel("<color=#123456>Pike" + suffix + "</color>", "styled-ui", out var titleWithUpgrade)
+        && titleWithUpgrade.Contains(suffix) && !titleWithUpgrade.Contains("Pike"), "Weapon upgrade title failed: " + suffix);
+Check(!catalog.TryTranslateLabel("Unknown Future Weapon +2", "styled-ui", out _), "Unknown upgraded weapon guessed");
+Check(!catalog.TryTranslateLabel("Fire +2", "styled-ui", out _), "Non-weapon suffix translated");
+Check(!catalog.TryTranslateLabel("Pike +2 damage", "styled-ui", out _), "Weapon title parser accepted prose");
+Check(Tr(catalog, "Need a little help", "dialogue") == "Need a little help", "Partial NPC phrase expanded");
+foreach (var source in System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "tooltip-definitions.json")))!)
+{
+    Check(catalog.TryTranslateLabel(source, "styled-input", out var tooltip), "Native tooltip source unresolved: " + source);
+    var visible = System.Text.RegularExpressions.Regex.Replace(tooltip, "<[^>]*>", "");
+    Check(!System.Text.RegularExpressions.Regex.IsMatch(visible.Replace("Shift", ""), "[A-Za-z]{2,}"), "Native tooltip retains English: " + tooltip);
+}
 const string foodTutorial = "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence.";
 Check(Tr(catalog, foodTutorial, "dialogue") == "(*)<color=red>肉</color>提供 [[+1]] 力量。\n(*)<color=green>糖果</color>提供 [[+1]] 敏捷。\n(*)<color=blue>糖果</color>提供 [[+1]] 智力。", "Complete food tutorial template did not translate before display");
 var opening = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "opening-tutorial.json")))!;

@@ -41,6 +41,15 @@ public sealed class RuntimeVerification : MonoBehaviour
             if (controller == null || controller.text == null) return;
             if (!_started)
             {
+                TooltipModuleAudit.Run();
+                if (Environment.GetCommandLineArgs().Contains("-tinyrogues-chinese-tooltiptest"))
+                {
+                    VerifyPlaytestFixtures();
+                    Plugin.Current.Info("INDEPENDENT SELFTEST PASS: focused tooltip and playtest native regression.");
+                    _finished = true;
+                    _exitAt = Time.unscaledTime + 1;
+                    return;
+                }
                 DialogueModuleAudit.Run(controller);
                 ProgressionModuleAudit.Run();
                 SkillsStatsModuleAudit.Run();
@@ -48,6 +57,7 @@ public sealed class RuntimeVerification : MonoBehaviour
                 StatusEffectsModuleAudit.Run();
                 VerifyCharacterFixtures();
                 VerifySplashFixtures();
+                VerifyPlaytestFixtures();
                 VerifyUI();
                 VerifyDescriptions();
                 VerifyRewardModule();
@@ -87,6 +97,47 @@ public sealed class RuntimeVerification : MonoBehaviour
             Application.Quit(2);
         }
     }
+    private static void VerifyPlaytestFixtures()
+    {
+        var path = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "playtest-20261012.json");
+        using var stream = File.OpenRead(path);
+        var sources = (string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!;
+        using (var extra = File.OpenRead(Path.Combine(Path.GetDirectoryName(path)!, "tooltip-definitions.json")))
+            sources = sources.Concat((string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(extra)!).ToArray();
+        var label = UI.Title_Screen.SplashTextHandler.Instance.textMeshProUGUI;
+        var original = label.text;
+        try
+        {
+            foreach (var source in sources)
+            {
+                var catalog = Plugin.Current.Catalog;
+                string reference;
+                try
+                {
+                    Plugin.Current.Catalog = null;
+                    reference = UI.Text.TextMeshProxy.ApplyColorToText(source, true, label);
+                }
+                finally { Plugin.Current.Catalog = catalog; }
+                label.text = UI.Text.TextMeshProxy.ApplyColorToText(source, true, label);
+                var visible = Regex.Replace(label.text, "<[^>]*>", "");
+                if (Regex.IsMatch(visible.Replace("Shift", ""), "[A-Za-z]{2,}") || !Regex.IsMatch(visible, "[\u4e00-\u9fff]"))
+                    throw new InvalidOperationException("Playtest native styling gap: " + source + " -> " + label.text);
+                var plainReference = Regex.Replace(reference, "<[^>]*>", "");
+                const string numberPattern = @"[+\-]?\d+(?:[.,]\d+)?%?";
+                if (!Regex.Matches(plainReference, numberPattern).Cast<Match>().Select(m => m.Value).OrderBy(x => x)
+                    .SequenceEqual(Regex.Matches(visible, numberPattern).Cast<Match>().Select(m => m.Value).OrderBy(x => x)))
+                    throw new InvalidOperationException("Playtest native values changed: " + source);
+                if (!Regex.Matches(reference, @"<sprite\b[^>]*>").Cast<Match>().Select(m => m.Value).OrderBy(x => x)
+                    .SequenceEqual(Regex.Matches(label.text, @"<sprite\b[^>]*>").Cast<Match>().Select(m => m.Value).OrderBy(x => x)))
+                    throw new InvalidOperationException("Playtest native icons changed: " + source);
+                label.ForceMeshUpdate(true, true);
+                if (label.textInfo.characterCount == 0) throw new InvalidOperationException("Empty playtest mesh.");
+            }
+        }
+        finally { label.text = original; }
+        Plugin.Current.Info($"NATIVE PLAYTEST PASS: {sources.Length} captured complete strings through native styling, TMP assignment and mesh generation.");
+    }
+
     private static void VerifySplashFixtures()
     {
         var path = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "menu-splash-module.json");
@@ -123,6 +174,7 @@ public sealed class RuntimeVerification : MonoBehaviour
             using (var stream = File.OpenRead(followupPath))
                 _opening = _opening.Concat((string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!).ToArray();
             if (_opening.Length == 0) throw new InvalidDataException("Opening tutorial fixtures empty.");
+            _opening = _opening.Concat(new[] { "Need a little help?" }).ToArray();
         }
         var source = _phase >= 4 ? _opening[_phase - 4] : _phase == 3 ? "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence." : "Nothing can stop me!";
         var expected = Plugin.Current.Translate(source, "dialogue", false);

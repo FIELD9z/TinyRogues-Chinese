@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "实际游玩漏项：商店、短句、侧边说明",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "playtest.20261012.001",
+      "source": "Golden Dice",
+      "translation": "黄金骰子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-12 实际游玩截图及 missing-texts 原始完整文本；动态武器名和倍率保留。"
+    },
+    {
+      "id": "playtest.20261012.002",
+      "source": "Rerolls Items from Armories, \nShops and Boss Rewards.",
+      "translation": "重掷军械库、商店\n和首领奖励中的物品。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-12 实际游玩截图及 missing-texts 原始完整文本；动态武器名和倍率保留。"
+    },
+    {
+      "id": "playtest.20261012.003",
+      "source": "Need a little help?",
+      "translation": "需要一点帮助吗？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-12 实际游玩截图及 missing-texts 原始完整文本；动态武器名和倍率保留。"
+    },
+    {
+      "id": "playtest.20261012.004",
+      "source": "Attacks cannot repeat.",
+      "translation": "攻击无法重复触发。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-12 实际游玩截图及 missing-texts 原始完整文本；动态武器名和倍率保留。"
+    },
+    {
+      "id": "playtest.20261012.005",
+      "source": "Two-Handed Weapons like\nyour {term:weapon}\n((disable)) your Offhand.",
+      "translation": "双手武器，例如\n你的{term:weapon}\n会((禁用))副手装备。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "2026-10-12 实际游玩截图及 missing-texts 原始完整文本；动态武器名和倍率保留。"
+    },
+    {
+      "id": "playtest.20261012.006",
+      "source": "(*)<i>Suppression<Suppression> prevents\none instance of taking damage but\nonly during Boss Fights.</i>\n(*)<i>Your Suppression<Suppression>\nrefreshes every Floor.</i>",
+      "translation": "(*)<i>压制<Suppression>可抵挡\n一次伤害，但仅在\n首领战中生效。</i>\n(*)<i>你的压制<Suppression>\n会在每层刷新。</i>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-12 实际游玩截图及 missing-texts 原始完整文本；动态武器名和倍率保留。"
+    },
+    {
+      "id": "playtest.20261012.007",
+      "source": "Blocks<sprite name=\"Block\"> refresh every Floor.",
+      "translation": "格挡<sprite name=\"Block\">会在每层刷新。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-12 实际游玩截图及 missing-texts 原始完整文本；动态武器名和倍率保留。"
+    },
+    {
+      "id": "playtest.20261012.008",
+      "source": "(*)<i>Flails are considered Orbitals.</i>\n(*)<i>Modifiers to Orbital Speed only\napply at ((25%)) value.</i>",
+      "translation": "(*)<i>连枷被视为环绕物。</i>\n(*)<i>环绕速度修正仅以\n((25%))的数值生效。</i>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-12 实际游玩截图及 missing-texts 原始完整文本；动态武器名和倍率保留。"
+    },
+    {
+      "id": "playtest.20261012.009",
+      "source": "Ruthless Hits<Ruthless> gain\n[[x{number:multiplier}]] Top End Damage.",
+      "translation": "残酷命中<Ruthless>获得\n[[x{number:multiplier}]]伤害上限。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "2026-10-12 实际游玩截图及 missing-texts 原始完整文本；动态武器名和倍率保留。"
+    },
+    {
+      "id": "playtest.20261012.010",
+      "source": "<color=#2BAD99>Suppression<Suppression></color>:",
+      "translation": "<color=#2BAD99>压制<Suppression></color>：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "2026-10-12 实际游玩截图及 missing-texts 原始完整文本；动态武器名和倍率保留。"
+    }
+  ]
+}
