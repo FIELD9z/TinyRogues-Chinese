@@ -1,0 +1,953 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "商店与服务模块",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "module.shop.268bdd136ca83b9c",
+      "source": "Price: {number:cost} {term:currency}",
+      "translation": "价格：{number:cost} {term:currency}",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.bb44bba8386279c4",
+      "source": "Grants {number:n} Soul Heart.",
+      "translation": "获得 {number:n} 颗灵魂之心。",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.edbbbb804f68b45b",
+      "source": "Grants {number:n} Heart Container.",
+      "translation": "获得 {number:n} 个红心容器。",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.84c9cc9bb195c657",
+      "source": "Rerolls Traits\nin Trait Selection.",
+      "translation": "重掷特性选择\n中的特性。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.34be14a2b1d7c8b8",
+      "source": "Replace a Trait with",
+      "translation": "将一项特性替换为",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.0a5a24654cbb3f02",
+      "source": "Requires Key\nto open.",
+      "translation": "需要钥匙\n才能打开。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.718eb0e65b222898",
+      "source": "The lock is broken.",
+      "translation": "锁坏了。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.d0ce46b3b6d84911",
+      "source": "Feed Heart",
+      "translation": "献上红心",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.b0ba9c25ced9d39f",
+      "source": "Requires <color={text:c1}>Key<Key></color>\nto open.",
+      "translation": "需要<color={text:c1}>钥匙<Key></color>\n才能打开。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.2d280015e6f2f345",
+      "source": "Requires <color={text:c1}><color={text:c2}>Key</color><sprite name=\"Key\"></color>\nto open.",
+      "translation": "需要<color={text:c1}><color={text:c2}>钥匙</color><sprite name=\"Key\"></color>\n才能打开。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.5e204e4f67932057",
+      "source": "Souls",
+      "translation": "灵魂",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.cd50187de01725a2",
+      "source": "Obsidian Dice",
+      "translation": "黑曜石骰子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.3363002f668b8a15",
+      "source": "Exchanges a Trait for a\nrandom new one.",
+      "translation": "将一项特性替换为\n随机的新特性。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.be88bd67ef6b801c",
+      "source": "To blow things up!",
+      "translation": "炸个痛快！",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.8ebab9b4ca2981c3",
+      "source": "Illegal: {number:n} Attack Speed",
+      "translation": "非法：攻击速度{number:n}",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.4082c9c1c36055ce",
+      "source": "Illegal: {number:n} Damage",
+      "translation": "非法：伤害{number:n}",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.1bcb9d58d922e722",
+      "source": "Cursed\n{term:reward}",
+      "translation": "诅咒\n{term:reward}",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.b81d608c17501b67",
+      "source": "Tainted\n{term:reward}",
+      "translation": "污染\n{term:reward}",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.9387779b3cf58cd8",
+      "source": "{number:exp} EXP\n{number:a} Attack Speed\n{number:b} Movement Speed\n",
+      "translation": "{number:exp}经验\n攻击速度{number:a}\n移动速度{number:b}\n",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.881711f05e586f56",
+      "source": "{number:exp} EXP\n攻击速度{number:a}\n移动速度{number:b}\n",
+      "translation": "{number:exp}经验\n攻击速度{number:a}\n移动速度{number:b}\n",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.5ed06619bb07fb97",
+      "source": "{number:exp} EXP\nx{number:a} Top End Damage\n{number:b} Equip Load Capacity\n",
+      "translation": "{number:exp}经验\n伤害上限x{number:a}\n负重上限{number:b}\n",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.2793fbe97784151a",
+      "source": "{number:exp} EXP\n伤害上限x{number:a}\n负重上限{number:b}\n",
+      "translation": "{number:exp}经验\n伤害上限x{number:a}\n负重上限{number:b}\n",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.2bfed7ac54e2d82e",
+      "source": "{number:exp} EXP\n{number:a} Critical Hit Chance\n{number:b} Mana Recovery\n",
+      "translation": "{number:exp}经验\n暴击率{number:a}\n法力恢复{number:b}\n",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.51579a3a3eb60677",
+      "source": "{number:exp} EXP\n暴击率{number:a}\n法力恢复{number:b}\n",
+      "translation": "{number:exp}经验\n暴击率{number:a}\n法力恢复{number:b}\n",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.6c093d85e607607a",
+      "source": "Shop",
+      "translation": "商店",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.1ffd129f6f589697",
+      "source": "Arcade",
+      "translation": "游乐厅",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.cddd6d1fadf42d43",
+      "source": "Event",
+      "translation": "事件",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.fbeaa532650c155d",
+      "source": "Blacksmith",
+      "translation": "铁匠",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.f41d6ead658a4959",
+      "source": "Master Blacksmith",
+      "translation": "铁匠大师",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.2cd8de61f35eb7f9",
+      "source": "Bonfire Room",
+      "translation": "篝火房",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.ee515586200e09af",
+      "source": "Leviathan Shrine",
+      "translation": "利维坦神龛",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.10ab92ff26bd942e",
+      "source": "Pawn Shop",
+      "translation": "当铺",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.97e7161d5399b85b",
+      "source": "Royal Armory",
+      "translation": "皇家军械库",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.d3aa18fbd308ea8a",
+      "source": "Soul Forge",
+      "translation": "灵魂熔炉",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.84352576e1eb057e",
+      "source": "Try your luck!",
+      "translation": "试试你的运气！",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.bebe6b6e551cf381",
+      "source": "Where could\nit lead?",
+      "translation": "它会通向\n哪里？",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.1d9e93216873f6b2",
+      "source": "Allows attuning equipped items.",
+      "translation": "可调谐已装备的物品。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.7c74af0043693a68",
+      "source": "May the disciple meet\ntheir false idol.",
+      "translation": "愿信徒见到\n他们的虚假偶像。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.f589e681f36ee518",
+      "source": "Contains\nrare\nweapons.",
+      "translation": "内有\n稀有\n武器。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.a5b6127e80e9d794",
+      "source": "Buy Accessories\nfor Gold.",
+      "translation": "购买饰品\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.ee59d44b5d36199d",
+      "source": "Buy Accessories\nfor Gold<Gold>.",
+      "translation": "购买饰品\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.87752c10d660671e",
+      "source": "Buy Accessories\nfor Souls.",
+      "translation": "购买饰品\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.15ad61d320919484",
+      "source": "Buy Accessories\nfor Souls<Soul>.",
+      "translation": "购买饰品\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.d2a4e9d714a4237a",
+      "source": "Buy Companions\nfor Gold.",
+      "translation": "购买伙伴\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.683e4df0c1a1fa48",
+      "source": "Buy Companions<Companion>\nfor Gold<Gold>.",
+      "translation": "购买伙伴<Companion>\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.2442c99f753cc618",
+      "source": "Buy Companions\nfor Souls.",
+      "translation": "购买伙伴\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.10ef0c0bcf2388b7",
+      "source": "Buy Companions<Companion>\nfor Souls<Soul>.",
+      "translation": "购买伙伴<Companion>\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.e4dd4ba41dab0356",
+      "source": "Buy Crystal Items\nfor Gold.",
+      "translation": "购买水晶物品\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.30315c8c375efc6a",
+      "source": "Buy Crystal Items\nfor Gold<Gold>.",
+      "translation": "购买水晶物品\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.ffa243c885183e92",
+      "source": "Buy Crystal Items\nfor Souls.",
+      "translation": "购买水晶物品\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.e91942655dcbe223",
+      "source": "Buy Crystal Items\nfor Souls<Soul>.",
+      "translation": "购买水晶物品\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.6701cdee78f83cb3",
+      "source": "Buy Equipment\nfor Gold.",
+      "translation": "购买装备\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.0d95c743b6a1bdc3",
+      "source": "Buy Equipment\nfor Gold<Gold>.",
+      "translation": "购买装备\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.b521aafef5ea1ba5",
+      "source": "Buy Equipment\nfor Souls.",
+      "translation": "购买装备\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.5b86e9ff6a7d2a62",
+      "source": "Buy Equipment\nfor Souls<Soul>.",
+      "translation": "购买装备\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.1fbe52afe854ee52",
+      "source": "Buy Fishing Booty\nfor Gold.",
+      "translation": "购买渔获\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.026ab4ec1cb52a00",
+      "source": "Buy Fishing Booty\nfor Gold<Gold>.",
+      "translation": "购买渔获\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.404cb55de758b98d",
+      "source": "Buy Fishing Booty\nfor Souls.",
+      "translation": "购买渔获\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.adc885a5f8c1449f",
+      "source": "Buy Fishing Booty\nfor Souls<Soul>.",
+      "translation": "购买渔获\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.44a1e5169dee000f",
+      "source": "Buy Flower Circlets\nfor Gold.",
+      "translation": "购买花环\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.6d968d0fedb535b2",
+      "source": "Buy Flower Circlets\nfor Gold<Gold>.",
+      "translation": "购买花环\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.450d9e1b1227c343",
+      "source": "Buy Flower Circlets\nfor Souls.",
+      "translation": "购买花环\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.c9bddf942c161006",
+      "source": "Buy Flower Circlets\nfor Souls<Soul>.",
+      "translation": "购买花环\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.095b9c992fa7cd4f",
+      "source": "Buy Items\nfor Gold.",
+      "translation": "购买物品\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.0a5f8effc597e319",
+      "source": "Buy Items\nfor Gold<Gold>.",
+      "translation": "购买物品\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.3c9d31d1f80113a5",
+      "source": "Buy Items\nfor Souls.",
+      "translation": "购买物品\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.c7cfed9c52f14b5c",
+      "source": "Buy Items\nfor Souls<Soul>.",
+      "translation": "购买物品\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.22e691b136de4ce7",
+      "source": "Buy Mining Gear\nfor Gold.",
+      "translation": "购买采矿装备\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.4b2cf185757d4abe",
+      "source": "Buy Mining Gear\nfor Gold<Gold>.",
+      "translation": "购买采矿装备\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.210b8f1f1eb58c5e",
+      "source": "Buy Mining Gear\nfor Souls.",
+      "translation": "购买采矿装备\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.58ff58e40b2a561f",
+      "source": "Buy Mining Gear\nfor Souls<Soul>.",
+      "translation": "购买采矿装备\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.cd85576f18971686",
+      "source": "Buy Potions\nfor Gold.",
+      "translation": "购买药水\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.aebc03a903893a2e",
+      "source": "Buy Potions\nfor Gold<Gold>.",
+      "translation": "购买药水\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.7dd3227327c30e27",
+      "source": "Buy Potions\nfor Souls.",
+      "translation": "购买药水\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.4abad45923d3a8a6",
+      "source": "Buy Potions\nfor Souls<Soul>.",
+      "translation": "购买药水\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.af12725508f8380e",
+      "source": "Buy Spice\nfor Gold.",
+      "translation": "购买香料\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.f934d29a31e3226c",
+      "source": "Buy Spice\nfor Gold<Gold>.",
+      "translation": "购买香料\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.87d510d6061c753b",
+      "source": "Buy Spice\nfor Souls.",
+      "translation": "购买香料\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.92a8028d6c1b4b29",
+      "source": "Buy Spice\nfor Souls<Soul>.",
+      "translation": "购买香料\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.122313cf6a97b1ca",
+      "source": "Buy Tomes\nfor Gold.",
+      "translation": "购买典籍\n需花费金币。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.5c0d5ea6667d829a",
+      "source": "Buy Tomes\nfor Gold<Gold>.",
+      "translation": "购买典籍\n需花费金币<Gold>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.597c566b03c3733e",
+      "source": "Buy Tomes\nfor Souls.",
+      "translation": "购买典籍\n需花费灵魂。",
+      "context": "shop-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.85249ae4c9991ad4",
+      "source": "Buy Tomes\nfor Souls<Soul>.",
+      "translation": "购买典籍\n需花费灵魂<Soul>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.d33cdd175ec4cbc1",
+      "source": "{term:item} [x{number:count}]",
+      "translation": "{term:item} [x{number:count}]",
+      "context": "shop-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.bd1f923a68819844",
+      "source": "Flask Charge",
+      "translation": "药瓶充能",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.071b515f64947459",
+      "source": "Ethereal Dice",
+      "translation": "虚灵骰子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.b8fb9b1607a1cea3",
+      "source": "Armor of Favour",
+      "translation": "恩赐之甲",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.cbe6ba1376918684",
+      "source": "Attack",
+      "translation": "攻击",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.536f677f42e83fc2",
+      "source": "Orbital",
+      "translation": "环绕物",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.901ebd9a563e7a98",
+      "source": "Weapon",
+      "translation": "武器",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.41563f94be67bad3",
+      "source": "Melee",
+      "translation": "近战",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.ab443e42ac165897",
+      "source": "Ranged",
+      "translation": "远程",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.cbeb4483c236f16b",
+      "source": "Magic",
+      "translation": "魔法",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.08633942f482b714",
+      "source": "One-Handed",
+      "translation": "单手",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.7d902760b27ddb1b",
+      "source": "Two-Handed",
+      "translation": "双手",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.688b8e86e8de9522",
+      "source": "Physical",
+      "translation": "物理",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.89d0efc3762f4406",
+      "source": "Elemental",
+      "translation": "元素",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.f3ac514741a6a251",
+      "source": "Helmet",
+      "translation": "头盔",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.66e83a6a4da450d7",
+      "source": "Boots",
+      "translation": "靴子",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.e1800113e2a0e0c6",
+      "source": "Gloves",
+      "translation": "手套",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.20c3cfe7dbdee5a5",
+      "source": "Body Armor",
+      "translation": "胸甲",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.64bdebed116d0b93",
+      "source": "Body 护甲",
+      "translation": "胸甲",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.287c55aed35a936d",
+      "source": "Accessory",
+      "translation": "饰品",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.fc806ca3c3eba975",
+      "source": "Offhand",
+      "translation": "副手",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    },
+    {
+      "id": "module.shop.80de8c81af7c5c72",
+      "source": "Charm",
+      "translation": "护符",
+      "context": "weapon-card-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "30个原生商店与服务房间完整输出；报价数值、类别徽标和消耗品文本。"
+    }
+  ]
+}

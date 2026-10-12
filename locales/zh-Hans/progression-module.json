@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "成长模块完整生成说明",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "module.progression.8afed8b6090229bd",
+      "source": "You gain <color={text:c}>{number:amount}</color> Luck<sprite name=\"Luck\"> at Level [[{number:a}]], [[{number:b}]] and [[{number:d}]].",
+      "translation": "等级达到 [[{number:a}]]、[[{number:b}]] 和 [[{number:d}]] 时，你获得<color={text:c}>{number:amount}</color>幸运<sprite name=\"Luck\">。",
+      "context": "class-ability-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 完整成长模块原生字段审计；整句生成后翻译，保留颜色、数值及图标。"
+    },
+    {
+      "id": "module.progression.85503aa421018d21",
+      "source": "等级达到[[{number:a}]]时，你获得<color={text:c}>{number:amount}</color>幸运<sprite name=\"Luck\">， [[{number:b}]] and [[{number:d}]].",
+      "translation": "等级达到 [[{number:a}]]、[[{number:b}]] 和 [[{number:d}]] 时，你获得<color={text:c}>{number:amount}</color>幸运<sprite name=\"Luck\">。",
+      "context": "class-ability-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 完整成长模块原生字段审计；整句生成后翻译，保留颜色、数值及图标。"
+    },
+    {
+      "id": "module.progression.b31b6836fc90edbe",
+      "source": "Gain <color={text:c}>{number:amount}</color> Mana<sprite name=\"Mana\"> at level [[{number:a}]], [[{number:b}]] and [[{number:d}]].",
+      "translation": "等级达到 [[{number:a}]]、[[{number:b}]] 和 [[{number:d}]] 时，获得<color={text:c}>{number:amount}</color>法力<sprite name=\"Mana\">。",
+      "context": "class-ability-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 完整成长模块原生字段审计；整句生成后翻译，保留颜色、数值及图标。"
+    },
+    {
+      "id": "module.progression.7afcff961db515c9",
+      "source": "等级达到[[{number:a}]]时获得<color={text:c}>{number:amount}</color>法力<sprite name=\"Mana\">， [[{number:b}]] and [[{number:d}]].",
+      "translation": "等级达到 [[{number:a}]]、[[{number:b}]] 和 [[{number:d}]] 时，获得<color={text:c}>{number:amount}</color>法力<sprite name=\"Mana\">。",
+      "context": "class-ability-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 完整成长模块原生字段审计；整句生成后翻译，保留颜色、数值及图标。"
+    },
+    {
+      "id": "module.progression.ff63dfff46dc11a3",
+      "source": "Each point of Strength additionally grants you <color={text:c1}>{number:speed}</color> Attack Speed and <color={text:c2}>{number:crit}</color> Critical Hit Chance<sprite name=\"Critical_Hit\">.",
+      "translation": "每点力量额外提供<color={text:c1}>{number:speed}</color>攻击速度和<color={text:c2}>{number:crit}</color>暴击率<sprite name=\"Critical_Hit\">。",
+      "context": "class-ability-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 完整成长模块原生字段审计；整句生成后翻译，保留颜色、数值及图标。"
+    },
+    {
+      "id": "module.progression.97de399a01a929f8",
+      "source": "Landlubber",
+      "translation": "旱鸭子",
+      "context": "class-ability-title",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 完整成长模块原生字段审计；整句生成后翻译，保留颜色、数值及图标。"
+    },
+    {
+      "id": "module.progression.ad4438cc4de927fb",
+      "source": "Achieving this world objective unlocks the sealed gate to the Abyss. <color=grey>In the next expansion. Not available yet.</color>",
+      "translation": "完成此世界目标将解锁通往深渊的封印之门。<color=grey>将在下次扩展中开放，目前尚不可用。</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 完整成长模块原生字段审计；整句生成后翻译，保留颜色、数值及图标。"
+    }
+  ]
+}

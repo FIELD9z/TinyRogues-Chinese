@@ -2306,7 +2306,7 @@
     {
       "id": "mechanic.756302bdf9b5ec79b94f",
       "source": "(*)(x0) Treasure Find<Treasure>",
-      "translation": "(*)宝藏寻宝<Treasure>(x0)",
+      "translation": "(*)财宝寻获<Treasure>(x0)",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -3971,7 +3971,7 @@
     {
       "id": "mechanic.299661c8aef757aff13c",
       "source": "(*)<i>(x0x1) Treasure Find<Treasure> per  point of Chaos<Chaos> you have <g>((x0) currently)</g></i>",
-      "translation": "(*)<i>每点混乱<Chaos>，宝藏寻宝<Treasure>(x0x1) <g>（当前(x0)）</g></i>",
+      "translation": "(*)<i>每点混乱<Chaos>，财宝寻获<Treasure>(x0x1) <g>（当前(x0)）</g></i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -3991,7 +3991,7 @@
     {
       "id": "mechanic.8c32d6218f78f89334a0",
       "source": "(*)<i>(x0x1) Treasure Find<Treasure> per  point of Good<Good> you have <g>((x0) currently)</g></i>",
-      "translation": "(*)<i>每点善良<Good>，宝藏寻宝<Treasure>(x0x1) <g>（当前(x0)）</g></i>",
+      "translation": "(*)<i>每点善良<Good>，财宝寻获<Treasure>(x0x1) <g>（当前(x0)）</g></i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -4011,7 +4011,7 @@
     {
       "id": "mechanic.ad9bbcffe504798416bd",
       "source": "(*)<i>(x0x1) Treasure Find<Treasure> per point of Evil<Evil> you have <g>((x0) currently)</g></i>",
-      "translation": "(*)<i>每点邪恶<Evil>，宝藏寻宝<Treasure>(x0x1) <g>（当前(x0)）</g></i>",
+      "translation": "(*)<i>每点邪恶<Evil>，财宝寻获<Treasure>(x0x1) <g>（当前(x0)）</g></i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -4031,7 +4031,7 @@
     {
       "id": "mechanic.39c69c2795e66b4f514d",
       "source": "(*)<i>(x0x1) Treasure Find<Treasure> per point of Lawful<Lawful> you have <g>((x0) currently)</g></i>",
-      "translation": "(*)<i>每点守序<Lawful>，宝藏寻宝<Treasure>(x0x1) <g>（当前(x0)）</g></i>",
+      "translation": "(*)<i>每点守序<Lawful>，财宝寻获<Treasure>(x0x1) <g>（当前(x0)）</g></i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -4746,7 +4746,7 @@
     {
       "id": "mechanic.1e9094048a0b69ef819b",
       "source": "(*)<i>Gain (x0) Treasure Find<Treasure>.</i>",
-      "translation": "(*)<i>宝藏寻宝<Treasure>(x0)。</i>",
+      "translation": "(*)<i>财宝寻获<Treasure>(x0)。</i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -7288,7 +7288,7 @@
     {
       "id": "mechanic.a0c8bec1dab94d12fce3",
       "source": "(+x0%) Sneaky Hit Chance<Cunning>",
-      "translation": "隐匿命中率<Cunning>(+x0%)",
+      "translation": "狡诈命中率<Cunning>(+x0%)",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -7797,7 +7797,7 @@
     {
       "id": "mechanic.ff59d88245ab097c4c6f",
       "source": "(br)(*)<i>(x0x1) Treasure Find<Treasure> per Revive<Revive> you have</i>",
-      "translation": "(br)(*)<i>每次可用复活<Revive>，宝藏寻宝<Treasure>(x0x1)</i>",
+      "translation": "(br)(*)<i>每次可用复活<Revive>，财宝寻获<Treasure>(x0x1)</i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -8406,8 +8406,8 @@
       "translation": "“召集杂兵”召唤的伙伴<Companion>数量(x0)",
       "context": "description-template",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "Rally Riffraff 技能名“召集杂兵”应与技能包的正式译名一致，本任务只审阅机制包。",
+      "status": "translated",
+      "note": "已确认原生 Pirate Ability (Effect 4) (Captain) 的完整属性说明；技能包正式名称为“召集杂兵”，保留召唤数量变量。",
       "protectedTokens": [
         "(x0)",
         "<Companion>"
@@ -8639,7 +8639,7 @@
     {
       "id": "mechanic.cadd0f9e868260e3cdd7",
       "source": "(x0) Treasure Find<Treasure>",
-      "translation": "宝藏寻宝<Treasure>(x0)",
+      "translation": "财宝寻获<Treasure>(x0)",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -9055,7 +9055,7 @@
     {
       "id": "mechanic.1a260f85f93110c8b257",
       "source": "<i><SubArrow>Wednesday: (+x0%) Sneaky Hit Chance<Cunning></i>(br)",
-      "translation": "<i><SubArrow>星期三: (+x0%) 隐匿命中率<Cunning></i>(br)",
+      "translation": "<i><SubArrow>星期三: (+x0%) 狡诈命中率<Cunning></i>(br)",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",
@@ -9740,7 +9740,7 @@
     {
       "id": "mechanic.76afb82d03174b38a477",
       "source": "Gain (+x0%x1) Sneaky Hit Chance<Cunning> per Common or Uncommon Equipment Item you are wearing.\n<g>((+x0%) currently)</g></i>",
-      "translation": "每件普通或精良装备，隐匿命中率<Cunning>(+x0%x1)。 \n<g>（当前(+x0%)）</g></i>",
+      "translation": "每件普通或精良装备，狡诈命中率<Cunning>(+x0%x1)。 \n<g>（当前(+x0%)）</g></i>",
       "context": "description-template",
       "kind": "exact",
       "status": "translated",

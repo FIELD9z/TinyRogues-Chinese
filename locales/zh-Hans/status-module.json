@@ -1,0 +1,1547 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "状态效果模块生成文本",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "module.status.1c6486fac10c2a11",
+      "source": "{number:n} seconds",
+      "translation": "{number:n} 秒",
+      "context": "status-badge",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.49b00099388840e6",
+      "source": "{number:n} second",
+      "translation": "{number:n} 秒",
+      "context": "status-badge",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.60ad4b9a736b888b",
+      "source": "{number:n} rooms",
+      "translation": "{number:n} 个房间",
+      "context": "status-badge",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.e5dcc3323127fbb3",
+      "source": "{number:n} room",
+      "translation": "{number:n} 个房间",
+      "context": "status-badge",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.0b800e594b0e1195",
+      "source": "{number:n} stacks",
+      "translation": "{number:n} 层",
+      "context": "status-badge",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.98d0d00f82a18461",
+      "source": "{number:a}/{number:b} stacks",
+      "translation": "{number:a}/{number:b} 层",
+      "context": "status-badge",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.708730f79dab5d11",
+      "source": "{number:n} effect",
+      "translation": "{number:n} 效果",
+      "context": "status-badge",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.29b4e83c63b22fcd",
+      "source": "{number:n} tps",
+      "translation": "每秒结算 {number:n} 次",
+      "context": "status-badge",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.fd536526bd161a00",
+      "source": "Permanent",
+      "translation": "永久",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.1051a27bd5b43eef",
+      "source": "permanent",
+      "translation": "永久",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.0286065c6e69c40d",
+      "source": "while in area",
+      "translation": "位于区域内时",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.4366026f70524f10",
+      "source": "Buff",
+      "translation": "增益",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.d7301ef8dcd6936b",
+      "source": "Debuff",
+      "translation": "减益",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.3c24af94e4e586fa",
+      "source": "Potion",
+      "translation": "药水",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.f013675c0176371e",
+      "source": "Infusion",
+      "translation": "浸剂",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.28763f12fa1a0db7",
+      "source": "Booze",
+      "translation": "酒",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.c8bfd13c9a3f5186",
+      "source": "Tick",
+      "translation": "周期",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.63637acd039c7841",
+      "source": "Aura",
+      "translation": "光环",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.1ccbe32c10b20fb0",
+      "source": "Elemental",
+      "translation": "元素",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.09f805324cfc3358",
+      "source": "Damage Over Time",
+      "translation": "持续伤害",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.beeb00318ea244d6",
+      "source": "Ailment",
+      "translation": "异常状态",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.4ac18e3f696d40b3",
+      "source": "Emotion",
+      "translation": "情绪",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.41235026fba36d44",
+      "source": "Skill",
+      "translation": "技能",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.f562017a59b82486",
+      "source": "Hex",
+      "translation": "妖术",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.3aa47c54e2b72b98",
+      "source": "Burn",
+      "translation": "燃烧",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.7ce1d22093bb8896",
+      "source": "Maximum Stacks:",
+      "translation": "叠加上限：",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.1ed6dfbe818f3801",
+      "source": "Tick Speed:",
+      "translation": "结算频率：",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.a028fb6fc652ff27",
+      "source": "Effect:",
+      "translation": "效果：",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.98f58569bc516300",
+      "source": "Damage:",
+      "translation": "伤害：",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.055ab96171f7a2f9",
+      "source": "Radius:",
+      "translation": "半径：",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.034657d6ad6b4a13",
+      "source": "Stacks:",
+      "translation": "层数：",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.1d042935b7149a3a",
+      "source": "Infinite",
+      "translation": "无限",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.c0f6ecb1a647307e",
+      "source": "infinite",
+      "translation": "无限",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.fd2e8348a2e40245",
+      "source": "Tipsiness Duration",
+      "translation": "微醺持续时间",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.70e721369396b60a",
+      "source": "Until all stacks were consumed.",
+      "translation": "直到所有层数消耗完毕。",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.18aeb503a4fb0ee7",
+      "source": "Duration: {number:n} second",
+      "translation": "持续时间：{number:n} 秒",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.30b45dcb23d1db3b",
+      "source": "Duration: {number:n} rooms per stack",
+      "translation": "持续时间：每层 {number:n} 个房间",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.32ce79b79bc250ea",
+      "source": "Duration: Until all stacks were consumed.",
+      "translation": "持续时间：直到所有层数消耗完毕。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.410fff049611717d",
+      "source": "Duration: While in area.",
+      "translation": "持续时间：位于区域内时。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.ddf07668bd982aff",
+      "source": "Lose next booze buff in {number:n} rooms.",
+      "translation": "下一个酒类增益将在 {number:n} 个房间后消失。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.ae95496a0579db19",
+      "source": "Deals {number:a} to {number:b} {term:type} Damage.",
+      "translation": "造成 {number:a} 至 {number:b} {term:type}伤害。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.9c63decdad1a6918",
+      "source": "Breaks Armor on max stacks.",
+      "translation": "叠满层数时破坏护甲。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.777967201d74c0e4",
+      "source": "Spawns a Beetle projectile on death.",
+      "translation": "死亡时生成甲虫投射物。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.78c0971b8422fd48",
+      "source": "Spawns a Ghost projectile on death.",
+      "translation": "死亡时生成幽灵投射物。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.f13681aebdcd8417",
+      "source": "Stacks decay one after another.",
+      "translation": "层数依次消退。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.48fef61be72c9ce5",
+      "source": "You are stunned.",
+      "translation": "你被眩晕了。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.65686079c333a42b",
+      "source": "{number:n} Curse",
+      "translation": "{number:n} 层诅咒",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.da752aa5e195eb4d",
+      "source": "Effect: {number:n} Curse",
+      "translation": "效果：{number:n} 层诅咒",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.84042f90a7a7f5b7",
+      "source": "{number:n} Dexterity gained from Food",
+      "translation": "从食物中获得的敏捷 {number:n}",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.be0fadd717e0ecd3",
+      "source": "{number:n} Intelligence gained from Food",
+      "translation": "从食物中获得的智力 {number:n}",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.90e44d05edb691b0",
+      "source": "{number:n} Strength gained from Food",
+      "translation": "从食物中获得的力量 {number:n}",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.a5a96bf5142da835",
+      "source": "Effect: {number:n} Dexterity gained from Food",
+      "translation": "效果：从食物中获得的敏捷 {number:n}",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.624e4b2dfdd8fe5e",
+      "source": "Effect: {number:n} Intelligence gained from Food",
+      "translation": "效果：从食物中获得的智力 {number:n}",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.99d036717038940f",
+      "source": "Effect: {number:n} Strength gained from Food",
+      "translation": "效果：从食物中获得的力量 {number:n}",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.7295018799a00d6d",
+      "source": "Forever",
+      "translation": "永久",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.0c407e50a4d84a63",
+      "source": "until room completion",
+      "translation": "直到房间完成",
+      "context": "status-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.f37d31b319b17358",
+      "source": "While in //Magic //Circle.",
+      "translation": "位于//魔法//法阵内时。",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.6b254a7fcef26d10",
+      "source": "While having at least 1 stack.",
+      "translation": "拥有至少 1 层时。",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.923ae1ebb65ba742",
+      "source": "Loses 1 stack on taking damage.",
+      "translation": "受到伤害时失去 1 层。",
+      "context": "status-badge",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.959e96f526e6ac32",
+      "source": "On entering a Floor, if you don't have any Soul Hearts, gain one.",
+      "translation": "进入楼层时，若没有灵魂之心，则获得一颗。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.faaf7d84b395a101",
+      "source": "{number:n} to Damage Taken Roll",
+      "translation": "承受伤害的掷骰结果 {number:n}",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.c551e30e73d52de4",
+      "source": "x{number:n} Top End Damage Taken",
+      "translation": "承受伤害上限 x{number:n}",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.89e67f3b92227507",
+      "source": "Kills you on reaching max stacks.",
+      "translation": "达到叠加上限时使你死亡。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.d4dbcfc8dc043349",
+      "source": "Immediately kills you upon reaching max stacks.",
+      "translation": "达到叠加上限时立即使你死亡。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.3ab76b389967ad7a",
+      "source": "Every {number:n} seconds trigger a Laser that deals {number:a} to {number:b} Energy  Damage.",
+      "translation": "每 {number:n} 秒触发一道激光，造成 {number:a} 至 {number:b} 能量伤害。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.89629d3220f2c459",
+      "source": "Loses 1 stack on taking damage.",
+      "translation": "受到伤害时失去 1 层。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.9fadd9c29653402b",
+      "source": "Bonus Effect: {number:n} per stack",
+      "translation": "额外效果：每层 {number:n}",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.48780feed78d30b1",
+      "source": "持续时间： {number:n} second",
+      "translation": "持续时间：{number:n} 秒",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.8084cfd53065fc05",
+      "source": "持续时间： {number:n} rooms per stack",
+      "translation": "持续时间：每层 {number:n} 个房间",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.cf415395ce6351e6",
+      "source": "x{number:n} Attack Speed with Vorpal Blade",
+      "translation": "持有斩首之刃时的攻击速度 x{number:n}",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.dbab5b1d09232e60",
+      "source": "效果： This is a cosmetic status effect that is just used to display a swirly sprite above an enemy.",
+      "translation": "效果：这是一个装饰性状态效果，仅用于在敌人上方显示旋涡精灵图。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.6d25810ccb9ac950",
+      "source": "Apply Curse",
+      "translation": "施加诅咒",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.632b21a07c4568a1",
+      "source": "Deals {number:a} to {number:b} {term:type} Damage after {number:n} second.",
+      "translation": "造成 {number:a} 至 {number:b} {term:type}伤害（在 {number:n} 秒后）。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.22eac04a3b98fb73",
+      "source": "Deals {number:a} to {number:b} {term:type} Damage on max stacks.",
+      "translation": "造成 {number:a} 至 {number:b} {term:type}伤害（叠满层数时）。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.a583dc11d1b917ea",
+      "source": "Deals {number:a} to {number:b} {term:type} Damage on Max Stacks.",
+      "translation": "造成 {number:a} 至 {number:b} {term:type}伤害（叠满层数时）。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.188611f7364b53b6",
+      "source": "Deals {number:a} to {number:b} {term:type} Damage {number:n} times per second.",
+      "translation": "造成 {number:a} 至 {number:b} {term:type}伤害（每秒 {number:n} 次）。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.9b7319b073589a86",
+      "source": "Receive {number:a} to {number:b} {term:type} Damage on taking damage.",
+      "translation": "受到伤害时承受 {number:a} 至 {number:b} {term:type}伤害。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.30180dd053b52198",
+      "source": "Deals {number:a} to {number:b} {term:type} Damage\nper stack after {number:n} second.",
+      "translation": "每层造成 {number:a} 至 {number:b} {term:type}伤害，\n在 {number:n} 秒后结算。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.b6f5471834fe1145",
+      "source": "Deals {number:a} to {number:b} {term:type} Damage\nwhen target takes damage.",
+      "translation": "目标受到伤害时造成\n{number:a} 至 {number:b} {term:type}伤害。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.0d03551e8d01c383",
+      "source": "Deals {number:a} to {number:b} {term:type}  Damage after {number:n} second.",
+      "translation": "造成 {number:a} 至 {number:b} {term:type}伤害（在 {number:n} 秒后）。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.32ec2e510cab84d9",
+      "source": "Deals {number:a} to {number:b} {term:type}  Damage on max stacks.",
+      "translation": "造成 {number:a} 至 {number:b} {term:type}伤害（叠满层数时）。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.b41ac1065be8a2d5",
+      "source": "Deals {number:a} to {number:b} {term:type}  Damage on Max Stacks.",
+      "translation": "造成 {number:a} 至 {number:b} {term:type}伤害（叠满层数时）。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.35d390d0dd93f6d8",
+      "source": "Deals {number:a} to {number:b} {term:type}  Damage {number:n} times per second.",
+      "translation": "造成 {number:a} 至 {number:b} {term:type}伤害（每秒 {number:n} 次）。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.9451bb2a196286af",
+      "source": "Receive {number:a} to {number:b} {term:type}  Damage on taking damage.",
+      "translation": "受到伤害时承受 {number:a} 至 {number:b} {term:type}伤害。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.596f11892f80f4a1",
+      "source": "Deals {number:a} to {number:b} {term:type}  Damage\nper stack after {number:n} second.",
+      "translation": "每层造成 {number:a} 至 {number:b} {term:type}伤害，\n在 {number:n} 秒后结算。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.e537f62ac82809a2",
+      "source": "Deals {number:a} to {number:b} {term:type}  Damage\nwhen target takes damage.",
+      "translation": "目标受到伤害时造成\n{number:a} 至 {number:b} {term:type}伤害。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.36a7e93f066b2fc0",
+      "source": "Every {number:n} seconds  triggers a\nLightning Bolt that  deals\n{number:a} to {number:b} Lightning . [Tick]",
+      "translation": "每 {number:n} 秒触发一道\n闪电箭，造成\n{number:a} 至 {number:b} 雷电伤害。[周期]",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.c4ba03d6cb0ef683",
+      "source": "Every {number:n} seconds  triggers a\nLightning Bolt that  deals\n{number:a} to {number:b} Lightning . [周期]",
+      "translation": "每 {number:n} 秒触发一道\n闪电箭，造成\n{number:a} 至 {number:b} 雷电伤害。[周期]",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.45a18b16dedcb0b5",
+      "source": "Every {number:n} seconds triggers\nRagnarok dealing\n{number:a} to {number:b} Lightning \nor {number:c} to {number:d} Fire Damage.",
+      "translation": "每 {number:n} 秒触发\n诸神黄昏，造成\n{number:a} 至 {number:b} 雷电伤害，\n或 {number:c} 至 {number:d} 火焰伤害。",
+      "context": "status-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.b3347ae2b0716209",
+      "source": "Shadow Fangs",
+      "translation": "暗影獠牙",
+      "context": "status-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.status.57394e8da32217ad",
+      "source": "Effect: This is a cosmetic status effect that is just used to display a swirly sprite above an enemy.",
+      "translation": "效果：这是一个装饰性状态效果，仅用于在敌人上方显示旋涡精灵图。",
+      "context": "status-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全量状态效果原生说明审计；限定完整状态行、状态徽标或字段。"
+    },
+    {
+      "id": "module.nestedstatus.6351f7c0a3c953e9",
+      "source": "Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second. ",
+      "translation": "获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.10ee063567c964d2",
+      "source": "Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second. ",
+      "translation": "获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.f86760b93ef018b2",
+      "source": "Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second. ",
+      "translation": "获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.881d784805e3aee0",
+      "source": "Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second. ",
+      "translation": "获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.5e4889b3bf5e5033",
+      "source": "Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second. ",
+      "translation": "获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.6c8bf08d25a5ca0d",
+      "source": "Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second. ",
+      "translation": "获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.f3b8b1f28897c80f",
+      "source": "Grants a //震击光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second. ",
+      "translation": "获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.941251d2130c43b9",
+      "source": "Grants a //震击光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second. ",
+      "translation": "获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.0945ffdd17058818",
+      "source": "Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second. ",
+      "translation": "获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.b10c48b6ad8191de",
+      "source": "Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second. ",
+      "translation": "获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.bc8aa7d8d5b89ee0",
+      "source": "Grants {number:count}  Spinning Blade //Orbitals that deal {number:low} to {number:high} Slashing  Damage and inflict //撕裂.",
+      "translation": "获得 {number:count} 个旋转刀刃环绕物，造成 {number:low}至{number:high} 斩击伤害，并施加破裂。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.d82fe3e10da21e3e",
+      "source": "Grants a //瓦解光环 that deals",
+      "translation": "获得瓦解光环，造成",
+      "context": "trait-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.dab5b7034c9e9bdf",
+      "source": "deal {number:low} to {number:high} Thrusting  Damage and inflict //流血.",
+      "translation": "造成 {number:low}至{number:high} 穿刺伤害，并施加流血。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.8917232f8f48d780",
+      "source": "Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.",
+      "translation": "获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.5a265abb83d44689",
+      "source": "Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.",
+      "translation": "获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.8706eecd3f5ac3b4",
+      "source": "Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.",
+      "translation": "获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.78c46d28ec8366fb",
+      "source": "Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.",
+      "translation": "获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.64e71e951481e623",
+      "source": "Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.",
+      "translation": "获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.18aea126e61a786b",
+      "source": "Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.",
+      "translation": "获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.17d573b431f09673",
+      "source": "Grants a //震击光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.",
+      "translation": "获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.da1152b0050af81c",
+      "source": "Grants a //震击光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.",
+      "translation": "获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.07e3103212723d1a",
+      "source": "Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.",
+      "translation": "获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.b8f8bf1217b34d95",
+      "source": "Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.",
+      "translation": "获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.026558e687d86187",
+      "source": "Grants {number:count}  Spinning Blade //Orbitals that deal {number:low} to {number:high} Slashing Damage and inflict //撕裂.",
+      "translation": "获得 {number:count} 个旋转刀刃环绕物，造成 {number:low}至{number:high} 斩击伤害，并施加破裂。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.5da7148021b74522",
+      "source": "deal {number:low} to {number:high} Thrusting Damage and inflict //流血.",
+      "translation": "造成 {number:low}至{number:high} 穿刺伤害，并施加流血。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.8799cb885ecb7260",
+      "source": "•Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second. ",
+      "translation": "•获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.79e609377ef35ece",
+      "source": "Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.  ",
+      "translation": "获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.d941ca4c7dd54f33",
+      "source": "•Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.  ",
+      "translation": "•获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.ccb6b39eb571fd04",
+      "source": "•Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second. ",
+      "translation": "•获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.1da523b44b6a3d5a",
+      "source": "Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.  ",
+      "translation": "获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.fb1de33797b2387c",
+      "source": "•Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.  ",
+      "translation": "•获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.dff99f1fa45cd372",
+      "source": "•Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second. ",
+      "translation": "•获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.d1a6132ca5f952f5",
+      "source": "Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.  ",
+      "translation": "获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.15598d8991222968",
+      "source": "•Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.  ",
+      "translation": "•获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.8e6276ee2d8ced34",
+      "source": "•Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second. ",
+      "translation": "•获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.ac45bec30275e131",
+      "source": "Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.  ",
+      "translation": "获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.49beef0b5eab4a49",
+      "source": "•Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.  ",
+      "translation": "•获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.115953270ef7b776",
+      "source": "•Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second. ",
+      "translation": "•获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.f4f96a19c18709e5",
+      "source": "Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.  ",
+      "translation": "获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.5265a308b8d90d4e",
+      "source": "•Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.  ",
+      "translation": "•获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.45ef10df450a2b52",
+      "source": "•Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second. ",
+      "translation": "•获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.261a8ad12ef8b0c6",
+      "source": "Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.  ",
+      "translation": "获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.80cb30133e05ae13",
+      "source": "•Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.  ",
+      "translation": "•获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.95bcccf876370553",
+      "source": "•Grants a //震击光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second. ",
+      "translation": "•获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.4dcf7a32acde9ba5",
+      "source": "Grants a //震击光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.  ",
+      "translation": "获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.4a3dc5218d967b33",
+      "source": "•Grants a //震击光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.  ",
+      "translation": "•获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.40767d8a32462059",
+      "source": "•Grants a //震击光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second. ",
+      "translation": "•获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.ff80bed67b30f5c3",
+      "source": "Grants a //震击光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.  ",
+      "translation": "获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.5b7d621e57c4d017",
+      "source": "•Grants a //震击光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.  ",
+      "translation": "•获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.cca961a343780d8b",
+      "source": "•Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second. ",
+      "translation": "•获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.7c95871a65141de8",
+      "source": "Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.  ",
+      "translation": "获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.7949eb7a5a057376",
+      "source": "•Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.  ",
+      "translation": "•获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.bc885d1800d63050",
+      "source": "•Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second. ",
+      "translation": "•获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.242b239b592a68b2",
+      "source": "Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.  ",
+      "translation": "获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.e113a9adb6e6a391",
+      "source": "•Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.  ",
+      "translation": "•获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。  ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.ebc2c7ee75810b25",
+      "source": "•Grants {number:count}  Spinning Blade //Orbitals that deal {number:low} to {number:high} Slashing  Damage and inflict //撕裂.",
+      "translation": "•获得 {number:count} 个旋转刀刃环绕物，造成 {number:low}至{number:high} 斩击伤害，并施加破裂。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.9cdff8fa98e1452a",
+      "source": "Grants {number:count}  Spinning Blade //Orbitals that deal {number:low} to {number:high} Slashing  Damage and inflict //撕裂. ",
+      "translation": "获得 {number:count} 个旋转刀刃环绕物，造成 {number:low}至{number:high} 斩击伤害，并施加破裂。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.25d145bce1259592",
+      "source": "•Grants {number:count}  Spinning Blade //Orbitals that deal {number:low} to {number:high} Slashing  Damage and inflict //撕裂. ",
+      "translation": "•获得 {number:count} 个旋转刀刃环绕物，造成 {number:low}至{number:high} 斩击伤害，并施加破裂。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.76040e372ceacc9e",
+      "source": "•Grants a //瓦解光环 that deals",
+      "translation": "•获得瓦解光环，造成",
+      "context": "trait-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.fa23f2e54dcf6f1a",
+      "source": "Grants a //瓦解光环 that deals ",
+      "translation": "获得瓦解光环，造成 ",
+      "context": "trait-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.8d47db57627de7f6",
+      "source": "•Grants a //瓦解光环 that deals ",
+      "translation": "•获得瓦解光环，造成 ",
+      "context": "trait-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.9a039f02e6a45d6d",
+      "source": "•deal {number:low} to {number:high} Thrusting  Damage and inflict //流血.",
+      "translation": "•造成 {number:low}至{number:high} 穿刺伤害，并施加流血。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.e88ba2c30bc4adef",
+      "source": "deal {number:low} to {number:high} Thrusting  Damage and inflict //流血. ",
+      "translation": "造成 {number:low}至{number:high} 穿刺伤害，并施加流血。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.0cea734a78282ca1",
+      "source": "•deal {number:low} to {number:high} Thrusting  Damage and inflict //流血. ",
+      "translation": "•造成 {number:low}至{number:high} 穿刺伤害，并施加流血。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.d76dcc3b6d66eb70",
+      "source": "•Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.",
+      "translation": "•获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.c9e8878b53bffe15",
+      "source": "•Grants a //寒冷光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.",
+      "translation": "•获得寒冷光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.9f17543c59800a1a",
+      "source": "•Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.",
+      "translation": "•获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.c6bc2f374c513f2a",
+      "source": "•Grants a //毒雾光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.",
+      "translation": "•获得中毒光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.b74e7b76eb3a218e",
+      "source": "•Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.",
+      "translation": "•获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.d8b48d5a1d6aa8a3",
+      "source": "•Grants a //燃烧光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.",
+      "translation": "•获得燃烧光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.a8916dd01c27d040",
+      "source": "•Grants a //震击光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.",
+      "translation": "•获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.f69dc7aea76765b8",
+      "source": "•Grants a //震击光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.",
+      "translation": "•获得感电光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.e32e1a5b3bd96873",
+      "source": "•Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type} Damage {number:rate} times per second.",
+      "translation": "•获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.ad181dec7b54ddad",
+      "source": "•Grants a //瓦解光环 that deals {number:low} to {number:high} {term:type}  Damage {number:rate} times per second.",
+      "translation": "•获得瓦解光环，造成 {number:low}至{number:high} 点{term:type}伤害，每秒结算 {number:rate} 次。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.1de39dd51260f8c5",
+      "source": "•Grants {number:count}  Spinning Blade //Orbitals that deal {number:low} to {number:high} Slashing Damage and inflict //撕裂.",
+      "translation": "•获得 {number:count} 个旋转刀刃环绕物，造成 {number:low}至{number:high} 斩击伤害，并施加破裂。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.a1f93c64eba4bdb9",
+      "source": "Grants {number:count}  Spinning Blade //Orbitals that deal {number:low} to {number:high} Slashing Damage and inflict //撕裂. ",
+      "translation": "获得 {number:count} 个旋转刀刃环绕物，造成 {number:low}至{number:high} 斩击伤害，并施加破裂。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.229e5adcab57c12d",
+      "source": "•Grants {number:count}  Spinning Blade //Orbitals that deal {number:low} to {number:high} Slashing Damage and inflict //撕裂. ",
+      "translation": "•获得 {number:count} 个旋转刀刃环绕物，造成 {number:low}至{number:high} 斩击伤害，并施加破裂。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.82a0e6b11a8289f7",
+      "source": "•deal {number:low} to {number:high} Thrusting Damage and inflict //流血.",
+      "translation": "•造成 {number:low}至{number:high} 穿刺伤害，并施加流血。",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.28586f8cec9683ef",
+      "source": "deal {number:low} to {number:high} Thrusting Damage and inflict //流血. ",
+      "translation": "造成 {number:low}至{number:high} 穿刺伤害，并施加流血。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    },
+    {
+      "id": "module.nestedstatus.d7c5e828e2c4e0e7",
+      "source": "•deal {number:low} to {number:high} Thrusting Damage and inflict //流血. ",
+      "translation": "•造成 {number:low}至{number:high} 穿刺伤害，并施加流血。 ",
+      "context": "trait-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态名称原生 getter 已汉化时，保留完整特性模板匹配。"
+    }
+  ]
+}

@@ -102,8 +102,9 @@ public sealed class Plugin : BasePlugin
         var result = source;
         if (Catalog != null)
         {
-            var label = context.StartsWith("ui:", StringComparison.Ordinal) || context == "styled-ui";
-            if (label ? Catalog.TryTranslateLabel(source, context, out var target) : Catalog.TryTranslate(source, context, out target)) result = target;
+            var label = context.StartsWith("ui:", StringComparison.Ordinal) || context == "styled-ui" || context == "enemy-name" || context == "floor-name";
+            if (CharacterPanelTexts.TryTranslate(Catalog, source, context, out var panel)) result = panel;
+            else if (label ? Catalog.TryTranslateLabel(source, context, out var target) : Catalog.TryTranslate(source, context, out target)) result = target;
         }
         if (_record && capture && source != null && source.Length <= 12000 && Regex.IsMatch(Regex.Replace(result, "<[^>]*>", ""), "[A-Za-z]{3,}"))
         {

@@ -196,7 +196,7 @@
     {
       "id": "dialogue.Gambler_Ghost_1",
       "source": "Want to play a game?\nYou can win some Ethereal Dice!",
-      "translation": "想玩个游戏吗？\n你可以赢得一些幽灵骰子！",
+      "translation": "想玩个游戏吗？\n你可以赢得一些虚灵骰子！",
       "context": "dialogue",
       "kind": "exact",
       "status": "translated",
@@ -781,7 +781,7 @@
     {
       "id": "dialogue.Jungle_Pylon_3",
       "source": "*You gained [[+3]] Magic Find<sprite name=\"Magic_Find\">.*",
-      "translation": "*你获得了[[+3]]寻宝率<sprite name=\"Magic_Find\">。*",
+      "translation": "*你获得了[[+3]]魔法寻宝<sprite name=\"Magic_Find\">。*",
       "context": "dialogue",
       "kind": "exact",
       "status": "translated",
@@ -1870,11 +1870,11 @@
     {
       "id": "dialogue.NPC_Drunken_Man_3",
       "source": "ZzzZZzzzz...",
-      "translation": "呼呼ZZzzzz……",
+      "translation": "呼噜噜……",
       "context": "dialogue",
       "kind": "exact",
       "status": "translated",
-      "note": "原文来源 Dialogue_EN:NPC_Drunken_Man_3"
+      "note": "原文来源 Dialogue_EN:NPC_Drunken_Man_3；完整对话模块复核：补全英文语义／拟声，与物品圣剑译名一致。"
     },
     {
       "id": "dialogue.NPC_Dryad_1",

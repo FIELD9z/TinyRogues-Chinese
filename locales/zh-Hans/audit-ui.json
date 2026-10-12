@@ -2005,7 +2005,7 @@
     {
       "id": "audit.ui.e9462761ed0cf61c1f95",
       "source": "Whenever you open a Gift Box, gain either\n<SubArrow> [[+1]] Luck<Luck>, \n<SubArrow> [[+1]] Treasure Find<Treasure> or \n<SubArrow> [[+1]] Magic Find<Magic_Find>.\n",
-      "translation": "每次打开礼物盒，随机获得以下一种：\n<SubArrow> [[+1]] 幸运<Luck>， \n<SubArrow> [[+1]] 宝藏发现率<Treasure>，或 \n<SubArrow> [[+1]] 魔法发现率<Magic_Find>。\n",
+      "translation": "每次打开礼物盒，随机获得以下一种：\n<SubArrow> [[+1]] 幸运<Luck>， \n<SubArrow> [[+1]] 财宝寻获<Treasure>，或 \n<SubArrow> [[+1]] 魔法寻宝<Magic_Find>。\n",
       "context": "*",
       "kind": "exact",
       "status": "translated",

@@ -187,7 +187,7 @@
     {
       "id": "audit.ui.0b814a961ffe7858",
       "source": "Defeat Eden in the High Heavens.",
-      "translation": "在至高天击败伊甸。",
+      "translation": "在至高天堂击败伊甸。",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -975,6 +975,51 @@
       "kind": "template",
       "status": "translated",
       "note": "旧英文动态规则交叉检查；按完整门牌文本匹配，保持数值及图标。"
+    },
+    {
+      "id": "module.menu.d96f5ba09cbb4b11",
+      "source": "Treat yourself with a glass of milk!",
+      "translation": "来杯牛奶犒劳一下自己吧！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "六个选项页签原生可见文本复核。"
+    },
+    {
+      "id": "module.menu.b5b87ab08f79a11f",
+      "source": "Connected Gamepad: No gamepad detected",
+      "translation": "已连接手柄：未检测到手柄",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "六个选项页签原生可见文本复核。"
+    },
+    {
+      "id": "module.menu.49fca31b490f6c07",
+      "source": "INSTANT DEATH",
+      "translation": "即刻死亡",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "六个选项页签原生可见文本复核。"
+    },
+    {
+      "id": "module.menu.adb1796628abf055",
+      "source": "Death Claims Another",
+      "translation": "死神又收走一条生命",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "六个选项页签原生可见文本复核。"
+    },
+    {
+      "id": "module.menu.89088b0a7cbbdf24",
+      "source": "The Halls of agony",
+      "translation": "苦痛回廊",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "六个选项页签原生可见文本复核。"
     }
   ]
 }

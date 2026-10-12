@@ -2,7 +2,7 @@
 
 Tiny Rogues 简体中文汉化，基于 BepInEx 6。支持对话、物品和技能说明、特质、职业、精通天赋及部分界面文本。
 
-目前处于 alpha 阶段，适配 Windows 版 **0.2.8.6**。仍有漏翻和未经游玩确认的内容，详见[已知问题与测试记录](docs/coverage.md)和[文本系统核查](docs/systematic-audit.md)。
+目前处于 alpha 阶段，适配 Windows 版 **0.2.8.6**。2026-10-12 已完成本轮按模块翻译与开发侧回归，等待整体游玩查漏；范围及未验证状态见[模块记录](docs/modules.md)。历史问题见[测试记录](docs/coverage.md)和[文本系统核查](docs/systematic-audit.md)。
 
 ## 安装
 

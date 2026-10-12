@@ -1,0 +1,5393 @@
+[
+  {
+    "key": "json.value[Abyss_Grate_Locked]",
+    "source": "This grate seems\nlocked for good.\nWhat could warrant such\nheavy reinforcement?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Abyssal_Charm_Event]",
+    "source": "Take the strange charm?\nIt has an aura of chaos to it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Alchemy_Station_Prompt]",
+    "source": "Drop a consumable, weapon or equipment item\nto begin the transmutation process.\nYou only have supplies to transmute [[1]] item.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ancient_Tome_1]",
+    "source": "There is a bookmark in the tome!\nTake the bookmark?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ancient_Tome_2]",
+    "source": "*Nothing but a boring,\nbig, old and dusty tome.\nYou can't even understand\nthe language it's written in.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Celebration_1]",
+    "source": "Praise the sovereign!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Celebration_2]",
+    "source": "Chosen by the light!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Celebration_3]",
+    "source": "We pray to you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Celebration_4]",
+    "source": "A new era of purity dawns!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Interact_1]",
+    "source": "Blessed be your light. *bows*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Interact_2]",
+    "source": "Your grace. *bows*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Interact_3]",
+    "source": "We are humbled\nto be in your presence.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Interact_4]",
+    "source": "We greet you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Shop_1]",
+    "source": "Welcome, brave soul!\nI serve as a herald\nfrom the high heavens.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Shop_2]",
+    "source": "Lately the flow of souls has ebbed.\nSomething is stirring the eternal calm.\nI wonder what could it be?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Shop_3]",
+    "source": "Your aid in these\ntrying times shines\nbrighter than ever.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Shop_4]",
+    "source": "Your presence honors me.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Shop_5]",
+    "source": "Blessed be the light.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Shop_6]",
+    "source": "In the light we trust.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Shop_Thank_You_1]",
+    "source": "Blessings to you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Shop_Thank_You_2]",
+    "source": "There is always hope.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Angel_Shop_Thank_You_3]",
+    "source": "The heavens smile upon you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Animal_Companion_ReAsk]",
+    "source": "Changed your mind?\nWant me to come with you?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[April_1st_1]",
+    "source": "Why won't you die?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[April_1st_2]",
+    "source": "Nanomachines, son!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[April_1st_3]",
+    "source": "They harden in response to physical trauma!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[April_1st_4]",
+    "source": "You can't hurt me!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Architect_Vault_1]",
+    "source": "*It seems to require a special key.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Architect_Vault_2]",
+    "source": "Use the Rusty Key?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Architect_Vault_3]",
+    "source": "*click*\n*You opened the lock.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Architect_Vault_4]",
+    "source": "*But the key crumbled to dust...*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Art_Critique]",
+    "source": "*What do you think\nabout this painting?*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Art_Critique_Answer_1]",
+    "source": "Lovely! *sips tea*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Art_Critique_Answer_2]",
+    "source": "Quite exquisite! *kiss*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Art_Critique_Answer_3]",
+    "source": "A bit dramatic! *gasps*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Art_Critique_Answer_4]",
+    "source": "Awful! *yuck*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Art_Critique_Response_1]",
+    "source": "*Everybody is entitled\nto their own opinion*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Art_Critique_Response_2]",
+    "source": "*If that is\nhow you truly feel.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Art_Critique_Response_3]",
+    "source": "*I assure you\nyou aren't the only one\nthinking that.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Art_Critique_Response_4]",
+    "source": "*Spicy!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Attunement_Bonfire]",
+    "source": "Attune equipped items?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Core_Emerald]",
+    "source": "Emerald Core",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Core_Ruby]",
+    "source": "Ruby Core",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Core_Sapphire]",
+    "source": "Sapphire Core",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Finished]",
+    "source": "*You don't have\nanother automaton engine\nto construct another automaton.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Shell_Gold]",
+    "source": "Gold Shell",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Shell_Stone]",
+    "source": "Stone Shell",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Shell_Wood]",
+    "source": "Wood Shell",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Weapon_Electricity]",
+    "source": "Electricity Blueprint",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Weapon_Fire]",
+    "source": "Flamethrower Blueprint",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Weapon_Laser]",
+    "source": "Laser Blueprint",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_0]",
+    "source": "Attempt to construct\nan automaton?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_1]",
+    "source": "1. Chose an automaton shell:",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_2]",
+    "source": "2. Choose an automaton core:",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_3]",
+    "source": "3. Chose a weapon blueprint:",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_Hint_Cores_0]",
+    "source": "\"Automaton Cores\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_Hint_Cores_1]",
+    "source": "\"Automaton Cores provide\npower to the automaton engine.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_Hint_Cores_2]",
+    "source": "\"Emeralds, Rubies and Sapphires\nall provide similar levels of power.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_Hint_Cores_3]",
+    "source": "\"My studies show that\nthe usage of gems\nis highly recommended.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_Hint_Shells_0]",
+    "source": "\"Automaton Shells\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_Hint_Shells_1]",
+    "source": "\"The shell shelters\nthe automaton of\noutside influences.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_Hint_Shells_2]",
+    "source": "\"I have tested multiple\nmaterials for automaton shells.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Automaton_Workshop_Hint_Shells_3]",
+    "source": "\"Due to the magical inheritance\nof defensive properties from the construction,\nI've found shell materials\nto be secondary of importance in combat.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_1]",
+    "source": "Little hatchling.\nI see you've finally arrived.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_2]",
+    "source": "I am impressed.\nYou carve a path\nof utter devastation.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_3]",
+    "source": "It appears even\nthe mighty Tiamat couldn't\nescape your wrath.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_4]",
+    "source": "You truly are an\nunstoppable force of evil.\nEven dethroning Death!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_5]",
+    "source": "Wa-ha-ha-ha!\nYour bloodlust,\nit invigorates me.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_6]",
+    "source": "I've sensed the\ngrowing darkness\nwithin you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_7]",
+    "source": "Eagerly awaiting this very moment...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_8]",
+    "source": "At last...\nA worthy contender for\nthe infernal throne.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_9]",
+    "source": "Wa-ha-ha-ha!\nShow me your strength!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_Ability_1]",
+    "source": "FACE DAMNATION!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_Ability_2]",
+    "source": "Become one\nwith evil.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_Ability_3]",
+    "source": "Eternal torment\nawaits you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_Ability_4]",
+    "source": "Ashes to ashes.\nDust to dust.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_Ability_5]",
+    "source": "Only strength matters!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_Enrage_1]",
+    "source": "You've proven a formidable foe,\nbut don't presume you've bested me yet.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_Enrage_2]",
+    "source": "For eons,\nI've been ruling the burning\nhells with an iron fist.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_Enrage_3]",
+    "source": "Countless souls have\nfallen before me.\nTheir struggles? Forgotten.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_Enrage_4]",
+    "source": "Let me tell you,\ndefeating you will be\na pleasure unlike any other.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Amon_Enrage_5]",
+    "source": "Prepare yourself for\nyour imminent doom.\nFor I shall unleash my full might!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Arcane_Golem_1]",
+    "source": "In my master's stead,\nI am here to protect his domain.\nPrepare for your imminent annihilation.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Arcane_Golem_3]",
+    "source": "ZIMmM-AWEio-MaEWOoa!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Arcane_Golem_Enrage]",
+    "source": "No one escapes my master's domain.\nI cannot let you live to tell the\ntale of his wondrous machinations.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Arch_Pontiff_1]",
+    "source": "Whomst disciple do we have here?\nMay the scriptures guide thee...\nor lead thee to oblivion!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Arch_Pontiff_2]",
+    "source": "Nyi-ki-ki-ki!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Arch_Pontiff_Burn]",
+    "source": "BURN! BURN! BURN!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Arch_Pontiff_Enrage]",
+    "source": "Your resilience forces\nme to drastic measures.\nI shall merge the divine with the infernal.\nYour end is nigh!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_1]",
+    "source": "You've come a long way, mortal.\nAllow me a moment's introduction.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_2]",
+    "source": "I am Bahamut, the celestial guardian,\nsentinel of the high heavens,\nand arbiter of purity.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_3]",
+    "source": "I'm surprised a mortal\nlike you made it this far.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_4]",
+    "source": "Only those of untainted\nheart may ascend beyond.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_5]",
+    "source": "Your determination is impressive,\nbut I can't let you proceed.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_6]",
+    "source": "It is my sacred\nduty to stop you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_7]",
+    "source": "My decree is absolute.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_Ability_1]",
+    "source": "A prison of light.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_Ability_2]",
+    "source": "CLEANSE IMPURITY!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_Ability_3]",
+    "source": "May the stars guide me...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_Ability_4]",
+    "source": "Hideous aberration!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_Enrage_1]",
+    "source": "Have you ever wondered\nabout your true destiny?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_Enrage_2]",
+    "source": "Don't question it any longer.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_Enrage_3]",
+    "source": "I can see it.\nBright as the stars.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Bahamut_Enrage_4]",
+    "source": "You are destined to perish here.\nThat's it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Banshee_1]",
+    "source": "I am so cold and lonely...\nEmbrace me.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Banshee_2]",
+    "source": "WoOoOh-OaAa!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Banshee_Enrage]",
+    "source": "Don't be afraid\nof Death's touch!\nDeath is so kind to us...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Book_Golem_1]",
+    "source": "Defend library.\nProtect knowledge.\nVanquish intruders.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Book_Golem_2]",
+    "source": "BZ-Z-z-AGu-rGya-gya!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Book_Golem_Enrage]",
+    "source": "Knowledge is power.\nIntruder must not escape.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Cerberus_1]",
+    "source": "I have your scent.\nRun.\n...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Cerberus_2]",
+    "source": "GrR-R-RrRAOoOOAhHhH!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Cerberus_3]",
+    "source": "So tiny and small,\nyet so quick...\nLittle rogue,\nthe hunt has just begun.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Commander_Walrus_1]",
+    "source": "Well, well,\nwhat do we have here?\nA landlubber in my territory?\nPrepare for a rough sea, mate",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Commander_Walrus_2]",
+    "source": "Calling all navy seals!\nI require reinforcements!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Commander_Walrus_Enrage]",
+    "source": "Oi matey!\nTime to call in the big guns.\nSeagulls, ATTACK!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_1]",
+    "source": "In the end,\n all mortals bow to death.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_2]",
+    "source": "You are no exception\nto this rule.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_3]",
+    "source": "You have come very far.\nCount me impressed.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_4]",
+    "source": "But nonetheless.\nYour time has come.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_5]",
+    "source": "You need to die.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_Phase_Transition]",
+    "source": "ENOUGH!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_Telegraph_1]",
+    "source": "So easily severed...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_Telegraph_2]",
+    "source": "Darkness!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_Telegraph_3]",
+    "source": "Fool!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_Telegraph_4]",
+    "source": "Usurper!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Death_Telegraph_5]",
+    "source": "Die!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_1]",
+    "source": "It seems you've bested\nmy loyal guardian, Bahamut.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_2]",
+    "source": "Standing before me,\nit's clear your heart\nis pure.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_3]",
+    "source": "Yet you keep waging\nforward on your\npath of destruction.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_4]",
+    "source": "Your unending ambitions\nare evident as ever.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_5]",
+    "source": "You keep defying\nthe tapestry of fate,\nagain and again.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_6]",
+    "source": "Even as far\nas challenging the\nvery heavens themselves.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_7]",
+    "source": "Tell me, mortal.\nAre you prepared to\nface your ultimate trial?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_8]",
+    "source": "Justice shall prevail.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_9]",
+    "source": "AND I AM THE JUDGE!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_Ability_1]",
+    "source": "All evil\nends here.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_Ability_2]",
+    "source": "I am justice itself!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_Ability_3]",
+    "source": "Kneel!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_Ability_4]",
+    "source": "TAKE CHARGE\nOF YOUR OWN DESTINY,\nMORTAL!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_Ability_5]",
+    "source": "I AM THE SUN!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_Enrage_1]",
+    "source": "Exhilarating!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_Enrage_2]",
+    "source": "I sense the profound\ngoodness within your heart.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_Enrage_3]",
+    "source": "It empowers you\nbeyond mortal strength!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_Enrage_4]",
+    "source": "You fight with\nradiant determination!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Eden_Enrage_5]",
+    "source": "For your final gift, mortal,\nI shall stop holding back.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Evil_Oak_1]",
+    "source": "Your presence tarnishes\nthe sanctity of the forest.\nI will be the end of this.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Evil_Oak_2]",
+    "source": "Gro-gro-gro-gro!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Evil_Oak_Enrage]",
+    "source": "Are you prepared, to\nfeel the true wrath\nof the forest?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Gargoyles_1]",
+    "source": "We defend this place\nwith all our strength.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Gargoyles_2]",
+    "source": "ROAAARRR!!!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Gargoyles_Enrage]",
+    "source": "My brother...\nI shall avenge you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_1]",
+    "source": "I've been awaiting you, mortal.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_2]",
+    "source": "I've felt your presence\ninching ever closer.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_3]",
+    "source": "I am Geryon,\ndraconic lich,\npurveyor of souls and\nhigh magistrate of Death.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_4]",
+    "source": "Mortal, your mere heartbeat is\nan anomaly in this realm of silence.\nWhy have you come?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_5]",
+    "source": "Many have tried to\nconquer the shadows,\nonly to become one with them.\nDo you think you're any different?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_6]",
+    "source": "Death's embrace is inevitable,\nand this time,\nI am its harbinger.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_7]",
+    "source": "Your journey ends here,\nin the cold grasp of the void.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_8]",
+    "source": "SkRrEeEa-AaAa-AARrrRrR!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_Ability_1]",
+    "source": "Your soul is mine!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_Ability_2]",
+    "source": "MEET OBLIVION!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_Ability_3]",
+    "source": "Arise, undead legion!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_Ability_4]",
+    "source": "Bow to Death!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_Enrage_1]",
+    "source": "Your defiance is but\na brief spark of light\nin an endless sea of darkness.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_Enrage_2]",
+    "source": "You will become a mere whisper,\nforever lost in eternal silence.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_Enrage_3]",
+    "source": "The shadows grow denser,\nthe chill more profound.\nI feel my power surge.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_Enrage_4]",
+    "source": "Your end is nigh.\nYield to the eternal night.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Geryon_Enrage_5]",
+    "source": "STOP RESISTING!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Goblin_King_1]",
+    "source": "Lost in my woods, eh?\nI will show no mercy!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Goblin_King_2]",
+    "source": "Zi-ki-Ki-ki-Ki!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Goblin_King_Enrage]",
+    "source": "Annoying critter!\nDon't worry, I'll squash you eventually!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Ice_Dragon_1]",
+    "source": "You dare to enter my frozen domain?\nI'll freeze you solid and\nshatter you into a million pieces!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Ice_Dragon_2]",
+    "source": "SHiRr-iRoO-ARrIiRriR!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Ice_Dragon_Enrage]",
+    "source": "Your feeble tricks are\nan insult to my kind.\nI've had enough.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Jousting_Champion_1]",
+    "source": "Is this a joke?\nYOU dare to challenge me,\nTHE champion?\nPrepare to be trampled!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Jousting_Champion_2]",
+    "source": "Ho-ha-ho-ha!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Jousting_Champion_Enrage]",
+    "source": "You're tougher than you look!\nIt's time to end this farce.\nPrepare for the final charge!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Kings_Guard_1]",
+    "source": "Look!\nA tiny challenger!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Kings_Guard_2]",
+    "source": "So small indeed, but let's not\nunderestimate this ant.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Kings_Guard_3]",
+    "source": "Yuck! I want to crush it!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Kings_Guard_5]",
+    "source": "Any last words, intruder?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Kings_Guard_6]",
+    "source": "Ho-ho-ho-ho!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Kings_Guard_Enrage_A]",
+    "source": "Fool, too feeble for your\nown hammer's sway.\nMay your demise hold more purpose\nthan your pitiful existence.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Kings_Guard_Enrage_B]",
+    "source": "My commander!\nPlease, lend me some\nof your strength...\nI shall avenge you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Kraken_1]",
+    "source": "Tiny human.\nMe big.\nYou weak!\nI crush you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Kraken_2]",
+    "source": "AwoOoO-GyaAa-AaA!!!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Kraken_Enrage]",
+    "source": "So tiny, so weak!\nMakes me angry!\nStop hiding!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Library_Guardian_1]",
+    "source": "I am the sentinel of\nwisdom and knowledge.\nYou're not worthy of\nthe library's secrets!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Library_Guardian_2]",
+    "source": "WHhHoooOoooooOo!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Library_Guardian_Enrage]",
+    "source": "I've tolerated your\ndisrespect long enough!\nThis sacred place will be your grave,\nburied beneath the sands of time!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Lich_1]",
+    "source": "Who dares to enter my lair?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Lich_2]",
+    "source": "Ke-ke-ke-ke!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Lich_Enrage]",
+    "source": "I might have underestimated\nyou a little bit!\nGood for you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Mandrake_1]",
+    "source": "You disrupt nature's peace...\nI will stop you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Mandrake_2]",
+    "source": "AwOo-ig-gi-ig-gi-ah!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Mandrake_Enrage]",
+    "source": "Who cares about nature's peace!\nYou made me angry.\nThis is now personal!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_MindFlayer_1]",
+    "source": "What brings you down this\ndeep into the dark.\nMadness?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_MindFlayer_2]",
+    "source": "Nea-hea-ha-ha-ha!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_MindFlayer_Enrage]",
+    "source": "Surrender!\nI've read your mind.\nYou've got nothing left\nto fight for!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Minotaur_1]",
+    "source": "Nothing can stop me!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Minotaur_2]",
+    "source": "ROAAAAR!!!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Minotaur_Enrage]",
+    "source": "STAND STILL!\nYOU MAKE ME ANGRY!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Mole_King_1]",
+    "source": "Looks like you dug\nyour way into trouble!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Mole_King_2]",
+    "source": "Mu-hu-Hu-hu-Hu!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Mole_King_Enrage]",
+    "source": "Ouch! Ouch! Ouch!\nYou twerp!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Neptune_1]",
+    "source": "I rule over the sea.\nI control the tides.\nI control the storms.\nFace my wrath!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Neptune_2]",
+    "source": "You are out of your\nelement kiddo!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Neptune_Enrage]",
+    "source": "Pathetic little human!\nYou're nothing but a small\nfish in a big pond!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Ooze_1]",
+    "source": "I am king!\nI am hungry!\nI must consume everything!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Ooze_2]",
+    "source": "Gwo-goBoBobO!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Ooze_Enrage]",
+    "source": "Why so mean?\nYou no have respect?\nNot fun!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Pharaoh_1]",
+    "source": "The cycle of life and\ndeath continues.\nI will live.\nYou will die.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Pharaoh_2]",
+    "source": "You journey ends here.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Pharaoh_Enrage]",
+    "source": "The prophecy foretold\nthat I shall be victorious.\nYour death is certain.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Phoenix_1]",
+    "source": "The mountain's rage is my rage.\nThere is no forgiving those\nwho befoul the mountain!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Phoenix_2]",
+    "source": "Gy-A-OoOo!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Phoenix_Enrage]",
+    "source": "Annoying little brat!\nEverything will burn!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_10]",
+    "source": "It seems upon me\nto stop you.\nOur little dance\nends here.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_11]",
+    "source": "You are insignificant.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_12]",
+    "source": "You are nothing.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_13]",
+    "source": "And I am ...,\nDEATH!!!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_1]",
+    "source": "Your kind...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_2]",
+    "source": "Your kind is a plague.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_3]",
+    "source": "Humans...\nNever satisfied.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_4]",
+    "source": "You trespass sacred grounds.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_5]",
+    "source": "You disrupt nature's peace.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_6]",
+    "source": "You break the cycle\nof life and death.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_7]",
+    "source": "You serve a false god.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_8]",
+    "source": "Do you really think\nthey won't betray you?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_9]",
+    "source": "I have seen many fools,\nbut none as dangerous as you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Enrage_1]",
+    "source": "Aren't you tired\nof playing god?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Enrage_2]",
+    "source": "You are nothing\nbut a puppet!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Enrage_3]",
+    "source": "You are infected with hunger.\nHunger for power, for treasure...\nfor knowledge.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Enrage_4]",
+    "source": "But it must take an end.\nThe balance cannot be\ndisturbed any further.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Enrage_5]",
+    "source": "It seems to be time...\nTime for one final act of mercy.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Enrage_6]",
+    "source": "I will relieve you from your quest.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Enrage_7]",
+    "source": "This is it.\nThis is the end.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Indicator_1]",
+    "source": "DIE!!!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Indicator_2]",
+    "source": "True Darkness...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Indicator_3]",
+    "source": "A storm of souls...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Indicator_4]",
+    "source": "YOU CANNOT RUN FROM IT!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Primal_Death_Indicator_5]",
+    "source": "INSIGNIFICANT!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Queen_Bee_1]",
+    "source": "Those who invade my hive,\nshall be punished!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Queen_Bee_2]",
+    "source": "BzzZZz - BzZZzz!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Queen_Bee_3]",
+    "source": "BzzZZzz!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Queen_Bee_Enrage]",
+    "source": "You should have escaped\nwhile you could.\nI am done holding back!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_RedDragon_1]",
+    "source": "I am the king under the mountain!\nI am fire!\nI am ... death!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_RedDragon_2]",
+    "source": "GrRr-RoO-ARrRrR!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_RedDragon_Enrage]",
+    "source": "Your kind should bow\nbefore my greatness!\nI am done with your insolence!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Rock_Golem_1]",
+    "source": "Noisy brat!\nYou dare to disturb my peace?\nThese caverns shall be your tomb.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Rock_Golem_2]",
+    "source": "R-ROLrlRlOhHh!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Rock_Golem_Enrage]",
+    "source": "Your persistence rattles my stones.\nI will crush you into dust!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Shambling_Mound_1]",
+    "source": "Who are you?\nYou don't belong here...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Shambling_Mound_2]",
+    "source": "GwoOoOooOoom!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Shambling_Mound_Enrage]",
+    "source": "Nobody can know...\nWe cannot let you leave.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Sphinx_1]",
+    "source": "I am blessed with the\npower of the sun.\nI will use this power,\nto stop you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Sphinx_2]",
+    "source": "ROAARRRRR!!!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Sphinx_Enrage]",
+    "source": "You truly are a burden\nto this world.\nI am done holding back.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_SpiderQueen_1]",
+    "source": "Time to feast!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_SpiderQueen_2]",
+    "source": "HSssSssS!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_SpiderQueen_Enrage]",
+    "source": "HSsSssS!\nI'm going to feed you\nto my children!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Succubus_1]",
+    "source": "Oh my!\nWhat brings you to me?\nBe sure, that I will\ntake great pleasure\nin your suffering.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Succubus_2]",
+    "source": "Ki-ki-ki-ki-ki!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Succubus_Enrage]",
+    "source": "We could have had\nso much fun...\nDo me a favour and don't\nbeg for mercy? Okay?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tangle-Maw_Jaw_1]",
+    "source": "Mmm...\nI can smell your fear, ki-ke-ki-ke!\nFresh meat is so hard to come by!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tangle-Maw_Jaw_2]",
+    "source": "Ki-ke-ki-ke-ki!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tangle-Maw_Jaw_Enrage]",
+    "source": "Argh!\nYou've got some bite to you!\nKi-ke-ki-ke!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_The_Abomination_1]",
+    "source": "ARGHHhHHH!\nPAIN, RAGE, PAIN, REVENGE!\nRoOAaAAARrRR!\nGO AWAY!!!!!!!!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_The_Abomination_2]",
+    "source": "RAaaAghH-RAaa-GrRRRr!!!!!!!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_The_Abomination_Enrage]",
+    "source": "No more pain!\nNo more!!!\nYou...\nYOU DIE!!!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_The_Pied_Piper_1]",
+    "source": "Seems like it is upon me,\nthe famous Pied Piper,\nto seal your fate!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_The_Pied_Piper_2]",
+    "source": "I hope you aren't\nafraid of rats.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_The_Pied_Piper_Enrage]",
+    "source": "Yikes!\nI didn't expect you to\nput up such a fight!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_1]",
+    "source": "Huuh!?\nWhat brings a mortal\ninto the depths of\nthe underworld?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_2]",
+    "source": "I ponder whether you\nstand before me out of\nbravery or sheer folly.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_3]",
+    "source": "I am Tiamat,\nthe infernal queen,\noverseer of the burning hells\nand tormentor of the damned.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_4]",
+    "source": "For ages, I've awaited for\na signal to\nreduce the mortal realm\nto ashes.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_5]",
+    "source": "Your demise shall herald\nthe rise of the burning hells!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_6]",
+    "source": "The rise of\nthe infernal queen!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_7]",
+    "source": "THE RISE OF TIAMAT!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_8]",
+    "source": "KrAaAa-RraAa-AARrrRrR!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_Ability_1]",
+    "source": "Rivers of flame\nshall descend upon you...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_Ability_2]",
+    "source": "Feel my wrath!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_Ability_3]",
+    "source": "There is no escape.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_Ability_4]",
+    "source": "ACCURSED FOOL!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_Enrage_1]",
+    "source": "Do you perceive yourself as a hero?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_Enrage_2]",
+    "source": "Know this:\nyou are nobody.\nYou are lost and out of place\nin this realm.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_Enrage_3]",
+    "source": "You are an arrogant whelp\nthat must be humbled.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_Enrage_4]",
+    "source": "Countless souls like\nyours have met their end\nby my fangs.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_Enrage_5]",
+    "source": "And today shall\nbe no exception!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Tiamat_Enrage_6]",
+    "source": "KILL THEM ALL!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Troll_1]",
+    "source": "A foolish human lost in the swamp?\nWhat a tasty surprise!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Troll_2]",
+    "source": "Nye-he-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Troll_Enrage]",
+    "source": "Argh!\nNot as foolish as expected!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Vampire_1]",
+    "source": "Who disturbs my slumber?\nYou shall pay for this with your life.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Vampire_2]",
+    "source": "Weh-he-he-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Vampire_Enrage]",
+    "source": "I am an immortal\ncreature of the night!\nYou cannot defeat me!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Vermin_King_1]",
+    "source": "You dare to step into\nmy kingdom of filth?\nYou are garbage!\nAnd all garbage belongs to meee!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Vermin_King_2]",
+    "source": "Squi-squi-squi-squi!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[BOSS_Vermin_King_Enrage]",
+    "source": "Persistent flea!\nYou are not strong!\nYou will drown in toxic filth!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Beacon_1]",
+    "source": "Examine the strange beacon?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Beacon_2]",
+    "source": "*You focus.\nThe shimmer of the beacon,\ndraws you in.\nYou see a faint light in the distance.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Beacon_3]",
+    "source": "Grab the light?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Beacon_4]",
+    "source": "*You awake from\nthe hypnosis of\nthe beacon...*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Berry_Blue]",
+    "source": "Pluck the strange blue berry?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Berry_Green]",
+    "source": "Pluck the strange green berry?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Berry_Red]",
+    "source": "Pluck the strange red berry?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Arms_Dealer_1]",
+    "source": "Yo homie, listen up.\nI got the best deals down here\nby a mile.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Arms_Dealer_2]",
+    "source": "It should be obvious really,\nbut all of my wares\nare for self defense and sports\npurpose only. Duh.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Arms_Dealer_Thank_You_1]",
+    "source": "You know it!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Arms_Dealer_Thank_You_2]",
+    "source": "Massive props!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Fairy_Lady_1]",
+    "source": "Ey kid.\nWanna buy\na Cigarette?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Fairy_Lady_2]",
+    "source": "Enjoy yourself.\nHi-hi-hi-*cough cough*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Fairy_Lady_3]",
+    "source": "Anyways, take it\neasy kid. *cough cough*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Fairy_Lady_4]",
+    "source": "Totally get ya.\nI only smoke for\nthe social aspect of it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Fairy_Lady_5]",
+    "source": "Sorry, I can't hand\nout any more.\nNeed them for myself, ya know?\n*cough cough*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Kuo_Tao_1]",
+    "source": "I'm far from home.\nAll for you!\nYou better buy something.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Kuo_Tao_2]",
+    "source": "Strike now!\nBefore fish go bad, he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Kuo_Tao_Thank_You_1]",
+    "source": "He-he!\nYummy!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Kuo_Tao_Thank_You_2]",
+    "source": "Best quality!\nYou know it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Patches_Merchant_1]",
+    "source": "Need something?\nI'm not here for chit chat,\nwe talk business or\nwe talk nothing at all.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Patches_Merchant_2]",
+    "source": "My wares are unique!\nOne of a kind even.\nYou won't find goods like this,\nanywhere else.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Patches_Merchant_Thank_You_1]",
+    "source": "That one was hard to get.\nHope you appreciate it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Patches_Merchant_Thank_You_2]",
+    "source": "Massive deal.\nProbably sold it too cheap,\nI tell ya!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Pawn_Shopkeeper_1]",
+    "source": "Welcome to the Underground Pawn Shop.\nGot any equipment or weapons\nyou're looking to get rid of?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Pawn_Shopkeeper_2]",
+    "source": "I assure you,\nyour items will swiftly find\ntheir way to eager new hands\nin my network.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Pawn_Shopkeeper_3]",
+    "source": "Everybody down here is\nall about unique finds, ya know?\nIf you've got anything special\ndon't keep it a secret.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Pawn_Shopkeeper_4]",
+    "source": "Throw anything you want\nme to broker onto the rug, pal.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Rat_1]",
+    "source": "Ey, broski.\nBuy something or bugger off.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Rat_2]",
+    "source": "You look well off.\nBuy something and help\na poor rat out.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Rat_Thank_You_1]",
+    "source": "Steal of a deal.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Rat_Thank_You_2]",
+    "source": "I knew, you'd\nlike that one.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Shady_Wizard_1]",
+    "source": "Yo, I'm Fresh D!\nRest assured, I don't\nwant any beef.",
+    "allowedLatin": [
+      "Fresh",
+      "D"
+    ]
+  },
+  {
+    "key": "json.value[Black_Market_Shady_Wizard_2]",
+    "source": "I am just a humble,\npractitioner of magic in\ndire need of some real scratch!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Shady_Wizard_3]",
+    "source": "Yo, my goods are\ntotally snoop.\nNo need for shade, bro!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Shady_Wizard_Thank_You_1]",
+    "source": "Yo, for real, for real!\nNo cap!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Shady_Wizard_Thank_You_2]",
+    "source": "Yo, that one pops\na punch!\nFor real, for real!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Smuggler_Talk_1]",
+    "source": "Need anything smuggled?\nI can get you any species you want!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Smuggler_Talk_2]",
+    "source": "All the creatures\nI sell are very well trained.\nI assure you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Smuggler_Thank_You_1]",
+    "source": "Good choice.\nGood choice.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Smuggler_Thank_You_2]",
+    "source": "You won't regret it.\nThat's a good one.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Soul_Peddler_1]",
+    "source": "I have no idea how\nI got down here.\nBut I can't complain.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Soul_Peddler_2]",
+    "source": "Business is great.\nSome real whales coming through here!\nSpending big, you know?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Soul_Peddler_Thank_You_1]",
+    "source": "Aw yeah!\nMore souls for me!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Black_Market_Soul_Peddler_Thank_You_2]",
+    "source": "Nice nice,\nI knew that would sell...\nTotally.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_0]",
+    "source": "Grow...\nAdapt...\nOvercome...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_10]",
+    "source": "Fire is strength!\nYou need my gifts...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_11]",
+    "source": "Go, go and plunder!.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_12]",
+    "source": "We will rule...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_1]",
+    "source": "Go and defeat kings.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_2]",
+    "source": "*sizzle crackle sizzle*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_3]",
+    "source": "Together.\nTogether we shape\nthis world.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_4]",
+    "source": "Oh, so hungry.\nHungry for power...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_5]",
+    "source": "Do not fail me, mortal...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_6]",
+    "source": "What is it, little rogue?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_7]",
+    "source": "What are you\nstill waiting for?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_8]",
+    "source": "Potential...\nSo much potential...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_NonSpecific_9]",
+    "source": "Always watching you...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_Response_Death_Kill_#1]",
+    "source": "Death seems inevitable -\nfor now.\nLet's keep going.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_Response_Death_Kill_#2]",
+    "source": "A little further...\nProgress.\nDo it again.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_Response_Death_Kill_#3]",
+    "source": "It seems with each victory\nyou gain new strength.\nI wonder, I wonder...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_Response_Death_Kill_#4]",
+    "source": "Your kind...\nYour kind performs remarkably well.\nWe are so close.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_Response_Death_Kill_#5]",
+    "source": "YES!\nMy friend...\nIt seems new challenges await.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Bonfire_Select_Character]",
+    "source": "Select a character class,\nyou fool!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Boss_Bahamut_8]",
+    "source": "VRuRrRr-RroOu-AORrrRrR!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Burnt_Tree]",
+    "source": "Examine the burnt tree?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Castle_Barracks_Nothing_Found]",
+    "source": "*Oof, nothing there.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Castle_Barracks_Question]",
+    "source": "Search the bed?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Castle_Barracks_Something_Found]",
+    "source": "*Aha!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Cauldron_0]",
+    "source": "Attempt to brew\na potion?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Cauldron_1]",
+    "source": "Put the Mandrake Root\nin the cauldron?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Cauldron_2]",
+    "source": "Put the Spider Eye\nin the cauldron?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Cauldron_3]",
+    "source": "Put the Bat Wing\nin the cauldron?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Cauldron_Finished]",
+    "source": "You don't have the\ningredients to brew\nanother potion.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Cauldron_Skip]",
+    "source": "No <color=grey>(skip ingredient)</color>",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Charon_Merchant_1]",
+    "source": "Urrrrr-Nngghhhh?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Charon_Merchant_2]",
+    "source": "Hrrrrmm-Nghhhh-Hhhhh...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Charon_Merchant_3]",
+    "source": "Hhrea - Hhrea - Hhrea!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Charon_Merchant_Thanks_1]",
+    "source": "Hohhh-Oh-Ho!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Charon_Merchant_Thanks_2]",
+    "source": "Haahhhhh-Ahaa!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Chester_Merchant_1]",
+    "source": "Hmmm...\nI don't recall your name...\nAre you interested in trade?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Chester_Merchant_2]",
+    "source": "Anyways, we are\nboth travelers.\nWe ought to help one another\nout, right?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Chester_Merchant_3]",
+    "source": "Hm?\nI've little to talk about, really.\nI'm kinda stuck here.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Chester_Merchant_Reaction_1]",
+    "source": "Splendid!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Chester_Merchant_Reaction_2]",
+    "source": "Oh well,\ngood luck on your\njourney then.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Chester_Merchant_Thanks_1]",
+    "source": "Gee-Hee-Hee!\nNice choice.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Chester_Merchant_Thanks_2]",
+    "source": "Fine stuff, eh?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Coffin]",
+    "source": "Open the coffin?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Council_Of_Rats_1]",
+    "source": "The council of rats will\nnow judge you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Council_Of_Rats_2]",
+    "source": "On behalf of the order of dexterity, we judge you as...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Council_Of_Rats_3]",
+    "source": "On behalf of the order of strength, we judge you as...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Council_Of_Rats_4]",
+    "source": "On behalf of the order of intelligence, we judge you as...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Council_Of_Rats_Idle]",
+    "source": "The council of rats has spoken!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Council_Of_Rats_Idle_2]",
+    "source": "WE HAVE SPOKEN!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Council_Of_Rats_Unworthy]",
+    "source": "Unworthy!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Council_Of_Rats_Unworthy_2]",
+    "source": "UNWORTHY!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Council_Of_Rats_Worthy]",
+    "source": "Worthy!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Council_Of_Rats_Worthy_2]",
+    "source": "WORTHY!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Crystal_Merchant_1]",
+    "source": "Aye, good day to you.\nAnything of interest?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Crystal_Merchant_2]",
+    "source": "Found anything special\nyourself yet?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Crystal_Merchant_3]",
+    "source": "You must understand,\nmy collection is quite\nprecious. Heh-heh.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Crystal_Merchant_Thank_You_1]",
+    "source": "Thank you!\nThat was a fine trade.\nHeh-heh.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Crystal_Merchant_Thank_You_2]",
+    "source": "Thank you!\nThat's a good one.\nHeh-heh.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Crystal_Tree]",
+    "source": "Examine the crystal pine?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Cultist_Altar]",
+    "source": "Sacrifice 1 heart<sprite name=\"Health\">?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Death_Wraith_Cut_Scene_1]",
+    "source": "Your flesh is still bound to this world.\nYou can keep trying, but I tell you:\nYou have no choice!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Death_Wraith_Cut_Scene_2]",
+    "source": "Whether you resist or accept your fate.\nDeath is inevitable!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Death_Wraith_Cut_Scene_3]",
+    "source": "No matter how often you\nyou vanquish my corporal form.\nI am still strong\nenough to stop you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Death_Wraith_Cut_Scene_4]",
+    "source": "Nothing awaits you beyond this path!\nStop attempting to resist your fate!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Default_Blacksmith_1]",
+    "source": "Need anything forged?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Default_Blacksmith_2]",
+    "source": "Don't get yourself killed.\nUpgrading a weapon\nincreases its damage.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Default_Blacksmith_3]",
+    "source": "If you are in a pity,\nyou can use a blacksmith's whetstone\n to upgrade your weapon.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Default_Blacksmith_4]",
+    "source": "There is a legend about\na skillful duergar-blacksmith\nwho resides in the deep dark.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Default_Blacksmith_5]",
+    "source": "It is told, that he knows ways\nto upgrade weapons beyond\nthe usual limits.\nMight just be a legend...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Default_Blacksmith_Upgrade_1]",
+    "source": "I enhanced the weapon.\nThank you for the trade.\nHo-ho-ho!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Default_Blacksmith_Upgrade_2]",
+    "source": "I reinforced the weapon.\nIt shall serve you well!\nHo-ho-ho!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Default_Blacksmith_Upgrade_3]",
+    "source": "Now this is a\ntruly magnificent weapon!\nInto battle!\nHo-ho-ho!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Default_Blacksmith_Upgrade_Full]",
+    "source": "I'm sorry, but\nthat's all I can do\nfor this weapon, friend.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Demolionist_Dwarf_Thank_You_1]",
+    "source": "Boom!\nAnother satisfied customer.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Demolionist_Dwarf_Thank_You_2]",
+    "source": "Explosive taste!\nThanks a lot.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Demolitionist_Dwarf_1]",
+    "source": "I am starting small\nbut I hope my business\nwill blow up soon!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Demolitionist_Dwarf_2]",
+    "source": "My goods are a real boom\nfor your buck!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Demolitionist_Dwarf_3]",
+    "source": "Explosive prices, huh?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Desert_Kobold_Merchant_1]",
+    "source": "We want to trade!\nUnique Upgrade,\nonly for you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Desert_Kobold_Merchant_2]",
+    "source": "We crash here.\nIs okay.\nNobody hurt!\nWant to buy something?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Desert_Kobold_Merchant_3]",
+    "source": "We need to repair our ship!\nLet's make a deal!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Desert_Kobold_Merchant_Thanks_1]",
+    "source": "Friend!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Desert_Kobold_Merchant_Thanks_2]",
+    "source": "Good trade! Good trade!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dev_Message_1]",
+    "source": "But somebody left a note!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dev_Message_2]",
+    "source": "Hello there!\nUnfortunately the abyss isn't done yet.\nIt will available in the next free Early Access Expansion:\nTiny Rogues: Into the Abyss",
+    "allowedLatin": [
+      "Tiny",
+      "Rogues"
+    ]
+  },
+  {
+    "key": "json.value[Dev_Message_3]",
+    "source": "I hope you are enjoying the\nBetween Heaven and Hell update.\nThank you for playing Tiny Rogues!\n-RubyDev",
+    "allowedLatin": [
+      "Tiny",
+      "Rogues",
+      "RubyDev"
+    ]
+  },
+  {
+    "key": "json.value[Devil_Celebration_1]",
+    "source": "All hail the conqueror!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Celebration_2]",
+    "source": "The new infernal overlord!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Celebration_3]",
+    "source": "We swear to answer to you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Celebration_4]",
+    "source": "May they herald in\na new age of evil!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Interact_1]",
+    "source": "Greetings. *bows*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Interact_2]",
+    "source": "Your supreme evilness. *bows*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Interact_3]",
+    "source": "We serve nobody but you.\nKi-ki-ki!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Interact_4]",
+    "source": "We will always\nstand by your side.\nKe-ke-ke!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Shop_1]",
+    "source": "Greetings, young soul!\nI'm just a humble minion from\nthe burning hells.\nCare to strike a bargain?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Shop_2]",
+    "source": "Strange times in the inferno;\nsouls aren't flowing like they used to.\nMakes you wonder, doesn't it?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Shop_3]",
+    "source": "Remember, every soul you spend here\nfuels directly into the infernal depths.\nA delightfully wicked deed,\nwouldn't you say?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Shop_4]",
+    "source": "Temptation is just\nopportunity in disguise.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Shop_5]",
+    "source": "Every choice has its price.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Shop_6]",
+    "source": "Your curiosity is intriguing.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Shop_Thank_You_1]",
+    "source": "A pact sealed,\na destiny altered.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Shop_Thank_You_2]",
+    "source": "A fiendishly wise choice!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Devil_Shop_Thank_You_3]",
+    "source": "Embrace your dark desires.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dexterity_Mushroom_1]",
+    "source": "Welcome, daring explorer!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dexterity_Mushroom_2]",
+    "source": "Will you take my offspring\non a marvelous adventure?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dexterity_Mushroom_3]",
+    "source": "To explore the world and what lies beyond!\nMy wildest dreams are coming true!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dexterity_Mushroom_4]",
+    "source": "I see you've decided for another.\nThat is fine, I shall wait for an\neven nimbler traveler!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Burnt_1]",
+    "source": "Uhh...\nSo...\nthat didn't go to well.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Burnt_2]",
+    "source": "What can I say?\nI am not used to poor\ncraftsmanship like that...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Success_1]",
+    "source": "Wa-ha-ha!\nWhat a glorious piece!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Success_2]",
+    "source": "Go!\nGo and rid me of\nmine captures!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Trophy_1]",
+    "source": "Greetings traveler.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Trophy_2]",
+    "source": "Don't be afraid.\nHave you never encountered\na talking dragon head before?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Trophy_3]",
+    "source": "I was once an ancient silver dragon.\nA direct descendant of the mighty\nsilver dragon Bahamut himself.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Trophy_4]",
+    "source": "Now I serve those\nresponsible for my\nlate downfall.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Trophy_5]",
+    "source": "But I have never sworn an oath.\nThe enemy of my enemy\nis my friend.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Trophy_6]",
+    "source": "Have you a weapon deserving\nof a dragon's breath?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Trophy_7]",
+    "source": "With a single exhale,\nI can sear into your armament\nan echo of my ancient power.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Trophy_8-Idle]",
+    "source": "I'd be glad to help.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dragon_Head_Trophy_8]",
+    "source": "Just drop the weapon in\nfront of me and tell\nme which enchantment you desire.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Drinker_Guy_1]",
+    "source": "Did you know the lady over\nthere is the tavernkeep's sister?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Drinker_Guy_2]",
+    "source": "She got unlimited access\nto the tavernkeep's secret special ale.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Drinker_Guy_3]",
+    "source": "That stuff slaps!\nAnd she tells some really funny jokes!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Drinker_Guy_4]",
+    "source": "No headache either.\nSomehow it's really refreshing!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Duergar_Blacksmith_2]",
+    "source": "Go away.\nYou spoil my focus.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Duergar_Blacksmith_3]",
+    "source": "I am not here to chat.\nI have work to do.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Duergar_Blacksmith_4]",
+    "source": "Need something?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Duergar_Blacksmith_Upgrade_1]",
+    "source": "I enhanced the weapon.\nIt's still not very good.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Duergar_Blacksmith_Upgrade_2]",
+    "source": "I reinforced the weapon.\nIt's getting there...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Duergar_Blacksmith_Upgrade_3]",
+    "source": "Hmm. Not my finest piece yet.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Duergar_Blacksmith_Upgrade_4]",
+    "source": "Ahh! Now this is a sight to behold!\nEven gods would look upon this with jealousy!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Duergar_Blacksmith_Upgrade_Full]",
+    "source": "Still not satisfied?\nLeave now, there is\nnothing else I can do for your.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dwarf_Merchant_1]",
+    "source": "Good day!\nNeed some equipment?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dwarf_Merchant_2]",
+    "source": "Come and take\na closer look!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dwarf_Merchant_3]",
+    "source": "I sell the best\narmor and weapons!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dwarf_Merchant_Thanks_1]",
+    "source": "Thank you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dwarf_Merchant_Thanks_2]",
+    "source": "Good choice!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Dwarf_Shrine]",
+    "source": "*A statue of a mighty dwarven blacksmith!\nOr is it a duergar?*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Empty_Ichor]",
+    "source": "*The bowl is empty.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Enchantress_1]",
+    "source": "Welcome, Darling.\nWant me to enchant your weapon?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Enchantress_2]",
+    "source": "Nobody can influence the\nresult of enchanting.\nI can only guide the arcane mist\nto flow through your weapon.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Enchantress_3]",
+    "source": "That's alright, darling.\nMaybe at some other time.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Enchantress_No_Weapon]",
+    "source": "Greetings, Darling.\nI can enchant your weapon.\nCome to me if you require my service.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_0_Heaven]",
+    "source": "Only a being of pure good\ncan ascend further!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_0_Hell]",
+    "source": "Only a being of pure evil\ncan go deeper!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_0_Shadow_Plane]",
+    "source": "Only a truly lawful being\ncan continue onwards!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_1_Heaven]",
+    "source": "Where does the allegiance\nof your soul lie, mortal?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_1_Hell]",
+    "source": "Where does the allegiance\nof your soul lie, mortal?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_1_Shadow_Plane]",
+    "source": "Where does the allegiance\nof your soul lie, mortal?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_2_Heaven]",
+    "source": "The scale of purity\nwill be the judge of it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_2_Hell]",
+    "source": "The scale of evil\nwill be the judge of it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_2_Shadow_Plane]",
+    "source": "The scale of death\nwill be the judge of it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_4_Heaven_Worthy]",
+    "source": "Worthy.\nThe light has spoken.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_4_Hell_Worthy]",
+    "source": "Worthy!\nNye-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_4_Shadow_Plane_Worthy]",
+    "source": "Worthy.\nYou may proceed.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_5_Heaven_Unworthy]",
+    "source": "Unworthy.\nYou've been judged.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_5_Hell_Unworthy]",
+    "source": "Unworthy!\nNya-ha-ha!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Stairs_5_Shadow_Plane_Unworthy]",
+    "source": "Unworthy.\nYou may not proceed.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Story_0]",
+    "source": "You have accomplished the impossible.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Story_1_1]",
+    "source": "You've become the embodiment of death.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Story_1_2]",
+    "source": "You've become the embodiment of evil.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Story_1_3]",
+    "source": "You've become the embodiment of purity.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Story_2]",
+    "source": "A mortal no longer.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Story_2_1]",
+    "source": "Now ruling the shadow planes.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Story_2_2]",
+    "source": "Now ruling the burning hells.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Story_2_3]",
+    "source": "Now ruling the high heavens.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Story_3]",
+    "source": "But even the glory of becoming a god.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Endgame_Story_4]",
+    "source": "Eventually fades into eternity.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Evil_Urn_Prompt_1]",
+    "source": "Touch the evil urn?\n<color=grey>[Adds +1 Evil<sprite name=\"Evil\">]</color>",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Evil_Urn_Prompt_2]",
+    "source": "*You touch the evil urn.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Excalibur_1]",
+    "source": "Only a pure soul may\nwield the might of Excalibur.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Excalibur_2]",
+    "source": "Attempt do pull out the sword?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Excalibur_Fail]",
+    "source": "*It won't budge.\nSeems like you are not worthy!\nBut if you want, you can try again!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fairy_Spring_Event_1]",
+    "source": "Take a sip?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fairy_Spring_Event_2]",
+    "source": "*You have been blessed\nby the Fairy Spring.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fishing_On_Bite]",
+    "source": "*A bite!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fishing_On_Fail]",
+    "source": "*It got away...*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fishing_On_No_Bite]",
+    "source": "*Not even a nibble...*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fishing_On_Success]",
+    "source": "*You got it!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fishing_Prompt]",
+    "source": "Try to catch a fish?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fishing_Rod_Break]",
+    "source": "*Oops!\nThe fishing rod broke!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Flower_Girl_Talk]",
+    "source": "I made these circlets myself.\nDo you like them?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Flower_Girl_Thanks]",
+    "source": "Thank you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fox_1]",
+    "source": "Ah, hello there!\nHave you seen any bunnies around?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fox_2]",
+    "source": "You haven't?\nDo you think you will see\nsome on your adventure?\nCan I join you?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fox_3]",
+    "source": "Even for all the bunnies\nin the meadow, I wouldn't\njoin forces with an owl. Apologies.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fox_4]",
+    "source": "Even for all the bunnies\nin the meadow, I wouldn't\njoin forces with a squirrel. Apologies.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fox_5]",
+    "source": "No? That's a pity...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fox_6]",
+    "source": "Fantastic!\nI love the scent of\nan adventure ahead!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Fox_On_Found_Item]",
+    "source": "*sniff sniff*\nI found treasure!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Frog_Princess_1]",
+    "source": "Oh my!\nIt feels so good to stretch my legs again.\nI've been cooped up as a frog for so long!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Frog_Princess_2]",
+    "source": "I cannot begin to express my gratitude.\nYour bravery and kindness shine\nbrighter than the sun.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Frog_Princess_3]",
+    "source": "Please, allow me to\ngift you something special,\na token of my appreciation.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Frog_Princess_4]",
+    "source": "You are my hero!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Frog_Princess_5]",
+    "source": "Thank you.\nYour name shall be remembered in our\nkingdom's tales of heroism and bravery.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Frog_Princess_Answer_2]",
+    "source": "Give it a kiss",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Frog_Princess_Question]",
+    "source": "What to do\nwith this frog?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Gambler_Ghost_1]",
+    "source": "Want to play a game?\nYou can win some Ethereal Dice!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Gambler_Ghost_2]",
+    "source": "He-he-he!\nPerfect, let's play!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Gambler_Ghost_3]",
+    "source": "Oh!?\nBut what's life without\na little fun, right?\nHe-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Gambler_Ghost_Done_Playing]",
+    "source": "Ah sorry,\nI don't feel like playing anymore right now.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Gambler_Ghost_On_Loss]",
+    "source": "You win!\nHe-he-he!\nWe should play again...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Gambler_Ghost_On_Win]",
+    "source": "I win!\nNo dice for you, he-he-he!\nWe should play again!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Genie_1]",
+    "source": "Rub the magic lamp?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Genie_2]",
+    "source": "Master,\nI shall fulfil one wish,\nwhat do you wish for?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Genie_3]",
+    "source": "So shall it be.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Genie_4]",
+    "source": "My work is done here,\ncontinue onwards, master.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Giant_Clam_1]",
+    "source": "Try to snatch the Pearl Ring?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Giant_Clam_Fail]",
+    "source": "*Ouch!\nNot quick enough!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Giant_Clam_Success]",
+    "source": "*Got it!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_1]",
+    "source": "Well, well, isn't this\na peculiar predicament?\nFrom one cage-rattler\nto another, salutations!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_2]",
+    "source": "I will not lie to you.\nYes, I am a devil.\nNow, don't jump to\nquick conclusions.\nMeh-eh-eh-eh!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_3]",
+    "source": "While this cage isn't\nmy ideal setting, it doesn't\nimpede my talent for...\nintriguing negotiations.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_4]",
+    "source": "Let's chat, shall we?\nI'm sure we can figure something out.\nMeh-eh-eh-eh!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_5]",
+    "source": "No? Well that's a shame.\nIf you change your mind\nremember: you are always welcome.\nMeh-eh-eh-eh!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_6]",
+    "source": "Yes. Let's see...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_7]",
+    "source": "Now that wasn't that bad, huh?\nMeh-eh-eh-eh!\nPleasure making business.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_8]",
+    "source": "My deal stands as it is.\nCome back any time\nif you change your mind.\nMeh-eh-eh-eh!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_9]",
+    "source": "So be it!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_Full_Heal_1]",
+    "source": "While my situation might\nlook quite dire.\nIt looks like you aren't doing\ntoo well either.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_Full_Heal_2]",
+    "source": "For the measly amount of\nALL your souls, I'd be glad\nto fully heal you!\nHow about that?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_Level_Up_1]",
+    "source": "You are quite strong, huh?\nYou seem to have grown a lot.\nBut you haven't reached your\nfull potential yet, huh?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_Level_Up_2]",
+    "source": "For the measly amount of\nALL your souls, I'd be glad\nto level you up to the point\nof reaching your next breakpoint?\nHow about that?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_New_Weapon_1]",
+    "source": "Let's take a look\nat your weapon...\nOh my, oh my...\nnot the best quality, huh?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_New_Weapon_2]",
+    "source": "For the measly amount of\nALL your souls, I'd be glad\nto bestow a new legendary weapon upon you!\nHow about that?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_Revive_1]",
+    "source": "You look pretty well set.\nI have an idea for a simple\nbut classic deal!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_Revive_2]",
+    "source": "For the measly amount of\nALL your souls, I'd be glad\nto revive you once from death!\nHow about that?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_Weapon_Upgrade_1]",
+    "source": "Your weapon seems\nmighty fine...\nbut barely upgraded.\nMeh-eh-eh-eh!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Goat_Devil_Weapon_Upgrade_2]",
+    "source": "For the measly amount of\nALL your souls, I'd be glad to upgrade your weapon to level 4!\nHow about that?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Golden_Tree]",
+    "source": "Examine the golden tree?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Guillotine]",
+    "source": "Investigate the corpse?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Heaven_Rat_Merchant_1]",
+    "source": "I collect souls for the high heavens!\nEverything's for sale!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Heaven_Rat_Merchant_2]",
+    "source": "I hope you brought\nplenty of souls!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Heaven_Rat_Merchant_3]",
+    "source": "What do you think about\nour heavenly wares?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Hell_Rat_Merchant_1]",
+    "source": "I collect souls for\nthe master.\nNeed anything?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Hell_Rat_Merchant_2]",
+    "source": "I hope you brought\na bunch of souls!\nNee hee hee hee!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Hell_Rat_Merchant_3]",
+    "source": "Quite hot down here, huh?\nNee hee hee hee!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Heroes_Grave_1]",
+    "source": "\"Here rests a once powerful hero.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Heroes_Grave_2]",
+    "source": "\"They fought valiantly\nto protect the innocent.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Heroes_Grave_3]",
+    "source": "*Hearing about the heroes legacy,\nfills you with Determination.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Hobo_1]",
+    "source": "Hey, want to play a game?\nFor the low price of <color=yellow>5 Gold<sprite name=\"Gold\"></color> you can\nwin some superb trash I've collected!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Hobo_2]",
+    "source": "Yeehaw! Let's play!\nHe-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Hobo_3]",
+    "source": "Don't you like fun?\nThat's odd.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Hobo_On_Doesnt_Want_To_Play_Anymore]",
+    "source": "I'm all out of stuff\nfor you to win.\nHe-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Hobo_On_Loss]",
+    "source": "I win!\nThat means I get to keep my stuff.\nHe-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Hobo_On_Win]",
+    "source": "Lucky you!\nLet's see...\nHere, take this!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ice_Sculpting]",
+    "source": "Attempt to finish\nthe ice sculpture?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ice_Sculpting_Lose]",
+    "source": "*That didn't go so well..*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ice_Sculpting_Win_1]",
+    "source": "*You finished the last\nice sculpture*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ice_Sculpting_Win_2]",
+    "source": "*You feel an icy wind\nblow through the caverns.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ice_Sculpting_Win_3]",
+    "source": "*The goddess of Winter\nseems satisfied.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ichor]",
+    "source": "Take a sip of ichor?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ichor_Win_1]",
+    "source": "*A hint of strawberry!\nIf only you could remember\nwhat a strawberry tastes like...*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ichor_Win_2]",
+    "source": "*A sharp aftertaste,\nsurprisingly refreshing!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ichor_Win_3]",
+    "source": "*The forbidden nectar of the gods.\nWhat a yummy snack!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ichor_Win_4]",
+    "source": "*Tastes like victory!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Intelligence_Mushroom_1]",
+    "source": "Greetings, keen traveler!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Intelligence_Mushroom_2]",
+    "source": "Will you take my offspring\non a magnificent adventure?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Intelligence_Mushroom_3]",
+    "source": "I have a lot of trust in you.\nFare well and take care!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Intelligence_Mushroom_4]",
+    "source": "I see you've decided for another.\nThat is fine, I shall wait for an\neven smarter traveler!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Jungle_Pylon_1]",
+    "source": "Touch the strange crystal?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Jungle_Pylon_2]",
+    "source": "*You have been blessed\nby the power of the pylon.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Jungle_Pylon_3]",
+    "source": "*You gained [[+3]] Magic Find<sprite name=\"Magic_Find\">.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Knight_Statue]",
+    "source": "Investigate the statue of a knight?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Blue_1]",
+    "source": "I fish for food!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Blue_2]",
+    "source": "Do you fish too?\nNeed any tips?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Green_1]",
+    "source": "We love gold.\nGold so shiny!\nYou know!?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Green_2]",
+    "source": "We love food.\nGold is nice,\nbut cannot fill belly!\nYou know?!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Green_3]",
+    "source": "We love community.\nMakes little folk strong!\nYou know?!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Green_Thanks_1]",
+    "source": "Need more?\nI have more.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Green_Thanks_2]",
+    "source": "Hmm, I make this again,\nstrangers love this.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Purple_1]",
+    "source": "Psshd!\nDon't tell other Kobolds!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Purple_2]",
+    "source": "I like to come here to drink!\nYes yes!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Purple_3]",
+    "source": "Makes feel fuzzy!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Purple_4]",
+    "source": "Tavernkeep a very nice man!\nSo nice indeed!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Red_1]",
+    "source": "We craft and sell.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kobold_Red_2]",
+    "source": "Ok...\nI craft and other kobold sell.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kuo_Tao_Merchant_1]",
+    "source": "Interested in fresh catch?\nI keep most for me.\nVery delicious!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kuo_Tao_Merchant_2]",
+    "source": "I catch what I find.\nVery tasty!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kuo_Tao_Merchant_3]",
+    "source": "The sea provides.\nFood good for you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kuo_Tao_Merchant_Thanks_1]",
+    "source": "My favorite...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Kuo_Tao_Merchant_Thanks_2]",
+    "source": "So tasty!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Lever_Game_Already_Active]",
+    "source": "*The lever\nis already activated.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Lever_Game_Finished]",
+    "source": "*Better not touch\nanything anymore...*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Lever_Game_Reset]",
+    "source": "*It seems all\nlevers reset...*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Lever_Game_Switch]",
+    "source": "*There is a hidden lever.\nFlip it?*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Lever_Game_Wrong_Lever]",
+    "source": "*The lever\nwon't budge!*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_1]",
+    "source": "Watching.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_2]",
+    "source": "Consume.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_3]",
+    "source": "Reward.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_4]",
+    "source": "Feed souls? (5<sprite name=\"Soul\">)",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_0]",
+    "source": "I welcome thee, my disciple.\nHas thou brought any Souls<sprite name=\"Soul\">?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_2]",
+    "source": "Tell me thy secrets.\nWhat is it that thou seek?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_3]",
+    "source": "Remember.\nI am always watching thee.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_4]",
+    "source": "Bring me more souls.\nTrust me.\nThere is always more rewards for thee.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_Answer_1]",
+    "source": "Very well.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_Answer_2_Accept]",
+    "source": "Wise choice.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_Answer_2_Decline]",
+    "source": "I will not upgrade\nthis trash any further...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_Answer_3]",
+    "source": "A simple task.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_Answer_4]",
+    "source": "Such greed?\nI expected better.\nNonetheless, a deal is a deal.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_Choice_1]",
+    "source": "Random Reward (5 Souls<sprite name=\"Soul\">)",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_Choice_2]",
+    "source": "Upgrade Weapon (5 Souls<sprite name=\"Soul\">)",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_Choice_3]",
+    "source": "Heal And Repair (5 Souls<sprite name=\"Soul\">)",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Leviathan_Disciple_Choice_4]",
+    "source": "Riches (5 Souls<sprite name=\"Soul\">)",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Librarian_Ghost_1]",
+    "source": "You can take one tome.\nOne tome only!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Librarian_Ghost_2]",
+    "source": "And remember to share your\nwisdom with others.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Lost_Canary]",
+    "source": "Take the bird cage?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Man-Eater_Plants_Event]",
+    "source": "Try to snatch the item?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Mana_Shrine_1]",
+    "source": "Read the glyphs inscribed the mana shrine?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Mana_Shrine_2]",
+    "source": "*Reading the ancient texts,\nempowered your magical potency.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Mana_Shrine_3]",
+    "source": "*You gained [[+1]] maximum mana<sprite name=\"Mana\">.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Lesson_1]",
+    "source": "Lesson Of True Might",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Lesson_1_Mastered]",
+    "source": "Mastering the Lesson Of True Might\npermanently grants you\n[[+25% increased damage with non-crits]].",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Lesson_2]",
+    "source": "Lesson Of True Speed",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Lesson_2_Mastered]",
+    "source": "Mastering the Lesson Of True Speed\npermanently grants you\n[[+10% movement and attack speed]].",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Lesson_3]",
+    "source": "Lesson Of True Precision",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Lesson_3_Mastered]",
+    "source": "Mastering the Lesson Of True Precision\npermanently grants you\n+[[10% critical hit chance]].",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Master_1]",
+    "source": "Greetings.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Master_2]",
+    "source": "Are you here to\nlearn ancient combat\ntechniques?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Master_3-1]",
+    "source": "I shall teach you one lesson,\nbut one lesson only.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Master_3-2]",
+    "source": "Really?\nI might have misjudged\nyour character.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Master_4]",
+    "source": "I am not sure you\nquite understood the\nquintessence of this lesson.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Master_5]",
+    "source": "Maybe you need\nmore training.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Master_6]",
+    "source": "That was an exceptional\nperformance.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Master_7]",
+    "source": "It seems you've mastered\nmy technique.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Master_8]",
+    "source": "Fare well on\nyour journey.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Master_What_Lesson]",
+    "source": "You must decide on\nwhich lesson I shall teach you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Ready_Up]",
+    "source": "Ready up!\nFollow my moves!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Martial_Arts_Try_Again]",
+    "source": "Do you want to\ntry again?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Monkey_Statue_1]",
+    "source": "Touch the golden monkey statue?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Monkey_Statue_2]",
+    "source": "*You gained [[+1]] luck<sprite name=\"Luck\">\nbut you also have been cursed<sprite name=\"Curse\">\nby the golden monkey.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Mouse_Trap]",
+    "source": "Try to snatch the Cheese?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Mouse_Trap_Got_It_Anyways]",
+    "source": "*Got it anyways.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Choice_1]",
+    "source": "Revive this fossil",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Choice_2]",
+    "source": "Not this one",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Fossil_Cherubim]",
+    "source": "\"Cherubim Fossil\"\n\"An angelic being\nthat fell down from\nthe high heavens.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Fossil_Dragon]",
+    "source": "\"Dragon Fossil\"\n\"Most dragons are able to\nbreath fire.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Fossil_Hellspawn_Hatchling]",
+    "source": "\"Hellspawn Fossil\"\n\"A devilish creature\nborn in the depths\nof the burning hells.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Fossil_Sorrowsworn]",
+    "source": "\"Sorrowsworn Fossil\"\n\"A demonic minion that spreads misery\nwith a pointy spear of shadows.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Fossil_Velociraptor]",
+    "source": "\"Raptor Fossil\"\n\"These dinosaurs loved to\nhunt in packs.\"",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_10]",
+    "source": "Can't decide?\nI understand, all of them were\nvery interesting creatures.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_11]",
+    "source": "What a coincidence!\nI would have chosen the same.\nLet's get to work!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_12]",
+    "source": "I can't believe it!\nWe actually did it!\nThat was quite the process, huh?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_13]",
+    "source": "As promised,\nyou can keep it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_14]",
+    "source": "I am just so happy\nto have had the opportunity\nto make use of these\nancient techniques.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_15]",
+    "source": "Thank you.\nWithout you, this wouldn't\nhave been possible.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_1]",
+    "source": "Hello there.\nBy any chance, do\nyou have a minute of free time?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_2]",
+    "source": "Oh...\nThat's a pity...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_3]",
+    "source": "Oh! Really?\nThat's great.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_4]",
+    "source": "Listen.\nI studied these ancient texts and\nI think I found out how\nto revive a creature.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_5]",
+    "source": "I have the materials to\nrevive one creature.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_6]",
+    "source": "My problem is, that\nit can't be done alone.\nI need a helping hand.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_7]",
+    "source": "If you help me out,\nyou can choose and keep the creature.\nHow about that?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_8]",
+    "source": "Aw, come on!\nDon't leave me hanging!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Museum_Scientist_9]",
+    "source": "Okay okay.\nI'll be waiting for you\nto choose a fossil.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Bar_Maiden_1]",
+    "source": "Would you like to stay\nfor the night?\n<color=grey>[Will reroll tavern visitors.]</color>",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Bar_Maiden_1_Discount]",
+    "source": "Would you like to stay\nfor the night? (5 Gold<sprite name=\"Gold\">)\n<color=grey>[Will reroll tavern visitors.]</color>",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Bar_Maiden_2]",
+    "source": "Very well.\nI hope you have a nice stay!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Bar_Maiden_3]",
+    "source": "People come and go.\nThe crowd in the tavern,\nmight be completely different tomorrow.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Bar_Maiden_4]",
+    "source": "Sorry, you must find another\nplace to stay tonight.\nWe have closed tomorrow.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Barkeeper_1]",
+    "source": "Welcome! Can I help you to a drink?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Barkeeper_2]",
+    "source": "No worries!\nCome back any time.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Barkeeper_3]",
+    "source": "I don't see how\nyou're gonna pay\nfor that buddy.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Barkeeper_4]",
+    "source": "Ha-ha! Very well!\nKeep in mind there's\nplenty more where that came from!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Barkeeper_5]",
+    "source": "Woah!\nI think you've had enough.\nNow I gotta clean up your mess...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Christkind_After_Buy]",
+    "source": "Remember, the light you seek\nis already with you.\nGo forward, and shine brightly\nfor all to see.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Christkind_On_Buy]",
+    "source": "You have chosen well.\nLet these guide you,\nnot to fortune, but to understanding.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Christkind_Prompt_1]",
+    "source": "Peace be with you.\nThe world is heavy, isn't it?\nBut you are never alone.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Cleric_1]",
+    "source": "Good day to you!\nWould you be interested in\nbuying a \"Purging Stone\"?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Cleric_2]",
+    "source": "Thank you! And remember,\nit is only human to commit a sin.\nTi-hi-hi-hi.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Cleric_3]",
+    "source": "You appear to lack faith.\nLet's hope you don't\nregret this choice.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Cleric_4]",
+    "source": "Try to not get\ncursed again!\nPurging Stones are quite\nrare and precious.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Cleric_Evil_Reaction]",
+    "source": "I can feel the darkness inside you.\nPoor soul.\nI hope you find your way\nback to the light.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Cleric_Good_Reaction]",
+    "source": "I can feel the light inside you.\nWe fight for the same cause.\nBlessed be your path.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Creepy_Wizard_1]",
+    "source": "Hmmm...\nDo you want to buy this\n\"Storm In A Bottle\"?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Creepy_Wizard_2]",
+    "source": "Thank god.\nI really need some booze...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Creepy_Wizard_3]",
+    "source": "I understand.\nIf you change your mind,\nlet me know.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Demolitionist_1]",
+    "source": "I probably shouldn't do this...\nOh! Hey! You!\nDo you want to buy 3 Bombs<sprite name=\"Bomb\">?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Demolitionist_2]",
+    "source": "Hell yeah, brother!\nHave a blast!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Demolitionist_3]",
+    "source": "Aww... really?\nYou know, it's really fun\nto blow stuff up.\nThink about it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Demolitionist_4]",
+    "source": "You're the bomb, brother!\nCheers!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Drunken_Man_1]",
+    "source": "I'm so drunk...\nI can't even stand up.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Drunken_Man_2]",
+    "source": "I have decided I'm just\ngonna sit here and accept it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Drunken_Man_3]",
+    "source": "ZzzZZzzzz...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dryad_1]",
+    "source": "Greetings, stranger!\nCare to purchase\na \"Green Blossom\"?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dryad_2]",
+    "source": "Many thanks! Remember,\neven in the deepest woods,\nlife finds a way.\nHi-hi-hi-hi.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dryad_3]",
+    "source": "You seem hesitant.\nMay the forest's wisdom guide you\nin your decision.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dryad_4]",
+    "source": "Be mindful as you tread\nnature's paths.\nNature's gifts are\na gift, not a given.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dryad_Evil_Reaction]",
+    "source": "I sense a shadow within you.\nTread carefully, lost one.\nThe forest's embrace can still\noffer you solace.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dryad_Good_Reaction]",
+    "source": "Your heart beats in harmony\nwith nature.\nWe share the same roots.\nMay your journey be fruitful.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dwarf_Soldier_1]",
+    "source": "A real warrior, always\nbrings some Repair Powder into battle!\nWanna buy some?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dwarf_Soldier_2]",
+    "source": "Ya-ya-ya!\nYou know what's good!\nAnd so do I, if you know what I mean.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dwarf_Soldier_3]",
+    "source": "Whaaaaat?!\nI said a REAL warrior anyways!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dwarf_Soldier_4]",
+    "source": "A real warrior always\nmakes sure their armor\nis in tip-top shape!\nNo slacking!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dwarf_Soldier_Evil_Reaction]",
+    "source": "What are you looking at?\nBuddy.\nI know your kind,\ndon't try anything stupid.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Dwarf_Soldier_Good_Reaction]",
+    "source": "I can feel it!\nYou are a strong, brave\nand foremost kind warrior like me!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Farmer_Boy_1]",
+    "source": "Howdy!\nMy father was a gambling addict.\nMay he rest in peace.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Farmer_Boy_2]",
+    "source": "He left me the farm in\na really bad condition.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Farmer_Boy_4]",
+    "source": "He also left me his dice collection.\nWould you be interested\nin buying some dice?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Farmer_Boy_5]",
+    "source": "Splendid!\nThat will help me pay my debts.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Farmer_Boy_6]",
+    "source": "Smart choice.\nIt's better to stay away\nfrom gambling anyways!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Farmer_Boy_7]",
+    "source": "Howdy!\nHow's it going?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Gun_Trader_1]",
+    "source": "Come closer and listen up.\nI got a massive deal for you, eh?\nWanna buy some \"Illegal Gun Parts\"?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Gun_Trader_2]",
+    "source": "You know it!\nThat's the good stuff!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Gun_Trader_3]",
+    "source": "Oh...\nDo you mind keeping the\nlittle talk we just had\nbetween us?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Gun_Trader_4]",
+    "source": "Good stuff, eh?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Gun_Trader_Evil_Reaction]",
+    "source": "You seem a bit shady, eh?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Gun_Trader_Good_Reaction]",
+    "source": "A bit of a hero, aren't you?\nHmmm...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Krampus_After_Buy]",
+    "source": "Your fate is sealed now...\nEnjoy the game while you can,\nfor it plays you just as much.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Krampus_On_Buy]",
+    "source": "Ah-ha-ha-ha!\nA bold choice for one so fragile.\nRemember, the dice always win in the end.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Krampus_On_Decline]",
+    "source": "Ahh, a coward, I see.\nRun along then.\nBut don't think you can escape me forever...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Krampus_Prompt_1]",
+    "source": "Heh-heh-heh...\nNaughty children get coal,\nand wicked ones get dice.\nWhich are you?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Krampus_Prompt_2]",
+    "source": "These aren't just any dice,\nohh no.\n<color=#3B3B7A>Obsidian Dice</color> can decide your fate.\nDare to buy some? <color=grey>(x5)</color>",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Nurse_1]",
+    "source": "Hello!\nYou look very healthy,\nI don't think I can help you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Nurse_2]",
+    "source": "Hello!\nYou look a little roughed up,\nneed some healing?\n<color=grey>[Fully recovers hearts<sprite name=\"Heart\">\nand refills flasks.]</color>",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Nurse_3]",
+    "source": "Looking better already!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Nurse_4]",
+    "source": "Okay, but don't\nblame me if you die out there.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Nurse_After_Healed_Already]",
+    "source": "All patched up and\nready to go!\nTake care out there!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Old_Hag_Tavern_1]",
+    "source": "You look a bit, ill-equipped?\nA raggedy bag full of holes!\nWant me to patch one up?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Old_Hag_Tavern_2]",
+    "source": "A few stitches and your pocket\nwill be as good as new!\nNye-he-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Old_Hag_Tavern_3]",
+    "source": "Oh, hoarding holes now, are we?\nWell, keep your tatters then!\nNye-he-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Old_Hag_Tavern_4]",
+    "source": "All stitched up!\nNow don't go filling it\nwith too much junk!\nNye-he-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Old_Hag_Tavern_5]",
+    "source": "My, aren't we tidy now?\nNothing left for me to fix, off with you!\nNye-he-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Old_Man_1]",
+    "source": "The young people today just\ncan't hold their drinks\nlike we could back in our day.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Old_Man_2]",
+    "source": "We would drink all night\nand not get hangovers.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Old_Man_3]",
+    "source": "Now, one drink and they're\nall over the place!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Buyer_1]",
+    "source": "Potion Seller,\nI need your strongest potions.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Buyer_2]",
+    "source": "But I am going into battle!\nI need your potions...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Buyer_3]",
+    "source": "How come you sell to them\nbut not to me?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Seller_1]",
+    "source": "My potions are too strong for you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Seller_3]",
+    "source": "Always happy to help!\nCome again.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Seller_4]",
+    "source": "Maybe you aren't\nstrong enough after all...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Seller_5]",
+    "source": "I told you.\nMy potions are too strong for you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Seller_Anger_Potion]",
+    "source": "Hello there! You seem strong.\nNeed a \"Anger Potion\"?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Seller_Luck_Potion]",
+    "source": "Hello there! You seem strong.\nNeed a \"Luck Potion\"?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Seller_Power_Potion]",
+    "source": "Hello there! You seem strong.\nNeed a \"Power Potion\"?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Potion_Seller_Wrath_Potion]",
+    "source": "Hello there! You seem strong.\nNeed a \"Wrath Potion\"?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Princess_1]",
+    "source": "Fancy some magic for your quest?\nI bring a Fairy Tale Branch\nfrom a land far, far away.\nInterested?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Princess_2]",
+    "source": "Magical choice!\nThis branch could weave some\nexciting twists in your story.\nOr perhaps, ... ours?\nTi-hi-hi!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Princess_3]",
+    "source": "Can't decide?\nA little magic can lead to\nbig adventures.\nGo on, be enchanted!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Princess_4]",
+    "source": "Remember, every step is\npart of your story.\nTake a risk once in a while;\nwho knows where it might lead!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Princess_After_Buy]",
+    "source": "With this branch,\nyour tale takes a magical turn.\nMay it lead you to wonders untold.\nSafe travels. Ti-hi-hi!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Princess_Evil_Reaction]",
+    "source": "I sense a shadow in your tale.\nBut every hero has their trials.\nJust don't stray too far from the light.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Princess_Good_Reaction]",
+    "source": "A heart full of magic!\nTogether, let's weave a tale that's\nnothing short of magical.\nShall we?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Saint_Nicholas_After_Buy]",
+    "source": "Use them well, my friend.\nAnd remember:\ngood deeds often return to us tenfold.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Saint_Nicholas_On_Buy]",
+    "source": "Wonderful!\nMay these dice guide you wisely\nand bring you only the best fortune.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Saint_Nicholas_Prompt_1]",
+    "source": "Ah, welcome, my friend.\nThe holiday season is full of blessings\nand second chances.\nHow may I help you?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Saint_Nicholas_Prompt_2]",
+    "source": "I carry a special gift:\n<color=#FFC414>Golden Dice</color>, blessed with fortune and grace.\nThey could bring you a brighter path.\nWould you like some? <color=grey>(x3)</color>",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Samurai_1]",
+    "source": "Hello there.\nThe tavern booze is good\nbut I also brought my own.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Samurai_2]",
+    "source": "You know what,\nI'll sell you some.\nWant to buy some \"Sake\"?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Samurai_3]",
+    "source": "It truly does lift\nthe fighting spirit!\nBut don't over do it!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Samurai_4]",
+    "source": "Understandable.\nAfter all, you aren't as cool as me.\n*sip*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Santa_1]",
+    "source": "Hoh-hoh-hoh!\nI am the real Santa!\nCan you believe it?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Santa_2]",
+    "source": "Hey kid...\nMind helping Santa out?\nI'll sell ya a \"Gift Box\", deal?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Santa_3]",
+    "source": "Hoh-hoh-hoh!\nYou saved the christmas spirits!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Santa_4]",
+    "source": "Oh well...\nThat's depressing to hear.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Santa_5]",
+    "source": "Thank you.\nThat really hit the spot!\n*burp*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Tax_Collector_1]",
+    "source": "Got some Souls<sprite name=Soul>?\nListen up!\nWant to buy this\nSoul Heart<sprite name=Soul_Heart>.\nHe-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Tax_Collector_2]",
+    "source": "He-he-he-he!\nPleasure making business!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Tax_Collector_3]",
+    "source": "Come on!\nYou have no use for Souls<sprite name=Soul>, right?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Tax_Collector_4]",
+    "source": "Sorry!\nNo refunds.\nThat's my policy.\nHe-he-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Viking_1]",
+    "source": "The beer here is decent,\nbut my brew is legendary.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Viking_2]",
+    "source": "You seem like a strong lad!\nI'll offer you some.\nWhat do you say,\na bottle of Mead?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Viking_3]",
+    "source": "It warms the warrior's soul!\nBut moderation is key, friend!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Viking_4]",
+    "source": "No worries.\nNot everyone can match my might.\n*gulp*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Viking_Evil_Reaction]",
+    "source": "Whom do we have here?\nA little bit of a rowdy, huh?\nI like it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NPC_Viking_Good_Reaction]",
+    "source": "Who are you?\nNo offense but\nyou seem a bit wimpy.\nHmph, oh well.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[No_Weapon]",
+    "source": "*You have no weapon equipped.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[No_Weapon_Equipped]",
+    "source": "*Equip a weapon to upgrade it.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Nomad_Merchant_2]",
+    "source": "No talk.\nOnly trade.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Nomad_Merchant_3]",
+    "source": "Keep your distance.\nWe are not friends.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Nomad_Merchant_Thanks_1]",
+    "source": "Yes.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NotAnyGold]",
+    "source": "*You don't have any gold.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NotEnoughGold]",
+    "source": "*You don't have\nenough gold.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NotEnoughHearts]",
+    "source": "*Requires a spare\n//heart<sprite name=\"Health\"> to sacrifice.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NotEnoughSouls]",
+    "source": "*You don't have\nenough souls.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NothingChanged]",
+    "source": "*Nothing changed...*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[NothingHappened]",
+    "source": "*Nothing happened...*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Oasis_1]",
+    "source": "Take a rest?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Oasis_2]",
+    "source": "*You feel refreshed and relaxed.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Old_Hag_1]",
+    "source": "Nye-he-he-he!\nWelcome, traveller.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Old_Hag_2]",
+    "source": "Want me to knit\nsomething for you?\nWhat's your favorite color,\nmy dear?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Old_Hag_3]",
+    "source": "That's it.\nGo on, take it.\nIt's a gift.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Old_Hag_4]",
+    "source": "Nye-he-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Old_Hag_Accept]",
+    "source": "Ah, yes!\nThat's a nice color.\nI'll get right on it.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Old_Hag_Answer_Nothing]",
+    "source": "Eh, I'm fine. Thanks!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Old_Hag_Decline]",
+    "source": "Are you sure?\nIt can get frosty\non an adventure!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Old_Man_Event]",
+    "source": "I have been expecting you,\nbrave soul.\nTake this weapon,\nit shall aid you on your journey.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[On_Not_Taking_Mushroom_Text]",
+    "source": "That's okay.\nCome back if you\nchange your mind.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[On_Take_Mushroom_Text]",
+    "source": "*The friendly mushroom hands\nyou a smaller mushroom.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Option_Upgrade]",
+    "source": "Upgrade (20 Gold<sprite name=\"Gold\">)",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Option_Upgrade_For_Souls]",
+    "source": "Upgrade (25 Souls<sprite name=\"Soul\">)",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Owl_1]",
+    "source": "Hoot, hoot!\nHey you!\nDo you know the secret of the moon?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Owl_2]",
+    "source": "No?\nPerhaps we can discover it on a journey.\nWould you like me to join you?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Owl_3]",
+    "source": "Even if all the stars aligned,\nI would never party up with a squirrel.\nHoot, hoot.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Owl_4]",
+    "source": "Even if all the stars aligned,\nI would never party up with a fox.\nHoot, hoot.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Owl_5]",
+    "source": "Hoot. It shall remain a mystery then.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Owl_6]",
+    "source": "Splendid!\nWe shall soar high, wisdom and\nmoonlight guiding our path.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Owl_On_Found_Item]",
+    "source": "Hoot, hoot!\nWhat's that?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Patches_Merchant_1]",
+    "source": "Hmm, are you a cleric?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Patches_Merchant_2]",
+    "source": "Good day.\nYou look reasonably sane!\nNeed something?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Patches_Merchant_3]",
+    "source": "I sell trinkets.\nYou might not be able to\nafford them though.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Patches_Merchant_Alert]",
+    "source": "Ughh! A cleric?!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Patches_Merchant_Reaction_1]",
+    "source": "You are not a cleric.\nI can smell that a mile away.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Patches_Merchant_Reaction_2]",
+    "source": "Good for you...\nI don't like their kind.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Patches_Merchant_Thanks_1]",
+    "source": "Wonderful choice.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Patches_Merchant_Thanks_2]",
+    "source": "Hopefully I won't be stripping\nthis off your dead corpse,\nlater down the line.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Pawn_Shopkeeper_1]",
+    "source": "Welcome to Lucien's Pawn Shop!\nGot any equipment or weapons\nyou're looking to sell?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Pawn_Shopkeeper_2]",
+    "source": "As a collector, I can promise you\nthat your items will be well\ncared for in my collection.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Pawn_Shopkeeper_3]",
+    "source": "I have a special appreciation for\nunique and rare items. Let me know\nif you have anything you think might interest me.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Pawn_Shopkeeper_4]",
+    "source": "Drop any items you'd like me\nto take a look at on the carpet.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Pawn_Shopkeeper_5]",
+    "source": "Welcome to the Hero Hideout!\nYou are safe here.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Penguin_Dance_Battle_1]",
+    "source": "*The penguin seems eager\nfor a fight.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Penguin_Dance_Battle_2]",
+    "source": "Challenge this penguin\nto a dance battle?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Penguin_Dance_Battle_3]",
+    "source": "Try again?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Penguin_Dance_Battle_Deny]",
+    "source": "*The penguin shakes\nit's head.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Penguin_Dance_Battle_Deny_On_Won]",
+    "source": "*The penguin nods\nit's head approvingly.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Penguin_Dance_Battle_On_Won_1]",
+    "source": "*The penguin seems\ndelighted to have\nfaced a worthy challenger.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Penguin_Dance_Battle_On_Won_2]",
+    "source": "*The penguin hands\nyou a gift.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Penguin_Dance_Battle_On_Won_Idle]",
+    "source": "*The penguin seems\nstill very happy.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Plague_Doctor_1]",
+    "source": "Odd place for strangers\nto meet, isn't it?\nWhat brings you down here?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Plague_Doctor_2]",
+    "source": "I think I can help you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Plague_Doctor_3]",
+    "source": "Want a little boost?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Plague_Doctor_4]",
+    "source": "I understand.\nCome back any time\nif you change your mind.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Plague_Doctor_5]",
+    "source": "This is a one-time remedy.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Plague_Doctor_6]",
+    "source": "Take care!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Plague_Doctor_7]",
+    "source": "Take this.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Plague_Doctor_Dexterity_Weakness]",
+    "source": "Call me crazy, but\nyou seem a bit clumsy.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Plague_Doctor_Intelligence_Weakness]",
+    "source": "Call me crazy, but\nyou look a bit lost.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Plague_Doctor_Strength_Weakness]",
+    "source": "Call me crazy, but\nyou appear a bit weak.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Potion_Buyer]",
+    "source": "Hello, Potion Seller,\nI am going into battle and\nI want your strongest potions.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Potion_Seller]",
+    "source": "My potions are too strong\nfor you, traveller.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Pull_The_Lever]",
+    "source": "Pull the lever?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Ranger_Statue]",
+    "source": "Investigate the statue of a ranger?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Rat_Merchant_1]",
+    "source": "I trade for gold.\nEverything's for sale!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Rat_Merchant_2]",
+    "source": "I hope you brought\nplenty of gold?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Rat_Merchant_3]",
+    "source": "Eh? My wares?\nOf course they're stolen.\nWhat did you think?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Rat_Merchant_Thanks_1]",
+    "source": "Thank you kindly!\nNee hee hee hee hee!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Rat_Merchant_Thanks_2]",
+    "source": "Ah, thank you,\nvery much.\nNee hee hee!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Reached_Max_1]",
+    "source": "*You cannot upgrade\nyour weapon beyond the current level\nat this type of blacksmith.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Reached_Max_2]",
+    "source": "*Your weapon is\nalready at the MAX level that this\ntype of blacksmith can upgrade to.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Research_Desk_1]",
+    "source": "It seems a weird item is\nplaced between the pages and used\nas a sort of bookmark.\nTake the item?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Research_Desk_2]",
+    "source": "*You feel watched.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Royal_Bed_Room_Blue]",
+    "source": "Sleep in the blue bed?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Royal_Bed_Room_Done]",
+    "source": "*Better not overstay\nmy welcome.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Royal_Bed_Room_Green]",
+    "source": "Sleep in the green bed?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Royal_Bed_Room_Red]",
+    "source": "Sleep in the red bed?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Royal_Bed_Room_Result]",
+    "source": "*You feel well rested.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Royal_Bed_Room_Result_Blue]",
+    "source": "*You permanently gained\n[[+1]] maximum mana<sprite name=\"Mana\">.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Royal_Bed_Room_Result_Green]",
+    "source": "*You permanently gained\n[[+1]] stamina<sprite name=\"Stamina\">.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Royal_Bed_Room_Result_Red]",
+    "source": "*You permanently gained\n[[+1]] heart<sprite name=\"Heart\"> container.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Rune_Stone_1]",
+    "source": "Investigate the rune stone?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Rune_Stone_2]",
+    "source": "You cannot comprehend\nthe arcane nature of the rune stone.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Rune_Stone_3]",
+    "source": "The rune stone\nrecognizes your potency\nand enhanced your abilities.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Scroll_Shop_1]",
+    "source": "Hello there.\nLooking for any rare\nscriptures in particular?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Scroll_Shop_2]",
+    "source": "What gives me the right\nto sell these ancient texts?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Scroll_Shop_3]",
+    "source": "Well for one, I went\nthrough all the trouble to\nsift through ALL books\nin this forsaken library!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Scroll_Shop_4]",
+    "source": "It's not an easy task\nto find a quiet place to read\nin this library.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Scroll_Shop_5]",
+    "source": "One might think that's\nwhat a library is built for.\nSeems like this place is more like\nan amusement park for ghosts and specters!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Scroll_Shop_Thank_You_1]",
+    "source": "I've read that one.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Scroll_Shop_Thank_You_2]",
+    "source": "I've read that one too.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Scroll_Shop_Thank_You_3]",
+    "source": "And that one too.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Seraphim_Angel]",
+    "source": "Be not afraid.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Celebration_1]",
+    "source": "A new master!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Celebration_2]",
+    "source": "The new keeper of order!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Celebration_3]",
+    "source": "Chosen by the shadows!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Celebration_4]",
+    "source": "We serve your highness!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Interact_1]",
+    "source": "Take seat, your highness.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Interact_2]",
+    "source": "My liege. *bows*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Interact_3]",
+    "source": "My lord. *bows*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Interact_4]",
+    "source": "We welcome you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Rat_Merchant_1]",
+    "source": "I trade for souls.\nIt's my duty.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Rat_Merchant_2]",
+    "source": "Not every soul finds its\nway naturally.\nIt's our job to help.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Shadow_Rat_Merchant_3]",
+    "source": "The shadows whisper...\nLeading souls...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sifd_Knight_0]",
+    "source": "I am a Knight of\nThe Order Of The Silver Flying Dragon!\nShow me your weapon, traveller!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sifd_Knight_Denied]",
+    "source": "I doubt you'll be\nmaking it very far.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sifd_Knight_Idle]",
+    "source": "Into battle!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sifd_Knight_NotSatisfied]",
+    "source": "Yikes!\nNot the best weapon.\nYou should really try to find something better.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sifd_Knight_Satisfied_Epic]",
+    "source": "Magnificent!\nSuch an awesome weapon!\nLove it!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sifd_Knight_Satisfied_Legendary]",
+    "source": "Busted!\nWhere did you even find this monstrosity of a weapon!\nSeriously impressive!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sifd_Knight_Satisfied_Rare]",
+    "source": "Wow!\nCount me impressed!\nThat weapon is quite rare!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sifd_Knight_Success]",
+    "source": "I have faith in you.\nTake this little token of gratitude!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sin_Goddess_1]",
+    "source": "Pray to the statue\nof the Goddess of Sin?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sin_Goddess_2]",
+    "source": "*You feel the Goddess of Sin\nwatching over you.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sin_Goddess_3]",
+    "source": "*You gained [[50% reduced]] chance of\ncurse<sprite name=\"Curse\"> taking effect.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_James_1]",
+    "source": "Oh, hello there!\nWe haven't had a visitor in such a long time.\nI'm James.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_James_2]",
+    "source": "So, how's it going?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_James_3]",
+    "source": "Ah, yes.\nThat's the thing about\nbeing undead, isn't it?\nTime just sort of blends together.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_James_4]",
+    "source": "Wait a minute!\nI asked the visitor how's it going!\nNot you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_James_5]",
+    "source": "Man, I still remember being alive.\nGood old times.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_James_6]",
+    "source": "See ya around!\nOr not.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_Lee_1]",
+    "source": "Yes, it's been ages.\nNice to meet you.\nI'm Lee!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_Lee_2]",
+    "source": "I'm not sure I remember\nwhat it feels like to be\nanything other than a skeleton.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_Lee_3]",
+    "source": "Also it doesn't really make\nsense to sit at a bonfire\nthat isn't lit.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_Lee_4]",
+    "source": "I mean can't you see?\nThey are clearly doing great.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_Lee_5]",
+    "source": "Hey visitor, this is for you.\nWe got no use for it.\nThanks for sticking around.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Skeleton_Lee_6]",
+    "source": "Hey James, do you remember Rachel?\nWhatever happened to her, huh!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sleeping_Bear]",
+    "source": "Wake the sleeping bear?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sleeping_Bear_Roar]",
+    "source": "Rrroooar!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Forge_Blacksmith_2]",
+    "source": "*The forge doesn't talk.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Forge_Blacksmith_3]",
+    "source": "*A cold sweat rolls down your forehead.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Forge_Blacksmith_4]",
+    "source": "*What do you want to do?*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Forge_Blacksmith_Full]",
+    "source": "*The blue flames mock your intent.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Forge_Blacksmith_Upgrade_1]",
+    "source": "*The blue flames seem amused.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Forge_Blacksmith_Upgrade_2]",
+    "source": "*The blue flames gleefully dance.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Forge_Blacksmith_Upgrade_3]",
+    "source": "*The blue flames burst in heat. They seem excited.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Forge_Blacksmith_Upgrade_4]",
+    "source": "*The blue flames flicker with purpose.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Peddler_Shopkeeper_1]",
+    "source": "I am the Soul Peddler.\nI trade for souls.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Peddler_Shopkeeper_2]",
+    "source": "Gold is temporary!\nI have no need for it!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Peddler_Shopkeeper_3]",
+    "source": "Ever seen the flame?\nIt's magnificent.\nI'd do everything to gain its blessings.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Peddler_Thank_You_1]",
+    "source": "Thank you for the Souls!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Peddler_Thank_You_2]",
+    "source": "More! More!\nI need more Souls!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Pylon_1]",
+    "source": "Intruder detected.\nInitiating defense protocol I.",
+    "allowedLatin": [
+      "I"
+    ]
+  },
+  {
+    "key": "json.value[Soul_Pylon_2]",
+    "source": "Intruder detected.\nInitiating defense protocol II.",
+    "allowedLatin": [
+      "II"
+    ]
+  },
+  {
+    "key": "json.value[Soul_Pylon_3]",
+    "source": "Intruder detected.\nInitiating defense protocol III.",
+    "allowedLatin": [
+      "III"
+    ]
+  },
+  {
+    "key": "json.value[Soul_Pylon_Enrage]",
+    "source": "Danger!\nSoul siphoning operation\nat risk.\nHeightening defensive measures.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Shop_1]",
+    "source": "I welcome you, traveler.\nI come from the shadow planes.\nAre you interested in my wares?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Shop_2]",
+    "source": "The shadows have been quieter lately.\nThe essence flows differently.\nWhat's the disturbance?\nWe don't know.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Shop_3]",
+    "source": "All souls you spend here\nwhisper directly back into the shadows.\nA curious exchange, wouldn't you think?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Shop_4]",
+    "source": "In the shadows,\nthere is solace.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Shop_5]",
+    "source": "Every decision casts\nits own shadow.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Shop_6]",
+    "source": "May the shadows guide thee.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Shop_Thank_You_1]",
+    "source": "We thank you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Shop_Thank_You_2]",
+    "source": "A quiet exchange, a silent accord.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Shop_Thank_You_3]",
+    "source": "Your patronage is kindly noted.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Vessel_Event_1]",
+    "source": "Feed ... me ... souls ...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Vessel_Event_2]",
+    "source": "Feed Souls? (5 Souls<sprite name=\"Soul\">)\n<color=grey>Allows exchanging trait\nfor a new one.</color>\n<color=red>Cannot be cancelled!</color>",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Vessel_Event_3]",
+    "source": "M-meh.\nNot interested in you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Soul_Vessel_Event_4]",
+    "source": "You seem to not meet\nthe Soul Vessels requirements.\n<color=grey>(Requires to have at least 2 traits and 5 Souls<sprite name=\"Soul\">.)</color>",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Spice_Traders_Merchant_1]",
+    "source": "Hello. I sell spice.\nYou must know, they\nare not ordinary spices though.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Spice_Traders_Merchant_2]",
+    "source": "Usual resins don't last very long.\nMy magical spices, will\nlast you a lifetime.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Spice_Traders_Merchant_3]",
+    "source": "I travel around the desert,\nto sell spices to ambitious\nadventurers like you!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Spice_Traders_Merchant_Thanks_1]",
+    "source": "That's a spicy one!\nHo-ho-ho!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Spice_Traders_Merchant_Thanks_2]",
+    "source": "My favorite kind!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Squirrel_1]",
+    "source": "Alo!\nYou don't have any\nspare nuts by any chance?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Squirrel_2]",
+    "source": "No?\nDo you think you'll find any on your adventure?\nCan I tag along?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Squirrel_3]",
+    "source": "Even for all the nuts of the\nforest I wouldn't team up with a fox.\nSorry!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Squirrel_4]",
+    "source": "Even for all the nuts of the\nforest I wouldn't team up with an owl.\nSorry!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Squirrel_5]",
+    "source": "Aw! That's a bummer...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Squirrel_6]",
+    "source": "Really?\nI promise, this will be\none nutty adventure!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Squirrel_On_Found_Item]",
+    "source": "Huh!\nSomething's buried here!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Statue_Event_Locked]",
+    "source": "*The crevice closed.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Statue_Event_Question]",
+    "source": "There is something hidden\nin the crevice.\nTake it?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Strength_Mushroom_1]",
+    "source": "Hello, brave adventurer!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Strength_Mushroom_2]",
+    "source": "Will you take my offspring\non a glorious adventure?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Strength_Mushroom_3]",
+    "source": "I have high hopes!\nMake me proud!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Strength_Mushroom_4]",
+    "source": "I see you've decided for another.\nThat is fine, I shall wait for an\neven stronger adventurer!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Strider_1]",
+    "source": "Ever got this feeling,\nthat somebody is watching you?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Strider_2]",
+    "source": "Everything hurts so much more.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Strider_3]",
+    "source": "I feel like\nI am close to death.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Strider_4]",
+    "source": "My final day...\nInching closer every minute...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Strider_5]",
+    "source": "Take this.\nI've had enough.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sunlight_Altar_1]",
+    "source": "Pray at the sunlight altar?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sunlight_Altar_2]",
+    "source": "*You feel the goddess of\nsunlight shining upon the\npath ahead of you.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Sunlight_Altar_3]",
+    "source": "*You've chosen the Sunlight's Path.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Take_Bombs]",
+    "source": "Take the bombs?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Take_Dynamite]",
+    "source": "Take the dynamite?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tavernkeep_No_More_Fishing_1]",
+    "source": "Ey!\nDon't empty the tank!\nLeave some for the rest of the club.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tavernkeep_No_More_Fishing_2]",
+    "source": "It's a small aquarium!\nWe gotta keep the population\nunder control!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Teleport_Circle_Prompt]",
+    "source": "Which symbol to draw on the floor?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[The_Bridge_1-0]",
+    "source": "*You feel exhausted.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[The_Bridge_1-1]",
+    "source": "*Cold winds try to get hold of you!*\nLet them take you?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[The_Bridge_2-0]",
+    "source": "*You feel watched.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[The_Bridge_2-1]",
+    "source": "*Something is still draining your life force.*\nTry to resist?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[The_Bridge_3-0]",
+    "source": "*Something dark is holding you back.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[The_Bridge_3-1]",
+    "source": "*The material world\ncalling you.*\nLet it drag you back?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[The_Bridge_4-0]",
+    "source": "*You feel the lingering presence\nof death around you.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[The_Bridge_4-1]",
+    "source": "*The aura of death is\nas present as ever.*\nIgnore it?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Throne_Question]",
+    "source": "Take seat on the throne?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Adventurers_10]",
+    "source": "Tips For Adventurers 10/10\nDid you know, that attribute points\ngrant small bonuses to stats?\nStrength grants damage. Dexterity grants attack speed\nand Intelligence grants critical hit chance.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Adventurers_1]",
+    "source": "Tips For Adventurers 1/10\nDid you know, any time a little clover or skull icon\nappears it means the outcome has been\naffected by Luck or Curse!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Adventurers_2]",
+    "source": "Tips For Adventurers 2/10\nDid you know, proficiencies increase\nthe scaling of a weapon that scales\nwith that attribute type by one tier?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Adventurers_3]",
+    "source": "Tips For Adventurers 3/10\nDid you know, that it is said,\nthat machines are weak to bombs?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Adventurers_4]",
+    "source": "Tips For Adventurers 4/10\nDid you know, you can explode\nTreasure Chests, Shrines, Altars and\nSlot Machines with bombs?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Adventurers_5]",
+    "source": "Tips For Adventurers 5/10\nDid you know, that\nall potion effects are\nunique and don't stack?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Adventurers_6]",
+    "source": "Tips For Adventurers 6/10\nDid you know, locked cellars are probably\na hidden stash of somebody?\nYou better prepare 2 keys in\ncase they were extra careful about\nlocking their stuff away!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Adventurers_7]",
+    "source": "Tips For Adventurers 7/10\nDid you know, purple projectiles\nwill curse you with a random curse!\nAlso, green projectiles often inflict poison.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Adventurers_8]",
+    "source": "Tips For Adventurers 8/10\nDid you know, attunement\nmeans that you have to equip\nthe item for a few rooms before\nits effects start working?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Adventurers_9]",
+    "source": "Tips For Adventurers 9/10\nDid you know, most enemies and even bosses\nhave a weakness to a damage type?\nKnowing weaknesses can be\nhandy when in possession of infusion consumables!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tips_For_Drinkers]",
+    "source": "\"Tips For Drinkers 1/1\"\nThe maximum amount of\n\"Tipsiness\" you can endure,\nis determined by your total\namount of hearts<sprite name=\"Heart\">!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tomb_Blue]",
+    "source": "Here lies: Omatuo the Sage.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tomb_Green]",
+    "source": "Here lies: Iona the Pathfinder.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tomb_Locked]",
+    "source": "The tomb will not open.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tomb_Open_Prompt]",
+    "source": "Open the tomb?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Tomb_Red]",
+    "source": "Here lies: Retra the Barbarian.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Undead_Merchant_1]",
+    "source": "Do not be afraid.\nI am friendly!\nNye-he-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Undead_Merchant_2]",
+    "source": "Have you seen my dear julia?\nOh, I miss her so much...",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Undead_Merchant_3]",
+    "source": "Got any spare bones for sale?\nNye-he-he-he!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Undead_Merchant_Thanks_1]",
+    "source": "Thank you.\nCome back soon.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Undead_Merchant_Thanks_2]",
+    "source": "Excellent!\nCome again!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Under_Construction]",
+    "source": "UNDER CONSTRUCTION",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Wishing_Well]",
+    "source": "Throw 1 Gold<sprite name=\"Gold\"> into the well?",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Wishing_Well_Done]",
+    "source": "*You got a feeling it's\ntime to stop throwing\ngold into a random well.*",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Witch_Doctor_Merchant_1]",
+    "source": "Which doctor am I?\nThe Witch Doctor am I.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Witch_Doctor_Merchant_2]",
+    "source": "The heart of magic is nature.\nThe nature of hearts is magic.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Witch_Doctor_Merchant_3]",
+    "source": "The jungle provides materials!\nPerfect for making potions and magic!",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Witch_Doctor_Merchant_Thanks_1]",
+    "source": "Stay safe,\nthis is a dangerous place.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Witch_Doctor_Merchant_Thanks_2]",
+    "source": "Thank you\nand come again.",
+    "allowedLatin": []
+  },
+  {
+    "key": "json.value[Wizard_Statue]",
+    "source": "Investigate the statue of a wizard?",
+    "allowedLatin": []
+  },
+  {
+    "key": "Genie_Wealth",
+    "source": "Wealth",
+    "allowedLatin": []
+  },
+  {
+    "key": "Genie_Power",
+    "source": "Might",
+    "allowedLatin": []
+  },
+  {
+    "key": "Nomad_Merchant_1",
+    "source": "...",
+    "allowedLatin": []
+  },
+  {
+    "key": "Nomad_Merchant_Thanks_2",
+    "source": "Hm.",
+    "allowedLatin": []
+  },
+  {
+    "key": "Duergar_Blacksmith_1",
+    "source": "...",
+    "allowedLatin": []
+  },
+  {
+    "key": "Soul_Forge_Blacksmith_1",
+    "source": "...",
+    "allowedLatin": []
+  },
+  {
+    "key": "Option_Talk",
+    "source": "Talk",
+    "allowedLatin": []
+  },
+  {
+    "key": "Option1",
+    "source": "Yes",
+    "allowedLatin": []
+  },
+  {
+    "key": "Option2",
+    "source": "No",
+    "allowedLatin": []
+  },
+  {
+    "key": "Exclamation_Mark",
+    "source": "!",
+    "allowedLatin": []
+  },
+  {
+    "key": "NPC_Tax_Collector_Choice_1",
+    "source": "Buy",
+    "allowedLatin": []
+  },
+  {
+    "key": "NPC_Tax_Collector_Choice_2",
+    "source": "Leave",
+    "allowedLatin": []
+  },
+  {
+    "key": "Enchantress_Talk",
+    "source": "Talk",
+    "allowedLatin": []
+  },
+  {
+    "key": "Old_Hag_Answer_Red",
+    "source": "Red",
+    "allowedLatin": []
+  },
+  {
+    "key": "Old_Hag_Answer_Blue",
+    "source": "Blue",
+    "allowedLatin": []
+  },
+  {
+    "key": "Old_Hag_Answer_Green",
+    "source": "Green",
+    "allowedLatin": []
+  },
+  {
+    "key": "Council_Of_Rats_Thinking",
+    "source": "...",
+    "allowedLatin": []
+  },
+  {
+    "key": "Frog_Princess_Answer_1",
+    "source": "*shrug*",
+    "allowedLatin": []
+  },
+  {
+    "key": "Option_Play",
+    "source": "Play",
+    "allowedLatin": []
+  },
+  {
+    "key": "Option_Leave",
+    "source": "Leave",
+    "allowedLatin": []
+  },
+  {
+    "key": "Museum_Scientist_Option_1",
+    "source": "Help",
+    "allowedLatin": []
+  },
+  {
+    "key": "Museum_Scientist_Option_2",
+    "source": "Deny",
+    "allowedLatin": []
+  },
+  {
+    "key": "Teleport_Symbol_Star",
+    "source": "Star",
+    "allowedLatin": []
+  },
+  {
+    "key": "Teleport_Symbol_Sun",
+    "source": "Sun",
+    "allowedLatin": []
+  },
+  {
+    "key": "Teleport_Symbol_Moon",
+    "source": "Moon",
+    "allowedLatin": []
+  },
+  {
+    "key": "Teleport_Symbol_Cancel",
+    "source": "Cancel",
+    "allowedLatin": []
+  },
+  {
+    "key": "Leviathan_Disciple_Choice_5",
+    "source": "Leave",
+    "allowedLatin": []
+  },
+  {
+    "key": "NPC_Saint_Nicholas_On_Decline",
+    "source": "That’s quite alright.\nSometimes, the greatest gift\nis the one we don’t take.",
+    "allowedLatin": []
+  },
+  {
+    "key": "NPC_Christkind_Prompt_2",
+    "source": "These <color=#5FCDE4>Ethereal Dice</color> are not about\nwinning or losing.\nThey are a reflection of faith—\nfaith in yourself, and in the path before you.\nDo you wish to carry them? <color=grey>(x3)</color>",
+    "allowedLatin": []
+  },
+  {
+    "key": "NPC_Christkind_On_Decline",
+    "source": "That’s alright.\nSometimes, the greatest answers\ncome not from tools, but from within.\nGo in peace.",
+    "allowedLatin": []
+  }
+]

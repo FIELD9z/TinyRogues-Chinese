@@ -601,11 +601,11 @@
     {
       "id": "dialogue.BOSS_Amon_4",
       "source": "You truly are an\nunstoppable force of evil.\nEven dethroning Death!",
-      "translation": "你真是不可阻挡的\n邪恶之力。\n甚至还 dethroned Death!",
+      "translation": "你真是不可阻挡的\n邪恶之力。\n竟然连死神都拉下了王座！",
       "context": "dialogue",
       "kind": "exact",
       "status": "translated",
-      "note": "原文来源 Dialogue_EN:BOSS_Amon_4"
+      "note": "原文来源 Dialogue_EN:BOSS_Amon_4；完整对话模块复核：补全英文语义／拟声，与物品圣剑译名一致。"
     },
     {
       "id": "dialogue.BOSS_Amon_5",
@@ -754,11 +754,11 @@
     {
       "id": "dialogue.BOSS_Arcane_Golem_3",
       "source": "ZIMmM-AWEio-MaEWOoa!",
-      "translation": "ZIMmM-AWEio-MaEWOoa!",
+      "translation": "滋姆——啊威哟——嘛呜哦啊！",
       "context": "dialogue",
       "kind": "exact",
       "status": "translated",
-      "note": "原文来源 Dialogue_EN:BOSS_Arcane_Golem_3"
+      "note": "原文来源 Dialogue_EN:BOSS_Arcane_Golem_3；完整对话模块复核：补全英文语义／拟声，与物品圣剑译名一致。"
     },
     {
       "id": "dialogue.BOSS_Arcane_Golem_Enrage",
@@ -979,11 +979,11 @@
     {
       "id": "dialogue.BOSS_Book_Golem_2",
       "source": "BZ-Z-z-AGu-rGya-gya!",
-      "translation": "BZ-Z-z-AGu-rGya-gya!",
+      "translation": "滋——滋——阿咕——嘎嘎！",
       "context": "dialogue",
       "kind": "exact",
       "status": "translated",
-      "note": "原文来源 Dialogue_EN:BOSS_Book_Golem_2"
+      "note": "原文来源 Dialogue_EN:BOSS_Book_Golem_2；完整对话模块复核：补全英文语义／拟声，与物品圣剑译名一致。"
     },
     {
       "id": "dialogue.BOSS_Book_Golem_Enrage",
@@ -1006,11 +1006,11 @@
     {
       "id": "dialogue.BOSS_Cerberus_2",
       "source": "GrR-R-RrRAOoOOAhHhH!",
-      "translation": "GrR-R-RrRAOoOOAhHhH!",
+      "translation": "咕噜噜——嗷呜啊啊啊！",
       "context": "dialogue",
       "kind": "exact",
       "status": "translated",
-      "note": "原文来源 Dialogue_EN:BOSS_Cerberus_2"
+      "note": "原文来源 Dialogue_EN:BOSS_Cerberus_2；完整对话模块复核：补全英文语义／拟声，与物品圣剑译名一致。"
     },
     {
       "id": "dialogue.BOSS_Cerberus_3",
@@ -2266,11 +2266,11 @@
     {
       "id": "dialogue.BOSS_Rock_Golem_2",
       "source": "R-ROLrlRlOhHh!",
-      "translation": "R-RO尔尔尔哦啊！",
+      "translation": "轰——隆隆隆——嗷啊！",
       "context": "dialogue",
       "kind": "exact",
       "status": "translated",
-      "note": "原文来源 Dialogue_EN:BOSS_Rock_Golem_2"
+      "note": "原文来源 Dialogue_EN:BOSS_Rock_Golem_2；完整对话模块复核：补全英文语义／拟声，与物品圣剑译名一致。"
     },
     {
       "id": "dialogue.BOSS_Rock_Golem_Enrage",
@@ -4651,11 +4651,11 @@
     {
       "id": "dialogue.Excalibur_1",
       "source": "Only a pure soul may\nwield the might of Excalibur.",
-      "translation": "只有纯洁的灵魂\n才能挥舞 Excalibur 的力量。",
+      "translation": "唯有纯洁的灵魂\n才能驾驭圣剑的力量。",
       "context": "dialogue",
       "kind": "exact",
       "status": "translated",
-      "note": "原文来源 Dialogue_EN:Excalibur_1"
+      "note": "原文来源 Dialogue_EN:Excalibur_1；完整对话模块复核：补全英文语义／拟声，与物品圣剑译名一致。"
     },
     {
       "id": "dialogue.Excalibur_2",

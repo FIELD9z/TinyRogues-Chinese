@@ -588,6 +588,15 @@
       "kind": "template",
       "status": "translated",
       "note": "完整技能教学句的改键版本，保留实际按键。"
+    },
+    {
+      "id": "tutorial.skill-followup.recovery-types",
+      "source": "<color=#26B0FF>Per Room</color>, <color=#26B0FF>Per Second</color> or <color=#26B0FF>Per Enemy</color>.",
+      "translation": "<color=#26B0FF>每个房间</color>、<color=#26B0FF>每秒</color>或<color=#26B0FF>每个敌人</color>。",
+      "context": "dialogue",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SkillTutorial.Messages[6] 完整原生句；不匹配逐字显示片段。"
     }
   ]
 }

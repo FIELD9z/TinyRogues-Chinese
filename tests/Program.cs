@@ -202,6 +202,73 @@ foreach (var state in interactionStates)
 Check(catalog.TryTranslateLabel("Your world tier is now <color=#123456>7</color>.", "styled-ui", out var tierState) && tierState.Contains(">7<"), "World tier depended on one number/color");
 Check(!catalog.TryTranslateLabel("> Unknown Future Option", "styled-ui", out _), "Selected unknown option guessed");
 Check(!catalog.TryTranslateLabel("UNKNOWN\u00a0FUTURE\u00a0TITLE", "styled-ui", out _), "Unknown NBSP title guessed");
+var characterContext = "ui:Module/Character Panel/Stat Line/Value";
+var characterSamples = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "character-module.json")))!;
+foreach (var source in characterSamples)
+{
+    Check(CharacterPanelTexts.TryTranslate(catalog, source, characterContext, out var target), "Character field not translated: " + source);
+    Check(!System.Text.RegularExpressions.Regex.IsMatch(System.Text.RegularExpressions.Regex.Replace(target, "<[^>]*>", ""), "[A-Za-z]"), "Character field retained English: " + target);
+    Check(System.Text.RegularExpressions.Regex.Matches(source, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(target, "<[^>]*>").Select(m => m.Value)), "Character field changed tag/icon sequence");
+}
+var characterDamage = "<color=#123456>137\u00a0to\u00a0249</color>\u00a0<color=#654321>Slashing</color> ";
+Check(CharacterPanelTexts.TryTranslate(catalog, characterDamage, characterContext, out var damageTarget) && damageTarget.Contains("137至249") && damageTarget.Contains("斩击"), "Character damage range/value failed");
+Check(!CharacterPanelTexts.TryTranslate(catalog, characterDamage, "ui:Dialogue/Value", out _), "Character value grammar escaped its panel");
+Check(!CharacterPanelTexts.TryTranslate(catalog, "Unknown\u00a0future\u00a0stat", characterContext, out var unknownStat) && unknownStat == "Unknown\u00a0future\u00a0stat", "Unknown character value changed");
+Check(CharacterPanelTexts.TryTranslate(catalog, "<color=#123456><sprite name=\"SubArrow\">Per Point While Under Cap</color>:", characterContext, out var arbitraryColor) && arbitraryColor.Contains("#123456") && arbitraryColor.Contains("未超过上限"), "Character label depended on original color");
+var gainedLuck = "等级达到[[7]]时，你获得<color=#123456>+9</color>幸运<sprite name=\"Luck\">， [[11]] and [[13]].";
+Check(Tr(catalog, gainedLuck, "class-ability-generated") == "等级达到 [[7]]、[[11]] 和 [[13]] 时，你获得<color=#123456>+9</color>幸运<sprite name=\"Luck\">。", "Complete class ability lost level progression or values");
+var delayedStatus = "Deals <color=#123456>217 to 431</color> Physical  Damage after <color=#654321>3.5</color> second.";
+var shopPrice = "<color=#123456><mtop>Price:</color> <color=#654321>357</color> <color=#123456>Gold<sprite name=\"Gold\"></color>";
+catalog.TryTranslateLabel(shopPrice, "styled-ui", out var shopPriceTarget);
+Check(shopPriceTarget.Contains("价格") && shopPriceTarget.Contains("357") && shopPriceTarget.Contains("金币") && !shopPriceTarget.Contains("Price"), "Shop price failed independent values and colors");
+Check(System.Text.RegularExpressions.Regex.Matches(shopPrice, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(shopPriceTarget, "<[^>]*>").Select(m => m.Value)), "Shop price changed native tags/icons");
+Check(!catalog.TryTranslateLabel("Price: 37 UnknownFutureCurrency", "styled-ui", out _), "Unknown shop currency was guessed");
+Check(catalog.TryTranslateLabel("<color=#123456>Crystal</color> <color=#654321>Armor</color>", "styled-ui", out var crystalTitle) && crystalTitle.Contains("水晶护甲"), "Multi-color item title failed complete-name lookup");
+Check(!catalog.TryTranslateLabel("<color=#123456>Unknown Future</color> <color=#654321>Armor</color>", "styled-ui", out _), "Unknown multi-color item title was partly translated");
+var setBadgeCard = "Set Helmet\n+20 Equip Load\nKnown Item [Helmet]\nOther Item [Body\u00a0Armor]\nUnknown Item [Unknown Future Slot]";
+Check(catalog.TryTranslateLabel("<color=#FFDB59><color=#FFDB59>Rare</color></color> <color=#808080>Charm</color>\n•负重上限<color=#00E61A>+15</color><color=#26B0FF>\nAttunement: 1/1</color>", "styled-ui", out var charmCard) && charmCard.Contains("护符") && !charmCard.Contains("魅惑"), "Charm equipment header was mistaken for status effect: " + charmCard);
+Check(catalog.TryTranslateLabel("The <color=#FF3326>Burning</color> Hells 2", "floor-name", out var floorName) && !floorName.Contains("Hells") && floorName.Contains("2"), "Styled floor name missed its scoped lookup");
+Check(catalog.TryTranslateLabel("<color=#5ECCE3>Soul</color> <color=#45D6C5>Crystal</color>", "enemy-name", out var enemyName) && !enemyName.Contains("Crystal"), "Styled enemy name missed its scoped lookup");
+Check(catalog.TryTranslateLabel("Cursed\n<color=#FFFFFF>金币</color>", "styled-ui", out var cursedDoor) && cursedDoor.StartsWith("诅咒\n"), "Cursed door lost a nested translated reward title");
+Check(!catalog.TryTranslateLabel("Cursed\nUnknown Future Reward", "styled-ui", out _), "Door prefix guessed an unknown reward title");
+var attributeOffer = "<color=#123456>+7</color> EXP\n攻击速度<color=#654321>+3%</color>\n移动速度<color=#ABCDEF>+0.75%</color>\n";
+Check(catalog.TryTranslateLabel(attributeOffer, "styled-ui", out var attributeOfferTarget) && !attributeOfferTarget.Contains("EXP") && attributeOfferTarget.Contains("+0.75%") && attributeOfferTarget.Contains("+7"), "Complete attribute reward tooltip missed EXP or altered values");
+Check(catalog.TryTranslateLabel("<color=#5ECCE3>Price:</color> <color=#FF0000>37</color> <color=#00FFFF><color=#5ECCE3>Souls</color><sprite name=\"Soul\"></color>", "styled-ui", out var soulPrice) && soulPrice.Contains("37") && soulPrice.Contains("灵魂") && !soulPrice.Contains("Price"), "Plural soul currency failed the price schema");
+Check(WeaponCards.TryTranslate(catalog, setBadgeCard, out var setBadgeTarget) && setBadgeTarget.Contains("[头盔]") && setBadgeTarget.Contains("[胸甲]") && setBadgeTarget.Contains("[Unknown Future Slot]"), "Detailed set card failed known slot badges or guessed an unknown slot");
+Check(CollectibleCards.Translate(catalog, "//Consumable | //Tome\nReplace a Trait with\nUnknown Future Trait").Contains("将一项特性替换为\nUnknown Future Trait"), "Trait tome header was missed or unknown trait was changed");
+var splashSources = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "menu-splash-module.json")))!;
+using (var worldNames = System.Text.Json.JsonDocument.Parse(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "world-names-module.json"))))
+{
+    Check(worldNames.RootElement.GetArrayLength() == 230, "World name source inventory changed");
+    foreach (var row in worldNames.RootElement.EnumerateArray())
+        Check(Tr(catalog, row.GetProperty("source").GetString()!, row.GetProperty("context").GetString()!) == row.GetProperty("translation").GetString(), "World name missing from its native context: " + row.GetProperty("source").GetString());
+}
+Check(splashSources.Length == 121, "Splash source inventory changed unexpectedly");
+foreach (var splashSource in splashSources)
+{
+    Check(catalog.TryTranslate(splashSource, "*", out var splashTarget), "Missing complete splash: " + splashSource);
+    Check(splashTarget.Contains('\n') == splashSource.Contains('\n'), "Splash line structure changed");
+}
+var delayedTarget = StatusEffectDescriptions.Translate(catalog, delayedStatus);
+Check(!delayedTarget.Contains("Deals") && delayedTarget.Contains("217") && delayedTarget.Contains("431") && delayedTarget.Contains("3.5"), "Delayed status failed with independent values");
+Check(System.Text.RegularExpressions.Regex.Matches(delayedStatus, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(delayedTarget, "<[^>]*>").Select(m => m.Value)), "Status translation changed color tag sequence");
+Check(StatusEffectDescriptions.Translate(catalog, "Unknown future status. [3 stacks]") == "Unknown future status. [3 层]", "Status parser guessed unknown prose or lost known badge");
+var cappedStatus = StatusEffectDescriptions.Translate(catalog, "Max Stacks: <color=#FFFFFF>37</color>");
+Check(!cappedStatus.Contains("Max") && cappedStatus.Contains("37"), "Status parser partially translated Max Stacks");
+var nestedAura = "Grants a //寒冷光环 that deals <color=#123456>17 to 63</color> Cold  Damage 7 times per second. <color=#808080>[周期]</color>";
+Check(!TraitDescriptions.Translate(catalog, nestedAura).Contains("Grants"), "Nested translated status name blocked complete trait rule");
+var skillGenerated = "造成<color=#123456>317 to 489</color><se> Fire伤害，持续<color=#123456>7.25<se> seconds</color>。\n<color=#808080>(*)Charge Time: </color><color=#123456>Instant</color><color=#808080> (0.75 Seconds Cooldown)</color>\n<color=#808080>(*)##Mana Refill: </color>every <color=#123456>17 </color><color=#FFFFFF>Enemies </color><color=#808080>(Boss<Arrow>[[x2]])</color>";
+var skillTarget = SkillDescriptions.Translate(catalog, skillGenerated);
+Check(!System.Text.RegularExpressions.Regex.IsMatch(System.Text.RegularExpressions.Regex.Replace(skillTarget, "<[^>]*>", "").Replace("x2", ""), "[A-Za-z]"), "Generated skill fields or units remain English");
+Check(skillTarget.Contains("317至489") && skillTarget.Contains("7.25") && skillTarget.Contains("0.75") && skillTarget.Contains("17") && skillTarget.Contains("[[x2]]"), "Skill values changed");
+Check(System.Text.RegularExpressions.Regex.Matches(skillGenerated, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(skillTarget, "<[^>]*>").Select(m => m.Value)), "Skill tags changed");
+Check(SkillDescriptions.Translate(catalog, skillTarget) == skillTarget, "Nested skill callbacks are not idempotent");
+Check(SkillDescriptions.Translate(catalog, "Unknown future skill.") == "Unknown future skill.", "Skill parser guessed unknown prose");
+Check(SkillDescriptions.Translate(catalog, "7.5 times per second") == "每秒7.5次", "Skill frequency unit reversed");
+var setCard = "<color=#00B824>\n3-Set: </color><color=#00B824>Angel Disguise</color>\n<color=#00B824><sprite name=\"SubArrowGreen\">Angelic Hood</color><color=#808080> [Helmet]</color>\n<color=#808080><sprite name=\"SubArrowGrey\">Angelic Ring</color><color=#808080> [Accessory]</color>\n•Unknown future effect.";
+Check(SetCards.TryTranslate(catalog, setCard, out var setTarget) && setTarget.Contains("3件套：") && setTarget.Contains("天使伪装") && !setTarget.Contains("Angelic") && !setTarget.Contains("Helmet"), "Independent set header/components were missed");
+Check(setTarget.EndsWith("•Unknown future effect."), "Set parser guessed unknown effect prose");
+Check(System.Text.RegularExpressions.Regex.Matches(setCard, "<sprite[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(setTarget, "<sprite[^>]*>").Select(m => m.Value)), "Set component icons changed");
 Console.WriteLine($"PASS: {checks} behavioral checks; {catalog.EntryCount} independently authored active entries across {files.Length} packs.");
 return 0;
 }

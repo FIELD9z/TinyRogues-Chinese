@@ -398,7 +398,7 @@
     {
       "id": "skill.asset.f15e99e542418d2a2a19",
       "source": "Create a ##magic circle on the ground. While standing inside the circle you deal (bonus).\n<lb>The circle lasts forever but only [[1]] circle can exist at a time.<lb>\n(CastTime)",
-      "translation": "在地面创造一个##魔法阵。站在法阵内时，你会造成(bonus)。\n<lb>法阵会永久存在，但同时只能有[[1]]个法阵。<lb>\n(CastTime)",
+      "translation": "在地面创造一个##魔法阵。站在法阵内时，(bonus)。\n<lb>法阵会永久存在，但同时只能有[[1]]个法阵。<lb>\n(CastTime)",
       "context": "skill-template",
       "kind": "exact",
       "status": "translated",
@@ -756,7 +756,7 @@
     {
       "id": "skill.asset.496a78d456d05ec195d5",
       "source": "Create a trench of ##fire that deals (damage) Damage (tickRate) for (duration).\n<lb>Projectiles fired through the wall by you or your allies gain (bonusDamage) Damage.<lb>\n(scaling)\n(CastTime)",
-      "translation": "制造一道##火焰壕沟，造成(damage)伤害，每(tickRate)持续(duration)。\n<lb>你或盟友穿过墙壁发射的投射物获得(bonusDamage)伤害。<lb>\n(scaling)\n(CastTime)",
+      "translation": "制造一道##火焰壕沟，以(tickRate)的频率造成(damage)伤害，持续(duration)。\n<lb>你或盟友穿过墙壁发射的投射物获得(bonusDamage)伤害。<lb>\n(scaling)\n(CastTime)",
       "context": "skill-template",
       "kind": "exact",
       "status": "translated",
@@ -854,7 +854,7 @@
     {
       "id": "skill.asset.51d66c3e96d30d3249f7",
       "source": "Unleash a barrage of missiles for (duration), ##firing a seeking missile (tickRate), dealing (damage) Damage.<lb>\n(scaling)\n(CastTime)",
-      "translation": "释放持续(duration)的导弹弹幕，##发射追踪导弹，每(tickRate)发射一次，造成(damage)伤害。<lb>\n(scaling)\n(CastTime)",
+      "translation": "释放持续(duration)的导弹弹幕，以(tickRate)的频率##发射追踪导弹，造成(damage)伤害。<lb>\n(scaling)\n(CastTime)",
       "context": "skill-template",
       "kind": "exact",
       "status": "translated",
@@ -1183,7 +1183,7 @@
     {
       "id": "skill.asset.0fce0a2ef4908e4db49f",
       "source": "Emit a holy light that destroys enemy projectiles for (duration).<lb>\nThe light also deals (damage) Damage (tickRate).\nIf you are wearing a Shield the light also inflicts Judgement.<lb>\n(CastTime)",
-      "translation": "释放神圣光芒，持续(duration)摧毁敌方投射物。<lb>\n光芒还会造成(damage)伤害，每(tickRate)一次。\n如果你装备盾牌，光芒还会施加审判。<lb>\n(CastTime)",
+      "translation": "释放神圣光芒，持续(duration)摧毁敌方投射物。<lb>\n光芒还会以(tickRate)的频率造成(damage)伤害。\n如果你装备盾牌，光芒还会施加审判。<lb>\n(CastTime)",
       "context": "skill-template",
       "kind": "exact",
       "status": "translated",

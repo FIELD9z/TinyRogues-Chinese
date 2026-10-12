@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "菜单设置模块补全",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "module.menu.1502539c8e14b1c5",
+      "source": "Reset Keyboard Bindings?",
+      "translation": "要重置键盘按键绑定吗？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版0.2.8.6菜单模块源文核对；metadata 9085/9086/9091/12355 或 resources.assets 77890。仅翻译显示文字，不执行对应重置操作。"
+    },
+    {
+      "id": "module.menu.1355e55610780612",
+      "source": "Reset Gamepad Bindings?",
+      "translation": "要重置手柄按键绑定吗？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版0.2.8.6菜单模块源文核对；metadata 9085/9086/9091/12355 或 resources.assets 77890。仅翻译显示文字，不执行对应重置操作。"
+    },
+    {
+      "id": "module.menu.e10f71970fb172d0",
+      "source": "Reset all options? <color=grey>(Will close the game. Re-open the game after.)</color>",
+      "translation": "要重置所有设置吗？<color=grey>（游戏将关闭，请随后重新启动游戏。）</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版0.2.8.6菜单模块源文核对；metadata 9085/9086/9091/12355 或 resources.assets 77890。仅翻译显示文字，不执行对应重置操作。"
+    },
+    {
+      "id": "module.menu.3c1c872097cc06ec",
+      "source": "Your <color=red>Input Bindings</color> have been reset.",
+      "translation": "你的<color=red>按键绑定</color>已重置。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版0.2.8.6菜单模块源文核对；metadata 9085/9086/9091/12355 或 resources.assets 77890。仅翻译显示文字，不执行对应重置操作。"
+    },
+    {
+      "id": "module.menu.378199fd17b6aedf",
+      "source": "One final<br>rest",
+      "translation": "最后一次<br>休憩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版0.2.8.6菜单模块源文核对；metadata 9085/9086/9091/12355 或 resources.assets 77890。仅翻译显示文字，不执行对应重置操作。"
+    },
+    {
+      "id": "module.menu.3767ce99e8c3ffb3",
+      "source": "One final\nrest",
+      "translation": "最后一次\n休憩",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原版0.2.8.6菜单模块源文核对；metadata 9085/9086/9091/12355 或 resources.assets 77890。仅翻译显示文字，不执行对应重置操作。"
+    }
+  ]
+}

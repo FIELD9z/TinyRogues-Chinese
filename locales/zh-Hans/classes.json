@@ -1171,8 +1171,8 @@
       "translation": "超新星",
       "context": "*",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "原版英文独立翻译；Player.Player_Class_Ability.PirateBountyClassAbility / resources.assets / 55960"
+      "status": "translated",
+      "note": "原版英文独立翻译；Player.Player_Class_Ability.PirateBountyClassAbility / resources.assets / 55960；原版海盗pirateEffects称号字段，采用既有译名超新星。"
     },
     {
       "id": "progression.asset.eedbccb2b594da6168ad",
@@ -1231,7 +1231,7 @@
     {
       "id": "progression.asset.4e592983220b422f263a",
       "source": "Whenever you open a Gift Box, gain either\n<SubArrow> [[+1]] Luck<Luck>, \n<SubArrow> [[+1]] Treasure Find<Treasure> or \n<SubArrow> [[+1]] Magic Find<Magic_Find>.",
-      "translation": "每次打开礼物盒，随机获得以下一种：\n<SubArrow> [[+1]] 幸运<Luck>， \n<SubArrow> [[+1]] 宝藏发现率<Treasure>，或 \n<SubArrow> [[+1]] 魔法发现率<Magic_Find>。",
+      "translation": "每次打开礼物盒，随机获得以下一种：\n<SubArrow> [[+1]] 幸运<Luck>， \n<SubArrow> [[+1]] 财宝寻获<Treasure>，或 \n<SubArrow> [[+1]] 魔法寻宝<Magic_Find>。",
       "context": "*",
       "kind": "exact",
       "status": "translated",

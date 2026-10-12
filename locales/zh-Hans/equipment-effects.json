@@ -1151,7 +1151,7 @@
     {
       "id": "equipment.deep.002524791fb4f8ae",
       "source": "Sneaky Hit Chance",
-      "translation": "隐匿命中率",
+      "translation": "狡诈命中率",
       "context": "display-value",
       "kind": "exact",
       "status": "translated"

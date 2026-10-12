@@ -978,8 +978,8 @@
       "translation": "躁狂",
       "context": "*",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "原版资源标明 UNUSED，禁用条目不默认启用。"
+      "status": "translated",
+      "note": "原生状态名称已核对；保留原有直译，不改变资源启用状态。"
     },
     {
       "id": "status.asset.669676f26704a56a48c3",
@@ -1158,8 +1158,8 @@
       "translation": "小小舞者",
       "context": "*",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "Tiny Dancer 可能歌曲典故，暂译后待考据。"
+      "status": "translated",
+      "note": "原生状态名称已核对；保留原有直译，不改变资源启用状态。"
     },
     {
       "id": "status.asset.fd86cef4ccd006b18432",
@@ -1351,7 +1351,7 @@
     {
       "id": "status.asset.13a6de0ad6b720f2e592",
       "source": "(x0) Magic Find<sprite name=\"Magic_Find\">",
-      "translation": "(x0) 魔法发现率<sprite name=\"Magic_Find\">",
+      "translation": "(x0) 魔法寻宝<sprite name=\"Magic_Find\">",
       "context": "description-template",
       "kind": "exact",
       "status": "needs-review",

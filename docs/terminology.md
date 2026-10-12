@@ -28,6 +28,8 @@
 | Lightning / Shock | 雷电／感电 | 伤害类型与状态。 |
 | Charm | 护符／魅惑 | 物品类别与状态分别处理。 |
 | Luck / Lucky Hit | 幸运／幸运命中 | 属性与命中体系分别处理。 |
+| Crushing / Ruthless / Lethal / Sneaky Hit | 粉碎／残酷／致命／狡诈命中 | 角色面板、装备与触发说明采用同一套命中类型名称。 |
+| Magic Find / Treasure Find | 魔法寻宝／财宝寻获 | 两个不同属性，面板与相关说明统一用词，保留原数值及百分号。 |
 | Increased / More | 提高／更多或乘算提高 | 根据实际公式确认加算与独立乘算，不能仅凭英文词猜测。 |
 
 ## 研究资料与使用方法

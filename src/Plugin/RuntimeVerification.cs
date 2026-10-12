@@ -13,6 +13,7 @@ public sealed class RuntimeVerification : MonoBehaviour
 {
     private float _begin;
     private float _messageBegin;
+    private float _dialogueBegin;
     private bool _started;
     private bool _finished;
     private float _exitAt;
@@ -32,16 +33,26 @@ public sealed class RuntimeVerification : MonoBehaviour
         if (_finished) return;
         try
         {
-            if (Time.unscaledTime - _begin > 35 + 2 * Math.Max(_opening.Length + 4, 15)) throw new InvalidOperationException("Native diagnostic timed out.");
+            if (!_started && Time.realtimeSinceStartup - _begin > 150
+                || _started && Time.realtimeSinceStartup - _dialogueBegin > 20 + 3 * (_opening.Length + 4))
+                throw new InvalidOperationException("Native diagnostic timed out.");
             if (Time.unscaledTime - _begin < 5) return;
             var controller = DialogueSystemController.Instance;
             if (controller == null || controller.text == null) return;
             if (!_started)
             {
+                DialogueModuleAudit.Run(controller);
+                ProgressionModuleAudit.Run();
+                SkillsStatsModuleAudit.Run();
+                CollectiblesModuleAudit.Run();
+                StatusEffectsModuleAudit.Run();
+                VerifyCharacterFixtures();
+                VerifySplashFixtures();
                 VerifyUI();
                 VerifyDescriptions();
                 VerifyRewardModule();
                 StartMessage(controller);
+                _dialogueBegin = Time.realtimeSinceStartup;
                 _started = true;
             }
             var visible = Regex.Replace(controller.text.text ?? "", "<[^>]*>", "");
@@ -75,6 +86,31 @@ public sealed class RuntimeVerification : MonoBehaviour
             Plugin.Current.Error($"INDEPENDENT SELFTEST FAIL: {error}");
             Application.Quit(2);
         }
+    }
+    private static void VerifySplashFixtures()
+    {
+        var path = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "menu-splash-module.json");
+        string[] sources;
+        using (var stream = File.OpenRead(path))
+            sources = (string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!;
+        if (sources.Length != 121) throw new InvalidDataException("Splash resource inventory changed.");
+        var label = UI.Title_Screen.SplashTextHandler.Instance?.textMeshProUGUI
+            ?? throw new InvalidOperationException("Native title splash label unavailable.");
+        var original = label.text;
+        try
+        {
+            foreach (var source in sources)
+            {
+                var expected = Plugin.Current.Translate(source, "*");
+                label.text = UI.Text.TextMeshProxy.ApplyColorToText(source, true, label);
+                if (label.text != expected || source != "UwU" && !Regex.IsMatch(label.text, "[\u4e00-\u9fff]"))
+                    throw new InvalidOperationException("Native splash mismatch: " + source + " -> " + label.text);
+                label.ForceMeshUpdate(true, true);
+                if (label.textInfo.characterCount == 0) throw new InvalidOperationException("Empty splash text mesh.");
+            }
+            Plugin.Current.Info($"NATIVE SPLASH PASS: {sources.Length} complete source strings through styling, assignment and text mesh generation.");
+        }
+        finally { label.text = original; }
     }
     private void StartMessage(DialogueSystemController controller)
     {
@@ -443,6 +479,33 @@ public sealed class RuntimeVerification : MonoBehaviour
         var newValues = numbers.Matches(plainAfter).Cast<Match>().Select(m => m.Value).OrderBy(x => x);
         if (!oldValues.SequenceEqual(newValues)) throw new InvalidOperationException($"Native rendered numbers changed: {name}: {before} -> {after}");
     }
+    private static void VerifyCharacterFixtures()
+    {
+        var root = new GameObject("Module diagnostic");
+        var panel = new GameObject("Character Panel"); panel.transform.SetParent(root.transform);
+        var line = new GameObject("Stat Line"); line.transform.SetParent(panel.transform);
+        var value = new GameObject("Value"); value.transform.SetParent(line.transform);
+        var label = value.AddComponent<TextMeshProUGUI>();
+        try
+        {
+            var path = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "character-module.json");
+            string[] sources;
+            using (var stream = File.OpenRead(path)) sources = (string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!;
+            if (sources.Length == 0) throw new InvalidDataException("Empty character module fixture.");
+            foreach (var source in sources)
+            {
+                foreach (var styled in new[] { false, true })
+                {
+                    label.text = styled ? UI.Text.TextMeshProxy.ApplyColorToText(source, true, label) : source;
+                    VerifyRenderedValues(source, label.text, "character module field");
+                    if (Regex.IsMatch(Regex.Replace(label.text, "<[^>]*>", ""), "[A-Za-z]"))
+                        throw new InvalidOperationException("Character module field retained English: " + source + " -> " + label.text);
+                }
+            }
+            Plugin.Current.Info($"CHARACTER FIELD REGRESSION PASS: {sources.Length} sources, direct TMP and native styling; full page audit recorded separately.");
+        }
+        finally { UnityEngine.Object.Destroy(root); }
+    }
     private static void VerifyUI()
     {
         var temporary = new GameObject("Independent localization diagnostic");
@@ -460,7 +523,7 @@ public sealed class RuntimeVerification : MonoBehaviour
             var markers = UI.Text.TextMeshProxy.ApplyColorToText("[[至]] ##技能 [[非暴击伤害提高 +25%]]", true, label);
             if (markers != "<color=#00E317>至</color> 技能 <color=#00E317>非暴击伤害提高 +25%</color>") throw new InvalidOperationException("Native prose marker processing changed.");
             if (UI.Text.TextMeshProxy.ReplaceBracketedWithRedColor("((清空))") != "<color=red>清空</color>") throw new InvalidOperationException("Native red prose marker failed.");
-            foreach (var fixtureName in new[] { "runtime-ui.json", "interaction-states.json" })
+            foreach (var fixtureName in new[] { "runtime-ui.json", "interaction-states.json", "menu-module.json" })
             {
             var fixtures = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", fixtureName);
             if (!File.Exists(fixtures)) throw new FileNotFoundException("UI fixtures required", fixtures);

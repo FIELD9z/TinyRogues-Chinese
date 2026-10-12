@@ -1,0 +1,223 @@
+{
+  "gameVersion": "0.2.8.6",
+  "date": "2026-10-12",
+  "coreChecks": 1875,
+  "runtimeActiveEntries": 8483,
+  "packCount": 43,
+  "note": "Counts describe enumerated resources and sampled native outputs, not a percentage of all game states. See modules.md for boundaries.",
+  "selftestLogSha256": "16e3d0dcdc630f570ec14ccc56d48cbaa28aabcda133742655caf1cd9896c134",
+  "audits": {
+    "dialogue-module-audit.json": {
+      "sha256": "515080f0fbe720efb08b7739ec2af33c986cb4482218a90deb86dbbced3cc2d2",
+      "rows": 1075,
+      "errors": 0
+    },
+    "progression-module-audit.json": {
+      "sha256": "90a02d5359e332756a46b98d89faff72f73ca07d8dcad940f9bf01f862b9237d",
+      "rows": 475,
+      "errors": 0
+    },
+    "skills-stats-module-audit.json": {
+      "sha256": "20deec457b2bfc1d5fa6523ac75d2c5fcd526358399c77d340d10be35dca4ce0",
+      "rows": 3440,
+      "errors": 0,
+      "families": {
+        "form": 64,
+        "set": 196,
+        "skill": 136,
+        "owner-trait": 14,
+        "owner-equipment": 2,
+        "stat": 3028
+      },
+      "intermediateRows": 48,
+      "intermediateResources": 12
+    },
+    "status-effects-module-audit.json": {
+      "sha256": "941ad4ef2052c3fc15b8de8a350c92381a6ad41564d14b371fb1dbb91f0f56c8",
+      "rows": 4349,
+      "errors": 0
+    },
+    "collectibles-module-audit.json": {
+      "sha256": "5200dd2e5be7f93eb2cebc6b6fe9294d35528497692736482120d030501414fa",
+      "rows": 1453,
+      "errors": 0
+    },
+    "trait-module-audit.json": {
+      "sha256": "a9a1055bac6b6d4550d349be79b36c8be1bdc0095b5ceb71d8fc719e76ca983e",
+      "rows": 292,
+      "errors": 0
+    },
+    "reward-module-audit.json": {
+      "sha256": "962ac24d367941dbd7a6c0be199f744e27eb124d15610257c6f7a1bc2cf5c87a",
+      "rows": 322,
+      "errors": 0
+    },
+    "weapon-name-issues.json": {
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "issues": 0
+    },
+    "weapon-card-issues.json": {
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "issues": 0
+    },
+    "equipment-card-issues.json": {
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "issues": 0
+    }
+  },
+  "captures": {
+    "character-panel-translated.jsonl": {
+      "sha256": "f7ef202f03620124a00c9849ace31cfe25a2500e763551a053aabc0da86bb649",
+      "rows": 356,
+      "captureFile": "character-panel-translated.jsonl",
+      "pages": {
+        "general": 77,
+        "offense": 115,
+        "defense": 59,
+        "misc": 105
+      },
+      "approximatelyVisibleRows": 313
+    },
+    "menu-module-translated.jsonl": {
+      "sha256": "84b6f5171d36307b4a299c8c79ba61a1b363664121e65422960ae21c01ed03d1",
+      "rows": 929,
+      "captureFile": "menu-module-translated.jsonl",
+      "pages": {
+        "title-before-options": 407,
+        "options-initial": 286,
+        "options-tab:音频": 47,
+        "options-tab:控制": 39,
+        "options-tab:手柄": 38,
+        "options-tab:游戏体验": 6,
+        "options-tab:键盘": 80,
+        "options-tab:视频": 26
+      },
+      "approximatelyVisibleRows": 253
+    },
+    "ending-menu-translated.jsonl": {
+      "sha256": "a1b3a018a8f9db238206b7a1c0adc52cbfd52336340787b14fff6f302a802bb1",
+      "rows": 12158,
+      "captureFile": "ending-menu-translated.jsonl",
+      "pages": {
+        "pause": 471,
+        "give-up-confirmation": 471,
+        "death+0.0s": 471,
+        "death+0.5s": 468,
+        "death+1.0s": 468,
+        "death+1.5s": 468,
+        "death+2.0s": 468,
+        "death+2.5s": 467,
+        "death+3.0s": 467,
+        "death+3.5s": 467,
+        "death+4.0s": 467,
+        "death+4.5s": 467,
+        "death+5.0s": 467,
+        "death+5.5s": 467,
+        "death+6.0s": 467,
+        "death+6.5s": 467,
+        "death+7.0s": 467,
+        "death+7.5s": 467,
+        "death+8.0s": 467,
+        "death+8.5s": 467,
+        "death+9.0s": 467,
+        "death+9.5s": 467,
+        "death+10.0s": 467,
+        "death+10.5s": 467,
+        "death+11.0s": 467,
+        "death+11.5s": 467
+      },
+      "approximatelyVisibleRows": 492
+    },
+    "world-module-translated.jsonl": {
+      "sha256": "b476a9a536b1004d1508cfc4a08f4700cb7baaec17f93e963b061759294cb3f0",
+      "rows": 42266,
+      "captureFile": "world-module-translated.jsonl",
+      "kinds": {
+        "enemy-name": 236,
+        "floor-title": 25,
+        "room-config": 196,
+        "specific-room-door-resource": 4,
+        "door-state": 35136,
+        "probe-skip": 32,
+        "scene-tmp": 2231,
+        "summary": 31,
+        "native-door-branch": 6,
+        "shop-offer-state": 1456,
+        "shop-offer-price=10": 56,
+        "shop-offer-price=0": 584,
+        "shop-offer-price=1": 584,
+        "shop-offer-price=99": 584,
+        "shop-offer-price=999": 584,
+        "shop-offer-price=12": 32,
+        "shop-offer-price=7": 64,
+        "shop-offer-price=6": 40,
+        "shop-offer-price=3": 16,
+        "shop-offer-price=5": 96,
+        "shop-offer-price=4": 24,
+        "shop-offer-price=31": 8,
+        "shop-offer-price=20": 8,
+        "shop-offer-price=18": 16,
+        "shop-offer-price=9": 24,
+        "shop-offer-price=8": 72,
+        "shop-offer-price=14": 8,
+        "shop-offer-price=17": 24,
+        "shop-offer-price=11": 16,
+        "shop-offer-price=19": 8,
+        "shop-offer-price=16": 16,
+        "shop-offer-price=39": 8,
+        "shop-offer-price=33": 16,
+        "shop-offer-price=46": 8,
+        "shop-offer-price=22": 8,
+        "shop-offer-price=27": 8,
+        "live-boss-name": 1
+      },
+      "errors": 0
+    }
+  },
+  "locales": {
+    "audit-descriptions.json": "e3cd423d73c735a447790865744ea154da9212184435afc70a790dbfeddefd2f",
+    "audit-ui.json": "888bb8d82a3f134e0afa4f37fd1ac8e42d3adbf92f195b064e68cd5a04c01579",
+    "character-module.json": "5be39d3c8a7c171050476a76c88a8011208ae1059686331354a3a5e05e743f71",
+    "cinder.json": "f5e059bb13c01061e0105cbcfaa05b9ce7a0b6a1ecd2aaea2c97450b9c5007eb",
+    "classes.json": "26316c429549bdd6dcb87fd01cb8d51e75886a24913199843bec4e21a651f5fe",
+    "collectible-module.json": "195f59751ae60e1d1848d826df608d220bbc1acf26f1f7a160d4ecd5fb03f92a",
+    "consumables.json": "237542ba68c8aa156bf8938ab5c2bf568f7109d4c5b04211279edc36798e29ef",
+    "core.json": "c8b195dff8817f89961c3d084f90c74d75845f104d35583f383cf325f621733b",
+    "cross-audit.json": "f6e6220cf2156d974108a419d7082363ef2644575f442c9df0519d5fccdc20aa",
+    "dialogue-a.json": "d9ffe0507522602dc6c21ea42ed64c7aeaf5f768c9c17e906b9ef5e64abfcb0a",
+    "dialogue-b.json": "496ce601fb44abde5778b1a503af7a04f0acc6be5ddbc749c402c9c0f157d33b",
+    "dialogue-extra.json": "5d546fafc92d838b20730ffb2b6102d4b55b87c81d77bd5e7b7e8e6f9f7210e8",
+    "dynamic-cards.json": "ef01cc10f915deb767853f3a12d3f115c46ff9fcf115b4e4a14c0f7797740cb1",
+    "dynamic.json": "63a4107f890e840dd54176467f955fd15e31ffd4624447e17d221e5cb485bc96",
+    "equipment-effects.json": "3224db6ed385829244eb5af393b638a527b9b5422c184163a76499d557bd49f0",
+    "equipment-ui.json": "c9f3cc1c3971e2769f1b9a5ddb8a196e32d10bf4c6595b4f7e934a394e7a654d",
+    "equipment.json": "9fa99442c8c1c5724252e0dad05aaf38273c022e2120e3760ca7dd1ec1c9e3b6",
+    "interaction-states.json": "cdc6c7fca33a08202db865f0ddd7d2d1e840cfe7a03ab50555cad89ca947bc1a",
+    "mastery-perks.json": "ea0fa9eb5c80289df6bd6b12c351592bfe12156f7ff3f8a0c26762793dea3d36",
+    "mechanics.json": "7d269b1a719ae6c640943333186d62ed9ee9f49821e11ee314591c0f13acd689",
+    "menu-module.json": "9ca35caa10628ef4bd71e0ea48fea7c6a772ae0d45763db9e84c07713ea7af3b",
+    "menu-splash-module.json": "afb7e5ce6ead897aa283531c9ad713ec0052c2e6cf62e1e3703039105c74a53e",
+    "progress-ui.json": "b5cac83aff1337d46a826bc64fecc09ca737656f5d0725c35cc369c3b7069061",
+    "progression-module.json": "d8bfc63fa0f5d1e0d38503dc3bfe13a5ebe3b3f8b0dc7daa39d8b212056258ee",
+    "rewards.json": "264e0c49738e3901623ec0cba515d760e96ea951af0d82a424f3d5fb051acd14",
+    "runtime-ui.json": "50830ddd720a6f97e3277b443519f4b20d109a3a2e4f4849394a99a7e4d45409",
+    "shop-module.json": "9dfc9b4a113c810a09315a4a446a70b16816f61daa898978532902f870f79b64",
+    "skill-module.json": "dac609a1eace44659431d2bac1a95b0b9c5b34c52f53178438c63f4d2d2c2b56",
+    "skills.json": "c29f87617b7412d801120836c0b1c6e1635c0c0796b471c3043253c5cd5786fa",
+    "status-effects.json": "186e96afdc7166a847ff50d94f70952e785b10b3910d9e1d8e16f6a3a460edd1",
+    "status-module.json": "232cfbd6b4df3d2d497dfee23ebdd7f626028182f7f94af9150f3019b180be5d",
+    "trait-module.json": "ba47816ee32889c160ef3d24e8c680db1378701a1215f197072a370b836cbb09",
+    "trait-ui.json": "cd6589466bf5e6e02dedb9297ec7179d92a23c929edc42650871d72d5f4d973e",
+    "traits.json": "48627cbe9da594140fca5ea05407200f627d43f4a8d16b7fa3488494a7f09f49",
+    "trigger-effects.json": "361a2c04d341ed4e20861b4675a7c044dfbb32859a7b7e92e0617f61d3a81652",
+    "tutorial.json": "74fbc456e2e96a1d2f0842ae400a48b1704636adebb4ed171fba80816be35ba5",
+    "ui.json": "7b1613f1fff933d19a095a05b4bb22c4a4ca613d11de3b8282f74f04fbe3029e",
+    "unlocks.json": "2e6bd5b5033761b4fa309c5954d651f27ee1f92ddb5a0fc02dc5d664b71ca672",
+    "weapon-cards.json": "edb5733af8b67f771af9b8fc481df88b9d7bbf353cebb34f4300009411207470",
+    "weapon-effects.json": "01513462f642e00d6f35df426a4451d48a51954a44043130d334f003e4256136",
+    "weapons.json": "b5dc5efdcb8c970049cc5a18b1b70ff0a7cd4f6a7cc2ccd2dd8a5efbe24f81e4",
+    "world-names-module.json": "b1ad8196ec3d87e04ad5487edf645dcf49f21423d9b22fd6b7a8cd8eb489ad65",
+    "world-objectives.json": "c36be954674698fdaec98da45fb1a6c47ffded0ad14f755f4730bd6da7203c0c"
+  },
+  "dllSha256": "f002691f751fe18900b7b33ea60e928867c606e66b36852b3bc3e3e8bcb9606d"
+}

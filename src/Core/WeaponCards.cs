@@ -29,6 +29,8 @@ public static class WeaponCards
         var lines = source.Split('\n');
         for (var index = 0; index < lines.Length; index++)
         {
+            lines[index] = Regex.Replace(lines[index], @"\[(?<value>(?:<[^>]*>|[^\[\]\r\n]){1,160})\]", badge =>
+                catalog.TryTranslateRichLine(badge.Groups["value"].Value, "weapon-card-badge", out var value) ? "[" + value + "]" : badge.Value);
             var visible = Tags.Replace(lines[index], "").Replace("##", "").TrimStart(' ', '•');
             var field = Fields.FirstOrDefault(value => visible.StartsWith(value, StringComparison.Ordinal));
             // Only the header and the five known stat rows belong to this schema.
@@ -44,7 +46,9 @@ public static class WeaponCards
             var translateTerms = index == 0 || field == "Weapon Type:" || field == "Weapon Range:" || field == "Attack Damage:" || field == "Inflicts:" || field == "Grants:";
             lines[index] = Runs.Replace(lines[index], run => run.Value.StartsWith("<", StringComparison.Ordinal)
                 ? run.Value : TranslateRun(catalog, run.Value, field, translateTerms));
-            lines[index] = DisplayValues.RunsIn(catalog, lines[index]);
+            // A slot header uses the card vocabulary. In effects, the same
+            // English word "Charm" names the status effect instead.
+            if (index != 0) lines[index] = DisplayValues.RunsIn(catalog, lines[index]);
         }
         target = string.Join("\n", lines);
         return target != source;

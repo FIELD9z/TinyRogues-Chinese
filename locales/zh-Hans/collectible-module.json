@@ -1,0 +1,2105 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "消耗品与同伴模块卡片",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "module.collectible.b2e8e0a30fbd4c2d",
+      "source": "Consumable",
+      "translation": "消耗品",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.70fe4742b46cf2e3",
+      "source": "Companion",
+      "translation": "同伴",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.59a9d814ddf9d637",
+      "source": "Material",
+      "translation": "材料",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.850c69d131f99c87",
+      "source": "Treasure",
+      "translation": "财宝",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.08ab5b0944942f69",
+      "source": "Legendary",
+      "translation": "传说",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.867bc88b02308a95",
+      "source": "Uncommon",
+      "translation": "优秀",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.72903f1e2102da06",
+      "source": "Common",
+      "translation": "普通",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.939a195f40a7b4aa",
+      "source": "Rare",
+      "translation": "稀有",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.71824dbce162f47b",
+      "source": "Epic",
+      "translation": "史诗",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.0d907d32676328c7",
+      "source": "Potion",
+      "translation": "药水",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5fb5c57bdfeffdcd",
+      "source": "Infusion",
+      "translation": "浸剂",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.8faa3974a2302bcd",
+      "source": "Vitamin",
+      "translation": "维生素",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.66dd897ae8541167",
+      "source": "Blessing",
+      "translation": "祝福",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f03d0936f19bdf02",
+      "source": "Booze",
+      "translation": "酒",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.2b067a3885af356e",
+      "source": "Buff",
+      "translation": "增益",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ddf6470649d590d6",
+      "source": "Tick",
+      "translation": "周期",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.eda6fa65125dfc5c",
+      "source": "Tome",
+      "translation": "典籍",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.d6e8cecd5a32c6a2",
+      "source": "Item",
+      "translation": "物品",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.fb4a0ae9f3d13a54",
+      "source": "Fishing Booty",
+      "translation": "钓鱼收获",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.35c62230d385a64e",
+      "source": "Gift Box",
+      "translation": "礼物盒",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.02169d91da2b7f57",
+      "source": "Tipsiness Duration",
+      "translation": "微醺持续时间",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5226046f189afc00",
+      "source": "Tipsiness Limit",
+      "translation": "微醺上限",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.df1c5c6f81af2b70",
+      "source": "Summon Limit:",
+      "translation": "召唤上限：",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f7ea3cd6446c0f90",
+      "source": "Attack Damage:",
+      "translation": "攻击伤害：",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.3a52f3b7c2bd3e8a",
+      "source": "Attack Speed:",
+      "translation": "攻击速度：",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.d8e4b00b127831b5",
+      "source": "Damage Scaling:",
+      "translation": "属性补正：",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.38fb34ff17ed9c71",
+      "source": "Each Grants:",
+      "translation": "每个提供：",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.428922c0dc7d3840",
+      "source": "Max Stacks:",
+      "translation": "叠加上限：",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.994c9700f03628fa",
+      "source": "Duration:",
+      "translation": "持续时间：",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c53f61e5cea426a0",
+      "source": "Inflicts:",
+      "translation": "施加：",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.d722c757045d10d8",
+      "source": "Permanent",
+      "translation": "永久",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.08b4cc92a05581d9",
+      "source": "//Rupture",
+      "translation": "//破裂",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.64556d1492e5f4d7",
+      "source": "//Scorch",
+      "translation": "//灼烧",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ab7f4e8af8869d24",
+      "source": "//Judgement",
+      "translation": "//审判",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c82396dda22c0da0",
+      "source": "//Poison",
+      "translation": "//中毒",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.40cab71f7d8005f7",
+      "source": "//Sticky //Goo",
+      "translation": "//黏性 //黏液",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e62d2efe432914d0",
+      "source": "//Corruption",
+      "translation": "//腐化",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.79e9ffb58f40e12b",
+      "source": "//Fear",
+      "translation": "//恐惧",
+      "context": "collectible-card-term",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.a305648e3c78b693",
+      "source": "Shares stacks with other Booze.",
+      "translation": "与其他酒类共享层数。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c39c23e55eba11d6",
+      "source": "Duration: {number:n} rooms",
+      "translation": "持续时间：{number:n} 个房间",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.bcdff676c9abb58b",
+      "source": "Duration: {number:n} room",
+      "translation": "持续时间：{number:n} 个房间",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.d62e3919cc827c3b",
+      "source": "Duration: {number:n} seconds",
+      "translation": "持续时间：{number:n} 秒",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.1d491d3d47f13819",
+      "source": "Permanently grants {text:effect}.",
+      "translation": "永久获得{text:effect}。",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.eda138774967b08c",
+      "source": "Replenish Progress: {number:n}",
+      "translation": "补充进度：{number:n}",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.387514fc1a323558",
+      "source": "Creation Progress: {number:n}",
+      "translation": "制作进度：{number:n}",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c4724a2a03bc7a8b",
+      "source": "[Uses left: [[{number:n}]]]",
+      "translation": "[剩余次数：[[{number:n}]]]",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.2f57e9bcf0024b9c",
+      "source": "Summons {term:companion} Companions.",
+      "translation": "召唤{term:companion}同伴。",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e6ad3957f8e53203",
+      "source": "{number:n} missing Heart",
+      "translation": "{number:n} 颗空心",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.cf085e3a569d2c4e",
+      "source": "Each Grants: {number:n} missing Heart",
+      "translation": "每个提供：{number:n} 颗空心",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.0974beae5cc99047",
+      "source": "Worth at least {number:n} Gold.",
+      "translation": "至少价值 {number:n} 金币。",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.59051c22e634cbf0",
+      "source": "Grants {number:n} Souls on consumption.",
+      "translation": "使用时获得 {number:n} 灵魂。",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.bbc77311eda2fc96",
+      "source": "Recover {number:n} Heart on Room Completion.",
+      "translation": "完成房间时恢复 {number:n} 颗红心。",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.a03204c39fec2796",
+      "source": "{number:n} Magic Find",
+      "translation": "魔法寻宝 {number:n}",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c1cfcb036f1819d4",
+      "source": "Summons Squirrel Companions.",
+      "translation": "召唤松鼠同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.2d753badd8adcd39",
+      "source": "Squirrel",
+      "translation": "松鼠",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ed2448ec9b995a52",
+      "source": "Summons Automaton Companions.",
+      "translation": "召唤自动机同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.2fc32c220703d35f",
+      "source": "Automaton",
+      "translation": "自动机",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.1927b2bdabf248eb",
+      "source": "Summons Monkey Companions.",
+      "translation": "召唤猴子同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.be7ce271da7055a0",
+      "source": "Monkey",
+      "translation": "猴子",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e2ce06999f44b94f",
+      "source": "Summons Canary Companions.",
+      "translation": "召唤金丝雀同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.2eacaac49817c607",
+      "source": "Canary",
+      "translation": "金丝雀",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c6a4da60301ebccf",
+      "source": "Summons Leech Companions.",
+      "translation": "召唤水蛭同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f35da9a1b88b469e",
+      "source": "Leech",
+      "translation": "水蛭",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.aa9fb1b9bbe3043e",
+      "source": "Summons Blue Cap Shroom Companions.",
+      "translation": "召唤蓝帽蘑菇同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.afc57f07b29bf578",
+      "source": "Blue Cap Shroom",
+      "translation": "蓝帽蘑菇",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.fa97d836e8f436e4",
+      "source": "Summons Boar Companions.",
+      "translation": "召唤野猪同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.94d7b1becf618a28",
+      "source": "Boar",
+      "translation": "野猪",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ef85713817c506f6",
+      "source": "Summons Kangaroo Companions.",
+      "translation": "召唤袋鼠同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c453c21dbe8db809",
+      "source": "Kangaroo",
+      "translation": "袋鼠",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c96f00669eb6559d",
+      "source": "Summons Hellspawn Companions.",
+      "translation": "召唤地狱魔物同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.dbe30936c5b0c481",
+      "source": "Hellspawn",
+      "translation": "地狱魔物",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.243c4361f668ab26",
+      "source": "Summons Camel Companions.",
+      "translation": "召唤骆驼同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.a7944f4c7c2268b7",
+      "source": "Camel",
+      "translation": "骆驼",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f1e33e89cea64fe7",
+      "source": "Summons Donkey Companions.",
+      "translation": "召唤驴同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.a4f999a6bd457ed5",
+      "source": "Donkey",
+      "translation": "驴",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.af2dfefae3a8724c",
+      "source": "Summons Raptor Companions.",
+      "translation": "召唤迅猛龙同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.1c971a5f895e4a6d",
+      "source": "Raptor",
+      "translation": "迅猛龙",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.62570119e6a7ffab",
+      "source": "Summons Baby Dragon Companions.",
+      "translation": "召唤幼龙同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.acce9957c78dd5fd",
+      "source": "Baby Dragon",
+      "translation": "幼龙",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e96d7775664a39d3",
+      "source": "Summons Skeleton Archer Companions.",
+      "translation": "召唤骷髅弓箭手同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.2e80a231cbc3c724",
+      "source": "Skeleton Archer",
+      "translation": "骷髅弓箭手",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5de0ce57ca92c8fe",
+      "source": "Summons Varagouille Companions.",
+      "translation": "召唤瓦拉古伊同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.deaae4dc4190aa90",
+      "source": "Varagouille",
+      "translation": "瓦拉古伊",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.4086563676939315",
+      "source": "Summons Falcon Companions.",
+      "translation": "召唤猎隼同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.6832b88d1089815c",
+      "source": "Falcon",
+      "translation": "猎隼",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.58b009eed68bbf4a",
+      "source": "Summons Mana Wyrm Companions.",
+      "translation": "召唤法力浮龙同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.55c98eaaf92ac867",
+      "source": "Mana Wyrm",
+      "translation": "法力浮龙",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.828c4a443e1a1d15",
+      "source": "Summons Fox Companions.",
+      "translation": "召唤狐狸同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.62cbc79cf8226539",
+      "source": "Fox",
+      "translation": "狐狸",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.72508fa4c6d139e2",
+      "source": "Summons Gazer Companions.",
+      "translation": "召唤凝视者同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.03e8a512f6fa0b81",
+      "source": "Gazer",
+      "translation": "凝视者",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.2ff085900058c702",
+      "source": "Summons Goat Companions.",
+      "translation": "召唤山羊同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.66755f8cb498023b",
+      "source": "Goat",
+      "translation": "山羊",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.8097a8dad067135e",
+      "source": "Summons Goblin Companions.",
+      "translation": "召唤哥布林同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.8b70a4ae43d542b3",
+      "source": "Goblin",
+      "translation": "哥布林",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ce76e51d0df09988",
+      "source": "Summons Green Cap Shroom Companions.",
+      "translation": "召唤绿帽蘑菇同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e756f9e1b2c8750e",
+      "source": "Green Cap Shroom",
+      "translation": "绿帽蘑菇",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.0b5af9f8d556c5f4",
+      "source": "Summons Chicken Companions.",
+      "translation": "召唤鸡同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.687493db6d9cade2",
+      "source": "Chicken",
+      "translation": "鸡",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e3f517ec6360f701",
+      "source": "Summons Hawk Companions.",
+      "translation": "召唤鹰同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.43bebe61c1eecb12",
+      "source": "Hawk",
+      "translation": "鹰",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ff5fa8912bb8eb47",
+      "source": "Summons Cherubim Companions.",
+      "translation": "召唤智天使同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.1f1e32b471e36734",
+      "source": "Cherubim",
+      "translation": "智天使",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5727aab446e63dba",
+      "source": "Summons Bee Companions.",
+      "translation": "召唤蜜蜂同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.051fe0461d7bf1d6",
+      "source": "Bee",
+      "translation": "蜜蜂",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.13a07c3e23d9868e",
+      "source": "Summons Horse Companions.",
+      "translation": "召唤马同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.a58b26cfd6e938d0",
+      "source": "Horse",
+      "translation": "马",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.b8fb694809a2b5ad",
+      "source": "Summons Slime Companions.",
+      "translation": "召唤史莱姆同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.04c6d9c8fa10867e",
+      "source": "Slime",
+      "translation": "史莱姆",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.28098a09d203ad57",
+      "source": "Summons Drone Companions.",
+      "translation": "召唤无人机同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.9b0b588031ff064a",
+      "source": "Drone",
+      "translation": "无人机",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.17f003b62ddebaa6",
+      "source": "Summons Electric Eel Companions.",
+      "translation": "召唤电鳗同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.defa09f0e503691d",
+      "source": "Electric Eel",
+      "translation": "电鳗",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.0fc8caa9ab47d8ca",
+      "source": "Summons Mimic Companions.",
+      "translation": "召唤宝箱怪同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ddfb5a38c445eb66",
+      "source": "Mimic",
+      "translation": "宝箱怪",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e7d36459e684445d",
+      "source": "Summons Jackalope Companions.",
+      "translation": "召唤鹿角兔同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.2f22f0733f99e564",
+      "source": "Jackalope",
+      "translation": "鹿角兔",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f906c4ee8e17eb82",
+      "source": "Summons Reindeer Companions.",
+      "translation": "召唤驯鹿同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.eb45ef1348b52852",
+      "source": "Reindeer",
+      "translation": "驯鹿",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.a61dcb9601123f5d",
+      "source": "Summons Piggy Bank Companions.",
+      "translation": "召唤小猪存钱罐同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.667e4503a94c8456",
+      "source": "Piggy Bank",
+      "translation": "小猪存钱罐",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.718611ed678587f2",
+      "source": "Summons Dire Wolf Companions.",
+      "translation": "召唤恐狼同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.25a70cf558bd40c0",
+      "source": "Dire Wolf",
+      "translation": "恐狼",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f965b3412c437c81",
+      "source": "Summons Polter Sword Companions.",
+      "translation": "召唤幽灵剑同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.407aec1f4b9c962c",
+      "source": "Polter Sword",
+      "translation": "幽灵剑",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.d7a6d8ace6f61859",
+      "source": "Summons Owl Companions.",
+      "translation": "召唤猫头鹰同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.213ee8d4f5bbc3d0",
+      "source": "Owl",
+      "translation": "猫头鹰",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.eea69481b070a310",
+      "source": "Summons Paper Crane Companions.",
+      "translation": "召唤纸鹤同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.2394c21f4745330b",
+      "source": "Paper Crane",
+      "translation": "纸鹤",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.a5dc592e35ca5463",
+      "source": "Summons Parrot Companions.",
+      "translation": "召唤鹦鹉同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.7ed1c2092299660e",
+      "source": "Parrot",
+      "translation": "鹦鹉",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.adbd11c6cce2a124",
+      "source": "Summons Skeleton Mage Companions.",
+      "translation": "召唤骷髅法师同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5593b07807749032",
+      "source": "Skeleton Mage",
+      "translation": "骷髅法师",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.d86f6ce3268208dc",
+      "source": "Summons Pixie Companions.",
+      "translation": "召唤小精灵同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e56b3e158768a2d4",
+      "source": "Pixie",
+      "translation": "小精灵",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e0a2064de0c9ca64",
+      "source": "Summons Gnome Companions.",
+      "translation": "召唤侏儒同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.7cb359133e3277a6",
+      "source": "Gnome",
+      "translation": "侏儒",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.05720a5a429ec39c",
+      "source": "Summons Red Cap Shroom Companions.",
+      "translation": "召唤红帽蘑菇同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.9ae14ad438e0481b",
+      "source": "Red Cap Shroom",
+      "translation": "红帽蘑菇",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.0fc757d262f1a057",
+      "source": "Summons Snowpal Companions.",
+      "translation": "召唤雪人伙伴同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.fe72f9afc95e21a4",
+      "source": "Snowpal",
+      "translation": "雪人伙伴",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.475c668964490b77",
+      "source": "Summons Shrimp Companions.",
+      "translation": "召唤虾同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.80f33be8865c311d",
+      "source": "Shrimp",
+      "translation": "虾",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.a536f6bb4f178b9e",
+      "source": "Summons Snail Companions.",
+      "translation": "召唤蜗牛同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.1f39a7a2ea83a684",
+      "source": "Snail",
+      "translation": "蜗牛",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5e83c41b6db81f00",
+      "source": "Summons Snake Companions.",
+      "translation": "召唤蛇同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.b5cc9c3e323ab6d7",
+      "source": "Snake",
+      "translation": "蛇",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.aed7d5c5d72d1ed7",
+      "source": "Summons Sorrosworn Companions.",
+      "translation": "召唤悲誓者同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5763a513d5c44ac7",
+      "source": "Sorrosworn",
+      "translation": "悲誓者",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.7bf3dc410beffa4d",
+      "source": "Summons Spider Companions.",
+      "translation": "召唤蜘蛛同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.d4d0095712321ae4",
+      "source": "Spider",
+      "translation": "蜘蛛",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.42329640b4f3d9e2",
+      "source": "Summons Skeleton Warrior Companions.",
+      "translation": "召唤骷髅战士同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.1321b3a2015afdf4",
+      "source": "Skeleton Warrior",
+      "translation": "骷髅战士",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f08ac2fbd240bbc8",
+      "source": "Summons Tiger Cub Companions.",
+      "translation": "召唤幼虎同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.735cce023b4bb3bf",
+      "source": "Tiger Cub",
+      "translation": "幼虎",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ef17346e1518067b",
+      "source": "Summons Teddy Bear Companions.",
+      "translation": "召唤泰迪熊同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.89d72fbc6d627d43",
+      "source": "Teddy Bear",
+      "translation": "泰迪熊",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.4061c0da6e1b7022",
+      "source": "Summons Thunderbird Companions.",
+      "translation": "召唤雷鸟同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.b9a7abac2e41a926",
+      "source": "Thunderbird",
+      "translation": "雷鸟",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c4a446b28e2ef931",
+      "source": "Summons Bull Companions.",
+      "translation": "召唤公牛同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.93290ce5b2d61f77",
+      "source": "Bull",
+      "translation": "公牛",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.b1c9dcae4329183d",
+      "source": "Summons Bat Companions.",
+      "translation": "召唤蝙蝠同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e0a495e07f87c176",
+      "source": "Bat",
+      "translation": "蝙蝠",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.4b78a2af88055da6",
+      "source": "Summons Voodoo Demon Companions.",
+      "translation": "召唤巫毒恶魔同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.98998387db63a2f3",
+      "source": "Voodoo Demon",
+      "translation": "巫毒恶魔",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.048ec1989032ef6b",
+      "source": "Summons Zombie Companions.",
+      "translation": "召唤僵尸同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.4a3a194dbfa55c63",
+      "source": "Zombie",
+      "translation": "僵尸",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.98005af6c4e0a627",
+      "source": "Summons Jellyfish Companions.",
+      "translation": "召唤水母同伴。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.95758ee8f24271b3",
+      "source": "Jellyfish",
+      "translation": "水母",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ebb1bd45c51dfc56",
+      "source": "Spirit Wolf",
+      "translation": "灵狼",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.482b8c5fe9a70f15",
+      "source": "Ranged Shadow Clone",
+      "translation": "远程影分身",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.1f479cd28ed6f3ae",
+      "source": "Spirit Bear",
+      "translation": "灵熊",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ccc61ea06d845528",
+      "source": "Ancestral Spirit",
+      "translation": "先祖之灵",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5e780302a95219b4",
+      "source": "Pirate Riffraff",
+      "translation": "海盗喽啰",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.6aff5afe573f17b7",
+      "source": "Salamandragon",
+      "translation": "火蜥龙",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.b2e3c61748f1e036",
+      "source": "Spirit Eagle",
+      "translation": "灵鹰",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5f417afb9e0ca38a",
+      "source": "Wraith",
+      "translation": "怨灵",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.aa0f853f97d13c25",
+      "source": "Archdevil",
+      "translation": "大魔鬼",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c6b1937b9f2647f0",
+      "source": "//Arcane Familiar",
+      "translation": "//奥术魔宠",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.58e4ef1dcda0b689",
+      "source": "Imp",
+      "translation": "小恶魔",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.4db3d5be61ee2d62",
+      "source": "Skeleton Lich",
+      "translation": "骷髅巫妖",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.0999f661b1b94d0c",
+      "source": "Assault Rifle",
+      "translation": "突击步枪",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.3da4b119f6d72b1f",
+      "source": "Puppy",
+      "translation": "小狗",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.86698a4124519a41",
+      "source": "Melee Shadow Clone",
+      "translation": "近战影分身",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.7f04e85b5c4ea379",
+      "source": "Sylph",
+      "translation": "风精灵",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.005cecf3776b5d89",
+      "source": "Hero",
+      "translation": "英雄",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c728bd786475b57c",
+      "source": "Raven",
+      "translation": "渡鸦",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f2b1fbf001346901",
+      "source": "Spear Warrior",
+      "translation": "长矛战士",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.74b64517dc7692cb",
+      "source": "Magic Shadow Clone",
+      "translation": "魔法影分身",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.0a14f51c3016aaa9",
+      "source": "Archangel",
+      "translation": "大天使",
+      "context": "companion-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.df9fb92f4b6fe1d6",
+      "source": "Tier {number:n}",
+      "translation": "{number:n} 阶",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.05cc812c5e259a05",
+      "source": "Dice Case",
+      "translation": "骰子盒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.dca4bb582dfde258",
+      "source": "Mystery Box",
+      "translation": "神秘盒子",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.dc861b2ad88c157d",
+      "source": "Pyromancer Class",
+      "translation": "炎术士职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.a82622a0131be2f1",
+      "source": "Ranger Class",
+      "translation": "游侠职业",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.1a78f036e1121b4a",
+      "source": "Soul Shard [x{number:n}]",
+      "translation": "灵魂碎片 [x{number:n}]",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.7c33118a3c744d88",
+      "source": "[DISABLED] Attunement Blessing",
+      "translation": "[已停用] 调谐祝福",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.16bfb91d45080d1e",
+      "source": "[DISABLED] Emergency Blessing",
+      "translation": "[已停用] 应急祝福",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.3f43da45401a33d2",
+      "source": "Spend {number:n} gold.",
+      "translation": "花费 {number:n} 金币。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f6929164501c489d",
+      "source": "Progress: {number:a}/{number:b} Gold Spent",
+      "translation": "进度：已花费 {number:a}/{number:b} 金币",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.705296891f5102a0",
+      "source": "Visit the tavern {number:n} times.",
+      "translation": "拜访酒馆 {number:n} 次。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.b9d63116e21978ea",
+      "source": "Progress: {number:a}/{number:b} Tavern Visits",
+      "translation": "进度：已拜访酒馆 {number:a}/{number:b} 次",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.a3fe5d0cd7a591e6",
+      "source": "Progress: {number:a}/{number:b}",
+      "translation": "进度：{number:a}/{number:b}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.9099b8183b4af6be",
+      "source": "Defeat Death while having {number:n} or more curse<sprite name=\"Curse\">.",
+      "translation": "拥有至少 {number:n} 层诅咒<sprite name=\"Curse\">时击败死神。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.e9eb9b776250fe6c",
+      "source": "Defeat Death with {number:n} different classes.",
+      "translation": "使用 {number:n} 个不同职业击败死神。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ed4a21a4014e1634",
+      "source": "Upgrade a cannon or gun to level {number:n} without help from equipment items.",
+      "translation": "不借助装备效果，将大炮或枪械升级至 {number:n} 级。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.703b7e6a163f5338",
+      "source": "Upgrade a polearm or spear to level {number:n} without help from equipment items.",
+      "translation": "不借助装备效果，将长柄武器或长矛升级至 {number:n} 级。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5c309925d59364e0",
+      "source": "High Score: Upgrade Level {number:n}",
+      "translation": "最高纪录：升级等级 {number:n}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.76f8d87ae3eb4f1d",
+      "source": "Requires it being the month of December and having defeated Death at least once.",
+      "translation": "需要处于十二月，且至少击败过一次死神。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f7d9a699903a0aba",
+      "source": "Status: ",
+      "translation": "状态：",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.209fde94e4872071",
+      "source": "Not Completed",
+      "translation": "未完成",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.62fadf9b2778451d",
+      "source": "<color=#FCC926>Status: </color><color=#808080>Not Completed</color>",
+      "translation": "<color=#FCC926>状态：</color><color=#808080>未完成</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c7e6694eb1abac27",
+      "source": "<color=#FCC926>Status: </color>Hmm, it's not Christmas... are you being naughty?",
+      "translation": "<color=#FCC926>状态：</color>嗯，现在可不是圣诞节……你是不是在调皮？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ab34d94c99de5dc7",
+      "source": "Refreshes the Duration of Potion, \nInfusion and Booze Effects.",
+      "translation": "刷新药水、\n浸剂和酒类效果的持续时间。",
+      "context": "collectible-card",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.f42d70e3533c450d",
+      "source": "•<i><color={text:c0}>Every {number:v0} seconds </color> triggers a\n<color={text:c1}>Lightning Bolt</color> that  deals\n<color={text:c2}>{number:v1} to {number:v2}</color> Lightning . <color={text:c3}>[<color={text:c4}>Tick</color>]</color></i>",
+      "translation": "•<i><color={text:c0}>每 {number:v0} 秒</color>触发一道\n<color={text:c1}>闪电箭</color>，造成\n<color={text:c2}>{number:v1} 至 {number:v2}</color> 雷电伤害。<color={text:c3}>[<color={text:c4}>周期</color>]</color></i>",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.718fc36f71b399d7",
+      "source": "•<i>Grants an  <color={text:c0}>//Inferno //Orbital</color> that\ndeals <color={text:c1}>{number:v0} to {number:v1}</color> Fire  Damage.</i>",
+      "translation": "•<i>获得一个<color={text:c0}>//炼狱 //环绕物</color>，\n造成 <color={text:c1}>{number:v0} 至 {number:v1}</color> 火焰伤害。</i>",
+      "context": "collectible-card",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.94e2f5d9d221f7c7",
+      "source": "Defeat Eden in the High Heavens as the Wizard.",
+      "translation": "使用法师在至高天堂击败伊甸。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.6a7360179cc68281",
+      "source": "Defeat Amon in the Burning Hells as the Warrior.",
+      "translation": "使用战士在燃烧地狱击败阿蒙。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.43d7506f8e3837b8",
+      "source": "Defeat Primal Death in the Shadow Planes as the Doppelganger.",
+      "translation": "使用变形怪在暗影位面击败原初死神。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.265d276e2768c0cc",
+      "source": "Defeat Bahamut in the High Heavens as the Gunslinger.",
+      "translation": "使用神枪手在至高天堂击败巴哈姆特。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.afdffd844c391ff5",
+      "source": "Defeat Bahamut in the High Heavens with the Mystic.",
+      "translation": "使用秘法使在至高天堂击败巴哈姆特。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.784b393aa297bc6e",
+      "source": "Defeat Amon in the Burning Hells as the Ranger.",
+      "translation": "使用游侠在燃烧地狱击败阿蒙。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.c3c24b929c0b12b2",
+      "source": "Defeat Tiamat in the Burning Hells as the Soldier.",
+      "translation": "使用士兵在燃烧地狱击败提亚马特。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.15a472de0cd209fc",
+      "source": "Defeat Eden in the High Heavens as the Pyromancer.",
+      "translation": "使用炎术士在至高天堂击败伊甸。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.990cd448f98902b4",
+      "source": "Defeat Primal Death in the Shadow Planes as the Deprived.",
+      "translation": "使用一无所有者在暗影位面击败原初死神。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.294cbbfeb07107b9",
+      "source": "Defeat Amon in the Burning Hells as the Bard.",
+      "translation": "使用吟游诗人在燃烧地狱击败阿蒙。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.ea78d4119726bc67",
+      "source": "Defeat Eden in the High Heavens as the Cleric.",
+      "translation": "使用牧师在至高天堂击败伊甸。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.9f11c29eee2f19c7",
+      "source": "Defeat Geryon in the Shadow Planes as the Sorcerer.",
+      "translation": "使用术士在暗影位面击败革律翁。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.04e17469c52f6a30",
+      "source": "Defeat Amon in the Burning Hells as the Thief.",
+      "translation": "使用盗贼在燃烧地狱击败阿蒙。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.5c71594ecd2041dd",
+      "source": "Defeat Eden in the High Heavens as the Knight.",
+      "translation": "使用骑士在至高天堂击败伊甸。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.d3dc15b94b114b1e",
+      "source": "Defeat Tiamat in the Burning Hells as the Bandit.",
+      "translation": "使用强盗在燃烧地狱击败提亚马特。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.b36c30324663076b",
+      "source": "Defeat Primal Death in the Shadow Planes as the Wanderer.",
+      "translation": "使用漫游者在暗影位面击败原初死神。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    },
+    {
+      "id": "module.collectible.7a5123d419201009",
+      "source": "Defeat Eden in the High Heavens as the Hero.",
+      "translation": "使用英雄在至高天堂击败伊甸。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 消耗品及同伴完整原生卡片审计；仅限定卡片结构与整行匹配。"
+    }
+  ]
+}

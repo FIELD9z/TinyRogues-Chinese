@@ -1,0 +1,1152 @@
+[
+  {
+    "source": "Soul Crystal",
+    "translation": "灵魂水晶",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Centipede",
+    "translation": "蜈蚣",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Purple Worm",
+    "translation": "紫虫",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Coatl",
+    "translation": "羽蛇",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Earthworm",
+    "translation": "蚯蚓",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Solar Flare Dragon",
+    "translation": "日耀龙",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Animated Scroll",
+    "translation": "活化卷轴",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Serpent Basilisk",
+    "translation": "蛇形蜥怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Flesh Muncher",
+    "translation": "食肉怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Man Eeater",
+    "translation": "食人花",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Spore Spitter",
+    "translation": "喷孢菇",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tainted Devil Hound",
+    "translation": "污秽魔犬",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mole King",
+    "translation": "鼹鼠王",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Succubus",
+    "translation": "魅魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Anubis Flame",
+    "translation": "阿努比斯之焰",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mandrake",
+    "translation": "曼德拉草",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Kraken",
+    "translation": "海怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mind Lord",
+    "translation": "心灵领主",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Neptune",
+    "translation": "尼普顿",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Vampire",
+    "translation": "吸血鬼",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Ghost",
+    "translation": "幽灵",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mind Flamer",
+    "translation": "焚心者",
+    "context": "enemy-name"
+  },
+  {
+    "source": "The Arch Pontiff",
+    "translation": "大教宗",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mole",
+    "translation": "鼹鼠",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Exorcist",
+    "translation": "驱魔师",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Barbed Devil",
+    "translation": "棘刺魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mimic",
+    "translation": "拟态",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Castle Cleric",
+    "translation": "城堡牧师",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Sapling",
+    "translation": "树苗",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Ice Dragon",
+    "translation": "冰龙",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Jellyfish",
+    "translation": "水母",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Slime",
+    "translation": "史莱姆",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Angelic Archer",
+    "translation": "天使弓手",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Gorgon",
+    "translation": "戈耳工",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Seraphim Angel",
+    "translation": "炽天使",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Spider",
+    "translation": "蜘蛛",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Death Knight",
+    "translation": "死亡骑士",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Shark",
+    "translation": "鲨鱼",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Skeleton Archer",
+    "translation": "骷髅弓手",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Bee",
+    "translation": "蜜蜂",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Lizardfolk",
+    "translation": "蜥蜴人",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Horn Devil",
+    "translation": "角魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Burning Devil",
+    "translation": "燃烧魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Rat",
+    "translation": "老鼠",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Death Tyrant",
+    "translation": "死亡暴君",
+    "context": "enemy-name"
+  },
+  {
+    "source": "The King's Guard",
+    "translation": "国王近卫",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Dragonborn Paladin",
+    "translation": "龙裔圣骑士",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tainted Ghul",
+    "translation": "污秽食尸鬼",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Commander Walrus",
+    "translation": "海象指挥官",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Shambling Mound",
+    "translation": "蹒跚蔓生怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Golden Knight",
+    "translation": "黄金骑士",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Bee Hive",
+    "translation": "蜂巢",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Undead Miner",
+    "translation": "亡灵矿工",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mushroom",
+    "translation": "蘑菇",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Imp",
+    "translation": "小恶魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Humanoid Shade",
+    "translation": "人形暗影",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Ifrit",
+    "translation": "伊弗利特",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Bahamut",
+    "translation": "巴哈姆特",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Hangman Tree",
+    "translation": "绞刑树",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Sphinx",
+    "translation": "斯芬克斯",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Beast Shade",
+    "translation": "兽形暗影",
+    "context": "enemy-name"
+  },
+  {
+    "source": "The Troll",
+    "translation": "巨魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Lightning Pylon",
+    "translation": "雷电塔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Flying Brain",
+    "translation": "飞脑",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Patches",
+    "translation": "帕奇",
+    "context": "enemy-name"
+  },
+  {
+    "source": "The Pied Piper",
+    "translation": "花衣魔笛手",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Valkyrie",
+    "translation": "女武神",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Banshee",
+    "translation": "女妖",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tainted Burning Devil",
+    "translation": "污秽燃烧魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tiamat",
+    "translation": "提亚马特",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Chain Devil",
+    "translation": "链魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Eden, Celestial Queen",
+    "translation": "天界女王伊甸",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Snowpal",
+    "translation": "雪人伙伴",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Yeti",
+    "translation": "雪怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tainted Bodak",
+    "translation": "污秽尸妖",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Drowned",
+    "translation": "溺亡者",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Cleric Servant",
+    "translation": "牧师侍从",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Bone Grasp",
+    "translation": "骨爪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Animated Halberd",
+    "translation": "活化长戟",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Arcane Golem",
+    "translation": "奥术魔像",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Rock Golem",
+    "translation": "岩石魔像",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Unreasonably Angry Carrot",
+    "translation": "莫名暴怒的胡萝卜",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Animated Bookshelf",
+    "translation": "活化书架",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Rat Folk",
+    "translation": "鼠人",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Living Vine",
+    "translation": "活体藤蔓",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Soul of the Damned",
+    "translation": "受诅咒之魂",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Pimple",
+    "translation": "脓包怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Volcanoling",
+    "translation": "小火山怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Lich",
+    "translation": "巫妖",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Minotaur",
+    "translation": "牛头人",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Sealdier",
+    "translation": "海豹士兵",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tainted Impling",
+    "translation": "污秽幼魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Pharaoh",
+    "translation": "法老",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Gnome",
+    "translation": "侏儒",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Darkwing Bat",
+    "translation": "暗翼蝙蝠",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mummy",
+    "translation": "木乃伊",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Frost Pylon",
+    "translation": "冰霜塔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Troubadour",
+    "translation": "吟游诗人",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tainted Minotaur",
+    "translation": "污秽牛头人",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Snake",
+    "translation": "蛇",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Ice Cream Cone",
+    "translation": "冰淇淋甜筒",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Fire Pylon",
+    "translation": "火焰塔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Castle Knight",
+    "translation": "城堡骑士",
+    "context": "enemy-name"
+  },
+  {
+    "source": "The Abomination",
+    "translation": "憎恶",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Gargoyles",
+    "translation": "石像鬼",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Cactus Brawler",
+    "translation": "仙人掌斗士",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Zombie",
+    "translation": "僵尸",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tainted Fat Devil",
+    "translation": "污秽肥魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mega Devil",
+    "translation": "巨型恶魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Evil Oak",
+    "translation": "邪恶橡树",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Goblin",
+    "translation": "哥布林",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Giant Alligator",
+    "translation": "巨型短吻鳄",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Medusa",
+    "translation": "美杜莎",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tainted Witch",
+    "translation": "污秽女巫",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Hell Volcanoling",
+    "translation": "地狱小火山怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Rock Muncher",
+    "translation": "食岩怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Skeleton Warrior",
+    "translation": "骷髅战士",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Amon, Infernal King",
+    "translation": "地狱之王阿蒙",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tainted Gigargantuar",
+    "translation": "污秽巨型伽刚特尔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Gargantuar",
+    "translation": "伽刚特尔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tainted Varagouille",
+    "translation": "污秽翼首魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Wraith",
+    "translation": "怨灵",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Sheep",
+    "translation": "绵羊",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Death",
+    "translation": "死神",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Bat",
+    "translation": "蝙蝠",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Merfolk",
+    "translation": "鱼人",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Geryon",
+    "translation": "革律翁",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Queen Bee",
+    "translation": "蜂后",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Iron Maiden",
+    "translation": "铁处女",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Red Dragon Wyrmling",
+    "translation": "红龙雏龙",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Arcane Crystal",
+    "translation": "奥术水晶",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Golden Archer",
+    "translation": "黄金弓手",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Crab",
+    "translation": "螃蟹",
+    "context": "enemy-name"
+  },
+  {
+    "source": "The Jousting Champion",
+    "translation": "骑枪冠军",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Hollyphant",
+    "translation": "圣象",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Goblin King",
+    "translation": "哥布林之王",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Bear",
+    "translation": "熊",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Aboleth",
+    "translation": "底栖魔鱼",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Spider Queen",
+    "translation": "蜘蛛女王",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Animated Tome",
+    "translation": "活化典籍",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Giant Scorpion",
+    "translation": "巨蝎",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Castle Archer",
+    "translation": "城堡弓手",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Bodak",
+    "translation": "尸妖",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mouse",
+    "translation": "鼠标",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Butterfly",
+    "translation": "蝴蝶",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Cloaker",
+    "translation": "蛰伏伪怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Blaze Spirit",
+    "translation": "烈焰之灵",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Basilisk",
+    "translation": "蜥怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Boar",
+    "translation": "野猪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Ice Cube",
+    "translation": "冰块",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Space Tear",
+    "translation": "空间裂隙",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Red Dragon",
+    "translation": "红龙",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Raging Spirit",
+    "translation": "狂怒之灵",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Griffon",
+    "translation": "狮鹫",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Fox Assistant",
+    "translation": "狐狸助手",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Mosquito Mama",
+    "translation": "蚊子妈妈",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Book Golem",
+    "translation": "书籍魔像",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Revived Skeleton Archer",
+    "translation": "复生骷髅弓手",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Bone Pile",
+    "translation": "骨堆",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tombstone",
+    "translation": "墓碑",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Scolar Mage",
+    "translation": "学者法师",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Soul Pylon",
+    "translation": "灵魂塔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Dragonfly",
+    "translation": "蜻蜓",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Phoenix",
+    "translation": "凤凰",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Animated Greatsword",
+    "translation": "活化巨剑",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Calamari",
+    "translation": "鱿鱼",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Revived Skeleton Warrior",
+    "translation": "复生骷髅战士",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Pixie",
+    "translation": "小精灵",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Cerberus",
+    "translation": "刻耳柏洛斯",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Cave Oger",
+    "translation": "洞穴食人魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Giant Shade",
+    "translation": "巨型暗影",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Fallen Angel",
+    "translation": "堕落天使",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Lost Soul",
+    "translation": "迷失之魂",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Glibber Mouther",
+    "translation": "胡言乱语怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Witch",
+    "translation": "女巫",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Bullywog Frog",
+    "translation": "蛙人",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Cockroach",
+    "translation": "蟑螂",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Drow",
+    "translation": "卓尔精灵",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Revived Skeleton Mage",
+    "translation": "复生骷髅法师",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Throne Angel",
+    "translation": "座天使",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Ooze",
+    "translation": "软泥怪",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Wisp",
+    "translation": "幽光",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Dragonic Abishai",
+    "translation": "龙形阿比沙魔",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Arcane Core",
+    "translation": "奥术核心",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Tangle-Maw Jaw",
+    "translation": "缠颚巨口",
+    "context": "enemy-name"
+  },
+  {
+    "source": "The Vermin King",
+    "translation": "害兽之王",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Library Guardian",
+    "translation": "图书馆守卫",
+    "context": "enemy-name"
+  },
+  {
+    "source": "King Ooze",
+    "translation": "软泥之王",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Giant Shield Guardian",
+    "translation": "巨盾守卫",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Primal Death",
+    "translation": "原初死神",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Skull Lord",
+    "translation": "骷髅领主",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Gold Heap",
+    "translation": "金堆",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Target Dummy",
+    "translation": "训练假人",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Automaton Guardian: Lightning",
+    "translation": "机械守卫：雷电",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Fire Totem",
+    "translation": "火焰图腾",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Automaton Guardian: Fire",
+    "translation": "机械守卫：火焰",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Soul Automaton X3",
+    "translation": "灵魂机械 X3",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Cold Totem",
+    "translation": "冰冷图腾",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Possessed Weapon",
+    "translation": "附身武器",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Automaton Guardian: Poison",
+    "translation": "机械守卫：毒素",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Lightning Totem",
+    "translation": "雷电图腾",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Soul Automaton X1",
+    "translation": "灵魂机械 X1",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Automaton Guardian: Cold",
+    "translation": "机械守卫：冰冷",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Soul Automaton X2",
+    "translation": "灵魂机械 X2",
+    "context": "enemy-name"
+  },
+  {
+    "source": "Reaper",
+    "translation": "收割者",
+    "context": "enemy-name"
+  },
+  {
+    "source": "The Burning Hells 1",
+    "translation": "燃烧地狱 1",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Burning Hells 2",
+    "translation": "燃烧地狱 2",
+    "context": "floor-name"
+  },
+  {
+    "source": "The High Heavens 1",
+    "translation": "至高天堂 1",
+    "context": "floor-name"
+  },
+  {
+    "source": "The High Heavens 2",
+    "translation": "至高天堂 2",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Shadow Planes 1",
+    "translation": "暗影位面 1",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Shadow Planes 2",
+    "translation": "暗影位面 2",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Fortress Of Death",
+    "translation": "死亡要塞",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Pit",
+    "translation": "深坑",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Boneyard",
+    "translation": "埋骨地",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Jungle",
+    "translation": "丛林",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Catacombs",
+    "translation": "地下墓穴",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Desert",
+    "translation": "沙漠",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Reef",
+    "translation": "珊瑚礁",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Volcano",
+    "translation": "火山",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Halls Of Agony",
+    "translation": "苦痛回廊",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Deep Dark",
+    "translation": "幽暗深处",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Fairy Forest",
+    "translation": "妖精森林",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Forgotten Mines",
+    "translation": "遗忘矿坑",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Swamp",
+    "translation": "沼泽",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Sewers",
+    "translation": "下水道",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Castle",
+    "translation": "城堡",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Library",
+    "translation": "图书馆",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Icy Cavern",
+    "translation": "冰封洞窟",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Palace",
+    "translation": "宫殿",
+    "context": "floor-name"
+  },
+  {
+    "source": "The Arcane Domain",
+    "translation": "奥术领域",
+    "context": "floor-name"
+  }
+]

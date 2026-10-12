@@ -1,0 +1,1097 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "标题随机标语模块",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "module.splash.61ae06724afb6b5a",
+      "source": "Hire Esty8nine!",
+      "translation": "雇用 Esty8nine 吧！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.58c36fe1d158a55b",
+      "source": "Thumbs Up!",
+      "translation": "竖起大拇指！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.c5d56a539104c5f5",
+      "source": "Anoint Beef!",
+      "translation": "给牛肉傅油！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.d2c61999313685c8",
+      "source": "Made in Austria!",
+      "translation": "奥地利制造！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.a28f6f5a4464641f",
+      "source": "16 times the detail!",
+      "translation": "16 倍的细节！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.a96a2ea17480f4ef",
+      "source": "I got that reference!",
+      "translation": "我懂这个梗！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.2ece0c6b9968e46a",
+      "source": "Over 1000 items!",
+      "translation": "超过 1000 件物品！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.d7c5e12b0d36fbae",
+      "source": "Fishing!",
+      "translation": "钓鱼！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.e23878c111a946e3",
+      "source": "He is Tony Rouge!",
+      "translation": "他就是托尼·鲁日！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.5dec577c2165a808",
+      "source": "With Lemon Pepper Steppers!",
+      "translation": "还有柠檬胡椒舞步！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.0877d2360d5a454f",
+      "source": "The best update ever?",
+      "translation": "史上最佳更新？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.1f4e2335e7b7f48a",
+      "source": "He's beginning to believe!",
+      "translation": "他开始相信了！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.cf01181ad7af03bb",
+      "source": "Stay a while and listen!",
+      "translation": "且慢，听我一言！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.7b370752171c5d77",
+      "source": "Minuscule Thieves!",
+      "translation": "微型小偷！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.e00a675195b6663e",
+      "source": "Lidl Scoundrels!",
+      "translation": "利德尔恶棍！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.dcf0e1b6e1f03006",
+      "source": "Huge Barbarians!",
+      "translation": "巨型野蛮人！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.243adb7eb1ce41a8",
+      "source": "Medium-Sized Wizards!",
+      "translation": "中号巫师！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.519bd7d32bff6712",
+      "source": "What the mook?!",
+      "translation": "什么鬼？！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.8837545315de75bb",
+      "source": "Thanks for playing!",
+      "translation": "感谢游玩！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.0489c084f42ca16d",
+      "source": "Now with 100% more text!",
+      "translation": "现在文字多了 100%！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.534bcb2e5ec92373",
+      "source": "Now with 100% less text!",
+      "translation": "现在，文字减少了 100%！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.a90694c7d200468b",
+      "source": "Just don't get hit!",
+      "translation": "千万别被击中！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.412d9d9b0022d105",
+      "source": "Try Cinder!",
+      "translation": "试试余烬模式！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.4f088c9ba5171da9",
+      "source": "Just one more run!",
+      "translation": "再来一局！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.dcfa237943d4fd7e",
+      "source": "UwU",
+      "translation": "UwU",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.4862e1004145fd3e",
+      "source": "Now with even tinier rogues!",
+      "translation": "现在游侠更小了！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.dcdc7ddb6c92dd46",
+      "source": "Wow these rogues are tiny!",
+      "translation": "这些盗贼可真小！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.64d560943232112b",
+      "source": "Vampire Count: 1",
+      "translation": "吸血鬼数量：1",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.3d2565d7e3eab601",
+      "source": "Now with cheats!",
+      "translation": "现在支持作弊了！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.b8a32174d6a28ad3",
+      "source": "Don't get too tipsy!",
+      "translation": "别喝得太醉！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.fad534bddf264c20",
+      "source": "Don't drink and drive!",
+      "translation": "喝酒不开车！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.006ed63d73e75a94",
+      "source": "Music by MiguelAngell960!",
+      "translation": "音乐：MiguelAngell960！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.6e3691f1fd9ce302",
+      "source": "Shurika!",
+      "translation": "修里卡！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.088beb0c066c840a",
+      "source": "Where could it lead?",
+      "translation": "这会通向哪里？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.b6c29d89793e8e68",
+      "source": "Looking cute!",
+      "translation": "看起来真可爱！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.736b91af820a1806",
+      "source": "What is up dog?",
+      "translation": "最近咋样，老兄？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.7fc9df16c73865f9",
+      "source": "Now with 100% more sprinkles!",
+      "translation": "现在糖针增加了 100%！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.f2cddc79c0cc443f",
+      "source": "R.I.P Soul Scarf!",
+      "translation": "安息吧，灵魂围巾！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.5bbf11f315e13168",
+      "source": "Achievement Playlist!",
+      "translation": "成就播放列表！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.fd388736dbf40419",
+      "source": "What's up with the paintings?",
+      "translation": "这些画是怎么回事？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.e6ffa6898af5f59f",
+      "source": "OMG! It's the Gungeon maiden!?",
+      "translation": "天啊！是枪牢少女！？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.99736cc57371991a",
+      "source": "Is that magic in your pocket?",
+      "translation": "你口袋里装的是魔法吗？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.1c16fd3f1a26ec36",
+      "source": "Always go left!",
+      "translation": "一直往左走！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.9cd9047a6f556b17",
+      "source": "Always go right!",
+      "translation": "一直往右走！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.f06f0c507333a943",
+      "source": "Beep bop!",
+      "translation": "哔哔啵！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.a984a1fc8a111856",
+      "source": "Watch out!\nA mimic!",
+      "translation": "当心！\n是宝箱怪！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.1a2c1d2133028ce7",
+      "source": "For Frodo!",
+      "translation": "为了弗罗多！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.6794f146a1742a27",
+      "source": "For Thighs!",
+      "translation": "为了大腿！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.f36d990370279f1e",
+      "source": "No one can stop Death!",
+      "translation": "无人能阻挡死神！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.18e9f9a92c6fda2e",
+      "source": "Try punching!",
+      "translation": "试试用拳头！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.3afabca73d044276",
+      "source": "What a time to be alive!",
+      "translation": "生逢其时啊！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.5f1d487ef37a5b32",
+      "source": "Don't get cursed!",
+      "translation": "别被诅咒！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.6dffa41ec3099a71",
+      "source": "Ring the bells!",
+      "translation": "敲响钟声！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.e4fd797961a0228a",
+      "source": "Wouldn't want you to see you go hollow!",
+      "translation": "可别变成活尸啊！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.d9585fe8e41eec29",
+      "source": "Butter up a cleric!",
+      "translation": "讨好一位牧师！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.e29c29cd6202d020",
+      "source": "Try lightning!",
+      "translation": "试试雷电！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.52e4cad634ab7b5b",
+      "source": "Exploding Birds!",
+      "translation": "爆炸鸟！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.cb46a580ef88e57f",
+      "source": "Too many I-Frames!",
+      "translation": "无敌帧太多了！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.eed31dc03473df43",
+      "source": "With (a) friendly Fire!",
+      "translation": "还有友好的火（友军伤害）！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.f861e65f9f98f122",
+      "source": "Bullets!",
+      "translation": "子弹！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.86f110e38db0b2e3",
+      "source": "Try using shields!",
+      "translation": "试试盾牌吧！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.6da1412e18a49e59",
+      "source": "Almost No Dark Matter!!",
+      "translation": "几乎没有暗物质！！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.066fb880e0243ac6",
+      "source": "It takes all night to get lucky!",
+      "translation": "要走运就得熬上一整夜！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.39db826595cf504c",
+      "source": "There is no secret cow level.",
+      "translation": "没有秘密奶牛关。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.88e0e57fe45ed3e2",
+      "source": "Welcome to the Jungle!",
+      "translation": "欢迎来到丛林！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.ce3ef0666ce51c69",
+      "source": "No chickens were harmed in making this game!",
+      "translation": "本游戏制作过程中没有鸡受到伤害！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.4c3563c1e16041d7",
+      "source": "Unreal!",
+      "translation": "虚幻！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.9cfa5cb301382906",
+      "source": "Hop on Tiny Rogues!",
+      "translation": "来玩《小小游侠》吧！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.4720f7253fba26d1",
+      "source": "Collect all Arch Pieces!",
+      "translation": "收集所有拱门碎片！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.19102fb1205506cb",
+      "source": "It's dangerous to go alone!",
+      "translation": "独自前行很危险！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.cd6a7fb22c991c19",
+      "source": "Spicy!",
+      "translation": "够辣！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.d96f5ba09cbb4b11",
+      "source": "Treat yourself with a glass of milk!",
+      "translation": "来杯牛奶犒劳一下自己吧！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.253597791f89e459",
+      "source": "GOMAD!",
+      "translation": "每天一加仑牛奶！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.04b2a68c6b776abd",
+      "source": "Made at home!",
+      "translation": "在家制作！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.b9111cf92b136014",
+      "source": "Super Auto Companions!",
+      "translation": "超级自动同伴！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.7bcb11039acabc78",
+      "source": "This is to go even further beyond!",
+      "translation": "这就是更进一步的超越！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.620b4624fb0729eb",
+      "source": "Unlimited Power!",
+      "translation": "无限的力量！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.b7b104e60ccba06a",
+      "source": "The Cake isn't a lie!",
+      "translation": "蛋糕不是谎言！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.1347add24b43afe8",
+      "source": "Why so serious?",
+      "translation": "何必这么严肃？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.595cb90cbedb679c",
+      "source": "Critical Roll!",
+      "translation": "暴击掷骰！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.de8f2dc288464921",
+      "source": "Death Claims Another!",
+      "translation": "死神又收走一条生命！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.c38be65fb20b8220",
+      "source": "No backtracking!",
+      "translation": "不走回头路！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.9e63ead22d3ed61f",
+      "source": "To be fair, you have to have a very high IQ to understand Tiny Rogues.",
+      "translation": "说句公道话，你得有很高的智商才能理解《小小游侠》。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.ead6063d705334dc",
+      "source": "It just works!",
+      "translation": "就是能用！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.23246bc2cd0255b5",
+      "source": "Don't take candy from strangers!",
+      "translation": "别吃陌生人给的糖！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.4628f302832d3fda",
+      "source": "Everything must be reshaped!",
+      "translation": "万物都必须重塑！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.17dc53e47bc38c26",
+      "source": "Check out the Game Doctor!",
+      "translation": "去看看游戏医生！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.2c9d6cd3cecb1ab9",
+      "source": "You're pretty cool!",
+      "translation": "你还挺酷！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.d17ca45d69cc425d",
+      "source": "Completely free of gravity!",
+      "translation": "完全摆脱重力！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.0ca3c736d0fce13d",
+      "source": "Oh yeah. It's all coming together.",
+      "translation": "哦耶，一切都串起来了。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.c085a5e3e8e3eae8",
+      "source": "Pull the lever!",
+      "translation": "拉动拉杆！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.2e59267cba11d10e",
+      "source": "A big iron on his hip!",
+      "translation": "腰间别着一把大铁枪！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.691fbac518960781",
+      "source": "Start blasting!",
+      "translation": "开始轰击！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.ff6b2870c856f5c9",
+      "source": "The one piece is real!",
+      "translation": "大秘宝是真实存在的！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.0c6902f7a47e00d1",
+      "source": "Retro problems,\nrequire retro solutions!",
+      "translation": "复古的问题，\n需要复古的解决办法！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.7442c76626465093",
+      "source": "The Missile knows where it is at all times.",
+      "translation": "导弹时刻知道自己在哪里。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.e23f92fa87aa0ef1",
+      "source": "It knows this because it knows where it isn't.",
+      "translation": "它之所以知道，是因为它知道自己不在哪里。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.6b10afc1e009a9a8",
+      "source": "I need your strongest potion!",
+      "translation": "我要你最强的药水！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.263a36339e4614c6",
+      "source": "There is no escape!",
+      "translation": "无路可逃！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.cd140503b37e5e89",
+      "source": "Uhm, actually...",
+      "translation": "呃，其实……",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.62d8c5038a8923ec",
+      "source": "Poggers!",
+      "translation": "太牛了！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.bad81dd5160f3884",
+      "source": "Soon with housing!",
+      "translation": "住房功能即将推出！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.e6d1075b3dae4529",
+      "source": "Do a sitment!",
+      "translation": "来坐一坐！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.00629ed2e1880336",
+      "source": "Now with Pay2Win!",
+      "translation": "现在还有氪金变强（Pay2Win）！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.baeeb7d5f085cf61",
+      "source": "<color=purple>Perfect Gem Activated!</color>",
+      "translation": "<color=purple>完美宝石已激活！</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.8bbf177085ed19ed",
+      "source": "Made by RubyDev!",
+      "translation": "由 RubyDev 制作！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.1402084226758a4f",
+      "source": "D4 Bad Baseg",
+      "translation": "暗黑4真烂，太对了",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.7490b6aba41d17c5",
+      "source": "These splash text are\nTOTALLY NOT a Minceraft reference.",
+      "translation": "这些标语\n绝对不是在致敬“我的世介”。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.8f40194e367d9211",
+      "source": "The next Isaac?",
+      "translation": "下一个《以撒》？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.b637fbf6b65e9f76",
+      "source": "We need more overlords.",
+      "translation": "我们需要更多王虫。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.6adef27d6045dcd6",
+      "source": "BRRRRRRRRRRRRRR!",
+      "translation": "哒哒哒哒哒哒哒！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.b17b5c31e4924921",
+      "source": "I'll have what I'm having!",
+      "translation": "我就要我正在吃的！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.099361600590058f",
+      "source": "Dang yo!",
+      "translation": "哎哟我去！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.26b2ff07f6246c9e",
+      "source": "Now with a less jank!",
+      "translation": "现在没那么别扭了！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.f936f7e6d188410b",
+      "source": "Tuh",
+      "translation": "嘁",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.d0470fe28c5f9757",
+      "source": "Happy Holidays!",
+      "translation": "节日快乐！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.8a15a9734c6def77",
+      "source": "SURPRISE!",
+      "translation": "惊喜！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.ae25d6481fc1741f",
+      "source": "Classic",
+      "translation": "经典",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.39807b9ec5a89e3d",
+      "source": "Clown :^)",
+      "translation": "小丑 :^)",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.3d691430fad297f0",
+      "source": "December 6th HYPE!?",
+      "translation": "十二月6日，期待爆棚！？",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    },
+    {
+      "id": "module.splash.e4bd44c118c4052b",
+      "source": "Now without massive Unity security exploit!",
+      "translation": "现在已修复严重的 Unity 安全漏洞！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "SplashTextHandler.Texts 全量原生列表；随机标题标语。"
+    }
+  ]
+}

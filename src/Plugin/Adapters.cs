@@ -34,19 +34,49 @@ internal static class Adapters
         PatchScoped(AccessTools.Method(typeof(Weapons.Weapon), "GetDescription"), nameof(PrepareWeapon));
         PatchScoped(AccessTools.Method(typeof(Weapons.Weapon), "ShapeShiftWeaponDescription"), nameof(PrepareWeapon));
         PatchScoped(AccessTools.Method(typeof(Combat.Equipment.Equipment), "Description"), nameof(PrepareEquipment));
+        PatchScoped(AccessTools.Method(typeof(Items.Consumables.Consumable), "Description"), nameof(PrepareConsumable));
+        Patch(AccessTools.PropertyGetter(typeof(Items.Consumables.Consumable), "Name"), nameof(AfterConsumableName), true);
+        Patch(AccessTools.Method(typeof(Items.Consumables.Consumable), "Description"), nameof(AfterCollectibleDescription), true);
+        PatchScoped(AccessTools.Method(typeof(Companions.Companion), "GetDescription"), nameof(PrepareCompanion));
+        Patch(AccessTools.PropertyGetter(typeof(Companions.Companion), "CompanionNameWithColor"), nameof(AfterCompanionName), true);
+        Patch(AccessTools.Method(typeof(Companions.Companion), "GetDescription"), nameof(AfterCollectibleDescription), true);
+        foreach (var type in typeof(Combat.Status_Effects.Abstract_Status_Effects.StatusEffect).Assembly.GetTypes()
+            .Where(type => typeof(Combat.Status_Effects.Abstract_Status_Effects.StatusEffect).IsAssignableFrom(type)))
+            foreach (var method in type.GetMethods(BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly)
+                .Where(method => !method.IsAbstract && method.ReturnType == typeof(string)
+                    // IL2CPP abstract slots appear as concrete CLR wrappers.
+                    // Patching those wrappers breaks their virtual dispatch.
+                    && (method.Name == "get_DisplayName" || type.Namespace != "Combat.Status_Effects.Abstract_Status_Effects"
+                        && (method.Name == "ActiveDescription" || method.Name == "InformativeDescription"))))
+            {
+                PatchScoped(method, nameof(PrepareStatus));
+                if (method.Name != "get_DisplayName") Patch(method, nameof(AfterStatusDescription), true);
+            }
         // Skill descriptions use named game tokens as well as the common stat formatter.
         // Swap only descriptive fields for the duration of the native render call.
         foreach (var type in typeof(Skill_System.SkillBehaviour).Assembly.GetTypes().Where(type => typeof(Skill_System.SkillBehaviour).IsAssignableFrom(type)))
             foreach (var method in type.GetMethods(BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly)
                 .Where(method => method.Name == "Description" && !method.IsAbstract && method.ReturnType == typeof(string)))
+            {
                 PatchScoped(method, nameof(PrepareSkill));
+                Patch(method, nameof(AfterSkillDescription), true);
+            }
         PatchScoped(AccessTools.Method(typeof(Traits.Trait), "Description"), nameof(PrepareTrait));
+        Patch(AccessTools.Method(typeof(Player.Player_Class_Ability.DoppelgangerForm), "GetFormDescription"), nameof(AfterFormDescription), true);
         Patch(AccessTools.Method(typeof(Traits.Trait), "Description"), nameof(AfterTraitDescription), true);
         PatchScoped(AccessTools.PropertyGetter(typeof(Cinder_System.CinderModifier), "Description"), nameof(PrepareCinder));
         PatchScoped(AccessTools.PropertyGetter(typeof(World_Progression.WorldObjective), "Description"), nameof(PrepareObjective));
         Patch(AccessTools.PropertyGetter(typeof(World_Progression.WorldObjective), "Description"), nameof(AfterObjectiveDescription), true);
         Patch(AccessTools.PropertyGetter(typeof(Meta_Perk_Tree.System.MetaPerk), "Title"), nameof(AfterMetaTitle), true);
         Patch(AccessTools.PropertyGetter(typeof(Player.PlayerClass), "Name"), nameof(AfterClassName), true);
+        foreach (var type in typeof(Player.Player_Class_Ability.ClassAbility).Assembly.GetTypes()
+            .Where(type => typeof(Player.Player_Class_Ability.ClassAbility).IsAssignableFrom(type)))
+            foreach (var method in type.GetMethods(BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly)
+                .Where(method => !method.IsAbstract && method.ReturnType == typeof(string)))
+            {
+                if (method.Name == "get_Title") Patch(method, nameof(AfterAbilityTitle), true);
+                if (method.Name == "Description") Patch(method, nameof(AfterAbilityDescription), true);
+            }
         Patch(typeof(TMP_Text).GetProperty("text")!.SetMethod!, nameof(AssignText));
         // Native text formatting has completed here, including numeric SetText overloads.
         foreach (var method in typeof(TMP_Text).GetMethods(BindingFlags.Public | BindingFlags.Instance)
@@ -94,6 +124,7 @@ internal static class Adapters
         public Skill_System.SkillBehaviour? Skill;
         public string Original = "";
         public Action? Restore;
+        public bool KnownSkill;
     }
     private static readonly System.Collections.Generic.HashSet<string> SharedMethods = new(StringComparer.Ordinal);
     private static bool IsNative<T>(Il2CppSystem.Object instance) where T : Il2CppSystem.Object
@@ -111,8 +142,30 @@ internal static class Adapters
     private static void PrepareSkill(Skill_System.SkillBehaviour __instance, out DescriptionState __state)
     {
         __state = new DescriptionState { Skill = __instance, Original = __instance.description };
-        try { __instance.description = Plugin.Current.Translate(__state.Original, "skill-template"); }
+        try
+        {
+            var translated = Plugin.Current.Translate(__state.Original, "skill-template");
+            __state.KnownSkill = translated != __state.Original;
+            __instance.description = translated;
+        }
         catch (Exception error) { Plugin.Current.Error($"Skill description adapter failed: {error.Message}"); }
+    }
+    private static void AfterSkillDescription(DescriptionState? __state, ref string __result)
+    {
+        var catalog = Plugin.Current.Catalog;
+        if (catalog != null && !string.IsNullOrEmpty(__result) && __state?.KnownSkill == true)
+            __result = Core.SkillDescriptions.Translate(catalog, __result);
+    }
+    private static void AfterFormDescription(ref string __result)
+    {
+        var catalog = Plugin.Current.Catalog;
+        if (catalog == null || string.IsNullOrEmpty(__result)) return;
+        __result = Core.TraitDescriptions.Translate(catalog, __result);
+        var rows = __result.Split('\n');
+        for (var index = 0; index < rows.Length; index++)
+            if (catalog.TryTranslate(rows[index], "form-generated", out var translated)
+                || catalog.TryTranslateRichLine(rows[index], "form-generated", out translated)) rows[index] = translated;
+        __result = string.Join("\n", rows);
     }
     private static void PrepareTrait(Traits.Trait __instance, out DescriptionState __state)
     {
@@ -194,6 +247,51 @@ internal static class Adapters
         scope.Effects(__instance.effects);
     }
 
+    private static void PrepareConsumable(Items.Consumables.Consumable __instance, out DescriptionState __state)
+    {
+        var scope = new DescriptionScope();
+        __state = new DescriptionState { Restore = scope.Restore };
+        scope.Text(() => __instance.description, value => __instance.description = value);
+    }
+    private static void PrepareCompanion(Companions.Companion __instance, out DescriptionState __state)
+    {
+        var scope = new DescriptionScope();
+        __state = new DescriptionState { Restore = scope.Restore };
+        scope.Effects(__instance.effects);
+    }
+    private static void AfterCollectibleDescription(ref string __result)
+    {
+        var catalog = Plugin.Current.Catalog;
+        if (catalog != null && !string.IsNullOrEmpty(__result)) __result = Core.CollectibleCards.Translate(catalog, __result);
+    }
+    private static void AfterConsumableName(Il2CppSystem.Object __instance, ref string __result)
+    {
+        if (!IsNative<Items.Consumables.Consumable>(__instance)) return;
+        var catalog = Plugin.Current.Catalog;
+        if (catalog != null && (catalog.TryTranslateLabel(__result, "consumable-name", out var name)
+            || catalog.TryTranslateRichLine(__result, "*", out name))) __result = name;
+    }
+    private static void AfterCompanionName(Il2CppSystem.Object __instance, ref string __result)
+    {
+        if (!IsNative<Companions.Companion>(__instance)) return;
+        var catalog = Plugin.Current.Catalog;
+        if (catalog != null && catalog.TryTranslateLabel(__result, "companion-name", out var name)) __result = name;
+    }
+    private static void PrepareStatus(Il2CppSystem.Object __instance, out DescriptionState __state)
+    {
+        var scope = new DescriptionScope();
+        __state = new DescriptionState { Restore = scope.Restore };
+        var status = __instance.TryCast<Combat.Status_Effects.Abstract_Status_Effects.StatusEffect>();
+        if (status == null) return;
+        scope.Text(() => status.displayName, value => status.displayName = value, "status-name");
+    }
+    private static void AfterStatusDescription(Il2CppSystem.Object __instance, ref string __result)
+    {
+        if (!IsNative<Combat.Status_Effects.Abstract_Status_Effects.StatusEffect>(__instance)) return;
+        var catalog = Plugin.Current.Catalog;
+        if (catalog != null && !string.IsNullOrEmpty(__result)) __result = Core.StatusEffectDescriptions.Translate(catalog, __result);
+    }
+
     private static void PrepareMessage(DialogueSystemController __instance, ref string __0)
     {
         try
@@ -232,7 +330,12 @@ internal static class Adapters
         var node = body.transform;
         for (var depth = 0; node != null && depth < 12; depth++, node = node.parent) parts.Add(node.name.Replace("(Clone)", ""));
         parts.Reverse();
-        return "ui:" + string.Join("/", parts);
+        var path = "ui:" + string.Join("/", parts);
+        // Trivial IL2CPP property getters can share native code with unrelated
+        // methods. Resolve these names only at their observed display boundary.
+        if (path.EndsWith("/Boss HUD/Boss Name Parent/Boss Name Text", StringComparison.Ordinal)) return "enemy-name";
+        if (path.EndsWith("/Stage Title/Stage Title (TMP)", StringComparison.Ordinal)) return "floor-name";
+        return path;
     }
     private static void AssignText(TMP_Text __instance, ref string __0)
     {
@@ -263,6 +366,18 @@ internal static class Adapters
     {
         try { __result = Plugin.Current.Translate(__result, "styled-ui"); }
         catch (Exception error) { Plugin.Current.Error($"Styled UI adapter failed: {error.Message}"); }
+    }
+    private static void AfterAbilityTitle(Il2CppSystem.Object __instance, ref string __result)
+    {
+        if (!IsNative<Player.Player_Class_Ability.ClassAbility>(__instance)) return;
+        var catalog = Plugin.Current.Catalog;
+        if (catalog != null && catalog.TryTranslateLabel(__result, "class-ability-title", out var title)) __result = title;
+    }
+    private static void AfterAbilityDescription(Il2CppSystem.Object __instance, ref string __result)
+    {
+        if (!IsNative<Player.Player_Class_Ability.ClassAbility>(__instance)) return;
+        if (Plugin.Current.Catalog == null || string.IsNullOrEmpty(__result)) return;
+        __result = Plugin.Current.Translate(__result, "class-ability-generated");
     }
     private static void BeforeStyling(ref string __0)
     {

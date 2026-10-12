@@ -1,0 +1,2078 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "敌人与关卡名称",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "module.world-name.4b9fca3258020bb8",
+      "source": "Soul Crystal",
+      "translation": "灵魂水晶",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.267447e78d082a00",
+      "source": "Centipede",
+      "translation": "蜈蚣",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.60676b8422ff81d5",
+      "source": "Purple Worm",
+      "translation": "紫虫",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.da75d923d7f88e02",
+      "source": "Coatl",
+      "translation": "羽蛇",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.44a0ac9aabd2c636",
+      "source": "Earthworm",
+      "translation": "蚯蚓",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.6c625ce217ea9ada",
+      "source": "Solar Flare Dragon",
+      "translation": "日耀龙",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.9b95ffee1e28c369",
+      "source": "Animated Scroll",
+      "translation": "活化卷轴",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f902c70d3c83dc30",
+      "source": "Serpent Basilisk",
+      "translation": "蛇形蜥怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.01c45ea1ec9c580f",
+      "source": "Flesh Muncher",
+      "translation": "食肉怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.b9de1ff1be6027af",
+      "source": "Man Eeater",
+      "translation": "食人花",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.742086f8c31ea06e",
+      "source": "Spore Spitter",
+      "translation": "喷孢菇",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.37e87f623ab2a3f0",
+      "source": "Tainted Devil Hound",
+      "translation": "污秽魔犬",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e8dd6839edffc744",
+      "source": "Mole King",
+      "translation": "鼹鼠王",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.ca3deeb83e38a808",
+      "source": "Succubus",
+      "translation": "魅魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.af419d678525fdea",
+      "source": "Anubis Flame",
+      "translation": "阿努比斯之焰",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.581843f113bfc110",
+      "source": "Mandrake",
+      "translation": "曼德拉草",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.6684562c43bf7d9d",
+      "source": "Kraken",
+      "translation": "海怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.7930574c116c782b",
+      "source": "Mind Lord",
+      "translation": "心灵领主",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e1474f132165e699",
+      "source": "Neptune",
+      "translation": "尼普顿",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.14db29dcfb32b049",
+      "source": "Vampire",
+      "translation": "吸血鬼",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3c3c8b72cae6188e",
+      "source": "Ghost",
+      "translation": "幽灵",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.9d3fb324ec32699d",
+      "source": "Mind Flamer",
+      "translation": "焚心者",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.98797823f7f4419c",
+      "source": "The Arch Pontiff",
+      "translation": "大教宗",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.5737cb7fe542c4ad",
+      "source": "Mole",
+      "translation": "鼹鼠",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f6245364a34d85e3",
+      "source": "Exorcist",
+      "translation": "驱魔师",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.cb70e6aac8c2f111",
+      "source": "Barbed Devil",
+      "translation": "棘刺魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.fd106c7cde84f7a2",
+      "source": "Mimic",
+      "translation": "拟态",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.df02d776deff6f39",
+      "source": "Castle Cleric",
+      "translation": "城堡牧师",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.9f4f78b6d097e097",
+      "source": "Sapling",
+      "translation": "树苗",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.fa43f8131a48b42f",
+      "source": "Ice Dragon",
+      "translation": "冰龙",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.b6fb804a2678e293",
+      "source": "Jellyfish",
+      "translation": "水母",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.58508fc054030927",
+      "source": "Slime",
+      "translation": "史莱姆",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.34f10c1577b5bfb3",
+      "source": "Angelic Archer",
+      "translation": "天使弓手",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.cfd148f0af522dfc",
+      "source": "Gorgon",
+      "translation": "戈耳工",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.69da3fa0f4736584",
+      "source": "Seraphim Angel",
+      "translation": "炽天使",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.b5a2b82dac5d65a7",
+      "source": "Spider",
+      "translation": "蜘蛛",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.bce29fe5d8c37aee",
+      "source": "Death Knight",
+      "translation": "死亡骑士",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.54a140844758e815",
+      "source": "Shark",
+      "translation": "鲨鱼",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.151c6bc30524808f",
+      "source": "Skeleton Archer",
+      "translation": "骷髅弓手",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3c0efce3d731e699",
+      "source": "Bee",
+      "translation": "蜜蜂",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.9b17aaba9d75cc13",
+      "source": "Lizardfolk",
+      "translation": "蜥蜴人",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.d848be054cd90efc",
+      "source": "Horn Devil",
+      "translation": "角魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.1c179ef0cae071b5",
+      "source": "Burning Devil",
+      "translation": "燃烧魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.327453cc2af2b748",
+      "source": "Rat",
+      "translation": "老鼠",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.39eae332f8f0b06c",
+      "source": "Death Tyrant",
+      "translation": "死亡暴君",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.432a129941f29263",
+      "source": "The King's Guard",
+      "translation": "国王近卫",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.8b4e48108c6d7b8f",
+      "source": "Dragonborn Paladin",
+      "translation": "龙裔圣骑士",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.d298ccdcce210dfc",
+      "source": "Tainted Ghul",
+      "translation": "污秽食尸鬼",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.29d788f2c25f218c",
+      "source": "Commander Walrus",
+      "translation": "海象指挥官",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.53468ca80ff4cc77",
+      "source": "Shambling Mound",
+      "translation": "蹒跚蔓生怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.14297b8ad007baa7",
+      "source": "Golden Knight",
+      "translation": "黄金骑士",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.1ee565071efaecf7",
+      "source": "Bee Hive",
+      "translation": "蜂巢",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e692a23f6981eec6",
+      "source": "Undead Miner",
+      "translation": "亡灵矿工",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.90736ec4097e073c",
+      "source": "Mushroom",
+      "translation": "蘑菇",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.19c5d61683662f0c",
+      "source": "Imp",
+      "translation": "小恶魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.056bef81cb24bcc6",
+      "source": "Humanoid Shade",
+      "translation": "人形暗影",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.52b0e13891038806",
+      "source": "Ifrit",
+      "translation": "伊弗利特",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.b24843557651ce21",
+      "source": "Bahamut",
+      "translation": "巴哈姆特",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f063686670bfc3c6",
+      "source": "Hangman Tree",
+      "translation": "绞刑树",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.6ed0dbf2b0f10c69",
+      "source": "Sphinx",
+      "translation": "斯芬克斯",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.2017d3fe1635544c",
+      "source": "Beast Shade",
+      "translation": "兽形暗影",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.32b030b6d07c0c2a",
+      "source": "The Troll",
+      "translation": "巨魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.1f41dce49c33834e",
+      "source": "Lightning Pylon",
+      "translation": "雷电塔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.00e7e2317cf64cf4",
+      "source": "Flying Brain",
+      "translation": "飞脑",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.af7d7c700e8b686e",
+      "source": "Patches",
+      "translation": "帕奇",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.20d5ede5a1e99334",
+      "source": "The Pied Piper",
+      "translation": "花衣魔笛手",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e63a415ea5288d4d",
+      "source": "Valkyrie",
+      "translation": "女武神",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.c37349060cd3cab4",
+      "source": "Banshee",
+      "translation": "女妖",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.1bef24d4d0061455",
+      "source": "Tainted Burning Devil",
+      "translation": "污秽燃烧魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.8b3d6e1675bde23b",
+      "source": "Tiamat",
+      "translation": "提亚马特",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a17fb9770e6ec13d",
+      "source": "Chain Devil",
+      "translation": "链魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.fd15ddabd368d7c5",
+      "source": "Eden, Celestial Queen",
+      "translation": "天界女王伊甸",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.c62d4bf449966832",
+      "source": "Snowpal",
+      "translation": "雪人伙伴",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f8ada39bf898ea0e",
+      "source": "Yeti",
+      "translation": "雪怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.0eba10fb2cbec720",
+      "source": "Tainted Bodak",
+      "translation": "污秽尸妖",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3cb184f711045c6e",
+      "source": "Drowned",
+      "translation": "溺亡者",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.abcced6ea5351bce",
+      "source": "Cleric Servant",
+      "translation": "牧师侍从",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a304d1bfaf40ff2e",
+      "source": "Bone Grasp",
+      "translation": "骨爪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.7ba6a6e9988899a2",
+      "source": "Animated Halberd",
+      "translation": "活化长戟",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.bd26c653e0abb328",
+      "source": "Arcane Golem",
+      "translation": "奥术魔像",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.81ed3072f8dcf975",
+      "source": "Rock Golem",
+      "translation": "岩石魔像",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.b675b62cc33d198e",
+      "source": "Unreasonably Angry Carrot",
+      "translation": "莫名暴怒的胡萝卜",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.77a0b4befee6a28b",
+      "source": "Animated Bookshelf",
+      "translation": "活化书架",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a3f022153c1ae7b3",
+      "source": "Rat Folk",
+      "translation": "鼠人",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.cc0285ba283e8358",
+      "source": "Living Vine",
+      "translation": "活体藤蔓",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.27c9356756fdf757",
+      "source": "Soul of the Damned",
+      "translation": "受诅咒之魂",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3dcde4355d9299ea",
+      "source": "Pimple",
+      "translation": "脓包怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.888094cb585bf8d7",
+      "source": "Volcanoling",
+      "translation": "小火山怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.160e2c2f51b1b01f",
+      "source": "Lich",
+      "translation": "巫妖",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.dea0a92681f4b5dd",
+      "source": "Minotaur",
+      "translation": "牛头人",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.dc88592cba9829b2",
+      "source": "Sealdier",
+      "translation": "海豹士兵",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.480d420fdc8afae1",
+      "source": "Tainted Impling",
+      "translation": "污秽幼魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.467e4fb7c0892897",
+      "source": "Pharaoh",
+      "translation": "法老",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.45637bbb24e912a5",
+      "source": "Gnome",
+      "translation": "侏儒",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.365176bb2b122db7",
+      "source": "Darkwing Bat",
+      "translation": "暗翼蝙蝠",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.858cc0ca5e31a0fe",
+      "source": "Mummy",
+      "translation": "木乃伊",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.876a58d07bb43c31",
+      "source": "Frost Pylon",
+      "translation": "冰霜塔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.edeebeee9730d88d",
+      "source": "Troubadour",
+      "translation": "吟游诗人",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.7fad45e3bd6e49a6",
+      "source": "Tainted Minotaur",
+      "translation": "污秽牛头人",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e73182b9601c8695",
+      "source": "Snake",
+      "translation": "蛇",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3ddc609b00a073b0",
+      "source": "Ice Cream Cone",
+      "translation": "冰淇淋甜筒",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.21209605e699cfe3",
+      "source": "Fire Pylon",
+      "translation": "火焰塔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.0ade2d7dc580c273",
+      "source": "Castle Knight",
+      "translation": "城堡骑士",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a6388520a820b347",
+      "source": "The Abomination",
+      "translation": "憎恶",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.5a4796e9d8595399",
+      "source": "Gargoyles",
+      "translation": "石像鬼",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.6a32e0c5d476f69d",
+      "source": "Cactus Brawler",
+      "translation": "仙人掌斗士",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.2eef4cf172f9f4e0",
+      "source": "Zombie",
+      "translation": "僵尸",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f9c4d7859b1a9124",
+      "source": "Tainted Fat Devil",
+      "translation": "污秽肥魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.242d9636fdcc4b8b",
+      "source": "Mega Devil",
+      "translation": "巨型恶魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.b6824c8302f6b8bb",
+      "source": "Evil Oak",
+      "translation": "邪恶橡树",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.07525f4d27b568f4",
+      "source": "Goblin",
+      "translation": "哥布林",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.dafcb0e68dbcf962",
+      "source": "Giant Alligator",
+      "translation": "巨型短吻鳄",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f145e7c603de1a34",
+      "source": "Medusa",
+      "translation": "美杜莎",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.0a682b47bcb87d2e",
+      "source": "Tainted Witch",
+      "translation": "污秽女巫",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.4ea83ef5d754209f",
+      "source": "Hell Volcanoling",
+      "translation": "地狱小火山怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.d99914bfac7444a1",
+      "source": "Rock Muncher",
+      "translation": "食岩怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.bfc366bbc0587e22",
+      "source": "Skeleton Warrior",
+      "translation": "骷髅战士",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.42f94d836998736f",
+      "source": "Amon, Infernal King",
+      "translation": "地狱之王阿蒙",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.57db784848ac04b3",
+      "source": "Tainted Gigargantuar",
+      "translation": "污秽巨型伽刚特尔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a1950b1d3f005780",
+      "source": "Gargantuar",
+      "translation": "伽刚特尔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.bd745252efc3f6e6",
+      "source": "Tainted Varagouille",
+      "translation": "污秽翼首魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.d557ece08c78e83b",
+      "source": "Wraith",
+      "translation": "怨灵",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.77d411f39623d28c",
+      "source": "Sheep",
+      "translation": "绵羊",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a31b7e2801501d65",
+      "source": "Death",
+      "translation": "死神",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e5c9ff12a3a3125b",
+      "source": "Bat",
+      "translation": "蝙蝠",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3467a1ed0eed093b",
+      "source": "Merfolk",
+      "translation": "鱼人",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.bf999163f7d827a2",
+      "source": "Geryon",
+      "translation": "革律翁",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.c0186e6c45164f17",
+      "source": "Queen Bee",
+      "translation": "蜂后",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.925f48b3a83b504a",
+      "source": "Iron Maiden",
+      "translation": "铁处女",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.74f4452cfe95df51",
+      "source": "Red Dragon Wyrmling",
+      "translation": "红龙雏龙",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.eb78a857bcc9d1b6",
+      "source": "Arcane Crystal",
+      "translation": "奥术水晶",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.6b948e8153536e58",
+      "source": "Golden Archer",
+      "translation": "黄金弓手",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.954cee2a375006f4",
+      "source": "Crab",
+      "translation": "螃蟹",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.0ce3235472f588b6",
+      "source": "The Jousting Champion",
+      "translation": "骑枪冠军",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.d92a181e99b4143f",
+      "source": "Hollyphant",
+      "translation": "圣象",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.20421f06e3ea98e8",
+      "source": "Goblin King",
+      "translation": "哥布林之王",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.4eb0aab68de721fc",
+      "source": "Bear",
+      "translation": "熊",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.71df18e106f9edd5",
+      "source": "Aboleth",
+      "translation": "底栖魔鱼",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.d5e8c6b4634ad149",
+      "source": "Spider Queen",
+      "translation": "蜘蛛女王",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.04c41f66e2884e61",
+      "source": "Animated Tome",
+      "translation": "活化典籍",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.093a10a6aa105ae6",
+      "source": "Giant Scorpion",
+      "translation": "巨蝎",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.7927c958267a2ecd",
+      "source": "Castle Archer",
+      "translation": "城堡弓手",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.329d235b13599209",
+      "source": "Bodak",
+      "translation": "尸妖",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.7eec557deaa10de7",
+      "source": "Mouse",
+      "translation": "鼠标",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.5db74187642fa063",
+      "source": "Butterfly",
+      "translation": "蝴蝶",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.0e426bc76f6fcbc3",
+      "source": "Cloaker",
+      "translation": "蛰伏伪怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.8def28168ba646b7",
+      "source": "Blaze Spirit",
+      "translation": "烈焰之灵",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e62d2c313a866d9a",
+      "source": "Basilisk",
+      "translation": "蜥怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3cacb2e4b42b492e",
+      "source": "Boar",
+      "translation": "野猪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.dd7b6f7dbae60516",
+      "source": "Ice Cube",
+      "translation": "冰块",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.afafeed9374cf6ad",
+      "source": "Space Tear",
+      "translation": "空间裂隙",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.249c0e7daf8a256e",
+      "source": "Red Dragon",
+      "translation": "红龙",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.9ec22e85c5e8c5c0",
+      "source": "Raging Spirit",
+      "translation": "狂怒之灵",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3cb2371506078b86",
+      "source": "Griffon",
+      "translation": "狮鹫",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.4d992eef94e23371",
+      "source": "Fox Assistant",
+      "translation": "狐狸助手",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.837b4a01ddc05690",
+      "source": "Mosquito Mama",
+      "translation": "蚊子妈妈",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.76a299455a31acf0",
+      "source": "Book Golem",
+      "translation": "书籍魔像",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.aa024be2a0e83eeb",
+      "source": "Revived Skeleton Archer",
+      "translation": "复生骷髅弓手",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a8198f309106785d",
+      "source": "Bone Pile",
+      "translation": "骨堆",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f362614054f605d5",
+      "source": "Tombstone",
+      "translation": "墓碑",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.1aab7fa1c13f8447",
+      "source": "Scolar Mage",
+      "translation": "学者法师",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.ae90a52d547275c0",
+      "source": "Soul Pylon",
+      "translation": "灵魂塔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.7f18f63db8d8b2c6",
+      "source": "Dragonfly",
+      "translation": "蜻蜓",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.481d8d062fc68921",
+      "source": "Phoenix",
+      "translation": "凤凰",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.13d1711842e7022e",
+      "source": "Animated Greatsword",
+      "translation": "活化巨剑",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.ab245511799261c6",
+      "source": "Calamari",
+      "translation": "鱿鱼",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3f9571485ff33a2e",
+      "source": "Revived Skeleton Warrior",
+      "translation": "复生骷髅战士",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.69654f9e089463bc",
+      "source": "Pixie",
+      "translation": "小精灵",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.8e010532bdd224b8",
+      "source": "Cerberus",
+      "translation": "刻耳柏洛斯",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.628e92f06b279ff8",
+      "source": "Cave Oger",
+      "translation": "洞穴食人魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.6e202b444592a98a",
+      "source": "Giant Shade",
+      "translation": "巨型暗影",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.20672b97fb8297b2",
+      "source": "Fallen Angel",
+      "translation": "堕落天使",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e94db9fffd2f0787",
+      "source": "Lost Soul",
+      "translation": "迷失之魂",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.33d149e94508887d",
+      "source": "Glibber Mouther",
+      "translation": "胡言乱语怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.6159ef0325da2907",
+      "source": "Witch",
+      "translation": "女巫",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.60874f5f73a70f05",
+      "source": "Bullywog Frog",
+      "translation": "蛙人",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.8bad4d13156e4e5b",
+      "source": "Cockroach",
+      "translation": "蟑螂",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a38392dec011ea8b",
+      "source": "Drow",
+      "translation": "卓尔精灵",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f39e573f056535a4",
+      "source": "Revived Skeleton Mage",
+      "translation": "复生骷髅法师",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.ccf1633d44bd6cf5",
+      "source": "Throne Angel",
+      "translation": "座天使",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e6d70b946f502a41",
+      "source": "Ooze",
+      "translation": "软泥怪",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3c37dd1fbbc39f0a",
+      "source": "Wisp",
+      "translation": "幽光",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.7225fd3fdbaedbc6",
+      "source": "Dragonic Abishai",
+      "translation": "龙形阿比沙魔",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a28fc072724ddc84",
+      "source": "Arcane Core",
+      "translation": "奥术核心",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.d98037836656f85e",
+      "source": "Tangle-Maw Jaw",
+      "translation": "缠颚巨口",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.2ec9820b477b2579",
+      "source": "The Vermin King",
+      "translation": "害兽之王",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.0af598f1940952bb",
+      "source": "Library Guardian",
+      "translation": "图书馆守卫",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.2bb1428abfbfe808",
+      "source": "King Ooze",
+      "translation": "软泥之王",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.2fbb5027cc6e4657",
+      "source": "Giant Shield Guardian",
+      "translation": "巨盾守卫",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.68da4e8afbdc74a0",
+      "source": "Primal Death",
+      "translation": "原初死神",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e66941c8fc509431",
+      "source": "Skull Lord",
+      "translation": "骷髅领主",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f9da109b44d40c93",
+      "source": "Gold Heap",
+      "translation": "金堆",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3174134851739265",
+      "source": "Target Dummy",
+      "translation": "训练假人",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.5de2b3d3b20beaab",
+      "source": "Automaton Guardian: Lightning",
+      "translation": "机械守卫：雷电",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.1d90d37b8ef530c0",
+      "source": "Fire Totem",
+      "translation": "火焰图腾",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.07f8ca6c2b74aa11",
+      "source": "Automaton Guardian: Fire",
+      "translation": "机械守卫：火焰",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.91f1e7115fc71bb6",
+      "source": "Soul Automaton X3",
+      "translation": "灵魂机械 X3",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e96814c957331548",
+      "source": "Cold Totem",
+      "translation": "冰冷图腾",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.763bea28897562d4",
+      "source": "Possessed Weapon",
+      "translation": "附身武器",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.b9cf3a1f15d32513",
+      "source": "Automaton Guardian: Poison",
+      "translation": "机械守卫：毒素",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.2d5332f5b5ea3014",
+      "source": "Lightning Totem",
+      "translation": "雷电图腾",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.5e3b57cba371cc31",
+      "source": "Soul Automaton X1",
+      "translation": "灵魂机械 X1",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.d3bdfa08661f22b5",
+      "source": "Automaton Guardian: Cold",
+      "translation": "机械守卫：冰冷",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a7268257abe3ab71",
+      "source": "Soul Automaton X2",
+      "translation": "灵魂机械 X2",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.1ee142cb57e8064d",
+      "source": "Reaper",
+      "translation": "收割者",
+      "context": "enemy-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.dffcda08452383df",
+      "source": "The Burning Hells 1",
+      "translation": "燃烧地狱 1",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.5ac1ef15d0c5b6d6",
+      "source": "The Burning Hells 2",
+      "translation": "燃烧地狱 2",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.1b6cd8f7925e9764",
+      "source": "The High Heavens 1",
+      "translation": "至高天堂 1",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.9f92ca7f564224b0",
+      "source": "The High Heavens 2",
+      "translation": "至高天堂 2",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.896efc68bd9fe8cc",
+      "source": "The Shadow Planes 1",
+      "translation": "暗影位面 1",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.b6bae75bb6478810",
+      "source": "The Shadow Planes 2",
+      "translation": "暗影位面 2",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f7b017d2149cbe4e",
+      "source": "The Fortress Of Death",
+      "translation": "死亡要塞",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f131c355c93dfd6b",
+      "source": "The Pit",
+      "translation": "深坑",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.953363c6bb37e143",
+      "source": "The Boneyard",
+      "translation": "埋骨地",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.3c7b17c71bf6620f",
+      "source": "The Jungle",
+      "translation": "丛林",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.e90a9f5b42ef50fc",
+      "source": "The Catacombs",
+      "translation": "地下墓穴",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.83d2437f8380ff19",
+      "source": "The Desert",
+      "translation": "沙漠",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.b400917073319894",
+      "source": "The Reef",
+      "translation": "珊瑚礁",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.a9b50d25e2d7ac4c",
+      "source": "The Volcano",
+      "translation": "火山",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.d16074393e055ab2",
+      "source": "The Halls Of Agony",
+      "translation": "苦痛回廊",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.318bde1d2be806f0",
+      "source": "The Deep Dark",
+      "translation": "幽暗深处",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.51c98071760beb0b",
+      "source": "The Fairy Forest",
+      "translation": "妖精森林",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.242972c4a1e25148",
+      "source": "The Forgotten Mines",
+      "translation": "遗忘矿坑",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.fcb4da2f8b015601",
+      "source": "The Swamp",
+      "translation": "沼泽",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.1c3dab433ff9027f",
+      "source": "The Sewers",
+      "translation": "下水道",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.231c1579ec3542cc",
+      "source": "The Castle",
+      "translation": "城堡",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f0e804cdc35b529d",
+      "source": "The Library",
+      "translation": "图书馆",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.78f6f697db86d5b9",
+      "source": "The Icy Cavern",
+      "translation": "冰封洞窟",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.fefa2ed3dc6e790b",
+      "source": "The Palace",
+      "translation": "宫殿",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    },
+    {
+      "id": "module.world-name.f38da61ad1e52162",
+      "source": "The Arcane Domain",
+      "translation": "奥术领域",
+      "context": "floor-name",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6资源名称字段；限定原生EnemyName/FloorTitle上下文，保留原文字拼写。"
+    }
+  ]
+}

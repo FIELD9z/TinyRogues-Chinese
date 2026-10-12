@@ -15,7 +15,7 @@ public static class TraitDescriptions
             var row = rows[i];
             // The game appends category chips after a complete effect sentence.
             // Treat these as their own fields, not part of its prose template.
-            var chips = Regex.Match(row, @"(?:(?:<[^>]*>|\s)*\[(?:<[^>]*>)*(?:Tick|Buff|Emotion)(?:<[^>]*>)*\](?:<[^>]*>|\s)*)+$");
+            var chips = Regex.Match(row, @"(?:(?:<[^>]*>|\s)*\[(?:<[^>]*>)*(?:Tick|Buff|Emotion|周期|增益|情绪)(?:<[^>]*>)*\](?:<[^>]*>|\s)*)+$");
             var suffix = "";
             if (chips.Success)
             {

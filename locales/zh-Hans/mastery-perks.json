@@ -1159,7 +1159,7 @@
     {
       "id": "progression.asset.9ca06be2d2844764abcd",
       "source": "While one Alignment is 2 or higher and the other three are 1 or lower:\nGain [[+1]] Treasure Find<Treasure>.\n<g>(Alignments are Good<Good>, Evil<Evil>, Lawful<Lawful> or Chaotic<Chaos>.)</g>\n",
-      "translation": "当一种阵营倾向不低于 2，其他三种不高于 1 时：\n获得 [[+1]] 宝藏发现率<Treasure>。\n<g>（阵营倾向包括善良<Good>、邪恶<Evil>、守序<Lawful>与混乱<Chaos>。）</g>\n",
+      "translation": "当一种阵营倾向不低于 2，其他三种不高于 1 时：\n获得 [[+1]] 财宝寻获<Treasure>。\n<g>（阵营倾向包括善良<Good>、邪恶<Evil>、守序<Lawful>与混乱<Chaos>。）</g>\n",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1441,7 +1441,7 @@
     {
       "id": "progression.asset.886925e6eed8311f947f",
       "source": "Upon opening\n5 Treasure Chests, \npermanently gain \n[[+1]] Magic Find<Magic_Find>.",
-      "translation": "打开\n5 个宝箱后， \n永久获得 \n[[+1]] 魔法发现率<Magic_Find>。",
+      "translation": "打开\n5 个宝箱后， \n永久获得 \n[[+1]] 魔法寻宝<Magic_Find>。",
       "context": "*",
       "kind": "exact",
       "status": "translated",
@@ -1823,7 +1823,7 @@
     {
       "id": "progression.asset.ca5ddc715db8806e9569",
       "source": "Defeating a Boss without taking Damage grants\nyou [[+1]] Magic Find<sprite name=\"Magic_Find\"> just for that Reward Selection.",
-      "translation": "无伤击败首领后，\n仅在本次奖励选择中获得 [[+1]] 魔法发现率<sprite name=\"Magic_Find\">。",
+      "translation": "无伤击败首领后，\n仅在本次奖励选择中获得 [[+1]] 魔法寻宝<sprite name=\"Magic_Find\">。",
       "context": "*",
       "kind": "exact",
       "status": "translated",

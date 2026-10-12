@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Keen Mind (Effect 3)",
+    "template": " Dexterity.",
+    "owner": "trait:Keen Mind (Trait)"
+  },
+  {
+    "name": "Beef (Effect 3)",
+    "template": " Intelligence.",
+    "owner": "trait:Beef (Trait)"
+  },
+  {
+    "name": "Flare Set (Effect 1)",
+    "template": "Reduces Burn Duration by (#-x0) ((seconds)) but",
+    "owner": "set:Flare Set (Set Bonus)"
+  },
+  {
+    "name": "Valkyrie Helmet (Effect 2)",
+    "template": " (#x0) Lightning Damage(br)to Melee and ",
+    "owner": "equipment:Valkyrie Helmet"
+  },
+  {
+    "name": "Super Health (Effect 2)",
+    "template": "(*)Gain (x0) missing Hearts<Heart>.(br)",
+    "owner": "trait:Super Health"
+  },
+  {
+    "name": "Doppelganger Form - Bard (Effect 2)",
+    "template": " Intelligence.",
+    "owner": "form:Doppelganger Form - Bard"
+  },
+  {
+    "name": "Intuition (Effect 3)",
+    "template": " Intelligence.",
+    "owner": "trait:Intuition (Trait)"
+  },
+  {
+    "name": "Fire And Blood (Effect 3)",
+    "template": " Burn and",
+    "owner": "trait:Fire and Blood (Trait)"
+  },
+  {
+    "name": "Fire And Blood (Effect 2)",
+    "template": " and Bleed [[10]] times but",
+    "owner": "trait:Fire and Blood (Trait)"
+  },
+  {
+    "name": "Harmony Radiant (Effect 2)",
+    "template": " (#x0) Radiant Damage with Cursed Hits<Curse> and",
+    "owner": "trait:Harmony (Trait)"
+  },
+  {
+    "name": "Valkyrie Helmet (Effect 3)",
+    "template": "Ranged Attacks</i>",
+    "owner": "equipment:Valkyrie Helmet"
+  },
+  {
+    "name": "Adrenaline (Effect 1)",
+    "template": "(*)<i>Gain (x0x1) missing Heart<Heart>.</i>(br)",
+    "owner": "trait:Adrenaline (Trait)"
+  }
+]

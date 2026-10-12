@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "技能生成字段与单位",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "module.skill.b0447b8522e6af18",
+      "source": "Charge Time:",
+      "translation": "充能时间：",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.c390169ba0c59546",
+      "source": "Mana Refill:",
+      "translation": "法力回复：",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.b35cdb21574b16fb",
+      "source": "Mana Cost:",
+      "translation": "法力消耗：",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.ffd81a218c7542e6",
+      "source": "Damage Scaling:",
+      "translation": "伤害加成：",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.d05963030a5355d0",
+      "source": "Attack Damage:",
+      "translation": "攻击伤害：",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.f41f9d7c791da71e",
+      "source": "Attack Speed:",
+      "translation": "攻击速度：",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.61e10a5230af0013",
+      "source": "Effect:",
+      "translation": "效果：",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.57e1ca404fc17635",
+      "source": "On Transform:",
+      "translation": "变形时：",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.a524b46001a1f360",
+      "source": "Bear",
+      "translation": "熊",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.c575e45a7152786f",
+      "source": "Monkey",
+      "translation": "猴子",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.42d500384bad508e",
+      "source": "Owl",
+      "translation": "猫头鹰",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.26139d421c50331f",
+      "source": "every",
+      "translation": "每",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.f21ec111621c86e0",
+      "source": "Rooms",
+      "translation": "个房间",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.99bec08c514dc9ba",
+      "source": "Room",
+      "translation": "个房间",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.dc96c9b6f873a10f",
+      "source": "Enemies",
+      "translation": "个敌人",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.b409c0e61303d267",
+      "source": "Enemy",
+      "translation": "个敌人",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.cf7317e3a8b2233b",
+      "source": "seconds",
+      "translation": "秒",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.21be3125264e6257",
+      "source": "Instant",
+      "translation": "瞬发",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.7a0e0f616246c364",
+      "source": "Companion",
+      "translation": "同伴",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.d51736b67e6254b1",
+      "source": "Skill",
+      "translation": "技能",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.9db3c139e87c8f5a",
+      "source": "Weapon",
+      "translation": "武器",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.8e7295a07f5ebdda",
+      "source": "Magic",
+      "translation": "魔法",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.5a7bbaa419ce10e4",
+      "source": "Melee",
+      "translation": "近战",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.7c10b95194980c91",
+      "source": "Ranged",
+      "translation": "远程",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.ee06e2ddf7482b65",
+      "source": "Damage Over Time",
+      "translation": "持续伤害",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.4203ba34cfa362fc",
+      "source": "Tick",
+      "translation": "周期触发",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.44bbefba32c4fb3b",
+      "source": "Buff",
+      "translation": "增益",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.7d8b492370762f2f",
+      "source": "Debuff",
+      "translation": "减益",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.93acd3d84e2e050c",
+      "source": "Axe",
+      "translation": "斧",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.ece04e5dea198e46",
+      "source": "Fans",
+      "translation": "扇",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.84e4665a5cca01fe",
+      "source": "Fist",
+      "translation": "拳",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.9778c5a73475d9f1",
+      "source": "Sword",
+      "translation": "剑",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.d040b9f1ac19e25b",
+      "source": "Bow",
+      "translation": "弓",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.c0b9d8121ab5df63",
+      "source": "Gun",
+      "translation": "枪",
+      "context": "skill-field",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.efc6b84592d45c99",
+      "source": "Recover all Hearts<Heart>.",
+      "translation": "恢复所有红心<Heart>。",
+      "context": "skill-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.9b996e350b16fce3",
+      "source": "Gain Stamina Surge.",
+      "translation": "获得耐力涌动。",
+      "context": "skill-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.skill.d7661d0b1500f199",
+      "source": "Gain a Soul Heart<Soul_Heart> if you don't have any.",
+      "translation": "若没有魂心<Soul_Heart>，则获得一颗。",
+      "context": "skill-generated",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 全部 34 个技能派生 Description 的四种参数组合；只在技能生成说明入口使用。"
+    },
+    {
+      "id": "module.form.04f6f9031fb22faf",
+      "source": "敏捷提供的属性{number:n}，且 Intelligence.",
+      "translation": "敏捷和智力提供的属性{number:n}。",
+      "context": "form-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "16种变形形态完整原生说明的四变体审计。"
+    },
+    {
+      "id": "module.form.e6b82fcf30197127",
+      "source": "Each point of Dexterity additionally grants <color={text:c}>{number:n}</color> Critical Hit Chance<Crit>.",
+      "translation": "每点敏捷额外提供<color={text:c}>{number:n}</color>暴击率<Crit>。",
+      "context": "form-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "16种变形形态完整原生说明的四变体审计。"
+    },
+    {
+      "id": "module.form.50569934fdda0679",
+      "source": "({number:n} currently)",
+      "translation": "（当前{number:n}）",
+      "context": "form-generated",
+      "kind": "template",
+      "status": "translated",
+      "note": "16种变形形态完整原生说明的四变体审计。"
+    }
+  ]
+}

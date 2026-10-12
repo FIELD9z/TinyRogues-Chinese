@@ -262,8 +262,8 @@
       "translation": "狐狸浆果",
       "context": "*",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "Foxberries may be a creature lure/name pun; literal coined name pending context review."
+      "status": "translated",
+      "note": "已核对原生卡片：召唤狐狸同伴，名称采用狐狸浆果。"
     },
     {
       "id": "consumables.asset.c0e97f3ab81844aa41a9",
@@ -388,8 +388,8 @@
       "translation": "迷失之木",
       "context": "*",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "Lost Wood may reference a named creature/location; needs lore review."
+      "status": "translated",
+      "note": "已核对原生卡片：召唤鹿角兔同伴，保留迷失之木的物品名称。"
     },
     {
       "id": "consumables.asset.a342dccddaa3bcdeb872",
@@ -550,17 +550,17 @@
       "translation": "蜘蛛丝",
       "context": "*",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "Sorrow Spear companion naming pending context."
+      "status": "translated",
+      "note": "已核对原生卡片：召唤蜘蛛同伴；旧备注误指向 Sorrow Spear，现更正。"
     },
     {
       "id": "consumables.asset.b6a970c25db2ba7fe861",
       "source": "Suspicious Skull",
-      "translation": "疑似头骨",
+      "translation": "可疑头骨",
       "context": "*",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "Three skull identities distinguish companion types; deliberate translation pending in-game art review."
+      "status": "translated",
+      "note": "已核对原生卡片：召唤骷髅战士，与法师和弓箭手头骨区分。"
     },
     {
       "id": "consumables.asset.7d3a3de17227f3b58d29",
@@ -2053,8 +2053,8 @@
       "translation": "平凡药剂",
       "context": "*",
       "kind": "exact",
-      "status": "needs-review",
-      "note": "Mundane mechanical meaning requires effect asset review."
+      "status": "translated",
+      "note": "已核对原生卡片：效果为没有任何效果，采用平凡药剂。"
     },
     {
       "id": "consumables.asset.faf1ce95b0df917414a0",

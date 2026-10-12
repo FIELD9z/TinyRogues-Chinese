@@ -1,0 +1,2222 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "角色详情完整模块",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "module.character.08a8dc0af2d056e9",
+      "source": "EQUIP LOAD",
+      "translation": "装备负重",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.c09f632874c2511b",
+      "source": "Current:",
+      "translation": "当前：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.ddee9b5e74c2ac52",
+      "source": "<color={text:c0}>Current</color>:",
+      "translation": "<color={text:c0}>当前</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.57aae009da67e722",
+      "source": "Move. Speed Penalty:",
+      "translation": "移动速度惩罚：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f4422a4ca9cf3a81",
+      "source": "<color={text:c0}><color={text:c1}>Move. Speed Penalty</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>移动速度惩罚</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.19a188384eaf24af",
+      "source": "Dash Length Penalty:",
+      "translation": "冲刺距离惩罚：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5f74e454ddd4d660",
+      "source": "<color={text:c0}><color={text:c1}>Dash Length Penalty</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>冲刺距离惩罚</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.4658484c526cf78b",
+      "source": "Stamina Rec. Penalty:",
+      "translation": "体力恢复惩罚：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.bbf007fcf2941fbd",
+      "source": "<color={text:c0}><color={text:c1}><color={text:c2}>Stamina</color> Rec. Penalty</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}><color={text:c2}>体力</color>恢复惩罚</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a0c6f0b34f0cb8f8",
+      "source": "Mana Rec. Penalty:",
+      "translation": "法力恢复惩罚：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.e9d7c045283b67bb",
+      "source": "<color={text:c0}><color={text:c1}><color={text:c2}>Mana</color> Rec. Penalty</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}><color={text:c2}>法力</color>恢复惩罚</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.defde7d0b095f055",
+      "source": "Good:",
+      "translation": "善良：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.dc1e345721ecbc97",
+      "source": "<color={text:c0}><color={text:c1}>Good</color><sprite name=\"Good\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>善良</color><sprite name=\"Good\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.eb5c87d3c8e3a01a",
+      "source": "Evil:",
+      "translation": "邪恶：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.57237a52f9e818da",
+      "source": "<color={text:c0}><color={text:c1}>Evil</color><sprite name=\"Evil\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>邪恶</color><sprite name=\"Evil\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2aa322acffea0b19",
+      "source": "Lawful:",
+      "translation": "守序：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.23d84fe93a7cd038",
+      "source": "<color={text:c0}><color={text:c1}>Lawful</color><sprite name=\"Lawful\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>守序</color><sprite name=\"Lawful\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.ef95aa4889f9393d",
+      "source": "Chaotic:",
+      "translation": "混乱：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b8d2a2a4d14d858a",
+      "source": "<color={text:c0}><color={text:c1}>Chaotic</color><sprite name=\"Chaos\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>混乱</color><sprite name=\"Chaos\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a98117cbae636134",
+      "source": "Alignment Requirement:",
+      "translation": "阵营倾向要求：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.91a08e54570842d8",
+      "source": "<color={text:c0}>Alignment Requirement</color>:",
+      "translation": "<color={text:c0}>阵营倾向要求</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.6b456dc799c1b057",
+      "source": "Strength:",
+      "translation": "力量：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.96270fb8755c5559",
+      "source": "<color={text:c0}><color={text:c1}>Strength</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>力量</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.8a789607d430d120",
+      "source": "Dexterity:",
+      "translation": "敏捷：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.9d1018c8ca07b25b",
+      "source": "<color={text:c0}><color={text:c1}>Dexterity</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>敏捷</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.0fcad20be8c1e6bc",
+      "source": "Intelligence:",
+      "translation": "智力：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.763f69f422cadc4f",
+      "source": "<color={text:c0}><color={text:c1}>Intelligence</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>智力</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.8f393a2ea72a5456",
+      "source": "From Str.:",
+      "translation": "来自力量：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.29302e461c4eafcb",
+      "source": "<color={text:c0}>From <color={text:c1}>Str</color>.</color>:",
+      "translation": "<color={text:c0}>来自<color={text:c1}>力量</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.4f1703f6e162f8f9",
+      "source": "From Dex.:",
+      "translation": "来自敏捷：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.205bde7c066e8138",
+      "source": "<color={text:c0}>From <color={text:c1}>Dex</color>.</color>:",
+      "translation": "<color={text:c0}>来自<color={text:c1}>敏捷</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.3574ebbbb203e17e",
+      "source": "From Int.:",
+      "translation": "来自智力：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.85013c8b480fd86d",
+      "source": "<color={text:c0}>From <color={text:c1}>Int</color>.</color>:",
+      "translation": "<color={text:c0}>来自<color={text:c1}>智力</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.7c06cf48e1366067",
+      "source": "MANA",
+      "translation": "法力",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.8be8ab14d731a366",
+      "source": "<color={text:c0}>MANA</color>",
+      "translation": "<color={text:c0}>法力</color>",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.d0477b6284c8d64d",
+      "source": "Mana:",
+      "translation": "法力：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.81731a91104e22e4",
+      "source": "<color={text:c0}><color={text:c1}>Mana</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>法力</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.ccbe413ae2125e52",
+      "source": "Mana Recovery:",
+      "translation": "法力恢复：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.0e32cf602a9a5236",
+      "source": "<color={text:c0}><color={text:c1}>Mana Recovery</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>法力恢复</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a95f9e84d4b7cef0",
+      "source": "Skill Effect :",
+      "translation": "技能效果：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.10968263b52f3bcd",
+      "source": "<color={text:c0}>Skill Effect <sprite name=\"Skill\"></color>:",
+      "translation": "<color={text:c0}>技能效果<sprite name=\"Skill\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f52d372015df09c6",
+      "source": "WEAPON SCALING",
+      "translation": "武器属性补正",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f066747f37dd3b0a",
+      "source": "Scaling Grades:",
+      "translation": "补正等级：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5081bc016dc1ce28",
+      "source": "<color={text:c0}>Scaling Grades</color>:",
+      "translation": "<color={text:c0}>补正等级</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.8942ec050f90b09c",
+      "source": "Scaling Caps:",
+      "translation": "补正上限：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.9be2b89bfffebf61",
+      "source": "<color={text:c0}>Scaling Caps</color>:",
+      "translation": "<color={text:c0}>补正上限</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.539819eb94604675",
+      "source": "SCALING DAMAGE BONUS",
+      "translation": "属性补正伤害加成",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.ae0bd638e214c5fb",
+      "source": "Per Point While Under Cap:",
+      "translation": "未超过上限时每点提供：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.bce785f4496f210e",
+      "source": "<color={text:c0}><sprite name=\"SubArrow\">Per Point While Under Cap</color>:",
+      "translation": "<color={text:c0}><sprite name=\"SubArrow\">未超过上限时每点提供</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2412cb8cc9e99938",
+      "source": "Per Point While Over Cap:",
+      "translation": "超过上限时每点提供：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b60a69ec705fa726",
+      "source": "<color={text:c0}><sprite name=\"SubArrow\">Per Point While Over Cap</color>:",
+      "translation": "<color={text:c0}><sprite name=\"SubArrow\">超过上限时每点提供</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.57a63e39a5b4331b",
+      "source": "WEAPON DAMAGE",
+      "translation": "武器伤害",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.e386d2e1bf490cdc",
+      "source": "Base Damage:",
+      "translation": "基础伤害：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.18090a3f1c4065d1",
+      "source": "<color={text:c0}>Base Damage</color>:",
+      "translation": "<color={text:c0}>基础伤害</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.0fe2b3874706d166",
+      "source": "Total Damage:",
+      "translation": "总伤害：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2cc294f70db53c2a",
+      "source": "<color={text:c0}>Total Damage</color>:",
+      "translation": "<color={text:c0}>总伤害</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.e1ebf2f31ca85108",
+      "source": "Attacks Per Second:",
+      "translation": "每秒攻击次数：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f363ac9a0758451a",
+      "source": "<color={text:c0}>Attacks Per Second</color>:",
+      "translation": "<color={text:c0}>每秒攻击次数</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.781f684f1feb5574",
+      "source": "Attack Speed:",
+      "translation": "攻击速度：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.7c7e681e22d90dce",
+      "source": "<color={text:c0}>Attack Speed</color>:",
+      "translation": "<color={text:c0}>攻击速度</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.3cb977560adf5b17",
+      "source": "Chance To Repeat Attack:",
+      "translation": "攻击重复几率：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.9bde66a867fc840c",
+      "source": "<color={text:c0}>Chance To Repeat Attack</color>:",
+      "translation": "<color={text:c0}>攻击重复几率</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.623c4de88fefef69",
+      "source": "Repeat Damage:",
+      "translation": "重复攻击伤害：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f28663173f67b964",
+      "source": "<color={text:c0}>Repeat Damage</color>:",
+      "translation": "<color={text:c0}>重复攻击伤害</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.161748e1f872b5c6",
+      "source": "Damage Over Time:",
+      "translation": "持续伤害：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.831067518cbe4ab3",
+      "source": "<color={text:c0}><color={text:c1}>Damage Over Time</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>持续伤害</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.aa8ba052e8d39ab2",
+      "source": "Tick Speed:",
+      "translation": "结算频率：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.4990752afcfe40f2",
+      "source": "<color={text:c0}>Tick Speed</color>:",
+      "translation": "<color={text:c0}>结算频率</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.7f73e69bfe14dbb5",
+      "source": "Critical Hit Chance:",
+      "translation": "暴击率：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f2b162d21c77d0e4",
+      "source": "<color={text:c0}><color={text:c1}>Critical Hit Chance</color><sprite name=\"Critical_Hit\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>暴击率</color><sprite name=\"Critical_Hit\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.bfe568ad44c7e5e3",
+      "source": "Critical Hit Damage:",
+      "translation": "暴击伤害：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a8888ed099370387",
+      "source": "<color={text:c0}><color={text:c1}>Critical Hit Damage</color><sprite name=\"Critical_Hit\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>暴击伤害</color><sprite name=\"Critical_Hit\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f0ba57159b6431c7",
+      "source": "Power:",
+      "translation": "威力：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.10de1ea026e98b0d",
+      "source": "<color={text:c0}>Power</color>:",
+      "translation": "<color={text:c0}>威力</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.c839ddc9865ab10a",
+      "source": "Damage:",
+      "translation": "伤害：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.20670bf07d1dbb9d",
+      "source": "<color={text:c0}><sprite name=\"SubArrow\">Damage</color>:",
+      "translation": "<color={text:c0}><sprite name=\"SubArrow\">伤害</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.fe8f630f8dd09b03",
+      "source": "Area Radius:",
+      "translation": "范围半径：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.cfe1ac4b5f09d167",
+      "source": "<color={text:c0}><sprite name=\"SubArrow\">Area Radius</color>:",
+      "translation": "<color={text:c0}><sprite name=\"SubArrow\">范围半径</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.1c55d9b826e8dfa9",
+      "source": "OTHER",
+      "translation": "其他",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.e0a89ce5bdb720a0",
+      "source": "Crushing Hit Chance:",
+      "translation": "粉碎命中几率：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.414f239900018330",
+      "source": "<color={text:c0}><color={text:c1}>Crushing Hit Chance</color><sprite name=\"Crushing_Hit\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>粉碎命中几率</color><sprite name=\"Crushing_Hit\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.1bcc23f77eace075",
+      "source": "Ruthless Hit Chance:",
+      "translation": "残酷命中几率：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.eda5a3dfc22127cf",
+      "source": "<color={text:c0}><color={text:c1}>Ruthless Hit Chance</color><sprite name=\"Ruthless_Hit\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>残酷命中几率</color><sprite name=\"Ruthless_Hit\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.56fb788b04015fda",
+      "source": "Lethal Hit Chance:",
+      "translation": "致命命中几率：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.def89f680ca45f6d",
+      "source": "<color={text:c0}><color={text:c1}>Lethal Hit Chance</color><sprite name=\"Lethal_Hit\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>致命命中几率</color><sprite name=\"Lethal_Hit\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.01d22d09c8c25680",
+      "source": "Sneaky Hit Chance:",
+      "translation": "狡诈命中率：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.7a08bd53db57335c",
+      "source": "<color={text:c0}><color={text:c1}>Sneaky Hit Chance</color><sprite name=\"Cunning_Hit\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>狡诈命中率</color><sprite name=\"Cunning_Hit\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.065a594e623ab772",
+      "source": "COMPANION DAMAGE",
+      "translation": "同伴伤害",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.43d0df0123bfecea",
+      "source": "Companion Damage:",
+      "translation": "同伴伤害：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.fb92e797df35fce6",
+      "source": "<color={text:c0}>Companion Damage<sprite name=\"Companion\"></color>:",
+      "translation": "<color={text:c0}>同伴伤害<sprite name=\"Companion\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5d95f8390345ae05",
+      "source": "DAMAGE MODIFIERS",
+      "translation": "伤害修正",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5b07eb74b75a5278",
+      "source": "Striking:",
+      "translation": "打击：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.8267ea06d60d2a1c",
+      "source": "<color={text:c0}><color={text:c1}>Striking</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>打击</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.85481aa62df4e8db",
+      "source": "Slashing:",
+      "translation": "斩击：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b93f63911509b0ce",
+      "source": "<color={text:c0}><color={text:c1}>Slashing</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>斩击</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.22c4a6573a5f978d",
+      "source": "Thrusting:",
+      "translation": "穿刺：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.557c602d89758f24",
+      "source": "<color={text:c0}><color={text:c1}>Thrusting</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>穿刺</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.e789282b1181cbc4",
+      "source": "Fire:",
+      "translation": "火焰：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.6d277246bdf0a9ec",
+      "source": "<color={text:c0}><color={text:c1}>Fire</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>火焰</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.00082ea326598e18",
+      "source": "Cold:",
+      "translation": "冰冷：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.244af52282346a03",
+      "source": "<color={text:c0}><color={text:c1}>Cold</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>冰冷</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b24708babbde1730",
+      "source": "Lightning:",
+      "translation": "雷电：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.01571476772577e9",
+      "source": "<color={text:c0}><color={text:c1}>Lightning</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>雷电</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.05de7088308baa1b",
+      "source": "Poison:",
+      "translation": "毒素：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.35765a8555c0abd7",
+      "source": "<color={text:c0}><color={text:c1}>Poison</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>毒素</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5aa4721ff1723dca",
+      "source": "Radiant:",
+      "translation": "光辉：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.e287ef8d87fd98fb",
+      "source": "<color={text:c0}><color={text:c1}>Radiant</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>光辉</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b9550ccd7d85297d",
+      "source": "Dark:",
+      "translation": "黑暗：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.fe147d7f20129f15",
+      "source": "<color={text:c0}><color={text:c1}>Dark</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>黑暗</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b63b9a3d6aa3bd8b",
+      "source": "Nature:",
+      "translation": "自然：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.790966a8ff5e814c",
+      "source": "<color={text:c0}><color={text:c1}>Nature</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>自然</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.bf33f9072236608e",
+      "source": "Sound:",
+      "translation": "音波：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.77615e6522d871e2",
+      "source": "<color={text:c0}><color={text:c1}>Sound</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>音波</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2e79ab3f464a965e",
+      "source": "Necrotic:",
+      "translation": "死灵：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.4829c3b6b18ff20c",
+      "source": "<color={text:c0}><color={text:c1}>Necrotic</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>死灵</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f89e4effc1b70880",
+      "source": "Explosion:",
+      "translation": "爆炸：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.067095900db5b973",
+      "source": "<color={text:c0}><color={text:c1}>Explosion</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>爆炸</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.d7c8ba4a6c95aa59",
+      "source": "Energy:",
+      "translation": "能量：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5fb0d7a661ebe2d7",
+      "source": "<color={text:c0}><color={text:c1}>Energy</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>能量</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.d4f25a6c58c614ce",
+      "source": "Physical:",
+      "translation": "物理：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.13d15c9ab83324db",
+      "source": "<color={text:c0}><color={text:c1}>Physical</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>物理</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.74e4b5b0d1645432",
+      "source": "Magical:",
+      "translation": "魔法：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a7968395cf819c44",
+      "source": "<color={text:c0}><color={text:c1}>Magical</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>魔法</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.1ed6323657e7ca5a",
+      "source": "Crystal:",
+      "translation": "水晶：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.31acd02ca4df55ca",
+      "source": "<color={text:c0}><color={text:c1}>Crystal</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>水晶</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.61bab4bc63318302",
+      "source": "Movement Speed:",
+      "translation": "移动速度：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.c644391603d86274",
+      "source": "<color={text:c0}>Movement Speed</color>:",
+      "translation": "<color={text:c0}>移动速度</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.053254b21c9e4bbc",
+      "source": "Movement Speed Modifier:",
+      "translation": "移动速度修正：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.d1309dd79d8807dd",
+      "source": "<color={text:c0}>Movement Speed Modifier</color>:",
+      "translation": "<color={text:c0}>移动速度修正</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f3557e00c34fb7e3",
+      "source": "Movement:",
+      "translation": "移动：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5105322013acebfe",
+      "source": "<color={text:c0}>Movement</color>:",
+      "translation": "<color={text:c0}>移动</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.d8b68bc359f1ec3c",
+      "source": "INVINCIBILITY",
+      "translation": "无敌时间",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.979bfe6e2a4338d3",
+      "source": "After Dash:",
+      "translation": "冲刺后：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f8e4dfaec187c460",
+      "source": "<color={text:c0}>After Dash</color>:",
+      "translation": "<color={text:c0}>冲刺后</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.350f957026929c94",
+      "source": "After Taking Damage:",
+      "translation": "受伤后：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.39a724dec6d1d607",
+      "source": "<color={text:c0}>After Taking Damage</color>:",
+      "translation": "<color={text:c0}>受伤后</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2f8f8f32680e5ca1",
+      "source": "Hearts:",
+      "translation": "红心：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b1d68c0c3c107d24",
+      "source": "<color={text:c0}><color={text:c1}>Hearts</color><sprite name=\"Heart\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>红心</color><sprite name=\"Heart\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a39d575949d75644",
+      "source": "Soul Hearts:",
+      "translation": "灵魂红心：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.62a43f582072a291",
+      "source": "<color={text:c0}><color={text:c1}>Soul Hearts</color><sprite name=\"Soul_Heart\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>灵魂红心</color><sprite name=\"Soul_Heart\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f40fc049bc82c215",
+      "source": "Armor:",
+      "translation": "护甲：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.348492925162a49d",
+      "source": "<color={text:c0}><color={text:c1}>Armor</color><sprite name=\"Armor\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>护甲</color><sprite name=\"Armor\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a29f3c9d5da3bae6",
+      "source": "Block:",
+      "translation": "格挡：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a8214c6fcac09552",
+      "source": "<color={text:c0}><color={text:c1}>Block</color><sprite name=\"Block\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>格挡</color><sprite name=\"Block\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b2b846c70e480b67",
+      "source": "Evade:",
+      "translation": "闪避：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2584704482961ecf",
+      "source": "<color={text:c0}><color={text:c1}>Evade</color><sprite name=\"Evade\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>闪避</color><sprite name=\"Evade\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.67cac8f723cbc94c",
+      "source": "Suppression:",
+      "translation": "压制：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a08de3d12a6a5610",
+      "source": "<color={text:c0}><color={text:c1}>Suppression</color><sprite name=\"Suppression\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>压制</color><sprite name=\"Suppression\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.172a6895f3ca0769",
+      "source": "Revives:",
+      "translation": "复活次数：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.e71f7f20399eeff1",
+      "source": "<color={text:c0}><color={text:c1}>Revives</color><sprite name=\"Revive\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>复活次数</color><sprite name=\"Revive\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.61aee087ddad25b3",
+      "source": "Stamina:",
+      "translation": "体力：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.afd79b44d4d5f25c",
+      "source": "<color={text:c0}><color={text:c1}>Stamina</color><sprite name=\"Stamina\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>体力</color><sprite name=\"Stamina\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.ff47431330cff5b9",
+      "source": "Stamina Recovery Time:",
+      "translation": "体力恢复时间：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.e22ed937ab205a0a",
+      "source": "<color={text:c0}><color={text:c1}>Stamina</color> Recovery Time</color>:",
+      "translation": "<color={text:c0}><color={text:c1}>体力</color>恢复时间</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.cd86b1d7aabccaef",
+      "source": "Stamina Recovery Speed:",
+      "translation": "体力恢复速度：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2bba2b19ac5a4001",
+      "source": "<color={text:c0}><color={text:c1}>Stamina Recovery Speed</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>体力恢复速度</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.d46b4f04b26ca3d0",
+      "source": "Flasks:",
+      "translation": "药瓶：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.10776946d5b110e2",
+      "source": "<color={text:c0}>Flasks<sprite name=\"Flask\"></color>:",
+      "translation": "<color={text:c0}>药瓶<sprite name=\"Flask\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.6a29ca4aadb0cb49",
+      "source": "Flask Drink Time:",
+      "translation": "药瓶饮用时间：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.6c19c8cb7ef73ef7",
+      "source": "<color={text:c0}>Flask Drink Time</color>:",
+      "translation": "<color={text:c0}>药瓶饮用时间</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.040d3edb8740f583",
+      "source": "Flask Recovery:",
+      "translation": "药瓶恢复量：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.62f4716d76e49900",
+      "source": "<color={text:c0}>Flask Recovery</color>:",
+      "translation": "<color={text:c0}>药瓶恢复量</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.69da9691cb9da769",
+      "source": "RANGE",
+      "translation": "距离",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f20bed16db02784e",
+      "source": "Close Range Threshold:",
+      "translation": "近距离阈值：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.3a439455dd482379",
+      "source": "<color={text:c0}><color={text:c1}>Close Range </color>Threshold<sprite name=\"Close\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>近距离</color>阈值<sprite name=\"Close\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2ed185bbfe9705d8",
+      "source": "Far Range Threshold:",
+      "translation": "远距离阈值：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.21cd639412816533",
+      "source": "<color={text:c0}><color={text:c1}>Far Range </color>Threshold<sprite name=\"Far\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>远距离</color>阈值<sprite name=\"Far\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.7477dce24f77d92c",
+      "source": "COMPANIONS",
+      "translation": "同伴",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.c7dea7be735b847b",
+      "source": "COMPANIONS<sprite name=\"Companion\">",
+      "translation": "同伴<sprite name=\"Companion\">",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f4abb19a65362e68",
+      "source": "Count:",
+      "translation": "数量：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5806f5e8b4d4daa5",
+      "source": "<color={text:c0}>Count</color>:",
+      "translation": "<color={text:c0}>数量</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.54a399cddc5e79b2",
+      "source": "Capacity:",
+      "translation": "上限：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.4522fff03e3c1166",
+      "source": "<color={text:c0}>Capacity</color>:",
+      "translation": "<color={text:c0}>上限</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a4040e01289753e6",
+      "source": "RNG",
+      "translation": "随机几率",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b707781513e42416",
+      "source": "Magic Find:",
+      "translation": "魔法寻宝：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.08456ba169470887",
+      "source": "<color={text:c0}><color={text:c1}>Magic Find</color><sprite name=\"Magic_Find\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>魔法寻宝</color><sprite name=\"Magic_Find\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.c1fa0bc9e131da54",
+      "source": "Treasure Find:",
+      "translation": "财宝寻获：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2c259341dec408a4",
+      "source": "<color={text:c0}><color={text:c1}>Treasure Find</color><sprite name=\"Treasure\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>财宝寻获</color><sprite name=\"Treasure\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.bd0126ca12c07bcd",
+      "source": "Luck:",
+      "translation": "幸运：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.d855f97b606ba03c",
+      "source": "<color={text:c0}><color={text:c1}>Luck</color><sprite name=\"Luck\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>幸运</color><sprite name=\"Luck\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.ac15c2d2b2ce6d71",
+      "source": "Lucky Hit Chance:",
+      "translation": "幸运命中几率：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.8cef85df6bdc55a7",
+      "source": "<color={text:c0}><color={text:c1}>Lucky Hit Chance</color><sprite name=\"Luck\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>幸运命中几率</color><sprite name=\"Luck\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.e89912dcc3f21531",
+      "source": "Curse:",
+      "translation": "诅咒：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.91e551e8e829fea4",
+      "source": "<color={text:c0}><color={text:c1}>Curse</color><sprite name=\"Curse\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>诅咒</color><sprite name=\"Curse\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.394f9eb11264900f",
+      "source": "Cursed Hit Chance:",
+      "translation": "诅咒命中几率：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.112c6fd292e9a48e",
+      "source": "<color={text:c0}><color={text:c1}>Cursed Hit Chance</color><sprite name=\"Curse\"></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>诅咒命中几率</color><sprite name=\"Curse\"></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.437f3856536346c7",
+      "source": "RADIUS",
+      "translation": "半径",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.1879f4431e78038c",
+      "source": "<color={text:c0}>Area Radius</color>:",
+      "translation": "<color={text:c0}>范围半径</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.bc60d6472be3ed94",
+      "source": "Pickup Radius:",
+      "translation": "拾取半径：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.be64e094327ed11d",
+      "source": "<color={text:c0}>Pickup Radius</color>:",
+      "translation": "<color={text:c0}>拾取半径</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.cf0384ed50ac600d",
+      "source": "TIPSINESS",
+      "translation": "醉意",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5be8987e62b451ed",
+      "source": "<color={text:c0}>TIPSINESS</color>",
+      "translation": "<color={text:c0}>醉意</color>",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a25ac5fcb18d127b",
+      "source": "Limit:",
+      "translation": "上限：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.d119092c331cdb07",
+      "source": "<color={text:c0}>Limit</color>:",
+      "translation": "<color={text:c0}>上限</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.ebd293e02c29446d",
+      "source": "DURATION",
+      "translation": "持续时间",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.7dea70175a27654c",
+      "source": "Room Duration:",
+      "translation": "房间持续时间：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f75aa04d3eb7d8fb",
+      "source": "<color={text:c0}>Room Duration</color>:",
+      "translation": "<color={text:c0}>房间持续时间</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.ee2593a5ad26b008",
+      "source": "Potion Duration:",
+      "translation": "药剂持续时间：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.733f8c471f3f1315",
+      "source": "<color={text:c0}><color={text:c1}>Potion</color> Duration</color>:",
+      "translation": "<color={text:c0}><color={text:c1}>药剂</color>持续时间</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.151feb516bf3a2e2",
+      "source": "METRICS",
+      "translation": "统计",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.32768b01aeed6225",
+      "source": "Boss Crowns:",
+      "translation": "首领王冠：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.e6ace5ee20380d49",
+      "source": "<color={text:c0}><color={text:c1}>Boss Crowns</color></color>:",
+      "translation": "<color={text:c0}><color={text:c1}>首领王冠</color></color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.80881209ad6b30b7",
+      "source": "Dice Used:",
+      "translation": "已使用骰子数：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5bf49b5fefea424b",
+      "source": "<color={text:c0}>Dice Used</color>:",
+      "translation": "<color={text:c0}>已使用骰子数</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.07b4e29b5dcabdf2",
+      "source": "Status Effects On You:",
+      "translation": "自身状态效果数：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a9ef4905ca3b36ea",
+      "source": "<color={text:c0}>Status Effects On You</color>:",
+      "translation": "<color={text:c0}>自身状态效果数</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.fd304680cdec1dac",
+      "source": "Infusion Effects On You:",
+      "translation": "灌注效果数量：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.146154fa801a9ec7",
+      "source": "<color={text:c0}><color={text:c1}>Infusion</color> Effects On You</color>:",
+      "translation": "<color={text:c0}><color={text:c1}>灌注</color>效果数量</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.69543ad9b0364be6",
+      "source": "Potion Effects On You:",
+      "translation": "药剂效果数量：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a0bce1bbe3c51b6e",
+      "source": "<color={text:c0}><color={text:c1}>Potion</color> Effects On You</color>:",
+      "translation": "<color={text:c0}><color={text:c1}>药剂</color>效果数量</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.02dfb6a12637ec3f",
+      "source": "Tipsiness Stacks:",
+      "translation": "醉意层数：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.24589167a7d5fd06",
+      "source": "<color={text:c0}><color={text:c1}>Tipsiness</color> Stacks</color>:",
+      "translation": "<color={text:c0}><color={text:c1}>醉意</color>层数</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2f6345082e632419",
+      "source": "Weapon Rarity:",
+      "translation": "武器稀有度：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.07feca737e6a30f0",
+      "source": "<color={text:c0}><color={text:c1}>Weapon</color> Rarity</color>:",
+      "translation": "<color={text:c0}><color={text:c1}>武器</color>稀有度</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.33e25080c4d7759f",
+      "source": "Highest Rarity. Wep. Used:",
+      "translation": "使用过的最高武器稀有度：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.056378d96574b558",
+      "source": "<color={text:c0}>Highest Rarity. Wep. Used</color>:",
+      "translation": "<color={text:c0}>使用过的最高武器稀有度</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5060a387b5d2ddbf",
+      "source": "Empty Inventory Slots:",
+      "translation": "空背包栏位：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.15f70271a371067e",
+      "source": "<color={text:c0}>Empty Inventory Slots</color>:",
+      "translation": "<color={text:c0}>空背包栏位</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.7d47b91c34c55750",
+      "source": "Filled Inventory Slots:",
+      "translation": "已占用背包栏位：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.61f5c14e98d14bd8",
+      "source": "<color={text:c0}>Filled Inventory Slots</color>:",
+      "translation": "<color={text:c0}>已占用背包栏位</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a7592e986fc6ce5c",
+      "source": "Equipped Items:",
+      "translation": "已装备物品数：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.5254b30ee74f5911",
+      "source": "<color={text:c0}>Equipped Items</color>:",
+      "translation": "<color={text:c0}>已装备物品数</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.24f4f9bd7c608405",
+      "source": "Bosses Killed:",
+      "translation": "击杀首领数：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a8007e9b6426344b",
+      "source": "<color={text:c0}>Bosses Killed</color>:",
+      "translation": "<color={text:c0}>击杀首领数</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a28b5fd3a1e7830f",
+      "source": "Enemies Killed:",
+      "translation": "击杀敌人数：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.a59d2ced5c7dcad1",
+      "source": "<color={text:c0}>Enemies Killed</color>:",
+      "translation": "<color={text:c0}>击杀敌人数</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.9931a4cfa036ca58",
+      "source": "Enchanted Enemies Killed:",
+      "translation": "附魔敌人击杀数：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.24c7b3ffb2871b3c",
+      "source": "<color={text:c0}><color={text:c1}>Enchanted Enemies </color>Killed</color>:",
+      "translation": "<color={text:c0}><color={text:c1}>附魔敌人</color>击杀数</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.9fbce4c518f41bb9",
+      "source": "Enemy Health:",
+      "translation": "敌人生命值：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.4d7cbb68d3d8f614",
+      "source": "<color={text:c0}>Enemy Health</color>:",
+      "translation": "<color={text:c0}>敌人生命值</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.310d1ca7c59d0c79",
+      "source": "Enemy Health From Cinder:",
+      "translation": "余烬提供的敌人生命值：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.7b8c3140a4256d28",
+      "source": "<color={text:c0}>Enemy Health From Cinder</color>:",
+      "translation": "<color={text:c0}>余烬提供的敌人生命值</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.aaf597086e27eb55",
+      "source": "Shop Prices:",
+      "translation": "商店价格：",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.f6bc2dd88dd72100",
+      "source": "<color={text:c0}>Shop Prices</color>:",
+      "translation": "<color={text:c0}>商店价格</color>：",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.0159405f10047278",
+      "source": "SHRINE BLESSINGS",
+      "translation": "神龛祝福",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.6ceb5c3e35b0cf15",
+      "source": "CURSED SHRINE BLESSINGS",
+      "translation": "诅咒神龛祝福",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.31df731bbe532b34",
+      "source": "<color={text:c0}>CURSED</color> SHRINE BLESSINGS",
+      "translation": "<color={text:c0}>诅咒</color>神龛祝福",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b6b8a18b173ab32c",
+      "source": "FISH EFFECTS",
+      "translation": "鱼类效果",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.c910d474dcd724bf",
+      "source": "General",
+      "translation": "综合",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.14e1a0b4f24949ab",
+      "source": "Offense",
+      "translation": "进攻",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.6d3b491cc4b3b8c9",
+      "source": "Defense",
+      "translation": "防御",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.048cb0a340e5e54a",
+      "source": "Misc",
+      "translation": "其他",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.c432194ee9439610",
+      "source": "Not Encumbered",
+      "translation": "未超重",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.b202ed35c9759018",
+      "source": "Encumbered",
+      "translation": "超重",
+      "context": "character-panel",
+      "kind": "exact",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.2925a52c0096852d",
+      "source": "Lvl {number:level} - {text:className}",
+      "translation": "等级 {number:level} - {text:className}",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    },
+    {
+      "id": "module.character.9dced87267b8e57e",
+      "source": "{number:distance} Tiles",
+      "translation": "{number:distance} 格",
+      "context": "character-panel",
+      "kind": "template",
+      "status": "translated",
+      "note": "0.2.8.6 CharacterPanelController 生成字段；模块完整标签盘点，保留颜色嵌套和图标。"
+    }
+  ]
+}

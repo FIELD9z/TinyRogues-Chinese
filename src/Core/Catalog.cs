@@ -236,7 +236,7 @@ public sealed class Catalog
                 }
                 unique.Add(key, entry.Translation);
                 entries.Add(compiled);
-                if (entry.Kind == "exact" && (entry.Context == "*" || entry.Context == "display-value" || entry.Context == "weapon-action-name"))
+                if (entry.Kind == "exact" && (entry.Context == "*" || entry.Context == "display-value" || entry.Context == "weapon-action-name" || entry.Context == "companion-name"))
                     _knownValues.Add(entry.Translation.Replace('\u00a0', ' '));
             }
             list.Add(new Layer(entries.ToArray()));
@@ -293,6 +293,9 @@ public sealed class Catalog
     {
         if (TryTranslate(source, context, out target)) return true;
         if (string.IsNullOrEmpty(source) || source.Length > 12000) return false;
+        if ((context == "enemy-name" || context == "floor-name") && HasBalancedStyles(source) && TryTranslateRichLine(source, context, out target)) return true;
+        if (TryTranslateRichLine(source, "shop-generated", out target)) return true;
+        if (source.Length <= 512 && source.IndexOf('\n') < 0 && source.IndexOf('<') >= 0 && HasBalancedStyles(source) && TryTranslateRichLine(source, "*", out target)) return true;
         // Layout may replace word spaces with NBSP after the source lookup.
         // Retry a complete label only; unknown text remains untouched.
         if (source.IndexOf('\u00a0') >= 0 && source.Length <= 160 && source.IndexOf('\n') < 0 && TryTranslate(source.Replace('\u00a0', ' '), context, out var spaced))
@@ -301,6 +304,7 @@ public sealed class Catalog
         if (selection.Length > 0 && source.Length <= 512 && TryTranslateLabel(source.Substring(selection.Length), context, out var selected))
         { target = selection + selected; return true; }
         if (WeaponCards.TryTranslate(this, source, out target)) return true;
+        if (SetCards.TryTranslate(this, source, out target)) return true;
         // Some titles color each Latin glyph separately. Resolve only a known
         // complete label; keep the original tag sequence and reject unknown prose.
         if (Regex.Matches(source, @"<color=[^<>]+>[A-Za-z ]</color>", RegexOptions.CultureInvariant).Count >= 4)
@@ -320,6 +324,16 @@ public sealed class Catalog
         return true;
     }
 
+    private static bool HasBalancedStyles(string source)
+    {
+        var stack = new Stack<string>();
+        foreach (Match tag in LabelTags.Matches(source))
+        {
+            if (!tag.Value.StartsWith("</", StringComparison.Ordinal)) stack.Push(tag.Groups[1].Value);
+            else if (stack.Count == 0 || stack.Pop() != tag.Groups[1].Value) return false;
+        }
+        return stack.Count == 0;
+    }
     private sealed class Layer
     {
         private readonly Dictionary<string, Dictionary<string, CompiledEntry>> _exact = new(StringComparer.Ordinal);
