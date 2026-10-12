@@ -192,6 +192,16 @@ Check(Tr(catalog, "Grants\n[[21]] to [[34]] Gold\nwhen bombed<Bomb>.").Contains(
 Check(Tr(catalog, "Grants [[7]] to [[9]]\nSouls<sprite name=\"Soul\">.").Contains("[[7]]至[[9]]"), "Soul reward range only handled original values");
 Check(Tr(catalog, "Drops Rewards\nwhen bombed<sprite name=\"Bomb\">.").Contains("掉落奖励"), "Treasure rock missed expanded icon stage");
 Check(Tr(catalog, "Drops Unknown Future Rewards\nwhen bombed<Bomb>.") == "Drops Unknown Future Rewards\nwhen bombed<Bomb>.", "Reward rule guessed unknown prose");
+var interactionStates = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "interaction-states.json")))!;
+foreach (var state in interactionStates)
+{
+    Check(catalog.TryTranslateLabel(state, "styled-ui", out var translatedState), "Interaction state did not match: " + state);
+    Check(!System.Text.RegularExpressions.Regex.IsMatch(System.Text.RegularExpressions.Regex.Replace(translatedState, "<[^>]*>", ""), "[A-Za-z]"), "Interaction state retained English: " + translatedState);
+    Check(System.Text.RegularExpressions.Regex.Matches(state, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(translatedState, "<[^>]*>").Select(m => m.Value)), "Interaction state changed icons or colors");
+}
+Check(catalog.TryTranslateLabel("Your world tier is now <color=#123456>7</color>.", "styled-ui", out var tierState) && tierState.Contains(">7<"), "World tier depended on one number/color");
+Check(!catalog.TryTranslateLabel("> Unknown Future Option", "styled-ui", out _), "Selected unknown option guessed");
+Check(!catalog.TryTranslateLabel("UNKNOWN\u00a0FUTURE\u00a0TITLE", "styled-ui", out _), "Unknown NBSP title guessed");
 Console.WriteLine($"PASS: {checks} behavioral checks; {catalog.EntryCount} independently authored active entries across {files.Length} packs.");
 return 0;
 }

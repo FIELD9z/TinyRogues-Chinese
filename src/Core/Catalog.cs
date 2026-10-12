@@ -207,7 +207,7 @@ public sealed class CompiledEntry
 
 public sealed class Catalog
 {
-    private static readonly Regex Label = new(@"\A(?<prefix>(?:<(?:color=[^<>]+|size=[^<>]+|b|i|u)>)+)(?<label>[^<>\r\n]{1,120})(?<suffix>(?:</(?:color|size|b|i|u)>)+)\z", RegexOptions.CultureInvariant);
+    private static readonly Regex Label = new(@"\A(?<prefix>(?:<(?:color=[^<>]+|size=[^<>]+|b|i|u)>)+)(?<label>[^<\r\n]{1,120})(?<suffix>(?:</(?:color|size|b|i|u)>)+)\z", RegexOptions.CultureInvariant);
     private static readonly Regex LabelTags = new(@"</?(color|size|b|i|u)(?:=[^<>]+)?>", RegexOptions.CultureInvariant);
     private readonly Layer[] _layers;
     private readonly HashSet<string> _knownValues = new(StringComparer.Ordinal);
@@ -293,6 +293,13 @@ public sealed class Catalog
     {
         if (TryTranslate(source, context, out target)) return true;
         if (string.IsNullOrEmpty(source) || source.Length > 12000) return false;
+        // Layout may replace word spaces with NBSP after the source lookup.
+        // Retry a complete label only; unknown text remains untouched.
+        if (source.IndexOf('\u00a0') >= 0 && source.Length <= 160 && source.IndexOf('\n') < 0 && TryTranslate(source.Replace('\u00a0', ' '), context, out var spaced))
+        { target = spaced; return true; }
+        var selection = source.StartsWith("> ", StringComparison.Ordinal) ? "> " : source.StartsWith("  ", StringComparison.Ordinal) ? "  " : "";
+        if (selection.Length > 0 && source.Length <= 512 && TryTranslateLabel(source.Substring(selection.Length), context, out var selected))
+        { target = selection + selected; return true; }
         if (WeaponCards.TryTranslate(this, source, out target)) return true;
         // Some titles color each Latin glyph separately. Resolve only a known
         // complete label; keep the original tag sequence and reject unknown prose.
@@ -308,7 +315,7 @@ public sealed class Catalog
         var opens = LabelTags.Matches(prefix).Cast<Match>().Select(m => m.Groups[1].Value).Reverse();
         var closes = LabelTags.Matches(suffix).Cast<Match>().Select(m => m.Groups[1].Value);
         if (!opens.SequenceEqual(closes)) return false;
-        if (!TryTranslate(wrapped.Groups["label"].Value, context, out var label)) return false;
+        if (!TryTranslateLabel(wrapped.Groups["label"].Value, context, out var label)) return false;
         target = prefix + label + suffix;
         return true;
     }

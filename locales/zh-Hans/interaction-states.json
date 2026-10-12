@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "交互与选中状态",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "interaction.255a70fd8ebfcbcf",
+      "source": "Tavern",
+      "translation": "酒馆",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.39fa458e9144fbd3",
+      "source": "Sit, stay and\nhave a drink!",
+      "translation": "坐下来，\n喝上一杯！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.ed077f3d8125d60d",
+      "source": "Open",
+      "translation": "打开",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.968842d3e36f0318",
+      "source": "Sacrifice Heart<sprite name=\"Health\">",
+      "translation": "献祭红心<sprite name=\"Health\">",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.836d80d84a707beb",
+      "source": "Floor Exit",
+      "translation": "楼层出口",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.6a5f57453e0a0c07",
+      "source": "Enter Next Floor",
+      "translation": "进入下一层",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.cb44ec486b7f6125",
+      "source": "Gain Favour <sprite name=\"Heart\">/<sprite name=\"Stamina\">/<sprite name=\"Mana\"> <color={text:c1}>[{number:v1} Souls<sprite name=\"Soul\">]</color>",
+      "translation": "获得恩赐 <sprite name=\"Heart\">/<sprite name=\"Stamina\">/<sprite name=\"Mana\"> <color={text:c1}>[{number:v1} 灵魂<sprite name=\"Soul\">]</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.371c1bcb1972995a",
+      "source": "Fully Recover<sprite name=\"Heart\"> <color={text:c1}>[{number:v1} Souls<sprite name=\"Soul\">]</color>",
+      "translation": "完全恢复<sprite name=\"Heart\"> <color={text:c1}>[{number:v1} 灵魂<sprite name=\"Soul\">]</color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.6661053117b64c4b",
+      "source": "<color={text:c1}>Gain Favour <sprite name=\"Heart\">/<sprite name=\"Stamina\">/<sprite name=\"Mana\"> <color={text:c2}>[{number:v1} Souls<sprite name=\"Soul\">]</color></color>",
+      "translation": "<color={text:c1}>获得恩赐 <sprite name=\"Heart\">/<sprite name=\"Stamina\">/<sprite name=\"Mana\"> <color={text:c2}>[{number:v1} 灵魂<sprite name=\"Soul\">]</color></color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.ec425662e0995047",
+      "source": "<color={text:c1}>Fully Recover<sprite name=\"Heart\"> <color={text:c2}>[{number:v1} Souls<sprite name=\"Soul\">]</color></color>",
+      "translation": "<color={text:c1}>完全恢复<sprite name=\"Heart\"> <color={text:c2}>[{number:v1} 灵魂<sprite name=\"Soul\">]</color></color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.072c9076c17c3f18",
+      "source": "Choose and gain a Heart<sprite name=\"Heart\">,\na Stamina<sprite name=\"Stamina\"> or a Mana<sprite name=\"Mana\">.",
+      "translation": "选择并获得一颗红心<sprite name=\"Heart\">、\n一点体力<sprite name=\"Stamina\">或一点法力<sprite name=\"Mana\">.",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.a77f4b769063a60c",
+      "source": "Choose and gain a <color={text:c1}>Heart</color><sprite name=\"Heart\">,\na <color={text:c2}>Stamina</color><sprite name=\"Stamina\"> or a <color={text:c3}>Mana</color><sprite name=\"Mana\">.",
+      "translation": "选择并获得一颗<color={text:c1}>红心</color><sprite name=\"Heart\">、\n一点<color={text:c2}>体力</color><sprite name=\"Stamina\">或一点<color={text:c3}>法力</color><sprite name=\"Mana\">.",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.177dd08f9147ce17",
+      "source": "Fully recover Hearts<sprite name=\"Heart\">\nand Flasks<Flask>.",
+      "translation": "完全恢复红心<sprite name=\"Heart\">\n和药瓶<Flask>.",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.ab4d6871743e08d0",
+      "source": "Fully recover <color={text:c1}>Hearts</color><sprite name=\"Heart\">\nand Flasks<sprite name=\"Flask\">.",
+      "translation": "完全恢复<color={text:c1}>红心</color><sprite name=\"Heart\">\n和药瓶<sprite name=\"Flask\">.",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.039170df60b63099",
+      "source": "Set Stash",
+      "translation": "套装秘藏",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.8348cdd831e9320f",
+      "source": "Use <color={text:c1}>Key<Key></color>",
+      "translation": "使用<color={text:c1}>钥匙<Key></color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.a968717eaacf570d",
+      "source": "Use <color={text:c1}><color={text:c2}>Key</color><sprite name=\"Key\"></color>",
+      "translation": "使用<color={text:c1}><color={text:c2}>钥匙</color><sprite name=\"Key\"></color>",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.de4428ab4bfadeee",
+      "source": "Armory",
+      "translation": "军械库",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.ad135423b2268acf",
+      "source": "Contains\n<color={text:c1}>uncommon</color>\n//weapons.",
+      "translation": "内含\n<color={text:c1}>精良</color>\n//武器。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.fc6c2bc16d71c4ec",
+      "source": "Contains\n<color={text:c1}><color={text:c2}>uncommon</color></color>\nweapons.",
+      "translation": "内含\n<color={text:c1}><color={text:c2}>精良</color></color>\n武器。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "interaction.7bf9f1cb9b5d39d9",
+      "source": "Your world tier is now <color={text:c1}>{number:v1}</color>.",
+      "translation": "你的世界阶层现为 <color={text:c1}>{number:v1}</color>.",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    }
+  ]
+}

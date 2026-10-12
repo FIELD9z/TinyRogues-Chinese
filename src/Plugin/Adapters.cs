@@ -268,6 +268,15 @@ internal static class Adapters
     {
         try
         {
+            // Translate complete selected labels before native tag parsing can
+            // consume the selection marker next to a closing angle bracket.
+            if (__0 == null) return;
+            if (__0.IndexOf('\u00a0') >= 0 && __0.Length <= 160 && __0.IndexOf('\n') < 0
+                && Plugin.Current.Catalog != null && Plugin.Current.Catalog.TryTranslate(__0.Replace('\u00a0', ' '), "styled-ui", out var title))
+            { __0 = title; return; }
+            if (System.Text.RegularExpressions.Regex.IsMatch(__0, @"\A(?:<color=[^>]+>)*(?:> | {2})")
+                && Plugin.Current.Catalog != null && Plugin.Current.Catalog.TryTranslateLabel(__0, "styled-ui", out var selected))
+            { __0 = selected; return; }
             var template = Plugin.Current.Translate(__0, "description-template", false);
             // Composed weapon cards translate after native semantic coloring.
             // Translating enum labels here would prevent the game coloring them.

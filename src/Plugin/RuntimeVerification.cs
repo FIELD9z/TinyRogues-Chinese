@@ -460,7 +460,10 @@ public sealed class RuntimeVerification : MonoBehaviour
             var markers = UI.Text.TextMeshProxy.ApplyColorToText("[[至]] ##技能 [[非暴击伤害提高 +25%]]", true, label);
             if (markers != "<color=#00E317>至</color> 技能 <color=#00E317>非暴击伤害提高 +25%</color>") throw new InvalidOperationException("Native prose marker processing changed.");
             if (UI.Text.TextMeshProxy.ReplaceBracketedWithRedColor("((清空))") != "<color=red>清空</color>") throw new InvalidOperationException("Native red prose marker failed.");
-            var fixtures = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "runtime-ui.json");
+            foreach (var fixtureName in new[] { "runtime-ui.json", "interaction-states.json" })
+            {
+            var fixtures = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", fixtureName);
+            if (!File.Exists(fixtures)) throw new FileNotFoundException("UI fixtures required", fixtures);
             if (File.Exists(fixtures))
             {
                 string[] sources;
@@ -468,6 +471,15 @@ public sealed class RuntimeVerification : MonoBehaviour
                     sources = (string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!;
                 foreach (var source in sources)
                 {
+                    if (fixtureName == "interaction-states.json")
+                    {
+                        label.text = source;
+                        VerifyRenderedValues(source, label.text, "direct interaction state");
+                        var plain = Regex.Replace(label.text, "<[^>]*>", "");
+                        if (Regex.IsMatch(plain, "[A-Za-z]")) throw new InvalidOperationException("English in directly assigned interaction state: " + label.text);
+                        if (Regex.Replace(source, "<[^>]*>", "").StartsWith("> ", StringComparison.Ordinal) && !plain.StartsWith("> ", StringComparison.Ordinal))
+                            throw new InvalidOperationException("Interaction selection marker lost.");
+                    }
                     label.text = UI.Text.TextMeshProxy.ApplyColorToText(source, true, label);
                     VerifyRenderedValues(source, label.text, "captured complete UI");
                     var remaining = Regex.Replace(label.text, "<[^>]*>", "");
@@ -478,7 +490,8 @@ public sealed class RuntimeVerification : MonoBehaviour
                     if (Regex.IsMatch(remaining, "[A-Za-z]"))
                         throw new InvalidOperationException("English remains in captured complete UI: " + label.text);
                 }
-                Plugin.Current.Info($"NATIVE CAPTURED UI PASS: {sources.Length} complete samples; numeric values preserved; no English prose (identical source x-number multipliers retained).");
+                Plugin.Current.Info($"NATIVE CAPTURED UI PASS: {fixtureName}: {sources.Length} complete samples; numeric values preserved; no English prose (identical source x-number multipliers retained).");
+            }
             }
             var cards = Path.Combine(Path.GetDirectoryName(typeof(Plugin).Assembly.Location)!, "diagnostics", "weapon-cards.json");
             if (!File.Exists(cards)) throw new FileNotFoundException("Starter weapon card fixtures are required for the native self-test.", cards);
