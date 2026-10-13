@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <AssemblyName>TinyRogues.LayoutProbe</AssemblyName>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BepInEx.Core"><HintPath>$(GameDir)/BepInEx/core/BepInEx.Core.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="BepInEx.Unity.IL2CPP"><HintPath>$(GameDir)/BepInEx/core/BepInEx.Unity.IL2CPP.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Il2CppInterop.Runtime"><HintPath>$(GameDir)/BepInEx/core/Il2CppInterop.Runtime.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(GameDir)/BepInEx/core/0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Assembly-CSharp"><HintPath>$(GameDir)/BepInEx/interop/Assembly-CSharp.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Il2Cppmscorlib"><HintPath>$(GameDir)/BepInEx/interop/Il2Cppmscorlib.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Unity.TextMeshPro"><HintPath>$(GameDir)/BepInEx/interop/Unity.TextMeshPro.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(GameDir)/BepInEx/interop/UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UI"><HintPath>$(GameDir)/BepInEx/interop/UnityEngine.UI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UIModule"><HintPath>$(GameDir)/BepInEx/interop/UnityEngine.UIModule.dll</HintPath><Private>false</Private></Reference>
+  <Reference Include="UnityEngine.ScreenCaptureModule"><HintPath>$(GameDir)/BepInEx/interop/UnityEngine.ScreenCaptureModule.dll</HintPath><Private>false</Private></Reference><Reference Include="UnityEngine.ImageConversionModule"><HintPath>$(GameDir)/BepInEx/interop/UnityEngine.ImageConversionModule.dll</HintPath><Private>false</Private></Reference></ItemGroup>
+  <Target Name="RequireGame" BeforeTargets="ResolveReferences">
+    <Error Condition="!Exists('$(GameDir)/BepInEx/interop/Assembly-CSharp.dll')" Text="Build with -p:GameDir=your-game-directory after BepInEx has generated interop assemblies." />
+  </Target>
+</Project>

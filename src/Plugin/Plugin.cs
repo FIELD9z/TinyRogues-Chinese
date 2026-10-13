@@ -160,4 +160,8 @@ public sealed class LocalizationDriver : MonoBehaviour
     {
         try { Plugin.Current.Tick(); } catch (Exception error) { Plugin.Current.Error($"Catalog polling failed: {error.Message}"); }
     }
+    private void LateUpdate()
+    {
+        try { ChineseLayout.Flush(); } catch (Exception error) { Plugin.Current.Error($"Chinese layout refresh failed: {error.Message}"); }
+    }
 }

@@ -288,6 +288,53 @@ var setCard = "<color=#00B824>\n3-Set: </color><color=#00B824>Angel Disguise</co
 Check(SetCards.TryTranslate(catalog, setCard, out var setTarget) && setTarget.Contains("3件套：") && setTarget.Contains("天使伪装") && !setTarget.Contains("Angelic") && !setTarget.Contains("Helmet"), "Independent set header/components were missed");
 Check(setTarget.EndsWith("•Unknown future effect."), "Set parser guessed unknown effect prose");
 Check(System.Text.RegularExpressions.Regex.Matches(setCard, "<sprite[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(setTarget, "<sprite[^>]*>").Select(m => m.Value)), "Set component icons changed");
+var tavernCaptures = System.Text.Json.JsonSerializer.Deserialize<System.Text.Json.JsonElement[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "tavern-load.json")))!;
+Check(tavernCaptures.Length == 16, "Tavern load source inventory changed");
+bool TryRuntimeTranslation(string source, string context, out string target)
+{
+    if (CharacterPanelTexts.TryTranslate(catalog, source, context, out target)) return true;
+    var label = context.StartsWith("ui:", StringComparison.Ordinal) || context == "styled-ui" || context == "enemy-name" || context == "floor-name";
+    return label ? catalog.TryTranslateLabel(source, context, out target) : catalog.TryTranslate(source, context, out target);
+}
+var tavernRows = tavernCaptures.Select(row => (Context: row.GetProperty("context").GetString()!, Source: row.GetProperty("source").GetString()!)).ToArray();
+foreach (var (context, source) in tavernRows)
+{
+    Check(TryRuntimeTranslation(source, context, out var target) && target != source, "Tavern capture did not translate through runtime route: " + context + " / " + source);
+    Check(System.Text.RegularExpressions.Regex.IsMatch(target, "[\\u4e00-\\u9fff]"), "Tavern capture has no Chinese output: " + source);
+    Check(System.Text.RegularExpressions.Regex.Matches(source, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(target, "<[^>]*>").Select(m => m.Value)), "Tavern capture changed tag/icon sequence: " + source);
+    var visibleSource = System.Text.RegularExpressions.Regex.Replace(source, "<[^>]*>", "");
+    var visibleTarget = System.Text.RegularExpressions.Regex.Replace(target, "<[^>]*>", "");
+    var numbers = new System.Text.RegularExpressions.Regex(@"\d+(?:[.,]\d+)?");
+    Check(numbers.Matches(visibleSource).Select(m => m.Value).SequenceEqual(numbers.Matches(visibleTarget).Select(m => m.Value)), "Tavern capture changed a gameplay value: " + source);
+    Check(source.Count(c => c == '\n') == target.Count(c => c == '\n'), "Tavern capture changed line breaks: " + source);
+}
+foreach (var (context, source) in tavernRows.Where(row => row.Source.Contains("Equip Load Penalties:", StringComparison.Ordinal)))
+{
+    var colorVariant = new System.Text.RegularExpressions.Regex(@"(?<=<color=)[^>]+(?=>)").Replace(source, "#123ABC", 1);
+    colorVariant = colorVariant.Replace("[Select]", "[RT]", StringComparison.Ordinal);
+    Check(TryRuntimeTranslation(colorVariant, context, out var target) && target.Contains("#123ABC", StringComparison.Ordinal) && target.Contains("[RT]", StringComparison.Ordinal), "Load body depended on source colors or fixed details key: " + context);
+    Check(System.Text.RegularExpressions.Regex.Matches(colorVariant, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(target, "<[^>]*>").Select(m => m.Value)), "Load body color variant changed tags/icons: " + context);
+    var incomplete = source.Replace("Check Details", "Check Det", StringComparison.Ordinal);
+    var labelContext = context.StartsWith("ui:", StringComparison.Ordinal) || context == "styled-ui";
+    Check(!(labelContext ? catalog.TryTranslateLabel(incomplete, context, out _) : catalog.TryTranslate(incomplete, context, out _)), "Incomplete load body was translated: " + context);
+    var unknownBody = source.Replace("Movement Speed", "Unknown Future Speed", StringComparison.Ordinal);
+    Check(!(labelContext ? catalog.TryTranslateLabel(unknownBody, context, out _) : catalog.TryTranslate(unknownBody, context, out _)), "Unknown load-body phrase was guessed: " + context);
+}
+foreach (var (context, source) in tavernRows.Where(row => row.Context == "dialogue" && row.Source.Contains("Gold<sprite", StringComparison.Ordinal)))
+{
+    var priceStart = source.LastIndexOf(" [<color=", StringComparison.Ordinal);
+    Check(priceStart >= 0, "Tavern price suffix was not found: " + source);
+    var priceVariant = source[..priceStart] + System.Text.RegularExpressions.Regex.Replace(source[priceStart..], @"(?<=<color=)[^>]+(?=>)", "#123ABC");
+    priceVariant = System.Text.RegularExpressions.Regex.Replace(priceVariant, @"(?<=<color=#123ABC>)\d+(?=</color>)", "37");
+    Check(TryRuntimeTranslation(priceVariant, context, out var target) && target.Contains("37", StringComparison.Ordinal) && target.Contains("#123ABC", StringComparison.Ordinal), "Tavern offer depended on its captured price or colors: " + source);
+    Check(System.Text.RegularExpressions.Regex.Matches(priceVariant, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(target, "<[^>]*>").Select(m => m.Value)), "Tavern offer changed tags/icons: " + source);
+    var incomplete = source[..Math.Max(1, source.IndexOf(" Gold<sprite", StringComparison.Ordinal))];
+    Check(!catalog.TryTranslate(incomplete, context, out _), "Incomplete priced tavern offer was translated: " + source);
+    var firstBreak = source.IndexOf('\n');
+    var unknownBody = "Unknown Future offer" + source[firstBreak..];
+    Check(!catalog.TryTranslate(unknownBody, context, out _), "Unknown tavern body with a valid price was translated: " + source);
+}
+Check(!catalog.TryTranslateLabel("<color=#123ABC>Equip Load Penalties:\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Movement Speed\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Unknown Future Dash\n</color>", "styled-ui", out _), "Unknown tavern load row was accepted by the styled UI route");
 Console.WriteLine($"PASS: {checks} behavioral checks; {catalog.EntryCount} independently authored active entries across {files.Length} packs.");
 return 0;
 }

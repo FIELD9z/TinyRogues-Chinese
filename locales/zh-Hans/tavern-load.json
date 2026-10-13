@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "酒馆动态对白与负重提示",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "tavern.load.0",
+      "source": "<color={text:header}>Equip Load Penalties:\n</color><color=#8CFFFA><SubArrow>Movement Speed\n</color><color=#8CFFFA><SubArrow>Dash Length\n</color><color=#6BBD30><SubArrow>Stam. Rec. Speed<Stamina>\n</color><color=#26B0FF><SubArrow>Mana Rec.<Mana>\n</color><color=#FCC926>[{key:details}]</color><ArrowWhite>Check Details",
+      "translation": "<color={text:header}>装备负重惩罚：\n</color><color=#8CFFFA><SubArrow>移动速度\n</color><color=#8CFFFA><SubArrow>冲刺距离\n</color><color=#6BBD30><SubArrow>耐力恢复速度<Stamina>\n</color><color=#26B0FF><SubArrow>法力恢复<Mana>\n</color><color=#FCC926>[{key:details}]</color><ArrowWhite>查看详情",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际负重说明完整格式；标题颜色和详情按键保留。"
+    },
+    {
+      "id": "tavern.load.1",
+      "source": "<color={text:header}>Equip Load Penalties:\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Movement Speed\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Dash Length\n</color><color=#6BBD30><sprite name=\"SubArrow\">Stam. Rec. Speed<sprite name=\"Stamina\">\n</color><color=#26B0FF><sprite name=\"SubArrow\"><color=#26B0FF>Mana</color> Rec.<sprite name=\"Mana\">\n</color><color=#FCC926>[{key:details}]</color><sprite name=\"Arrow_Right_White\">Check Details",
+      "translation": "<color={text:header}>装备负重惩罚：\n</color><color=#8CFFFA><sprite name=\"SubArrow\">移动速度\n</color><color=#8CFFFA><sprite name=\"SubArrow\">冲刺距离\n</color><color=#6BBD30><sprite name=\"SubArrow\">耐力恢复速度<sprite name=\"Stamina\">\n</color><color=#26B0FF><sprite name=\"SubArrow\"><color=#26B0FF>法力</color>恢复<sprite name=\"Mana\">\n</color><color=#FCC926>[{key:details}]</color><sprite name=\"Arrow_Right_White\">查看详情",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "实际负重说明完整格式；标题颜色和详情按键保留。"
+    },
+    {
+      "id": "tavern.ambient.difficulty",
+      "source": "Things are not\ngoing to get easier.",
+      "translation": "接下来不会\n变得更轻松。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated"
+    },
+    {
+      "id": "tavern.alignment.3",
+      "source": "{number:value} LAWFUL<sprite name=\"Lawful\">",
+      "translation": "{number:value} 守序<sprite name=\"Lawful\">",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    },
+    {
+      "id": "tavern.alignment.4",
+      "source": "{number:value} <color=#5ECCE3>LAWFUL</color><sprite name=\"Lawful\">",
+      "translation": "{number:value} <color=#5ECCE3>守序</color><sprite name=\"Lawful\">",
+      "context": "*",
+      "kind": "template",
+      "status": "translated"
+    }
+  ]
+}

@@ -84,6 +84,9 @@ internal static class Adapters
             Patch(method, nameof(AfterText), true);
         // Serialized prefab labels need one pass when enabled; no periodic text scanning.
         Patch(AccessTools.Method(typeof(TextMeshProUGUI), "OnEnable"), nameof(AfterText), true);
+        Patches.Patch(AccessTools.Method(typeof(TextMeshProUGUI), "GenerateTextMesh"), postfix: new HarmonyMethod(typeof(ChineseLayout), nameof(ChineseLayout.AfterMesh)));
+        Patches.Patch(AccessTools.PropertyGetter(typeof(TMP_Text), "preferredHeight"), postfix: new HarmonyMethod(typeof(ChineseLayout), nameof(ChineseLayout.PreferredHeight)));
+        Patches.Patch(AccessTools.Method(typeof(TextMeshProUGUI), "OnDestroy"), postfix: new HarmonyMethod(typeof(ChineseLayout), nameof(ChineseLayout.Destroyed)));
         // TextMeshProxy performs semantic coloring and icon expansion before this return value.
         Patch(AccessTools.Method(typeof(TextMeshProxy), "ApplyColorToText"), nameof(BeforeStyling));
         Patch(AccessTools.Method(typeof(TextMeshProxy), "GetTextWithKeyTagsColored"), nameof(BeforeStyling));
@@ -101,6 +104,7 @@ internal static class Adapters
 
     private static void ReleaseDialogue(DialogueSystemController __instance)
     {
+        ChineseLayout.ReleaseChoices();
         if (__instance.text != null && __instance.text.Pointer == Plugin.Current.DialogueBody) Plugin.Current.DialogueBody = IntPtr.Zero;
     }
 
@@ -344,6 +348,7 @@ internal static class Adapters
         {
             Plugin.Current.FontFor(__instance);
             __0 = Plugin.Current.Translate(__0, Context(__instance));
+            PrepareChoiceLayout(__instance, __0);
         }
         catch (Exception error) { Plugin.Current.Error($"UI assignment adapter failed: {error.Message}"); }
     }
@@ -355,6 +360,7 @@ internal static class Adapters
             Plugin.Current.FontFor(__instance);
             var source = __instance.text;
             var target = Plugin.Current.Translate(source, Context(__instance));
+            PrepareChoiceLayout(__instance, target);
             if (target == source) return;
             _writing = true;
             __instance.text = target;
@@ -366,6 +372,21 @@ internal static class Adapters
     {
         try { __result = Plugin.Current.Translate(__result, "styled-ui"); }
         catch (Exception error) { Plugin.Current.Error($"Styled UI adapter failed: {error.Message}"); }
+    }
+    private static void PrepareChoiceLayout(TMP_Text text, string source)
+    {
+        ChineseLayout.RestoreChoice(text);
+        if (source == null || source.IndexOf('\n') >= 0 || !System.Text.RegularExpressions.Regex.IsMatch(source, "[\u4e00-\u9fff]")) return;
+        if (System.Text.RegularExpressions.Regex.Replace(source, "<[^>]*>", "").Length > 12) return;
+        var dialogue = DialogueSystemController.Instance;
+        if (dialogue == null) return;
+        // These are the two native horizontal, single-line choice controls.
+        // Mixed fallback glyphs can wrap the closing selection arrow even when
+        // the native preferred width says it fits; that also moves the first
+        // line upwards into the dialogue body. Long choice lists are separate.
+        if (dialogue.choiceA != null && text.Pointer == dialogue.choiceA.Pointer
+            || dialogue.choiceB != null && text.Pointer == dialogue.choiceB.Pointer)
+            ChineseLayout.SingleLineChoice(text);
     }
     private static void AfterAbilityTitle(Il2CppSystem.Object __instance, ref string __result)
     {

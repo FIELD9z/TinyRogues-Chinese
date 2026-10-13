@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-13",
+  "game": "0.2.8.6",
+  "coreChecks": 2103,
+  "captureFixtures": 16,
+  "activeEntries": 8528,
+  "packs": 46,
+  "nativeSelfTest": "PASS",
+  "nativeStyledFixtures": 46,
+  "nativeDialogueSamples": 29,
+  "layout": {
+    "corpus": 2150,
+    "beforeOverlappingParagraphs": 6,
+    "afterOverlappingParagraphs": 0,
+    "beforeHeightDeficits": 1,
+    "afterHeightDeficits": 0,
+    "minimumParagraphGap": 3.4379683,
+    "finalBuild720pEdgeCases": 6,
+    "finalBuild720pMinimumGap": 3.647,
+    "choiceReusePhases": 9
+  },
+  "installed": [
+    {
+      "path": "TinyRogues.Chinese.dll",
+      "sha256": "CDEFDCAFEB1556AB027CD396774B2FA36FC42ECE90A37FE3A91D7AFCA4FE3C0D"
+    },
+    {
+      "path": "locales/zh-Hans/tavern-load.json",
+      "sha256": "AA5C222CF738F9DF77C0C3ECEA2B89538567387CAC4D637A7A77C6E521D200FC"
+    },
+    {
+      "path": "diagnostics/tavern-load.json",
+      "sha256": "8674DEB6E4C83367B16D86BB15C002DD8A4BB6B1EFA88F80B5B5BD63D31B180E"
+    }
+  ],
+  "limits": [
+    "Native UI reproductions and bounded corpus, not all gameplay screens or font settings.",
+    "Corpus includes previously generated input text; layout results are not translation coverage claims."
+  ]
+}

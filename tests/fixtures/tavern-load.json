@@ -1,0 +1,66 @@
+[
+  {
+    "context": "styled-input",
+    "source": "<color=#00E61A>Equip Load Penalties:\n</color><color=#8CFFFA><SubArrow>Movement Speed\n</color><color=#8CFFFA><SubArrow>Dash Length\n</color><color=#6BBD30><SubArrow>Stam. Rec. Speed<Stamina>\n</color><color=#26B0FF><SubArrow>Mana Rec.<Mana>\n</color><color=#FCC926>[Select]</color><ArrowWhite>Check Details"
+  },
+  {
+    "context": "styled-ui",
+    "source": "<color=#00E61A>Equip Load Penalties:\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Movement Speed\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Dash Length\n</color><color=#6BBD30><sprite name=\"SubArrow\">Stam. Rec. Speed<sprite name=\"Stamina\">\n</color><color=#26B0FF><sprite name=\"SubArrow\"><color=#26B0FF>Mana</color> Rec.<sprite name=\"Mana\">\n</color><color=#FCC926>[Select]</color><sprite name=\"Arrow_Right_White\">Check Details"
+  },
+  {
+    "context": "ui:Dungeon Generator/Universal_World_Text_Box_Object/Tag Layout Group/Tooltip Left/Description Text",
+    "source": "<color=#00E61A>Equip Load Penalties:\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Movement Speed\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Dash Length\n</color><color=#6BBD30><sprite name=\"SubArrow\">Stam. Rec. Speed<sprite name=\"Stamina\">\n</color><color=#26B0FF><sprite name=\"SubArrow\"><color=#26B0FF>Mana</color> Rec.<sprite name=\"Mana\">\n</color><color=#FCC926>[Select]</color><sprite name=\"Arrow_Right_White\">Check Details"
+  },
+  {
+    "context": "ui:Menu Canvas/Inventory/Panel/Inventory Slot Grid/Inventory Slot 0/Item Element/Canvas/Tag Layout Group/Tooltip Left/Description Text",
+    "source": "<color=#00E61A>Equip Load Penalties:\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Movement Speed\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Dash Length\n</color><color=#6BBD30><sprite name=\"SubArrow\">Stam. Rec. Speed<sprite name=\"Stamina\">\n</color><color=#26B0FF><sprite name=\"SubArrow\"><color=#26B0FF>Mana</color> Rec.<sprite name=\"Mana\">\n</color><color=#FCC926>[Select]</color><sprite name=\"Arrow_Right_White\">Check Details"
+  },
+  {
+    "context": "styled-input",
+    "source": "<color=#FF4A00>Equip Load Penalties:\n</color><color=#8CFFFA><SubArrow>Movement Speed\n</color><color=#8CFFFA><SubArrow>Dash Length\n</color><color=#6BBD30><SubArrow>Stam. Rec. Speed<Stamina>\n</color><color=#26B0FF><SubArrow>Mana Rec.<Mana>\n</color><color=#FCC926>[Select]</color><ArrowWhite>Check Details"
+  },
+  {
+    "context": "styled-ui",
+    "source": "<color=#FF4A00>Equip Load Penalties:\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Movement Speed\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Dash Length\n</color><color=#6BBD30><sprite name=\"SubArrow\">Stam. Rec. Speed<sprite name=\"Stamina\">\n</color><color=#26B0FF><sprite name=\"SubArrow\"><color=#26B0FF>Mana</color> Rec.<sprite name=\"Mana\">\n</color><color=#FCC926>[Select]</color><sprite name=\"Arrow_Right_White\">Check Details"
+  },
+  {
+    "context": "ui:Menu Canvas/Inventory/Panel/Equipment Slot Grid/Offhand Slot/Item Element/Canvas/Tag Layout Group/Tooltip Left/Description Text",
+    "source": "<color=#FF4A00>Equip Load Penalties:\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Movement Speed\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Dash Length\n</color><color=#6BBD30><sprite name=\"SubArrow\">Stam. Rec. Speed<sprite name=\"Stamina\">\n</color><color=#26B0FF><sprite name=\"SubArrow\"><color=#26B0FF>Mana</color> Rec.<sprite name=\"Mana\">\n</color><color=#FCC926>[Select]</color><sprite name=\"Arrow_Right_White\">Check Details"
+  },
+  {
+    "context": "ui:Menu Canvas/Inventory/Panel/Equipment Slot Grid/Body Armor Slot/Item Element/Canvas/Tag Layout Group/Tooltip Left/Description Text",
+    "source": "<color=#FF4A00>Equip Load Penalties:\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Movement Speed\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Dash Length\n</color><color=#6BBD30><sprite name=\"SubArrow\">Stam. Rec. Speed<sprite name=\"Stamina\">\n</color><color=#26B0FF><sprite name=\"SubArrow\"><color=#26B0FF>Mana</color> Rec.<sprite name=\"Mana\">\n</color><color=#FCC926>[Select]</color><sprite name=\"Arrow_Right_White\">Check Details"
+  },
+  {
+    "context": "ui:Menu Canvas/Inventory/Panel/Inventory Slot Grid/Inventory Slot 0/Item Element/Canvas/Tag Layout Group/Tooltip Left/Description Text",
+    "source": "<color=#FF4A00>Equip Load Penalties:\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Movement Speed\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Dash Length\n</color><color=#6BBD30><sprite name=\"SubArrow\">Stam. Rec. Speed<sprite name=\"Stamina\">\n</color><color=#26B0FF><sprite name=\"SubArrow\"><color=#26B0FF>Mana</color> Rec.<sprite name=\"Mana\">\n</color><color=#FCC926>[Select]</color><sprite name=\"Arrow_Right_White\">Check Details"
+  },
+  {
+    "context": "dialogue",
+    "source": "Things are not\ngoing to get easier."
+  },
+  {
+    "context": "dialogue",
+    "source": "You know what,\nI'll sell you some.\nWant to buy some \"Sake\"? [<color=#FFFFFF>10</color><color=#FCC926> Gold<sprite name=\"Gold\"></color>]"
+  },
+  {
+    "context": "dialogue",
+    "source": "Would you like to stay\nfor the night?\n<color=grey>[Will reroll tavern visitors.]</color> [<color=#FFFFFF>10</color><color=#FCC926> Gold<sprite name=\"Gold\"></color>]"
+  },
+  {
+    "context": "dialogue",
+    "source": "He also left me his dice collection.\nWould you be interested\nin buying some dice? [<color=#FFFFFF>20</color><color=#FCC926> Gold<sprite name=\"Gold\"></color>]"
+  },
+  {
+    "context": "styled-input",
+    "source": "+1 LAWFUL<sprite name=\"Lawful\">"
+  },
+  {
+    "context": "styled-ui",
+    "source": "+1 <color=#5ECCE3>LAWFUL</color><sprite name=\"Lawful\">"
+  },
+  {
+    "context": "ui:Dialogue Canvas/Window/Tag Layout Group/Tooltip Right/Description Text",
+    "source": "+1 <color=#5ECCE3>LAWFUL</color><sprite name=\"Lawful\">"
+  }
+]

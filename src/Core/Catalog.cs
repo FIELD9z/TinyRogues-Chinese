@@ -257,6 +257,18 @@ public sealed class Catalog
             if (layer.TryTranslate(source, context, out target, TranslateTerm)) return true;
             if (context != "*" && layer.TryTranslate(source, "*", out target, TranslateTerm)) return true;
         }
+        // Tavern shop nodes append this complete native price after resolving
+        // their Dialogue_EN field. Resolve the known whole body independently;
+        // never translate an unknown dialogue by replacing isolated words.
+        if (context == "dialogue")
+        {
+            var priced = Regex.Match(source, @"\A(?<body>[\s\S]+) (?<price>\[<color=[^<>\r\n]+>\d+</color><color=[^<>\r\n]+> Gold<sprite name=""Gold""></color>\])\z");
+            if (priced.Success && TryTranslate(priced.Groups["body"].Value, context, out var body))
+            {
+                target = body + " " + priced.Groups["price"].Value.Replace(" Gold<", " 金币<");
+                return true;
+            }
+        }
         return false;
     }
 

@@ -104,6 +104,7 @@ public sealed class RuntimeVerification : MonoBehaviour
         var sources = (string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!;
         using (var extra = File.OpenRead(Path.Combine(Path.GetDirectoryName(path)!, "tooltip-definitions.json")))
             sources = sources.Concat((string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(extra)!).ToArray();
+        sources = sources.Concat(TavernVerification.Sources("styled-input")).ToArray();
         var label = UI.Title_Screen.SplashTextHandler.Instance.textMeshProUGUI;
         var original = label.text;
         try
@@ -120,7 +121,8 @@ public sealed class RuntimeVerification : MonoBehaviour
                 finally { Plugin.Current.Catalog = catalog; }
                 label.text = UI.Text.TextMeshProxy.ApplyColorToText(source, true, label);
                 var visible = Regex.Replace(label.text, "<[^>]*>", "");
-                if (Regex.IsMatch(visible.Replace("Shift", ""), "[A-Za-z]{2,}") || !Regex.IsMatch(visible, "[\u4e00-\u9fff]"))
+                var prose = Regex.Replace(Regex.Replace(label.text, @"<color=#FCC926>\[[^<]*\]</color>", ""), "<[^>]*>", "");
+                if (Regex.IsMatch(prose.Replace("Shift", ""), "[A-Za-z]{2,}") || !Regex.IsMatch(visible, "[\u4e00-\u9fff]"))
                     throw new InvalidOperationException("Playtest native styling gap: " + source + " -> " + label.text);
                 var plainReference = Regex.Replace(reference, "<[^>]*>", "");
                 const string numberPattern = @"[+\-]?\d+(?:[.,]\d+)?%?";
@@ -175,6 +177,7 @@ public sealed class RuntimeVerification : MonoBehaviour
                 _opening = _opening.Concat((string[])new System.Runtime.Serialization.Json.DataContractJsonSerializer(typeof(string[])).ReadObject(stream)!).ToArray();
             if (_opening.Length == 0) throw new InvalidDataException("Opening tutorial fixtures empty.");
             _opening = _opening.Concat(new[] { "Need a little help?" }).ToArray();
+            _opening = _opening.Concat(TavernVerification.Sources("dialogue")).ToArray();
         }
         var source = _phase >= 4 ? _opening[_phase - 4] : _phase == 3 ? "(*)<color=red>Meat</color> grant [[+1]] Strength.\n(*)<color=green>Candy</color> grant [[+1]] Dexterity.\n(*)<color=blue>Candy</color> grants [[+1]] Intelligence." : "Nothing can stop me!";
         var expected = Plugin.Current.Translate(source, "dialogue", false);

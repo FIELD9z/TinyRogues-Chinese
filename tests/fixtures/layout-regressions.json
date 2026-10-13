@@ -1,0 +1,26 @@
+[
+  {
+    "name": "equipment:621",
+    "text": "<color=#4CC2FF>Uncommon</color> <color=#808080>Offhand</color><color=#808080>\n+10 Equip Load<sprite name=\"Arrow_Right\"><color=#FF8700>10</color>/0</color>\n(*)<i>Your Attacks gain a 45% chance to trigger an  <color=#26FF66>Arrow Hail</color> on Hit that deals <color=#FFFFFF>210 to 490</color> Thrusting  Damage.</i><color=#26B0FF>\nAttunement: 0/1</color>"
+  },
+  {
+    "name": "form:Doppelganger Form - Sorcerer:details=False;base=False",
+    "text": "灵魂之心<sprite name=\"Soul_Heart\">的数量按实际拥有数量的 <color=#00E317>x2.00</color> 计算。\n"
+  },
+  {
+    "name": "set:Sheriff Set (Set Bonus):details=False;base=False",
+    "text": "<color=#00B824>\n2件套： </color><color=#00B824>正午</color>\n<color=#00B824><sprite name=\"SubArrowGreen\">治安官腰带</color>\n<color=#808080><sprite name=\"SubArrowGrey\">治安官 靴</color><color=#808080>\n•<indent=13px><indent=13px>枪械与加农炮的幸运命中<sprite name=\"Luck\">伤害<color=#00E61A>+100%</color>。 </indent></indent></color>"
+  },
+  {
+    "name": "set:Sheriff Set (Set Bonus):details=False;base=True",
+    "text": "<color=#00B824>\n2件套： </color><color=#00B824>正午</color>\n<color=#00B824><sprite name=\"SubArrowGreen\">治安官腰带</color>\n<color=#808080><sprite name=\"SubArrowGrey\">治安官 靴</color><color=#808080>\n•<indent=13px><indent=13px>枪械与加农炮的幸运命中<sprite name=\"Luck\">伤害<color=#FFFFFF>+100%</color>。 </indent></indent></color>"
+  },
+  {
+    "name": "set:Sheriff Set (Set Bonus):details=True;base=False",
+    "text": "<color=#00B824>\n2件套： </color><color=#00B824>正午</color>\n<color=#00B824><sprite name=\"SubArrowGreen\">治安官腰带</color><color=#808080> [饰品]</color>\n<color=#808080><sprite name=\"SubArrowGrey\">治安官 靴</color><color=#808080> [靴子]</color><color=#808080>\n•<indent=13px><indent=13px>枪械与加农炮的幸运命中<sprite name=\"Luck\">伤害<color=#00E61A>+100%</color>。 </indent></indent></color>"
+  },
+  {
+    "name": "set:Sheriff Set (Set Bonus):details=True;base=True",
+    "text": "<color=#00B824>\n2件套： </color><color=#00B824>正午</color>\n<color=#00B824><sprite name=\"SubArrowGreen\">治安官腰带</color><color=#808080> [饰品]</color>\n<color=#808080><sprite name=\"SubArrowGrey\">治安官 靴</color><color=#808080> [靴子]</color><color=#808080>\n•<indent=13px><indent=13px>枪械与加农炮的幸运命中<sprite name=\"Luck\">伤害<color=#FFFFFF>+100%</color>。 </indent></indent></color>"
+  }
+]
