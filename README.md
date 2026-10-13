@@ -4,6 +4,8 @@ Tiny Rogues 简体中文汉化，基于 BepInEx 6。支持对话、物品和技�
 
 目前处于 alpha 阶段，适配 Windows 版 **0.2.8.6**。已进入整体游玩查漏；2026-10-12 的截图反馈揭示了强化名称、代码内 NPC 短句及侧边机制说明的验证盲点，已补充修复和回归。范围及未验证状态见[模块记录](docs/modules.md)。历史问题见[测试记录](docs/coverage.md)和[文本系统核查](docs/systematic-audit.md)。
 
+问题反馈按共同文本入口和原生控件扩展检查。每个已查场景及其版本、字体、状态和验证边界记录在[场景回归台账](docs/scenario-regressions.json)；没有明确且仍适用的解决记录时，不能跳过同类场景。2026-10-13 的扩展修复见[相关场景记录](docs/related-layout-regressions.md)。
+
 ## 安装
 
 需要 [BepInEx 6 IL2CPP](https://docs.bepinex.dev/master/articles/user_guide/installation/unity_il2cpp.html)。当前测试使用 6.0.0-be.759。

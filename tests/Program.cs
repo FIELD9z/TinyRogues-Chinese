@@ -102,6 +102,23 @@ Check(Tr(catalog, opening[0].Replace(">W<", ">Up<").Replace(">A<", ">Left<").Rep
 Check(Tr(catalog, opening[1].Replace(">Space<", ">RB<"), "dialogue").StartsWith("按 <color=#A61FFF>RB</color>"), "Gamepad dash tutorial missing");
 Check(Tr(catalog, opening[3].Replace(">Mouse Left<", ">RT<"), "dialogue").Contains("<color=#A61FFF>RT</color>"), "Gamepad attack binding not preserved");
 var runtimeUI = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "runtime-ui.json")))!;
+var relatedPanels = System.Text.Json.JsonSerializer.Deserialize<System.Text.Json.JsonElement[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "related-panels.json")))!;
+foreach (var fixture in relatedPanels)
+{
+    var source = fixture.GetProperty("source").GetString()!;
+    var expected = fixture.GetProperty("expected").GetString()!;
+    var context = fixture.TryGetProperty("context", out var ctx) ? ctx.GetString()! : "*";
+    Check(catalog.TryTranslateLabel(source, context, out var actual) && actual == expected, "Related panel output differs from reviewed translation: " + source);
+    Check(System.Text.RegularExpressions.Regex.Matches(source, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(actual, "<[^>]*>").Select(m => m.Value)), "Related panel changed tags/icons: " + source);
+    Check(System.Text.RegularExpressions.Regex.Matches(source, @"\d+(?:[.,]\d+)?").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(actual, @"\d+(?:[.,]\d+)?").Select(m => m.Value)), "Related panel changed numeric values: " + source);
+    Check(source.Count(c => c == '\n') == actual.Count(c => c == '\n'), "Related panel changed line breaks: " + source);
+}
+Check(Tr(catalog, "Tiny Rogues Version 1.4.0-beta", "*") == "Tiny Rogues 版本 1.4.0-beta", "Beta help title changed a variable version string");
+var inflictedSource = "You have been inflicted with \"<color=#F53125><color=#F53125>Binding Chains</color></color>\".";
+var inflictedExpected = "你受到了“<color=#F53125><color=#F53125>束缚锁链</color></color>”的影响。";
+Check(Tr(catalog, inflictedSource, "*") == inflictedExpected, "Status-effect help did not translate a known English status name");
+Check(Tr(catalog, inflictedSource.Replace("Binding Chains", "束缚锁链", StringComparison.Ordinal), "*") == inflictedExpected, "Status-effect help changed a known already-translated status name");
+Check(!catalog.TryTranslate(inflictedSource.Replace("Binding Chains", "Unknown Future Status", StringComparison.Ordinal), "*", out _), "Status-effect help accepted an unknown status name");
 var weaponCards = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "weapon-cards.json")))!;
 foreach (var source in weaponCards)
 {
@@ -335,6 +352,21 @@ foreach (var (context, source) in tavernRows.Where(row => row.Context == "dialog
     Check(!catalog.TryTranslate(unknownBody, context, out _), "Unknown tavern body with a valid price was translated: " + source);
 }
 Check(!catalog.TryTranslateLabel("<color=#123ABC>Equip Load Penalties:\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Movement Speed\n</color><color=#8CFFFA><sprite name=\"SubArrow\">Unknown Future Dash\n</color>", "styled-ui", out _), "Unknown tavern load row was accepted by the styled UI route");
+var relatedEquipment = System.Text.Json.JsonSerializer.Deserialize<string[]>(File.ReadAllText(Path.Combine(root, "tests", "fixtures", "related-equipment.json")))!;
+foreach(var source in relatedEquipment)
+{
+    Check(catalog.TryTranslateLabel(source, "ui:Item Element/Canvas/Text", out var target), "Related equipment trigger was not translated");
+    Check(!System.Text.RegularExpressions.Regex.IsMatch(System.Text.RegularExpressions.Regex.Replace(target, "<[^>]*>", ""), "[A-Za-z]"), "Related equipment trigger still has English: " + target);
+    Check(target.Contains("45%") && target.Contains("210至490") && target.Contains("箭雨"), "Related equipment trigger values/known action changed");
+    var indent = System.Text.RegularExpressions.Regex.Match(source, "<indent=[^>]+>").Value;
+    Check(target.Contains("•" + indent + "攻击有 "), "Related equipment prose moved before native indent");
+    Check(System.Text.RegularExpressions.Regex.Matches(source, "<[^>]*>").Select(m => m.Value).SequenceEqual(System.Text.RegularExpressions.Regex.Matches(target, "<[^>]*>").Select(m => m.Value)), "Related equipment tag sequence changed");
+    var numeric = new System.Text.RegularExpressions.Regex(@"\d+(?:[.,]\d+)?");
+    Check(numeric.Matches(System.Text.RegularExpressions.Regex.Replace(source, "<[^>]*>", "")).Select(m=>m.Value).SequenceEqual(numeric.Matches(System.Text.RegularExpressions.Regex.Replace(target, "<[^>]*>", "")).Select(m=>m.Value)), "Related equipment changed a number");
+    var effect = source.Split('\n')[2];
+    Check(!catalog.TryTranslateRichLine(effect.Replace("Arrow Hail", "Unknown Future Trigger"), "weapon-effect", out _), "Unknown equipment action was accepted");
+    Check(!catalog.TryTranslateRichLine(effect.Replace("Your ", "Unknown "), "weapon-effect", out _), "Unknown equipment prose was accepted");
+}
 Console.WriteLine($"PASS: {checks} behavioral checks; {catalog.EntryCount} independently authored active entries across {files.Length} packs.");
 return 0;
 }

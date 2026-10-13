@@ -1,0 +1,1106 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "name": "相关面板补充",
+  "priority": 0,
+  "entries": [
+    {
+      "id": "related.panels.random-skill",
+      "source": "Random Skill",
+      "translation": "随机技能",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "职业查看面板的混沌职业技能名。"
+    },
+    {
+      "id": "related.panels.random-skill-description",
+      "source": "You gain a random <color=#A61FFF>Skill</color>.",
+      "translation": "你会随机获得一个<color=#A61FFF>技能</color>。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "职业查看面板的混沌职业技能说明。"
+    },
+    {
+      "id": "related.panels.beta-version-title",
+      "source": "Tiny Rogues Version {key:version}",
+      "translation": "Tiny Rogues 版本 {key:version}",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "保留游戏名称和完整版本号。"
+    },
+    {
+      "id": "related.panels.beta-status",
+      "source": "You are on Beta.",
+      "translation": "你正在使用测试版。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "帮助面板测试版提示。"
+    },
+    {
+      "id": "related.panels.beta-enjoy",
+      "source": "Enjoy! :^)",
+      "translation": "祝你玩得开心！ :^)",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "保留原文表情符号。"
+    },
+    {
+      "id": "related.panels.help-oh-no",
+      "source": "OH NO!",
+      "translation": "糟了！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "状态效果帮助标题；明确覆盖两个大写短词。"
+    },
+    {
+      "id": "related.panels.help-curse-title",
+      "source": "CURSE",
+      "translation": "诅咒",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "诅咒帮助标题。"
+    },
+    {
+      "id": "related.panels.help-attention-title",
+      "source": "Attention!",
+      "translation": "注意！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "按键重置帮助标题的未样式原文。"
+    },
+    {
+      "id": "related.panels.help-attention-title-styled",
+      "source": "<color=#FF0000>Attention!</color>",
+      "translation": "<color=#FF0000>注意！</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "按键重置帮助标题的原生红色样式。"
+    },
+    {
+      "id": "related.panels.status-inflicted-name",
+      "source": "You have been inflicted with \"<color=#F53125><color=#F53125>{term:status}</color></color>\".",
+      "translation": "你受到了“<color=#F53125><color=#F53125>{term:status}</color></color>”的影响。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "状态效果帮助介绍；只接受词库已知状态名，保留原生嵌套颜色。"
+    },
+    {
+      "id": "related.panels.curse-intro",
+      "source": "It seems you have been <color=#3B3B7A>Cursed</color><sprite name=\"Curse\">!",
+      "translation": "你似乎受到了<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">！",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "诅咒帮助的独立介绍句。"
+    },
+    {
+      "id": "related.panels.curse-body",
+      "source": "<color=#3B3B7A>Curse</color><sprite name=\"Curse\"> grants <color=#3B3B7A>Cursed Hit Chance</color><sprite name=\"Curse\">. By default,\n<color=#3B3B7A>Cursed Hits</color><sprite name=\"Curse\"> have <color=red>x0.50</color> chance for <color=#A61FFF>Hit</color> Effects to happen.\n<color=#3B3B7A>Curse</color><sprite name=\"Curse\"> can also downgrade Room Rewards, spawn <color=#8000FF>Reapers</color>,\nmake <color=#A61FFF>Weapons</color> have bad Enchantments, maximize Shop Prices and much more.\nYou can use Purging Stones do dispel a stack of <color=#3B3B7A>Curse</color><sprite name=\"Curse\">.",
+      "translation": "<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">会赋予<color=#3B3B7A>诅咒命中几率</color><sprite name=\"Curse\">。默认情况下，\n<color=#3B3B7A>诅咒命中</color><sprite name=\"Curse\">以原本<color=red>x0.50</color>的几率触发<color=#A61FFF>命中</color>效果。\n<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">还会降低房间奖励品质、召唤<color=#8000FF>收割者</color>，\n使<color=#A61FFF>武器</color>获得负面附魔、令商店价格达到最高等。\n你可以使用净化石来移除一层<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">。",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "完整诅咒帮助正文；保留标签、图标、x0.50 和原有换行。"
+    },
+    {
+      "id": "related.panels.native.12",
+      "source": "<color=#FF2666><color=#FF2666>Strength</color></color>: <color=#FF2666>?</color>\n<color=#26FF66><color=#26FF66>Dexterity</color></color>: <color=#26FF66>?</color>\n<color=#26B0FF><color=#26B0FF>Intelligence</color></color>: <color=#26B0FF>?</color>",
+      "translation": "<color=#FF2666><color=#FF2666>力量</color></color>: <color=#FF2666>?</color>\n<color=#26FF66><color=#26FF66>敏捷</color></color>: <color=#26FF66>?</color>\n<color=#26B0FF><color=#26B0FF>智力</color></color>: <color=#26B0FF>?</color>",
+      "context": "*",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.13",
+      "source": "ADAPTABILITY",
+      "translation": "适应性",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.14",
+      "source": "ALL IN",
+      "translation": "孤注一掷",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.15",
+      "source": "备用军械库",
+      "translation": "备用军械库",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.16",
+      "source": "BARGAIN HUNTER",
+      "translation": "砍价高手",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.17",
+      "source": "BULK SELLER",
+      "translation": "批量销售",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.18",
+      "source": "BUNKING UP",
+      "translation": "借宿",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.19",
+      "source": "BUTTERFLY EFFECT",
+      "translation": "蝴蝶效应",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.20",
+      "source": "CALL TO ADVENTURE",
+      "translation": "冒险召唤",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.21",
+      "source": "CATHARSIS",
+      "translation": "净化心灵",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.22",
+      "source": "COMPROMISED LOOT",
+      "translation": "妥协的战利品",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.23",
+      "source": "DEDICATION",
+      "translation": "专注",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.24",
+      "source": "DEEP SEA CONTRABAND",
+      "translation": "深海走私",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.25",
+      "source": "DEFLATION",
+      "translation": "通货紧缩",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.26",
+      "source": "DEMAND AND SUPPLY",
+      "translation": "需求与供给",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.27",
+      "source": "DOUBLE TROUBLE",
+      "translation": "双重麻烦",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.28",
+      "source": "DRINKING ON THE DOT",
+      "translation": "准点饮酒",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.29",
+      "source": "ENIGMATIC",
+      "translation": "神秘莫测",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.30",
+      "source": "ETHEREAL ROULETTE",
+      "translation": "虚灵轮盘",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.31",
+      "source": "EVERGREEN",
+      "translation": "常青",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.32",
+      "source": "EXPLOSIVE DELIVERY",
+      "translation": "爆炸快递",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.33",
+      "source": "FAITH",
+      "translation": "信仰",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.34",
+      "source": "FAREWELL DRINK",
+      "translation": "饯行酒",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.35",
+      "source": "FIRST AID",
+      "translation": "急救",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.36",
+      "source": "FISHING CLUB",
+      "translation": "钓鱼俱乐部",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.37",
+      "source": "FORBIDDEN MAGIC",
+      "translation": "禁忌魔法",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.38",
+      "source": "FREEDOM",
+      "translation": "自由",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.39",
+      "source": "FRIEND OF NATURE",
+      "translation": "自然之友",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.40",
+      "source": "FRIENDSHIP QUEST",
+      "translation": "友谊任务",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.41",
+      "source": "GOLDEN ROULETTE",
+      "translation": "黄金轮盘",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.42",
+      "source": "HAPPY HOUR",
+      "translation": "欢乐时光",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.43",
+      "source": "HEAD START",
+      "translation": "抢先起步",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.44",
+      "source": "HEALTH INSURANCE",
+      "translation": "医疗保险",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.45",
+      "source": "HEART SEEKER",
+      "translation": "寻心者",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.46",
+      "source": "HIGH ROLLER",
+      "translation": "豪赌客",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.47",
+      "source": "HIGH STAKES",
+      "translation": "高额赌注",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.48",
+      "source": "HOLY DEVOTION",
+      "translation": "神圣奉献",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.49",
+      "source": "HOPE",
+      "translation": "希望",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.50",
+      "source": "最后关头",
+      "translation": "最后关头",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.51",
+      "source": "INFLATION",
+      "translation": "通货膨胀",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.52",
+      "source": "LABYRINTH OF FATE",
+      "translation": "命运迷宫",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.53",
+      "source": "LAZY STROLL",
+      "translation": "悠闲漫步",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.54",
+      "source": "LEFT TO FATE",
+      "translation": "听天由命",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.55",
+      "source": "LOSS LEADER",
+      "translation": "亏本引流",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.56",
+      "source": "LOST GOODS",
+      "translation": "遗失货物",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.57",
+      "source": "LOYALTY",
+      "translation": "忠诚",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.58",
+      "source": "幸运开局",
+      "translation": "幸运开局",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.59",
+      "source": "MAGNUM OPUS",
+      "translation": "旷世杰作",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.60",
+      "source": "MIXED BAG",
+      "translation": "混合福袋",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.61",
+      "source": "MONEY AT THE SPOT",
+      "translation": "就地变现",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.62",
+      "source": "ODYSSEY",
+      "translation": "奥德赛",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.63",
+      "source": "OPENING MOVE",
+      "translation": "起手式",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.64",
+      "source": "Pandora's Boxes",
+      "translation": "潘多拉魔盒",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.65",
+      "source": "PAY TO WIN",
+      "translation": "氪金取胜",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.66",
+      "source": "PERFECTIONIST",
+      "translation": "完美主义者",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.67",
+      "source": "PERSEVERANCE",
+      "translation": "坚持不懈",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.68",
+      "source": "PERSONAL AGENCY",
+      "translation": "自主意志",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.69",
+      "source": "PITY",
+      "translation": "怜悯",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.70",
+      "source": "PLAYTIME",
+      "translation": "游乐时光",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.71",
+      "source": "PRECOGNITION",
+      "translation": "预知",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.72",
+      "source": "PRODIGY",
+      "translation": "神童",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.73",
+      "source": "PROSPERITY",
+      "translation": "繁荣",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.74",
+      "source": "QUICK RECOVERY",
+      "translation": "快速恢复",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.75",
+      "source": "RAINY DAY FUND",
+      "translation": "未雨绸缪",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.76",
+      "source": "READY TO GO",
+      "translation": "整装待发",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.77",
+      "source": "REBIRTH",
+      "translation": "重生",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.78",
+      "source": "RED ROULETTE",
+      "translation": "红色轮盘",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.79",
+      "source": "REPAIR EVERY SLOT",
+      "translation": "修遍全身",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.80",
+      "source": "REPERCUSSIONS",
+      "translation": "因果回响",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.81",
+      "source": "RISE OR FALL",
+      "translation": "起落之间",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.82",
+      "source": "ROYAL DESCENT",
+      "translation": "王室血统",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.83",
+      "source": "SAFE BET",
+      "translation": "稳妥下注",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.84",
+      "source": "SECRET SERVICE",
+      "translation": "秘密服务",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.85",
+      "source": "SHORTCUT",
+      "translation": "捷径",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.86",
+      "source": "SILENT NIGHT",
+      "translation": "平安夜",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.87",
+      "source": "SKIRMISHER",
+      "translation": "游击者",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.88",
+      "source": "SLEIGHT",
+      "translation": "巧手",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.89",
+      "source": "SLOW AND STEADY",
+      "translation": "稳扎稳打",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.90",
+      "source": "SMASH AND GRAB",
+      "translation": "打砸抢",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.91",
+      "source": "SMUGGLER NOOK",
+      "translation": "走私者角落",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.92",
+      "source": "SPEED",
+      "translation": "速度",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.93",
+      "source": "SPOILED FOR CHOICE",
+      "translation": "眼花缭乱",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.94",
+      "source": "STAMINA SCOUT",
+      "translation": "体力侦察员",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.95",
+      "source": "STEADY TO GO",
+      "translation": "稳步前进",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.96",
+      "source": "STRONG FOUNDATION",
+      "translation": "坚实基础",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.97",
+      "source": "SUIT UP",
+      "translation": "披挂上阵",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.98",
+      "source": "SUPERNATURAL AID",
+      "translation": "超自然援助",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.99",
+      "source": "SUPERSTITIONS",
+      "translation": "迷信",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.100",
+      "source": "SUPPLY AND DEMAND",
+      "translation": "供给与需求",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.101",
+      "source": "SYMPATHY",
+      "translation": "同情",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.102",
+      "source": "TAKE THIS",
+      "translation": "拿着这个",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.103",
+      "source": "THE GLASS IS HALF EMPTY",
+      "translation": "杯中半空",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.104",
+      "source": "THE GLASS IS HALF FULL",
+      "translation": "杯中半满",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.105",
+      "source": "THE KEY TO SUCCESS",
+      "translation": "成功的钥匙",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.106",
+      "source": "THIEF IN THE SHADOWS",
+      "translation": "暗影盗贼",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.107",
+      "source": "THRONE QUEST",
+      "translation": "王座任务",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.108",
+      "source": "TREASURE HUNTER",
+      "translation": "寻宝猎人",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.109",
+      "source": "TRUST ISSUES",
+      "translation": "信任危机",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.110",
+      "source": "TWILIGHT FALL",
+      "translation": "暮光降临",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.111",
+      "source": "VANITY",
+      "translation": "虚荣",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.112",
+      "source": "VIGOR",
+      "translation": "活力",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.113",
+      "source": "WEAVE THE ARCANE",
+      "translation": "编织奥术",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.114",
+      "source": "WELL ROUNDED BEAST",
+      "translation": "全面成长",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.115",
+      "source": "WILD CARD",
+      "translation": "万能牌",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.116",
+      "source": "WILDLIFE TRAFFICKING",
+      "translation": "野生动物走私",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.117",
+      "source": "WINDOW SHOPPER",
+      "translation": "橱窗购物者",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.118",
+      "source": "WORLD OF HURT",
+      "translation": "苦痛世界",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.119",
+      "source": "WORTH OF A SOUL",
+      "translation": "灵魂价值",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.native.120",
+      "source": "WRANGLER",
+      "translation": "驯兽师",
+      "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)",
+      "kind": "exact",
+      "status": "translated",
+      "note": "原生相关面板实测完整文本；沿用已审核译名。"
+    },
+    {
+      "id": "related.panels.status-inflicted-any-style",
+      "source": "You have been inflicted with \"{term:status}\".",
+      "translation": "你受到了“{term:status}”的影响。",
+      "context": "*",
+      "kind": "template",
+      "status": "translated",
+      "note": "允许原生不同状态色；术语必须存在于词库，富文本路径保留原始颜色。"
+    }
+  ]
+}

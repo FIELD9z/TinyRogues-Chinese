@@ -2483,6 +2483,42 @@
       "context": "weapon-effect",
       "kind": "template",
       "status": "translated"
+    },
+    {
+      "id": "equipment.finish.dfad75b3e0aea8a3.capital-hit",
+      "source": "•Your Attacks gain a {number:n}% chance to trigger an {term:action} on Hit that deals {term:damage} Damage.",
+      "translation": "•攻击有 {number:n}% 几率在命中时触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated",
+      "note": "相关面板布局语料发现的完整原生大写 Hit 变体；数值与术语占位符不变。"
+    },
+    {
+      "id": "equipment.finish.dfad75b3e0aea8a3.capital-hit.0",
+      "source": "•Your Attacks gain a {number:n}% chance to trigger an  {term:action} on Hit that deals {term:damage} Damage.",
+      "translation": "•攻击有 {number:n}% 几率在命中时触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated",
+      "note": "相关面板布局语料发现的完整原生大写 Hit 变体；数值与术语占位符不变。"
+    },
+    {
+      "id": "equipment.finish.dfad75b3e0aea8a3.capital-hit.1",
+      "source": "•Your Attacks gain a {number:n}% chance to trigger an {term:action} on Hit that deals {term:damage}  Damage.",
+      "translation": "•攻击有 {number:n}% 几率在命中时触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated",
+      "note": "相关面板布局语料发现的完整原生大写 Hit 变体；数值与术语占位符不变。"
+    },
+    {
+      "id": "equipment.finish.dfad75b3e0aea8a3.capital-hit.2",
+      "source": "•Your Attacks gain a {number:n}% chance to trigger an  {term:action} on Hit that deals {term:damage}  Damage.",
+      "translation": "•攻击有 {number:n}% 几率在命中时触发{term:action}，造成{term:damage}伤害。",
+      "context": "weapon-effect",
+      "kind": "template",
+      "status": "translated",
+      "note": "相关面板布局语料发现的完整原生大写 Hit 变体；数值与术语占位符不变。"
     }
   ]
 }

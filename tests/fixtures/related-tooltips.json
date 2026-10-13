@@ -1,0 +1,622 @@
+[
+  {
+    "name": "Damage Ailment Tooltip Cold:details=False:base=False",
+    "text": "All Cold Damage\ninflicts Chill."
+  },
+  {
+    "name": "Damage Ailment Tooltip Cold:details=False:base=True",
+    "text": "All Cold Damage\ninflicts Chill."
+  },
+  {
+    "name": "Damage Ailment Tooltip Cold:details=True:base=False",
+    "text": "All Cold Damage\ninflicts Chill."
+  },
+  {
+    "name": "Damage Ailment Tooltip Cold:details=True:base=True",
+    "text": "All Cold Damage\ninflicts Chill."
+  },
+  {
+    "name": "Damage Ailment Tooltip Fire:details=False:base=False",
+    "text": "All Fire Damage\ninflicts Burn."
+  },
+  {
+    "name": "Damage Ailment Tooltip Fire:details=False:base=True",
+    "text": "All Fire Damage\ninflicts Burn."
+  },
+  {
+    "name": "Damage Ailment Tooltip Fire:details=True:base=False",
+    "text": "All Fire Damage\ninflicts Burn."
+  },
+  {
+    "name": "Damage Ailment Tooltip Fire:details=True:base=True",
+    "text": "All Fire Damage\ninflicts Burn."
+  },
+  {
+    "name": "Damage Ailment Tooltip Lightning:details=False:base=False",
+    "text": "All Lightning Damage\ninflicts Shock."
+  },
+  {
+    "name": "Damage Ailment Tooltip Lightning:details=False:base=True",
+    "text": "All Lightning Damage\ninflicts Shock."
+  },
+  {
+    "name": "Damage Ailment Tooltip Lightning:details=True:base=False",
+    "text": "All Lightning Damage\ninflicts Shock."
+  },
+  {
+    "name": "Damage Ailment Tooltip Lightning:details=True:base=True",
+    "text": "All Lightning Damage\ninflicts Shock."
+  },
+  {
+    "name": "Damage Ailment Tooltip Nature:details=False:base=False",
+    "text": "All Nature Damage\ninflicts Nettles."
+  },
+  {
+    "name": "Damage Ailment Tooltip Nature:details=False:base=True",
+    "text": "All Nature Damage\ninflicts Nettles."
+  },
+  {
+    "name": "Damage Ailment Tooltip Nature:details=True:base=False",
+    "text": "All Nature Damage\ninflicts Nettles."
+  },
+  {
+    "name": "Damage Ailment Tooltip Nature:details=True:base=True",
+    "text": "All Nature Damage\ninflicts Nettles."
+  },
+  {
+    "name": "Damage Ailment Tooltip Poison:details=False:base=False",
+    "text": "All Poison Damage\ninflicts Poison."
+  },
+  {
+    "name": "Damage Ailment Tooltip Poison:details=False:base=True",
+    "text": "All Poison Damage\ninflicts Poison."
+  },
+  {
+    "name": "Damage Ailment Tooltip Poison:details=True:base=False",
+    "text": "All Poison Damage\ninflicts Poison."
+  },
+  {
+    "name": "Damage Ailment Tooltip Poison:details=True:base=True",
+    "text": "All Poison Damage\ninflicts Poison."
+  },
+  {
+    "name": "Avoid Taking Damage Tag Box Definition:details=False:base=False",
+    "text": "Avoid taking damage by\nmaking use of Evade<sprite name=\"Evade\">, Block<sprite name=\"Block\">\nand Suppression<sprite name=\"Suppression\">."
+  },
+  {
+    "name": "Avoid Taking Damage Tag Box Definition:details=False:base=True",
+    "text": "Avoid taking damage by\nmaking use of Evade<sprite name=\"Evade\">, Block<sprite name=\"Block\">\nand Suppression<sprite name=\"Suppression\">."
+  },
+  {
+    "name": "Avoid Taking Damage Tag Box Definition:details=True:base=False",
+    "text": "Avoid taking damage by\nmaking use of Evade<sprite name=\"Evade\">, Block<sprite name=\"Block\">\nand Suppression<sprite name=\"Suppression\">."
+  },
+  {
+    "name": "Avoid Taking Damage Tag Box Definition:details=True:base=True",
+    "text": "Avoid taking damage by\nmaking use of Evade<sprite name=\"Evade\">, Block<sprite name=\"Block\">\nand Suppression<sprite name=\"Suppression\">."
+  },
+  {
+    "name": "Bard - Emotion Tooltip:details=False:base=False",
+    "text": "Emotions are Status Effects\nthat can be Buffs or Debuffs.\nAny Status Effect with an <color=#808080>[</color><color=#A61FFF>Emotion</color><color=#808080>]</color>\nTag is considered an Emotion.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Bard - Emotion Tooltip:details=False:base=True",
+    "text": "Emotions are Status Effects\nthat can be Buffs or Debuffs.\nAny Status Effect with an <color=#808080>[</color><color=#A61FFF>Emotion</color><color=#808080>]</color>\nTag is considered an Emotion.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Bard - Emotion Tooltip:details=True:base=False",
+    "text": "Emotions are Status Effects\nthat can be Buffs or Debuffs.\nAny Status Effect with an <color=#808080>[</color><color=#A61FFF>Emotion</color><color=#808080>]</color>\nTag is considered an Emotion.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Bard - Emotion Tooltip:details=True:base=True",
+    "text": "Emotions are Status Effects\nthat can be Buffs or Debuffs.\nAny Status Effect with an <color=#808080>[</color><color=#A61FFF>Emotion</color><color=#808080>]</color>\nTag is considered an Emotion.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Block Tag Box Definition:details=False:base=False",
+    "text": "Blocks<sprite name=\"Block\"> refresh every Floor."
+  },
+  {
+    "name": "Block Tag Box Definition:details=False:base=True",
+    "text": "Blocks<sprite name=\"Block\"> refresh every Floor."
+  },
+  {
+    "name": "Block Tag Box Definition:details=True:base=False",
+    "text": "Blocks<sprite name=\"Block\"> refresh every Floor."
+  },
+  {
+    "name": "Block Tag Box Definition:details=True:base=True",
+    "text": "Blocks<sprite name=\"Block\"> refresh every Floor."
+  },
+  {
+    "name": "Close Range Tooltip Definition:details=False:base=False",
+    "text": "By default, you always deal:\n(*)<i>[[x1.20]] Damage at Close Range<Close></i>\n(*)<i>((x0.90)) Damage at Far Range<Far></i>\n(*)<i>Does not affect Damage Over Time\nand Companions<Companion>.</i>"
+  },
+  {
+    "name": "Close Range Tooltip Definition:details=False:base=True",
+    "text": "By default, you always deal:\n(*)<i>[[x1.20]] Damage at Close Range<Close></i>\n(*)<i>((x0.90)) Damage at Far Range<Far></i>\n(*)<i>Does not affect Damage Over Time\nand Companions<Companion>.</i>"
+  },
+  {
+    "name": "Close Range Tooltip Definition:details=True:base=False",
+    "text": "By default, you always deal:\n(*)<i>[[x1.20]] Damage at Close Range<Close></i>\n(*)<i>((x0.90)) Damage at Far Range<Far></i>\n(*)<i>Does not affect Damage Over Time\nand Companions<Companion>.</i>"
+  },
+  {
+    "name": "Close Range Tooltip Definition:details=True:base=True",
+    "text": "By default, you always deal:\n(*)<i>[[x1.20]] Damage at Close Range<Close></i>\n(*)<i>((x0.90)) Damage at Far Range<Far></i>\n(*)<i>Does not affect Damage Over Time\nand Companions<Companion>.</i>"
+  },
+  {
+    "name": "Companion Crit Tag Box Definition:details=False:base=False",
+    "text": "Companion<Companion> Critical Hit Chance<Crit>: [[5%]]\nCompanion<Companion> Critical Hit Damage<Crit>: [[200%]]"
+  },
+  {
+    "name": "Companion Crit Tag Box Definition:details=False:base=True",
+    "text": "Companion<Companion> Critical Hit Chance<Crit>: [[5%]]\nCompanion<Companion> Critical Hit Damage<Crit>: [[200%]]"
+  },
+  {
+    "name": "Companion Crit Tag Box Definition:details=True:base=False",
+    "text": "Companion<Companion> Critical Hit Chance<Crit>: [[5%]]\nCompanion<Companion> Critical Hit Damage<Crit>: [[200%]]"
+  },
+  {
+    "name": "Companion Crit Tag Box Definition:details=True:base=True",
+    "text": "Companion<Companion> Critical Hit Chance<Crit>: [[5%]]\nCompanion<Companion> Critical Hit Damage<Crit>: [[200%]]"
+  },
+  {
+    "name": "Death Defy Tag Box Definition:details=False:base=False",
+    "text": "Death Defies<sprite name=\"Defy_Death\"> refresh every Floor."
+  },
+  {
+    "name": "Death Defy Tag Box Definition:details=False:base=True",
+    "text": "Death Defies<sprite name=\"Defy_Death\"> refresh every Floor."
+  },
+  {
+    "name": "Death Defy Tag Box Definition:details=True:base=False",
+    "text": "Death Defies<sprite name=\"Defy_Death\"> refresh every Floor."
+  },
+  {
+    "name": "Death Defy Tag Box Definition:details=True:base=True",
+    "text": "Death Defies<sprite name=\"Defy_Death\"> refresh every Floor."
+  },
+  {
+    "name": "Dexterity Pickup Tooltip:details=False:base=False",
+    "text": "(*)<color=#26FF66>Pears</color> grant [[+1]] Dexterity.\n(*)<color=#26FF66>Broccoli</color> grants [[+3]] Dexterity."
+  },
+  {
+    "name": "Dexterity Pickup Tooltip:details=False:base=True",
+    "text": "(*)<color=#26FF66>Pears</color> grant [[+1]] Dexterity.\n(*)<color=#26FF66>Broccoli</color> grants [[+3]] Dexterity."
+  },
+  {
+    "name": "Dexterity Pickup Tooltip:details=True:base=False",
+    "text": "(*)<color=#26FF66>Pears</color> grant [[+1]] Dexterity.\n(*)<color=#26FF66>Broccoli</color> grants [[+3]] Dexterity."
+  },
+  {
+    "name": "Dexterity Pickup Tooltip:details=True:base=True",
+    "text": "(*)<color=#26FF66>Pears</color> grant [[+1]] Dexterity.\n(*)<color=#26FF66>Broccoli</color> grants [[+3]] Dexterity."
+  },
+  {
+    "name": "Evade Tag Box Definition:details=False:base=False",
+    "text": "Evades<sprite name=\"Evade\"> refresh after [[5]]\ncombat encounters without\ntaking damage or evading."
+  },
+  {
+    "name": "Evade Tag Box Definition:details=False:base=True",
+    "text": "Evades<sprite name=\"Evade\"> refresh after [[5]]\ncombat encounters without\ntaking damage or evading."
+  },
+  {
+    "name": "Evade Tag Box Definition:details=True:base=False",
+    "text": "Evades<sprite name=\"Evade\"> refresh after [[5]]\ncombat encounters without\ntaking damage or evading."
+  },
+  {
+    "name": "Evade Tag Box Definition:details=True:base=True",
+    "text": "Evades<sprite name=\"Evade\"> refresh after [[5]]\ncombat encounters without\ntaking damage or evading."
+  },
+  {
+    "name": "Far Range Tooltip Definition:details=False:base=False",
+    "text": "By default, you always deal:\n(*)<i>[[x1.20]] Damage at Close Range<Close></i>\n(*)<i>((x0.90)) Damage at Far Range<Far></i>\n(*)<i>Does not affect Damage Over Time\nand Companions<Companion>.</i>"
+  },
+  {
+    "name": "Far Range Tooltip Definition:details=False:base=True",
+    "text": "By default, you always deal:\n(*)<i>[[x1.20]] Damage at Close Range<Close></i>\n(*)<i>((x0.90)) Damage at Far Range<Far></i>\n(*)<i>Does not affect Damage Over Time\nand Companions<Companion>.</i>"
+  },
+  {
+    "name": "Far Range Tooltip Definition:details=True:base=False",
+    "text": "By default, you always deal:\n(*)<i>[[x1.20]] Damage at Close Range<Close></i>\n(*)<i>((x0.90)) Damage at Far Range<Far></i>\n(*)<i>Does not affect Damage Over Time\nand Companions<Companion>.</i>"
+  },
+  {
+    "name": "Far Range Tooltip Definition:details=True:base=True",
+    "text": "By default, you always deal:\n(*)<i>[[x1.20]] Damage at Close Range<Close></i>\n(*)<i>((x0.90)) Damage at Far Range<Far></i>\n(*)<i>Does not affect Damage Over Time\nand Companions<Companion>.</i>"
+  },
+  {
+    "name": "Flask Explanation Tag Box Definition:details=False:base=False",
+    "text": "(*)Flask Drink Time: [[0.5 seconds]]\n(*)Flask Recovery: 1Heart<sprite name=\"Heart\">.\n<color=#FCC926>[Hold V]<Arrow></color>Use Flask"
+  },
+  {
+    "name": "Flask Explanation Tag Box Definition:details=False:base=True",
+    "text": "(*)Flask Drink Time: [[0.5 seconds]]\n(*)Flask Recovery: 1Heart<sprite name=\"Heart\">.\n<color=#FCC926>[Hold V]<Arrow></color>Use Flask"
+  },
+  {
+    "name": "Flask Explanation Tag Box Definition:details=True:base=False",
+    "text": "(*)Flask Drink Time: [[0.5 seconds]]\n(*)Flask Recovery: 1Heart<sprite name=\"Heart\">.\n<color=#FCC926>[Hold V]<Arrow></color>Use Flask"
+  },
+  {
+    "name": "Flask Explanation Tag Box Definition:details=True:base=True",
+    "text": "(*)Flask Drink Time: [[0.5 seconds]]\n(*)Flask Recovery: 1Heart<sprite name=\"Heart\">.\n<color=#FCC926>[Hold V]<Arrow></color>Use Flask"
+  },
+  {
+    "name": "Intelligence Pickup Tooltip:details=False:base=False",
+    "text": "(*)<color=#26B0FF>Candy</color> grants [[+1]] Intelligence.\n(*)<color=#26B0FF>Lollipops</color> grant [[+3]] Intelligence."
+  },
+  {
+    "name": "Intelligence Pickup Tooltip:details=False:base=True",
+    "text": "(*)<color=#26B0FF>Candy</color> grants [[+1]] Intelligence.\n(*)<color=#26B0FF>Lollipops</color> grant [[+3]] Intelligence."
+  },
+  {
+    "name": "Intelligence Pickup Tooltip:details=True:base=False",
+    "text": "(*)<color=#26B0FF>Candy</color> grants [[+1]] Intelligence.\n(*)<color=#26B0FF>Lollipops</color> grant [[+3]] Intelligence."
+  },
+  {
+    "name": "Intelligence Pickup Tooltip:details=True:base=True",
+    "text": "(*)<color=#26B0FF>Candy</color> grants [[+1]] Intelligence.\n(*)<color=#26B0FF>Lollipops</color> grant [[+3]] Intelligence."
+  },
+  {
+    "name": "Luck Tag Box Definition:details=False:base=False",
+    "text": "Luck<Luck>\nChance for:\n<SubArrow>Upgrading Room Reward\n<SubArrow>Win in Arcade\n<SubArrow>Extra Trait offered\n<SubArrow>Roll lowest price in Shop\nGrants Lucky Hit Chance<Luck>."
+  },
+  {
+    "name": "Luck Tag Box Definition:details=False:base=True",
+    "text": "Luck<Luck>\nChance for:\n<SubArrow>Upgrading Room Reward\n<SubArrow>Win in Arcade\n<SubArrow>Extra Trait offered\n<SubArrow>Roll lowest price in Shop\nGrants Lucky Hit Chance<Luck>."
+  },
+  {
+    "name": "Luck Tag Box Definition:details=True:base=False",
+    "text": "Luck<Luck>\nChance for:\n<SubArrow>Upgrading Room Reward\n<SubArrow>Win in Arcade\n<SubArrow>Extra Trait offered\n<SubArrow>Roll lowest price in Shop\nGrants Lucky Hit Chance<Luck>."
+  },
+  {
+    "name": "Luck Tag Box Definition:details=True:base=True",
+    "text": "Luck<Luck>\nChance for:\n<SubArrow>Upgrading Room Reward\n<SubArrow>Win in Arcade\n<SubArrow>Extra Trait offered\n<SubArrow>Roll lowest price in Shop\nGrants Lucky Hit Chance<Luck>."
+  },
+  {
+    "name": "Magic Find Tag Box Definition:details=False:base=False",
+    "text": "Magic Find<Magic_Find>\nChance for:\n<SubArrow>Upgrading Item Rarity\n<SubArrow>Completing <color=#00B824>Sets</color>\n<SubArrow>Weapons to be Pre-Enchanted\nMakes you find more Rare,\nEpic and Legendary items."
+  },
+  {
+    "name": "Magic Find Tag Box Definition:details=False:base=True",
+    "text": "Magic Find<Magic_Find>\nChance for:\n<SubArrow>Upgrading Item Rarity\n<SubArrow>Completing <color=#00B824>Sets</color>\n<SubArrow>Weapons to be Pre-Enchanted\nMakes you find more Rare,\nEpic and Legendary items."
+  },
+  {
+    "name": "Magic Find Tag Box Definition:details=True:base=False",
+    "text": "Magic Find<Magic_Find>\nChance for:\n<SubArrow>Upgrading Item Rarity\n<SubArrow>Completing <color=#00B824>Sets</color>\n<SubArrow>Weapons to be Pre-Enchanted\nMakes you find more Rare,\nEpic and Legendary items."
+  },
+  {
+    "name": "Magic Find Tag Box Definition:details=True:base=True",
+    "text": "Magic Find<Magic_Find>\nChance for:\n<SubArrow>Upgrading Item Rarity\n<SubArrow>Completing <color=#00B824>Sets</color>\n<SubArrow>Weapons to be Pre-Enchanted\nMakes you find more Rare,\nEpic and Legendary items."
+  },
+  {
+    "name": "Makes You Evil Tag Box Definition:details=False:base=False",
+    "text": "+1 Evil<sprite name=\"Evil\">"
+  },
+  {
+    "name": "Makes You Evil Tag Box Definition:details=False:base=True",
+    "text": "+1 Evil<sprite name=\"Evil\">"
+  },
+  {
+    "name": "Makes You Evil Tag Box Definition:details=True:base=False",
+    "text": "+1 Evil<sprite name=\"Evil\">"
+  },
+  {
+    "name": "Makes You Evil Tag Box Definition:details=True:base=True",
+    "text": "+1 Evil<sprite name=\"Evil\">"
+  },
+  {
+    "name": "Mana Star Tag Box Definition:details=False:base=False",
+    "text": "Mana Pickups<sprite name=\"Mana\"> spawn after using [[5]] Mana<Mana> in a room."
+  },
+  {
+    "name": "Mana Star Tag Box Definition:details=False:base=True",
+    "text": "Mana Pickups<sprite name=\"Mana\"> spawn after using [[5]] Mana<Mana> in a room."
+  },
+  {
+    "name": "Mana Star Tag Box Definition:details=True:base=False",
+    "text": "Mana Pickups<sprite name=\"Mana\"> spawn after using [[5]] Mana<Mana> in a room."
+  },
+  {
+    "name": "Mana Star Tag Box Definition:details=True:base=True",
+    "text": "Mana Pickups<sprite name=\"Mana\"> spawn after using [[5]] Mana<Mana> in a room."
+  },
+  {
+    "name": "Not Very Effective Tag Box Definition:details=False:base=False",
+    "text": "Most enemies have a damage type <color=red>resistance</color>.\nNot Very Effective<sprite name=\"Not_Very_Effective\"> hits deal <color=red>50% less</color> damage."
+  },
+  {
+    "name": "Not Very Effective Tag Box Definition:details=False:base=True",
+    "text": "Most enemies have a damage type <color=red>resistance</color>.\nNot Very Effective<sprite name=\"Not_Very_Effective\"> hits deal <color=red>50% less</color> damage."
+  },
+  {
+    "name": "Not Very Effective Tag Box Definition:details=True:base=False",
+    "text": "Most enemies have a damage type <color=red>resistance</color>.\nNot Very Effective<sprite name=\"Not_Very_Effective\"> hits deal <color=red>50% less</color> damage."
+  },
+  {
+    "name": "Not Very Effective Tag Box Definition:details=True:base=True",
+    "text": "Most enemies have a damage type <color=red>resistance</color>.\nNot Very Effective<sprite name=\"Not_Very_Effective\"> hits deal <color=red>50% less</color> damage."
+  },
+  {
+    "name": "Pyromancer - Tick Speed Tooltip:details=False:base=False",
+    "text": "Some examples of <Tick> Effects\ninclude Auras and\nDamage Over Time Effects."
+  },
+  {
+    "name": "Pyromancer - Tick Speed Tooltip:details=False:base=True",
+    "text": "Some examples of <Tick> Effects\ninclude Auras and\nDamage Over Time Effects."
+  },
+  {
+    "name": "Pyromancer - Tick Speed Tooltip:details=True:base=False",
+    "text": "Some examples of <Tick> Effects\ninclude Auras and\nDamage Over Time Effects."
+  },
+  {
+    "name": "Pyromancer - Tick Speed Tooltip:details=True:base=True",
+    "text": "Some examples of <Tick> Effects\ninclude Auras and\nDamage Over Time Effects."
+  },
+  {
+    "name": "Revive Tag Box Definition:details=False:base=False",
+    "text": "(*)<i>Recover [[1]] Hearts<sprite name=\"Heart\"> on Revive<Revive>.</i>\n(*)<i>Revive<Revive> refreshes every Floor."
+  },
+  {
+    "name": "Revive Tag Box Definition:details=False:base=True",
+    "text": "(*)<i>Recover [[1]] Hearts<sprite name=\"Heart\"> on Revive<Revive>.</i>\n(*)<i>Revive<Revive> refreshes every Floor."
+  },
+  {
+    "name": "Revive Tag Box Definition:details=True:base=False",
+    "text": "(*)<i>Recover [[1]] Hearts<sprite name=\"Heart\"> on Revive<Revive>.</i>\n(*)<i>Revive<Revive> refreshes every Floor."
+  },
+  {
+    "name": "Revive Tag Box Definition:details=True:base=True",
+    "text": "(*)<i>Recover [[1]] Hearts<sprite name=\"Heart\"> on Revive<Revive>.</i>\n(*)<i>Revive<Revive> refreshes every Floor."
+  },
+  {
+    "name": "Soldier - Debuff Tooltip:details=False:base=False",
+    "text": "Debuffs are Status Effects\nthat weaken Enemies.\nAny Status Effect with a <color=#808080>[</color><color=#A61FFF>Debuff</color><color=#808080>]</color>\nTag is considered a Debuff.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Soldier - Debuff Tooltip:details=False:base=True",
+    "text": "Debuffs are Status Effects\nthat weaken Enemies.\nAny Status Effect with a <color=#808080>[</color><color=#A61FFF>Debuff</color><color=#808080>]</color>\nTag is considered a Debuff.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Soldier - Debuff Tooltip:details=True:base=False",
+    "text": "Debuffs are Status Effects\nthat weaken Enemies.\nAny Status Effect with a <color=#808080>[</color><color=#A61FFF>Debuff</color><color=#808080>]</color>\nTag is considered a Debuff.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Soldier - Debuff Tooltip:details=True:base=True",
+    "text": "Debuffs are Status Effects\nthat weaken Enemies.\nAny Status Effect with a <color=#808080>[</color><color=#A61FFF>Debuff</color><color=#808080>]</color>\nTag is considered a Debuff.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Sorcerer - Ailment Tooltip:details=False:base=False",
+    "text": "Ailments are Status Effects\napplied by certain Damage Types.\nFor example, Chill from Cold Damage.\nIf the Ailment deals Damage, such as\nBurn, increasing the Effect will also\nincrease the Damage.\nAny Status Effect with an <color=#808080>[</color><color=#A61FFF>Ailment</color><color=#808080>]</color>\nTag is considered an Ailment.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Sorcerer - Ailment Tooltip:details=False:base=True",
+    "text": "Ailments are Status Effects\napplied by certain Damage Types.\nFor example, Chill from Cold Damage.\nIf the Ailment deals Damage, such as\nBurn, increasing the Effect will also\nincrease the Damage.\nAny Status Effect with an <color=#808080>[</color><color=#A61FFF>Ailment</color><color=#808080>]</color>\nTag is considered an Ailment.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Sorcerer - Ailment Tooltip:details=True:base=False",
+    "text": "Ailments are Status Effects\napplied by certain Damage Types.\nFor example, Chill from Cold Damage.\nIf the Ailment deals Damage, such as\nBurn, increasing the Effect will also\nincrease the Damage.\nAny Status Effect with an <color=#808080>[</color><color=#A61FFF>Ailment</color><color=#808080>]</color>\nTag is considered an Ailment.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Sorcerer - Ailment Tooltip:details=True:base=True",
+    "text": "Ailments are Status Effects\napplied by certain Damage Types.\nFor example, Chill from Cold Damage.\nIf the Ailment deals Damage, such as\nBurn, increasing the Effect will also\nincrease the Damage.\nAny Status Effect with an <color=#808080>[</color><color=#A61FFF>Ailment</color><color=#808080>]</color>\nTag is considered an Ailment.\nInspect Status Effects by holding <g>[<color=#FCC926>Shift</color>]</g>."
+  },
+  {
+    "name": "Critical Hit Tag Box Definition:details=False:base=False",
+    "text": "Critical Hit Chance<sprite name=\"Critical_Hit\">: [[0.00%]]\nCritical Hit Damage<sprite name=\"Critical_Hit\">: [[0%]]"
+  },
+  {
+    "name": "Critical Hit Tag Box Definition:details=False:base=True",
+    "text": "Critical Hit Chance<sprite name=\"Critical_Hit\">: [[0.00%]]\nCritical Hit Damage<sprite name=\"Critical_Hit\">: [[0%]]"
+  },
+  {
+    "name": "Critical Hit Tag Box Definition:details=True:base=False",
+    "text": "Critical Hit Chance<sprite name=\"Critical_Hit\">: [[0.00%]]\nCritical Hit Damage<sprite name=\"Critical_Hit\">: [[0%]]"
+  },
+  {
+    "name": "Critical Hit Tag Box Definition:details=True:base=True",
+    "text": "Critical Hit Chance<sprite name=\"Critical_Hit\">: [[0.00%]]\nCritical Hit Damage<sprite name=\"Critical_Hit\">: [[0%]]"
+  },
+  {
+    "name": "Crushing Hit Tag Box Definition:details=False:base=False",
+    "text": "Crushing Hits<sprite name=\"Crushing_Hit\"> deal\nguaranteed Top End Damage.\nCrushing Hit Chance<Crushing>: [[0%]]"
+  },
+  {
+    "name": "Crushing Hit Tag Box Definition:details=False:base=True",
+    "text": "Crushing Hits<sprite name=\"Crushing_Hit\"> deal\nguaranteed Top End Damage.\nCrushing Hit Chance<Crushing>: [[0%]]"
+  },
+  {
+    "name": "Crushing Hit Tag Box Definition:details=True:base=False",
+    "text": "Crushing Hits<sprite name=\"Crushing_Hit\"> deal\nguaranteed Top End Damage.\nCrushing Hit Chance<Crushing>: [[0%]]"
+  },
+  {
+    "name": "Crushing Hit Tag Box Definition:details=True:base=True",
+    "text": "Crushing Hits<sprite name=\"Crushing_Hit\"> deal\nguaranteed Top End Damage.\nCrushing Hit Chance<Crushing>: [[0%]]"
+  },
+  {
+    "name": "Cursed Hit Tag Box Definition:details=False:base=False",
+    "text": "Cursed Hits<sprite name=\"Curse\"> have ((x0.50)) chance\nfor Hit Effects to happen.\nCursed Hit Chance<sprite name=\"Curse\">: 0%"
+  },
+  {
+    "name": "Cursed Hit Tag Box Definition:details=False:base=True",
+    "text": "Cursed Hits<sprite name=\"Curse\"> have ((x0.50)) chance\nfor Hit Effects to happen.\nCursed Hit Chance<sprite name=\"Curse\">: 0%"
+  },
+  {
+    "name": "Cursed Hit Tag Box Definition:details=True:base=False",
+    "text": "Cursed Hits<sprite name=\"Curse\"> have ((x0.50)) chance\nfor Hit Effects to happen.\nCursed Hit Chance<sprite name=\"Curse\">: 0%"
+  },
+  {
+    "name": "Cursed Hit Tag Box Definition:details=True:base=True",
+    "text": "Cursed Hits<sprite name=\"Curse\"> have ((x0.50)) chance\nfor Hit Effects to happen.\nCursed Hit Chance<sprite name=\"Curse\">: 0%"
+  },
+  {
+    "name": "Lethal Hit Tag Box Definition:details=False:base=False",
+    "text": "Lethal Hits<Lethal> deal\n[[x1.01]] Damage per 1% Health<Heart>\nthe target is missing."
+  },
+  {
+    "name": "Lethal Hit Tag Box Definition:details=False:base=True",
+    "text": "Lethal Hits<Lethal> deal\n[[x1.01]] Damage per 1% Health<Heart>\nthe target is missing."
+  },
+  {
+    "name": "Lethal Hit Tag Box Definition:details=True:base=False",
+    "text": "Lethal Hits<Lethal> deal\n[[x1.01]] Damage per 1% Health<Heart>\nthe target is missing."
+  },
+  {
+    "name": "Lethal Hit Tag Box Definition:details=True:base=True",
+    "text": "Lethal Hits<Lethal> deal\n[[x1.01]] Damage per 1% Health<Heart>\nthe target is missing."
+  },
+  {
+    "name": "Lucky Hit Tag Box Definition:details=False:base=False",
+    "text": "Lucky Hits<sprite name=\"Luck\"> have [[x2.00]] chance\nfor Hit Effects to happen.<color=#FFFFFF>\nLucky Hit Chance<sprite name=\"Luck\">: 0%</color>"
+  },
+  {
+    "name": "Lucky Hit Tag Box Definition:details=False:base=True",
+    "text": "Lucky Hits<sprite name=\"Luck\"> have [[x2.00]] chance\nfor Hit Effects to happen.<color=#FFFFFF>\nLucky Hit Chance<sprite name=\"Luck\">: 0%</color>"
+  },
+  {
+    "name": "Lucky Hit Tag Box Definition:details=True:base=False",
+    "text": "Lucky Hits<sprite name=\"Luck\"> have [[x2.00]] chance\nfor Hit Effects to happen.<color=#FFFFFF>\nLucky Hit Chance<sprite name=\"Luck\">: 0%</color>"
+  },
+  {
+    "name": "Lucky Hit Tag Box Definition:details=True:base=True",
+    "text": "Lucky Hits<sprite name=\"Luck\"> have [[x2.00]] chance\nfor Hit Effects to happen.<color=#FFFFFF>\nLucky Hit Chance<sprite name=\"Luck\">: 0%</color>"
+  },
+  {
+    "name": "Ruthless Hit Tag Box Definition:details=False:base=False",
+    "text": "Ruthless Hits<Ruthless> gain\n[[x2.00]] Top End Damage."
+  },
+  {
+    "name": "Ruthless Hit Tag Box Definition:details=False:base=True",
+    "text": "Ruthless Hits<Ruthless> gain\n[[x2.00]] Top End Damage."
+  },
+  {
+    "name": "Ruthless Hit Tag Box Definition:details=True:base=False",
+    "text": "Ruthless Hits<Ruthless> gain\n[[x2.00]] Top End Damage."
+  },
+  {
+    "name": "Ruthless Hit Tag Box Definition:details=True:base=True",
+    "text": "Ruthless Hits<Ruthless> gain\n[[x2.00]] Top End Damage."
+  },
+  {
+    "name": "Sneaky Hit Tag Box Definition:details=False:base=False",
+    "text": "Sneaky Hits<Cunning> have\n[[x2.00]] Critical Hit Damage<Crit>."
+  },
+  {
+    "name": "Sneaky Hit Tag Box Definition:details=False:base=True",
+    "text": "Sneaky Hits<Cunning> have\n[[x2.00]] Critical Hit Damage<Crit>."
+  },
+  {
+    "name": "Sneaky Hit Tag Box Definition:details=True:base=False",
+    "text": "Sneaky Hits<Cunning> have\n[[x2.00]] Critical Hit Damage<Crit>."
+  },
+  {
+    "name": "Sneaky Hit Tag Box Definition:details=True:base=True",
+    "text": "Sneaky Hits<Cunning> have\n[[x2.00]] Critical Hit Damage<Crit>."
+  },
+  {
+    "name": "Strength Pickup Tooltip:details=False:base=False",
+    "text": "(*)<color=#FF2666>Steaks</color> grant [[+1]] Strength.\n(*)<color=#FF2666>Meat Shanks</color> grant [[+3]] Strength."
+  },
+  {
+    "name": "Strength Pickup Tooltip:details=False:base=True",
+    "text": "(*)<color=#FF2666>Steaks</color> grant [[+1]] Strength.\n(*)<color=#FF2666>Meat Shanks</color> grant [[+3]] Strength."
+  },
+  {
+    "name": "Strength Pickup Tooltip:details=True:base=False",
+    "text": "(*)<color=#FF2666>Steaks</color> grant [[+1]] Strength.\n(*)<color=#FF2666>Meat Shanks</color> grant [[+3]] Strength."
+  },
+  {
+    "name": "Strength Pickup Tooltip:details=True:base=True",
+    "text": "(*)<color=#FF2666>Steaks</color> grant [[+1]] Strength.\n(*)<color=#FF2666>Meat Shanks</color> grant [[+3]] Strength."
+  },
+  {
+    "name": "Super Effective Tag Box Definition:details=False:base=False",
+    "text": "Most enemies have a damage type [[weakness]].\nSuper Effective<sprite name=\"Super_Effective\"> hits deal 50% more damage."
+  },
+  {
+    "name": "Super Effective Tag Box Definition:details=False:base=True",
+    "text": "Most enemies have a damage type [[weakness]].\nSuper Effective<sprite name=\"Super_Effective\"> hits deal 50% more damage."
+  },
+  {
+    "name": "Super Effective Tag Box Definition:details=True:base=False",
+    "text": "Most enemies have a damage type [[weakness]].\nSuper Effective<sprite name=\"Super_Effective\"> hits deal 50% more damage."
+  },
+  {
+    "name": "Super Effective Tag Box Definition:details=True:base=True",
+    "text": "Most enemies have a damage type [[weakness]].\nSuper Effective<sprite name=\"Super_Effective\"> hits deal 50% more damage."
+  },
+  {
+    "name": "Suppression Tag Box Definition:details=False:base=False",
+    "text": "(*)<i>Suppression<Suppression> prevents\none instance of taking damage but\nonly during Boss Fights.</i>\n(*)<i>Your Suppression<Suppression>\nrefreshes every Floor.</i>"
+  },
+  {
+    "name": "Suppression Tag Box Definition:details=False:base=True",
+    "text": "(*)<i>Suppression<Suppression> prevents\none instance of taking damage but\nonly during Boss Fights.</i>\n(*)<i>Your Suppression<Suppression>\nrefreshes every Floor.</i>"
+  },
+  {
+    "name": "Suppression Tag Box Definition:details=True:base=False",
+    "text": "(*)<i>Suppression<Suppression> prevents\none instance of taking damage but\nonly during Boss Fights.</i>\n(*)<i>Your Suppression<Suppression>\nrefreshes every Floor.</i>"
+  },
+  {
+    "name": "Suppression Tag Box Definition:details=True:base=True",
+    "text": "(*)<i>Suppression<Suppression> prevents\none instance of taking damage but\nonly during Boss Fights.</i>\n(*)<i>Your Suppression<Suppression>\nrefreshes every Floor.</i>"
+  },
+  {
+    "name": "Trait Stacking Tooltip:details=False:base=False",
+    "text": "This effect modifies\nother effects such as, e.g.:\n<g>\"per Intelligence Trait\nyou have, gain ...\"</g>."
+  },
+  {
+    "name": "Trait Stacking Tooltip:details=False:base=True",
+    "text": "This effect modifies\nother effects such as, e.g.:\n<g>\"per Intelligence Trait\nyou have, gain ...\"</g>."
+  },
+  {
+    "name": "Trait Stacking Tooltip:details=True:base=False",
+    "text": "This effect modifies\nother effects such as, e.g.:\n<g>\"per Intelligence Trait\nyou have, gain ...\"</g>."
+  },
+  {
+    "name": "Trait Stacking Tooltip:details=True:base=True",
+    "text": "This effect modifies\nother effects such as, e.g.:\n<g>\"per Intelligence Trait\nyou have, gain ...\"</g>."
+  },
+  {
+    "name": "Treasure Find Tag Box Definition:details=False:base=False",
+    "text": "Treasure Find<Treasure>\nChance for:\n<SubArrow>+1 Boss Reward\n<SubArrow>+1 Item in Chests\n<SubArrow>Maximum Reward Amount"
+  },
+  {
+    "name": "Treasure Find Tag Box Definition:details=False:base=True",
+    "text": "Treasure Find<Treasure>\nChance for:\n<SubArrow>+1 Boss Reward\n<SubArrow>+1 Item in Chests\n<SubArrow>Maximum Reward Amount"
+  },
+  {
+    "name": "Treasure Find Tag Box Definition:details=True:base=False",
+    "text": "Treasure Find<Treasure>\nChance for:\n<SubArrow>+1 Boss Reward\n<SubArrow>+1 Item in Chests\n<SubArrow>Maximum Reward Amount"
+  },
+  {
+    "name": "Treasure Find Tag Box Definition:details=True:base=True",
+    "text": "Treasure Find<Treasure>\nChance for:\n<SubArrow>+1 Boss Reward\n<SubArrow>+1 Item in Chests\n<SubArrow>Maximum Reward Amount"
+  },
+  {
+    "name": "Two-Handed Tooltip Definition:details=False:base=False",
+    "text": "All Two-Handed Weapons\ndeal[[x1.10]] damage."
+  },
+  {
+    "name": "Two-Handed Tooltip Definition:details=False:base=True",
+    "text": "All Two-Handed Weapons\ndeal[[x1.10]] damage."
+  },
+  {
+    "name": "Two-Handed Tooltip Definition:details=True:base=False",
+    "text": "All Two-Handed Weapons\ndeal[[x1.10]] damage."
+  },
+  {
+    "name": "Two-Handed Tooltip Definition:details=True:base=True",
+    "text": "All Two-Handed Weapons\ndeal[[x1.10]] damage."
+  },
+  {
+    "name": "capture:0",
+    "text": "<color=#00E61A>Equip Load Penalties:\n</color><color=#8CFFFA><SubArrow>Movement Speed\n</color><color=#8CFFFA><SubArrow>Dash Length\n</color><color=#6BBD30><SubArrow>Stam. Rec. Speed<Stamina>\n</color><color=#26B0FF><SubArrow>Mana Rec.<Mana>\n</color><color=#FCC926>[Select]</color><ArrowWhite>Check Details"
+  },
+  {
+    "name": "capture:4",
+    "text": "<color=#FF4A00>Equip Load Penalties:\n</color><color=#8CFFFA><SubArrow>Movement Speed\n</color><color=#8CFFFA><SubArrow>Dash Length\n</color><color=#6BBD30><SubArrow>Stam. Rec. Speed<Stamina>\n</color><color=#26B0FF><SubArrow>Mana Rec.<Mana>\n</color><color=#FCC926>[Select]</color><ArrowWhite>Check Details"
+  },
+  {
+    "name": "capture:13",
+    "text": "+1 LAWFUL<sprite name=\"Lawful\">"
+  }
+]

@@ -359,7 +359,9 @@ public sealed class CharacterPanelProbe : MonoBehaviour
             writer.Write(",\"alpha\":"); writer.Write(EffectiveAlpha(text).ToString(System.Globalization.CultureInfo.InvariantCulture));
             writer.Write(",\"identity\":\""); writer.Write(Escape(Identity(text.transform))); writer.Write("\"");
             writer.Write(",\"text\":\""); writer.Write(Escape(text.text ?? ""));
-            writer.WriteLine("\"}");
+            writer.Write("\",\"geometry\":");
+            writer.Write(text.gameObject.activeInHierarchy && EffectiveAlpha(text) > .01f && !string.IsNullOrEmpty(text.text) ? NativeTextGeometry.Capture(text) : "null");
+            writer.WriteLine("}");
         }
         writer.Flush();
     }

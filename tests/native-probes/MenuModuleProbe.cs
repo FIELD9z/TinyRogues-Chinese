@@ -236,7 +236,9 @@ public sealed class MenuModuleProbe : MonoBehaviour
             writer.Write(",\"alpha\":"); writer.Write(alpha);
             writer.Write(",\"identity\":\""); writer.Write(Escape(Identity(text.transform)));
             writer.Write("\",\"text\":\""); writer.Write(Escape(content));
-            writer.WriteLine("\"}");
+            writer.Write("\",\"geometry\":");
+            writer.Write(text.gameObject.activeInHierarchy && EffectiveAlpha(text) > .01f && !string.IsNullOrEmpty(text.text) ? NativeTextGeometry.Capture(text) : "null");
+            writer.WriteLine("}");
         }
     }
 

@@ -84,7 +84,7 @@ internal static class Adapters
             Patch(method, nameof(AfterText), true);
         // Serialized prefab labels need one pass when enabled; no periodic text scanning.
         Patch(AccessTools.Method(typeof(TextMeshProUGUI), "OnEnable"), nameof(AfterText), true);
-        Patches.Patch(AccessTools.Method(typeof(TextMeshProUGUI), "GenerateTextMesh"), postfix: new HarmonyMethod(typeof(ChineseLayout), nameof(ChineseLayout.AfterMesh)));
+        Patches.Patch(AccessTools.Method(typeof(TextMeshProUGUI), "GenerateTextMesh"), prefix: new HarmonyMethod(typeof(ChineseLayout), nameof(ChineseLayout.BeforeMesh)), postfix: new HarmonyMethod(typeof(ChineseLayout), nameof(ChineseLayout.AfterMesh)));
         Patches.Patch(AccessTools.PropertyGetter(typeof(TMP_Text), "preferredHeight"), postfix: new HarmonyMethod(typeof(ChineseLayout), nameof(ChineseLayout.PreferredHeight)));
         Patches.Patch(AccessTools.Method(typeof(TextMeshProUGUI), "OnDestroy"), postfix: new HarmonyMethod(typeof(ChineseLayout), nameof(ChineseLayout.Destroyed)));
         // TextMeshProxy performs semantic coloring and icon expansion before this return value.

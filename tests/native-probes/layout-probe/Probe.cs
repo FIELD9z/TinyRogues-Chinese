@@ -40,6 +40,8 @@ public sealed class LayoutProbe : MonoBehaviour
     private object? _plugin, _catalog;
     private UI.Text.World_Text_Boxes.TextBox? _box;
     private CorpusScan? _corpus;
+    private RelatedRun? _related;
+    private PanelRun? _panels;
     public LayoutProbe(IntPtr p):base(p){}
     private void Awake(){_start=Time.realtimeSinceStartup;File.WriteAllText(Path.Combine(LayoutPlugin.Root,"layout.jsonl"),"");}
     private void Update()
@@ -50,6 +52,20 @@ public sealed class LayoutProbe : MonoBehaviour
             if(Time.realtimeSinceStartup-_start>240)throw new Exception("Layout probe timed out");
             var c=DialogueSystemController.Instance;
             if(c==null || c.text==null || Time.realtimeSinceStartup-_start<5)return;
+            if(Environment.GetCommandLineArgs().Contains("-tinyrogues-layout-inventory"))
+            {
+                RelatedScan.Inventory();_done=true;Application.Quit();return;
+            }
+            if(Environment.GetCommandLineArgs().Contains("-tinyrogues-related-layout"))
+            {
+                if(_related==null)_related=new RelatedRun();
+                if(_related.Step()){_done=true;Application.Quit();}return;
+            }
+            if(Environment.GetCommandLineArgs().Contains("-tinyrogues-panel-layout"))
+            {
+                if(_panels==null)_panels=new PanelRun();
+                if(_panels.Step()){_done=true;Application.Quit();}return;
+            }
             if(Environment.GetCommandLineArgs().Contains("-tinyrogues-layout-corpus"))
             {
                 if(_corpus==null)_corpus=new CorpusScan();
@@ -79,7 +95,7 @@ public sealed class LayoutProbe : MonoBehaviour
                 if(label!=c.text && label!=c.choiceA && label!=c.choiceB && label.gameObject.activeInHierarchy)Capture(label,"other");
             ScreenCapture.CaptureScreenshot(Path.Combine(LayoutPlugin.Root,"layout-"+_phase+".png"));
             RenderOffscreen(_box!=null?_box.GetComponentInParent<Canvas>():c.text.GetComponentInParent<Canvas>());
-            RenderGlyphs(_box!=null?_box.GetComponentsInChildren<TextMeshProUGUI>(true):c.GetComponentsInChildren<TextMeshProUGUI>(true));
+            RenderGlyphs(_box!=null?_box.GetComponentsInChildren<TextMeshProUGUI>(true):c.GetComponentsInChildren<TextMeshProUGUI>(true),"glyphs-"+_phase+".png");
             _captured=true;
         }
         catch(Exception e){File.AppendAllText(Path.Combine(LayoutPlugin.Root,"layout-error.txt"),e.ToString());_done=true;Application.Quit(2);}
@@ -132,25 +148,31 @@ public sealed class LayoutProbe : MonoBehaviour
     }
     private static string Q(string s){using var m=new MemoryStream();new DataContractJsonSerializer(typeof(string)).WriteObject(m,s??"");return Encoding.UTF8.GetString(m.ToArray());}
     [Il2CppInterop.Runtime.Attributes.HideFromIl2Cpp]
-    private void RenderGlyphs(Il2CppInterop.Runtime.InteropTypes.Arrays.Il2CppArrayBase<TextMeshProUGUI> labels)
+    internal static void RenderGlyphs(Il2CppInterop.Runtime.InteropTypes.Arrays.Il2CppArrayBase<TextMeshProUGUI> labels,string filename)
     {
         var objects=new List<GameObject>();var materials=new List<Material>();
+        var meshes=new List<Mesh>();
         var points=new List<Vector3>();
-        void Add(Mesh mesh,Material original,Transform transform)
+        void Add(Mesh source,Material original,Transform transform,int activeVertices,int[] triangles)
         {
-            if(mesh==null||mesh.vertexCount==0||original==null)return;
+            if(source==null||activeVertices==0||original==null)return;
+            var mesh=UnityEngine.Object.Instantiate((UnityEngine.Object)source).Cast<Mesh>();
+            mesh.triangles=triangles;meshes.Add(mesh);
             var obj=new GameObject("Captured native glyph mesh");obj.layer=31;
             obj.transform.position=transform.position;obj.transform.rotation=transform.rotation;obj.transform.localScale=transform.lossyScale;
             obj.AddComponent<MeshFilter>().sharedMesh=mesh;
             var material=new Material(original);material.DisableKeyword("UNITY_UI_CLIP_RECT");material.SetFloat("_StencilComp",8);material.SetFloat("_Stencil",0);material.SetFloat("_CullMode",0);material.SetFloat("unity_GUIZTestMode",8);
             obj.AddComponent<MeshRenderer>().sharedMaterial=material;objects.Add(obj);materials.Add(material);
-            foreach(var p in mesh.vertices)if(p!=Vector3.zero)points.Add(transform.TransformPoint(p));
+            foreach(var p in mesh.vertices.Take(activeVertices))if(p!=Vector3.zero)points.Add(transform.TransformPoint(p));
         }
         foreach(var label in labels)
         {
             if(!label.gameObject.activeInHierarchy||string.IsNullOrEmpty(label.text))continue;
-            Add(label.mesh,label.fontSharedMaterial,label.transform);
-            foreach(var sub in label.GetComponentsInChildren<TMP_SubMeshUI>(true))Add(sub.mesh,sub.sharedMaterial,sub.transform);
+            for(var i=0;i<label.textInfo.materialCount;i++)
+            {
+                var info=label.textInfo.meshInfo[i];
+                Add(info.mesh,info.material,label.transform,info.vertexCount,info.triangles.Take(info.vertexCount/4*6).ToArray());
+            }
         }
         if(points.Count==0)return;
         var minX=points.Min(p=>p.x);var maxX=points.Max(p=>p.x);var minY=points.Min(p=>p.y);var maxY=points.Max(p=>p.y);
@@ -160,9 +182,10 @@ public sealed class LayoutProbe : MonoBehaviour
         camera.nearClipPlane=.1f;camera.farClipPlane=1000;camera.cullingMask=1<<31;camera.clearFlags=CameraClearFlags.SolidColor;camera.backgroundColor=new Color(.04f,.04f,.055f,1);
         var rt=new RenderTexture(1920,1080,24);rt.Create();camera.targetTexture=rt;var old=RenderTexture.active;
         camera.Render();RenderTexture.active=rt;var png=new Texture2D(1920,1080,TextureFormat.RGBA32,false);png.ReadPixels(new Rect(0,0,1920,1080),0,0);png.Apply();
-        File.WriteAllBytes(Path.Combine(LayoutPlugin.Root,"glyphs-"+_phase+".png"),ImageConversion.EncodeToPNG(png));
+        File.WriteAllBytes(Path.Combine(LayoutPlugin.Root,filename),ImageConversion.EncodeToPNG(png));
         RenderTexture.active=old;camera.targetTexture=null;rt.Release();UnityEngine.Object.Destroy(rt);UnityEngine.Object.Destroy(png);UnityEngine.Object.Destroy(camObj);
         foreach(var obj in objects)UnityEngine.Object.Destroy(obj);foreach(var mat in materials)UnityEngine.Object.Destroy(mat);
+        foreach(var mesh in meshes)UnityEngine.Object.Destroy(mesh);
     }
     private void RenderOffscreen(Canvas canvas)
     {

@@ -187,6 +187,17 @@ public sealed class CompiledEntry
             {
                 if (run.Value.StartsWith("<", StringComparison.Ordinal)) return run.Value;
                 if (emitted) return "";
+                // Native bullet markup is "•<indent=...>prose". Keep its
+                // standalone bullet before the indent and emit prose after it;
+                // emitting the whole literal at the bullet makes TMP reset the
+                // following numeric token backwards over the translated words.
+                if (literal.StartsWith(run.Value, StringComparison.Ordinal)
+                    && Regex.IsMatch(run.Value, @"\A\s*•\s*\z")
+                    && original.Contains("<indent="))
+                {
+                    literal = literal.Substring(run.Value.Length);
+                    return run.Value;
+                }
                 emitted = true; return literal;
             }));
             if (!emitted) output.Append(literal);

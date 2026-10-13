@@ -1,0 +1,599 @@
+[
+  {
+    "source": "Random Skill",
+    "expected": "随机技能"
+  },
+  {
+    "source": "You gain a random <color=#A61FFF>Skill</color>.",
+    "expected": "你会随机获得一个<color=#A61FFF>技能</color>。"
+  },
+  {
+    "source": "Tiny Rogues Version 0.2.8.6",
+    "expected": "Tiny Rogues 版本 0.2.8.6"
+  },
+  {
+    "source": "You are on Beta.",
+    "expected": "你正在使用测试版。"
+  },
+  {
+    "source": "Enjoy! :^)",
+    "expected": "祝你玩得开心！ :^)"
+  },
+  {
+    "source": "OH NO!",
+    "expected": "糟了！"
+  },
+  {
+    "source": "CURSE",
+    "expected": "诅咒"
+  },
+  {
+    "source": "<color=#FF0000>Attention!</color>",
+    "expected": "<color=#FF0000>注意！</color>"
+  },
+  {
+    "source": "It seems you have been <color=#3B3B7A>Cursed</color><sprite name=\"Curse\">!",
+    "expected": "你似乎受到了<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">！"
+  },
+  {
+    "source": "<color=#3B3B7A>Curse</color><sprite name=\"Curse\"> grants <color=#3B3B7A>Cursed Hit Chance</color><sprite name=\"Curse\">. By default,\n<color=#3B3B7A>Cursed Hits</color><sprite name=\"Curse\"> have <color=red>x0.50</color> chance for <color=#A61FFF>Hit</color> Effects to happen.\n<color=#3B3B7A>Curse</color><sprite name=\"Curse\"> can also downgrade Room Rewards, spawn <color=#8000FF>Reapers</color>,\nmake <color=#A61FFF>Weapons</color> have bad Enchantments, maximize Shop Prices and much more.\nYou can use Purging Stones do dispel a stack of <color=#3B3B7A>Curse</color><sprite name=\"Curse\">.",
+    "expected": "<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">会赋予<color=#3B3B7A>诅咒命中几率</color><sprite name=\"Curse\">。默认情况下，\n<color=#3B3B7A>诅咒命中</color><sprite name=\"Curse\">以原本<color=red>x0.50</color>的几率触发<color=#A61FFF>命中</color>效果。\n<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">还会降低房间奖励品质、召唤<color=#8000FF>收割者</color>，\n使<color=#A61FFF>武器</color>获得负面附魔、令商店价格达到最高等。\n你可以使用净化石来移除一层<color=#3B3B7A>诅咒</color><sprite name=\"Curse\">。"
+  },
+  {
+    "source": "<color=#FF2666><color=#FF2666>Strength</color></color>: <color=#FF2666>?</color>\n<color=#26FF66><color=#26FF66>Dexterity</color></color>: <color=#26FF66>?</color>\n<color=#26B0FF><color=#26B0FF>Intelligence</color></color>: <color=#26B0FF>?</color>",
+    "expected": "<color=#FF2666><color=#FF2666>力量</color></color>: <color=#FF2666>?</color>\n<color=#26FF66><color=#26FF66>敏捷</color></color>: <color=#26FF66>?</color>\n<color=#26B0FF><color=#26B0FF>智力</color></color>: <color=#26B0FF>?</color>",
+    "context": "*"
+  },
+  {
+    "source": "ADAPTABILITY",
+    "expected": "适应性",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "ALL IN",
+    "expected": "孤注一掷",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "备用军械库",
+    "expected": "备用军械库",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "BARGAIN HUNTER",
+    "expected": "砍价高手",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "BULK SELLER",
+    "expected": "批量销售",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "BUNKING UP",
+    "expected": "借宿",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "BUTTERFLY EFFECT",
+    "expected": "蝴蝶效应",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "CALL TO ADVENTURE",
+    "expected": "冒险召唤",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "CATHARSIS",
+    "expected": "净化心灵",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "COMPROMISED LOOT",
+    "expected": "妥协的战利品",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "DEDICATION",
+    "expected": "专注",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "DEEP SEA CONTRABAND",
+    "expected": "深海走私",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "DEFLATION",
+    "expected": "通货紧缩",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "DEMAND AND SUPPLY",
+    "expected": "需求与供给",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "DOUBLE TROUBLE",
+    "expected": "双重麻烦",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "DRINKING ON THE DOT",
+    "expected": "准点饮酒",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "ENIGMATIC",
+    "expected": "神秘莫测",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "ETHEREAL ROULETTE",
+    "expected": "虚灵轮盘",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "EVERGREEN",
+    "expected": "常青",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "EXPLOSIVE DELIVERY",
+    "expected": "爆炸快递",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "FAITH",
+    "expected": "信仰",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "FAREWELL DRINK",
+    "expected": "饯行酒",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "FIRST AID",
+    "expected": "急救",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "FISHING CLUB",
+    "expected": "钓鱼俱乐部",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "FORBIDDEN MAGIC",
+    "expected": "禁忌魔法",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "FREEDOM",
+    "expected": "自由",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "FRIEND OF NATURE",
+    "expected": "自然之友",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "FRIENDSHIP QUEST",
+    "expected": "友谊任务",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "GOLDEN ROULETTE",
+    "expected": "黄金轮盘",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "HAPPY HOUR",
+    "expected": "欢乐时光",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "HEAD START",
+    "expected": "抢先起步",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "HEALTH INSURANCE",
+    "expected": "医疗保险",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "HEART SEEKER",
+    "expected": "寻心者",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "HIGH ROLLER",
+    "expected": "豪赌客",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "HIGH STAKES",
+    "expected": "高额赌注",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "HOLY DEVOTION",
+    "expected": "神圣奉献",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "HOPE",
+    "expected": "希望",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "最后关头",
+    "expected": "最后关头",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "INFLATION",
+    "expected": "通货膨胀",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "LABYRINTH OF FATE",
+    "expected": "命运迷宫",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "LAZY STROLL",
+    "expected": "悠闲漫步",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "LEFT TO FATE",
+    "expected": "听天由命",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "LOSS LEADER",
+    "expected": "亏本引流",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "LOST GOODS",
+    "expected": "遗失货物",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "LOYALTY",
+    "expected": "忠诚",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "幸运开局",
+    "expected": "幸运开局",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "MAGNUM OPUS",
+    "expected": "旷世杰作",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "MIXED BAG",
+    "expected": "混合福袋",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "MONEY AT THE SPOT",
+    "expected": "就地变现",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "ODYSSEY",
+    "expected": "奥德赛",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "OPENING MOVE",
+    "expected": "起手式",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "Pandora's Boxes",
+    "expected": "潘多拉魔盒",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "PAY TO WIN",
+    "expected": "氪金取胜",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "PERFECTIONIST",
+    "expected": "完美主义者",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "PERSEVERANCE",
+    "expected": "坚持不懈",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "PERSONAL AGENCY",
+    "expected": "自主意志",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "PITY",
+    "expected": "怜悯",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "PLAYTIME",
+    "expected": "游乐时光",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "PRECOGNITION",
+    "expected": "预知",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "PRODIGY",
+    "expected": "神童",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "PROSPERITY",
+    "expected": "繁荣",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "QUICK RECOVERY",
+    "expected": "快速恢复",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "RAINY DAY FUND",
+    "expected": "未雨绸缪",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "READY TO GO",
+    "expected": "整装待发",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "REBIRTH",
+    "expected": "重生",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "RED ROULETTE",
+    "expected": "红色轮盘",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "REPAIR EVERY SLOT",
+    "expected": "修遍全身",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "REPERCUSSIONS",
+    "expected": "因果回响",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "RISE OR FALL",
+    "expected": "起落之间",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "ROYAL DESCENT",
+    "expected": "王室血统",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SAFE BET",
+    "expected": "稳妥下注",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SECRET SERVICE",
+    "expected": "秘密服务",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SHORTCUT",
+    "expected": "捷径",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SILENT NIGHT",
+    "expected": "平安夜",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SKIRMISHER",
+    "expected": "游击者",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SLEIGHT",
+    "expected": "巧手",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SLOW AND STEADY",
+    "expected": "稳扎稳打",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SMASH AND GRAB",
+    "expected": "打砸抢",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SMUGGLER NOOK",
+    "expected": "走私者角落",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SPEED",
+    "expected": "速度",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SPOILED FOR CHOICE",
+    "expected": "眼花缭乱",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "STAMINA SCOUT",
+    "expected": "体力侦察员",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "STEADY TO GO",
+    "expected": "稳步前进",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "STRONG FOUNDATION",
+    "expected": "坚实基础",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SUIT UP",
+    "expected": "披挂上阵",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SUPERNATURAL AID",
+    "expected": "超自然援助",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SUPERSTITIONS",
+    "expected": "迷信",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SUPPLY AND DEMAND",
+    "expected": "供给与需求",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "SYMPATHY",
+    "expected": "同情",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "TAKE THIS",
+    "expected": "拿着这个",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "THE GLASS IS HALF EMPTY",
+    "expected": "杯中半空",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "THE GLASS IS HALF FULL",
+    "expected": "杯中半满",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "THE KEY TO SUCCESS",
+    "expected": "成功的钥匙",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "THIEF IN THE SHADOWS",
+    "expected": "暗影盗贼",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "THRONE QUEST",
+    "expected": "王座任务",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "TREASURE HUNTER",
+    "expected": "寻宝猎人",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "TRUST ISSUES",
+    "expected": "信任危机",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "TWILIGHT FALL",
+    "expected": "暮光降临",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "VANITY",
+    "expected": "虚荣",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "VIGOR",
+    "expected": "活力",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "WEAVE THE ARCANE",
+    "expected": "编织奥术",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "WELL ROUNDED BEAST",
+    "expected": "全面成长",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "WILD CARD",
+    "expected": "万能牌",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "WILDLIFE TRAFFICKING",
+    "expected": "野生动物走私",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "WINDOW SHOPPER",
+    "expected": "橱窗购物者",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "WORLD OF HURT",
+    "expected": "苦痛世界",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "WORTH OF A SOUL",
+    "expected": "灵魂价值",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "WRANGLER",
+    "expected": "驯兽师",
+    "context": "ui:Meta Tree Canvas/Tooltip Box/Tooltip Title (TMP)"
+  },
+  {
+    "source": "You have been inflicted with \"<color=#78462F><color=#78462F>死亡迫近</color></color>\".",
+    "expected": "你受到了“<color=#78462F><color=#78462F>死亡迫近</color></color>”的影响。"
+  },
+  {
+    "source": "You have been inflicted with \"<color=#7C8A91><color=#7C8A91>石化</color></color>\".",
+    "expected": "你受到了“<color=#7C8A91><color=#7C8A91>石化</color></color>”的影响。"
+  },
+  {
+    "source": "You have been inflicted with \"<color=#018606><color=#018606>中毒</color></color>\".",
+    "expected": "你受到了“<color=#018606><color=#018606>中毒</color></color>”的影响。"
+  }
+]
